@@ -1565,15 +1565,15 @@
           },
           {
             "question_id": 2,
-            "question": "Sunlight reaches best near the…",
+            "question": "Why is the deep ocean so dark?",
             "options": [
-              "Surface",
-              "Deepest bottom",
-              "Inside fish"
+              "Sunlight cannot reach it",
+              "The water is painted black",
+              "Fish turn off the lights"
             ],
-            "correct_answer": "Surface",
-            "fact_feedback_correct": "Yes! Sunlight is strongest near the ocean surface.",
-            "fact_feedback_incorrect": "You missed the fact: Sunlight is strongest near the surface, not the deepest bottom."
+            "correct_answer": "Sunlight cannot reach it",
+            "fact_feedback_correct": "Yes! Sunlight fades as the water gets deeper, so the deep ocean stays very dark.",
+            "fact_feedback_incorrect": "You missed the fact: Sunlight cannot reach the deep ocean, so it stays dark."
           },
           {
             "question_id": 3,

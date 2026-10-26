@@ -401,7 +401,7 @@
           },
           {
             "page_number": 4,
-            "text": "When Earth turns away from the Sun, it becomes nighttime. The sky grows dark and calm.",
+            "text": "As Earth keeps spinning, your side slowly turns away from the Sun. Night begins, and the Moon and stars come out.",
             "image_prompt": "Flat pastel illustration of Earth half in shadow with stars and Moon, peaceful night mood. 1:1 aspect ratio."
           },
           {
@@ -873,15 +873,15 @@
           },
           {
             "question_id": 6,
-            "question": "What keeps the Moon near Earth?",
+            "question": "Does gravity work out in space too?",
             "options": [
-              "Gravity",
-              "Ropes",
-              "Wind"
+              "Yes, it works in space too",
+              "No, only on Earth",
+              "Only on rainy days"
             ],
-            "correct_answer": "Gravity",
-            "fact_feedback_correct": "Right! Gravity keeps the Moon close to Earth.",
-            "fact_feedback_incorrect": "You missed the fact: Gravity holds the Moon near Earth."
+            "correct_answer": "Yes, it works in space too",
+            "fact_feedback_correct": "Correct! Gravity works in space too. Earth’s gravity pulls the Moon and keeps it close.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity works in space too, and it keeps the Moon close to Earth."
           },
           {
             "question_id": 7,

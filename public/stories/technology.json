@@ -1029,15 +1029,15 @@
           },
           {
             "question_id": 4,
-            "question": "Wi‑Fi helps devices connect…",
+            "question": "What sends Wi‑Fi signals so data can move nearby?",
             "options": [
-              "Without wires",
-              "Only underwater",
-              "Only at night"
+              "A router",
+              "A toaster",
+              "A pencil"
             ],
-            "correct_answer": "Without wires",
-            "fact_feedback_correct": "Right! Wi‑Fi lets devices connect without cords.",
-            "fact_feedback_incorrect": "You missed the fact: Wi‑Fi connects devices without wires."
+            "correct_answer": "A router",
+            "fact_feedback_correct": "Right! A router sends signals so nearby devices can share data.",
+            "fact_feedback_incorrect": "You missed the fact: A router sends the Wi‑Fi signals."
           },
           {
             "question_id": 5,

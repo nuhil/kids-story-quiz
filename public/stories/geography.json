@@ -510,15 +510,15 @@
           },
           {
             "question_id": 7,
-            "question": "Camels have wide feet to…",
+            "question": "Which animal walks across Sunny’s sandy land?",
             "options": [
-              "Walk on sand",
-              "Climb trees",
-              "Swim in oceans"
+              "Camels",
+              "Penguins",
+              "Dolphins"
             ],
-            "correct_answer": "Walk on sand",
-            "fact_feedback_correct": "Correct! Wide feet help camels walk on soft sand.",
-            "fact_feedback_incorrect": "You missed the fact: Camel feet help them walk on sand."
+            "correct_answer": "Camels",
+            "fact_feedback_correct": "Yes! Camels are desert animals that walk easily across soft sand.",
+            "fact_feedback_incorrect": "You missed the fact: Camels walk across deserts like Sunny."
           },
           {
             "question_id": 8,
