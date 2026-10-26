@@ -6,6 +6,7 @@
       {
         "story_id": "culture_01",
         "title": "Hello Around the World",
+        "teaser": "Mila opens a giant world map and wonders: how do children everywhere say hello? Her friends have some surprising answers, with words and without them. How many new hellos will you learn?",
         "learning_objectives": [
           "People greet each other in many languages.",
           "Hola means hello in Spanish.",
@@ -131,6 +132,7 @@
       {
         "story_id": "culture_02",
         "title": "Lights of Celebration",
+        "teaser": "One evening, Mila finds the streets glowing with tiny lights: lamps, lanterns and candles everywhere. Every light is part of a different celebration. What do they all mean?",
         "learning_objectives": [
           "Many cultures use lights in celebrations.",
           "Lamps, lanterns, and candles can mean hope.",
@@ -256,6 +258,7 @@
       {
         "story_id": "culture_03",
         "title": "Music from Many Places",
+        "teaser": "Boom, boom, boom! A drum in the park makes Mila’s feet start tapping. Soon flutes, violins and bigger drums join in, played by people from all over the world. What makes everyone dance together?",
         "learning_objectives": [
           "Cultures use many different musical instruments.",
           "Rhythm is a repeated beat in music.",
@@ -381,6 +384,7 @@
       {
         "story_id": "culture_04",
         "title": "Clothes for Weather and Special Days",
+        "teaser": "Mila’s closet is full of choices, from sunny-day clothes to raincoats and boots. But at the community festival, she sees outfits that tell stories. What can clothes tell us about people?",
         "learning_objectives": [
           "People choose clothes for weather and comfort.",
           "Cold weather needs warm layers.",
@@ -506,6 +510,7 @@
       {
         "story_id": "culture_05",
         "title": "Homes Around the World",
+        "teaser": "Some homes are tall towers, some sit on stilts above the water, and some are round to stand up to the wind. Mila discovers homes are built in all kinds of clever ways. Why are they all so different?",
         "learning_objectives": [
           "People live in many types of homes.",
           "Homes are built to fit climate and place.",
@@ -631,6 +636,7 @@
       {
         "story_id": "culture_06",
         "title": "Foods from Many Kitchens",
+        "teaser": "Mila visits a food fair where every table shares a family meal from a different kitchen. There are new smells, new tastes, and new ways of eating. Will she be brave enough to try something new?",
         "learning_objectives": [
           "Different cultures cook different meals.",
           "Staple foods include rice, wheat, and corn.",
@@ -756,6 +762,7 @@
       {
         "story_id": "culture_07",
         "title": "Family Traditions Big and Small",
+        "teaser": "Pancakes every Sunday, a special song at bedtime, a tree planted on every birthday: every family has its own little traditions. What are Mila’s, and what might yours be?",
         "learning_objectives": [
           "A tradition is something families repeat over time.",
           "Traditions can happen daily, weekly, or yearly.",
@@ -881,6 +888,7 @@
       {
         "story_id": "culture_08",
         "title": "Market Day Around the World",
+        "teaser": "It’s market day! Colorful stands, fresh bread, the morning’s catch, and cheerful voices fill the air. Mila discovers a market is about much more than shopping. What else happens there?",
         "learning_objectives": [
           "Markets are places where people buy and sell goods.",
           "Many markets offer local foods and handmade items.",
@@ -1006,6 +1014,7 @@
       {
         "story_id": "culture_09",
         "title": "Stories That Travel",
+        "teaser": "At sunset, Grandpa tells Mila a story about a clever rabbit and a patient turtle. But the same story is told a little differently in other places! How do stories travel around the world?",
         "learning_objectives": [
           "Folktales are stories shared across generations.",
           "Folktales often teach values like kindness and courage.",
@@ -1131,6 +1140,7 @@
       {
         "story_id": "culture_10",
         "title": "Manners That Show Respect",
+        "teaser": "Mila has a busy day of school, snacks, art and visits, full of small chances to be kind. Little words and actions can make a big difference. Which magic words will she use?",
         "learning_objectives": [
           "Manners are actions that show care and respect.",
           "Please and Thank you are important polite words.",

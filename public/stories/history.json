@@ -6,6 +6,7 @@
       {
         "story_id": "history_01",
         "title": "The First People Long Ago",
+        "teaser": "Imagine a world with no houses, no shops, and no roads, just open skies, wild animals and tall trees. That’s where the very first people lived. How did they stay warm, safe, and fed?",
         "learning_objectives": [
           "Early humans lived thousands of years ago",
           "Early humans used simple stone tools",
@@ -191,6 +192,7 @@
       {
         "story_id": "history_02",
         "title": "When Humans Learned to Farm",
+        "teaser": "For a very long time, people wandered from place to place looking for food. Then someone noticed something special about seeds dropped on the ground. How did that one idea change everything?",
         "learning_objectives": [
           "Farming began thousands of years ago",
           "People learned to grow crops",
@@ -376,6 +378,7 @@
       {
         "story_id": "history_03",
         "title": "Great Builders of the Ancient World",
+        "teaser": "Long ago, people built giant pyramids, a wall that winds over mountains, and roads that ran across whole countries, all without modern machines! How did they do it?",
         "learning_objectives": [
           "Ancient civilizations built large structures",
           "The pyramids were built in Egypt",
@@ -561,6 +564,7 @@
       {
         "story_id": "history_04",
         "title": "How Writing Began",
+        "teaser": "Long before notebooks and books, people shared their ideas by drawing on cave walls. How did those pictures slowly turn into the letters you are reading right now?",
         "learning_objectives": [
           "Early humans made cave drawings",
           "Writing began with symbols and pictures",
@@ -746,6 +750,7 @@
       {
         "story_id": "history_05",
         "title": "Ships That Crossed the Seas",
+        "teaser": "Long before airplanes, brave sailors crossed giant oceans in wooden ships, with only the wind to push them. With no maps on a phone, how did they find their way across the sea?",
         "learning_objectives": [
           "People have traveled by sea for thousands of years",
           "Early sailors used stars to navigate",
@@ -931,6 +936,7 @@
       {
         "story_id": "history_06",
         "title": "The Age of Big Inventions",
+        "teaser": "Imagine copying every book by hand, or lighting your home with only candles! A few brilliant inventions changed all that. Which ones made the biggest difference?",
         "learning_objectives": [
           "Inventions change how people live",
           "The printing press helped spread books",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "history_07",
         "title": "How Transportation Changed",
+        "teaser": "Long ago, if you wanted to visit a faraway town, you had to walk all the way there! Then animals, trains, cars and airplanes came along. How did each one change the way we travel?",
         "learning_objectives": [
           "People once traveled mostly by foot or animals",
           "Carts and wagons were pulled by horses",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "history_08",
         "title": "How Communication Changed",
+        "teaser": "Long ago, a letter to a faraway friend could take months to arrive. Today, a message zooms around the world in seconds! What happened in between?",
         "learning_objectives": [
           "People once sent messages by hand-delivered letters",
           "The telegraph sent messages using electrical signals",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "history_09",
         "title": "Ancient Games and Sports",
+        "teaser": "More than two thousand years ago, athletes gathered in Greece for a very special contest. The winners didn’t get gold medals. So what did they win?",
         "learning_objectives": [
           "Ancient civilizations played organized games",
           "The Olympic Games began in ancient Greece",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "history_10",
         "title": "The Story of Money and Trade",
+        "teaser": "Long ago, if you wanted some apples, you might have to trade a clay pot for them! How did people go from swapping things to tapping a card or a phone to pay?",
         "learning_objectives": [
           "Early people traded goods without money (barter)",
           "Coins were created to make trade easier",

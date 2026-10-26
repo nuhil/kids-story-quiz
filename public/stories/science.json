@@ -6,6 +6,7 @@
       {
         "story_id": "science_01",
         "title": "What Is Gravity?",
+        "teaser": "Drop a ball and it falls down every time, never up! Something invisible is pulling on everything around you, even the raindrops. What is this mysterious force, and what would happen without it?",
         "learning_objectives": [
           "Gravity is a force that pulls things down",
           "Gravity keeps us on the ground",
@@ -191,6 +192,7 @@
       {
         "story_id": "science_02",
         "title": "How Plants Grow",
+        "teaser": "Every giant tree and tall sunflower started out as something tiny enough to hold in your hand. It waited quietly in the soil for just the right moment. What does a little seed need to wake up and grow?",
         "learning_objectives": [
           "Plants begin as seeds",
           "Seeds need water and warmth to start growing",
@@ -376,6 +378,7 @@
       {
         "story_id": "science_03",
         "title": "Human Body Basics",
+        "teaser": "Right now, a whole team is working inside you, even while you sleep! One part thinks, one part pumps, and one part breathes. Want to meet the amazing team that keeps you going?",
         "learning_objectives": [
           "The brain helps us think and learn",
           "The heart pumps blood through the body",
@@ -561,6 +564,7 @@
       {
         "story_id": "science_04",
         "title": "What Are Magnets?",
+        "teaser": "Some things stick to the fridge as if by magic, and some push each other away no matter how hard you try. There’s an invisible force at work. Can you guess which ends pull together?",
         "learning_objectives": [
           "Magnets can pull certain metals",
           "Magnets have two ends called poles",
@@ -746,6 +750,7 @@
       {
         "story_id": "science_05",
         "title": "States of Matter",
+        "teaser": "A rock, a glass of water, and the air you breathe all seem completely different. But they are all made of the same thing, just in different forms! What are the three shapes that stuff can take?",
         "learning_objectives": [
           "Everything around us is made of matter",
           "Matter can be solid, liquid, or gas",
@@ -931,6 +936,7 @@
       {
         "story_id": "science_06",
         "title": "The Water Cycle",
+        "teaser": "The raindrop that lands on your nose might once have been part of an ocean far away! Water is always on a big round trip around our planet. Where does it go, and how does it get back?",
         "learning_objectives": [
           "Water moves in a cycle on Earth",
           "The Sun heats water and causes evaporation",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "science_07",
         "title": "How a Fuel Engine Works",
+        "teaser": "Vroom! Cars, buses and even airplanes all have a powerful machine hidden inside. It turns fuel into the motion that spins the wheels. How does it work under the hood?",
         "learning_objectives": [
           "Engines help machines move",
           "Fuel gives energy to engines",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "science_08",
         "title": "What Is Electricity?",
+        "teaser": "Click! You flip a switch and the room lights up in a blink. Something invisible is zooming through the walls to make it happen. What is this energy, and why do we need to be careful with it?",
         "learning_objectives": [
           "Electricity is a form of energy",
           "Electricity makes lights turn on",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "science_09",
         "title": "What Is Medicine?",
+        "teaser": "Everyone feels sick sometimes, with a sniffle, a cough, or a fever. But our bodies have helpers, inside and out, that help us feel better. Who are they, and how do they help?",
         "learning_objectives": [
           "Medicine helps people feel better when they are sick",
           "Doctors and nurses help care for patients",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "science_10",
         "title": "Viruses and Bacteria",
+        "teaser": "All around you live creatures so tiny you could never see them without a microscope. Some are helpful friends, and some can make us sick. How does your body keep the bad ones away?",
         "learning_objectives": [
           "Viruses and bacteria are tiny germs",
           "Some germs can make people sick",

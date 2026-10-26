@@ -6,6 +6,7 @@
       {
         "story_id": "space_01",
         "title": "Sunny the Star at the Center",
+        "teaser": "Sunny sits right in the middle of a giant space neighborhood, glowing bright and warm. Everyone in the neighborhood moves around him, but Sunny never leaves his spot. What would happen to Earth if Sunny weren’t there?",
         "learning_objectives": [
           "The Sun is a star",
           "The Sun gives Earth light and heat",
@@ -191,6 +192,7 @@
       {
         "story_id": "space_02",
         "title": "Luna the Moon That Travels",
+        "teaser": "Luna follows Earth wherever it goes, and she never seems to look the same two nights in a row. Sometimes she’s round, sometimes she’s just a thin smile. Why does Luna keep changing her shape?",
         "learning_objectives": [
           "The Moon is not a star; it reflects sunlight",
           "The Moon moves around Earth in an orbit",
@@ -376,6 +378,7 @@
       {
         "story_id": "space_03",
         "title": "Earth Spins: Day and Night",
+        "teaser": "Right now, while you’re reading this, you are spinning! You can’t feel it, but our whole planet is turning like a slow, gentle top. What does all that spinning have to do with bedtime?",
         "learning_objectives": [
           "Earth spins in place (rotation)",
           "One full spin takes one day",
@@ -561,6 +564,7 @@
       {
         "story_id": "space_04",
         "title": "The Planet Family",
+        "teaser": "Out in space lives a family of eight very different planets. One is fiery hot, one wears sparkly rings, and one has a storm bigger than Earth! Can you guess which one is the biggest?",
         "learning_objectives": [
           "There are eight planets in our solar system",
           "Planets move around the Sun",
@@ -751,6 +755,7 @@
       {
         "story_id": "space_05",
         "title": "Gravity the Gentle Pull",
+        "teaser": "There’s an invisible helper that holds you down every single day, and you’ve never once seen it. It pulls on raindrops, balls, and even the Moon. What is this mysterious gentle pull?",
         "learning_objectives": [
           "Gravity is a pulling force",
           "Gravity keeps us on the ground",
@@ -936,6 +941,7 @@
       {
         "story_id": "space_06",
         "title": "Rocket Rides to Space",
+        "teaser": "3, 2, 1… liftoff! A rocket roars, the ground shakes, and up it zooms, higher than planes and clouds. But how does a rocket push hard enough to escape Earth’s pull?",
         "learning_objectives": [
           "Rockets help humans travel to space",
           "Rockets use fuel to push upward",
@@ -1121,6 +1127,7 @@
       {
         "story_id": "space_07",
         "title": "Astronauts Work in Space",
+        "teaser": "Imagine eating, sleeping and working while floating in the air! That’s everyday life for astronauts on a home that circles the Earth. What does it take to live and work up there?",
         "learning_objectives": [
           "Astronauts are people who travel to space",
           "Astronauts float because gravity is weaker",
@@ -1306,6 +1313,7 @@
       {
         "story_id": "space_08",
         "title": "Stars and Constellations",
+        "teaser": "Look up on a clear night and you’ll see thousands of tiny twinkling lights. But are stars really tiny? And how did people long ago find animals and heroes hiding in the sky?",
         "learning_objectives": [
           "Stars are giant glowing balls of gas",
           "Stars are very far away",
@@ -1491,6 +1499,7 @@
       {
         "story_id": "space_09",
         "title": "Our Home Galaxy: The Milky Way",
+        "teaser": "Our Earth is one small planet, in one solar system, inside a giant swirl of stars. That swirl has a very tasty-sounding name. How big is our home in space, really?",
         "learning_objectives": [
           "A galaxy is a huge group of stars",
           "The Milky Way is our home galaxy",
@@ -1676,6 +1685,7 @@
       {
         "story_id": "space_10",
         "title": "Earth Is Safe and Special",
+        "teaser": "Earth has a secret invisible blanket that keeps us warm and safe from space rocks. Without it, life here would be very different. What makes our planet such a special home?",
         "learning_objectives": [
           "Earth has air to breathe",
           "Earth’s atmosphere protects life",

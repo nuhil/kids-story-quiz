@@ -6,6 +6,7 @@
       {
         "story_id": "math_01",
         "title": "The Story of Numbers",
+        "teaser": "Long, long ago, there were no numbers written anywhere: not on clocks, not on doors, not in books. But people still had sheep, fruit and tools to count. How did they keep track of everything?",
         "learning_objectives": [
           "People did not always have written numbers",
           "Early humans used fingers to count",
@@ -191,6 +192,7 @@
       {
         "story_id": "math_02",
         "title": "The Day We Discovered Bigger and Smaller",
+        "teaser": "Two children find two pumpkins in the garden, and one is much bigger than the other. That’s just the start of a day full of surprising comparisons. Is bigger always heavier? Let’s find out!",
         "learning_objectives": [
           "Objects can be compared by size",
           "Bigger means more space",
@@ -376,6 +378,7 @@
       {
         "story_id": "math_03",
         "title": "The Day We Found Shapes Everywhere",
+        "teaser": "Look around you: the Sun, a window, a rooftop, a door. Long ago, people noticed that the same few shapes kept showing up everywhere. How many can you spot before the story does?",
         "learning_objectives": [
           "Shapes are found in everyday objects",
           "A circle is round",
@@ -561,6 +564,7 @@
       {
         "story_id": "math_04",
         "title": "The Day We Learned to Sort and Group",
+        "teaser": "A big basket is full of cars, blocks, balls and dolls, all jumbled together. What a mess! Two children have a clever idea to make it neat again. How would you sort it?",
         "learning_objectives": [
           "Sorting means putting similar things together",
           "Objects can be grouped by color, shape, or size",
@@ -746,6 +750,7 @@
       {
         "story_id": "math_05",
         "title": "The Day We Discovered Patterns",
+        "teaser": "Red, blue, red, blue… a garden fence is hiding a secret! Once the children spot it, they start finding it everywhere, even in birdsong. Can you guess what comes next?",
         "learning_objectives": [
           "A pattern repeats in a predictable way",
           "Patterns can use colors, shapes, or sounds",
@@ -931,6 +936,7 @@
       {
         "story_id": "math_06",
         "title": "The Picnic That Grew Bigger",
+        "teaser": "Two friends pack a picnic basket on a sunny morning. Then more friends and more food keep arriving! How much is in the basket by lunchtime?",
         "learning_objectives": [
           "Addition means putting things together",
           "When we combine groups, the total becomes bigger",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "math_07",
         "title": "The Cookies That Disappeared",
+        "teaser": "A plate of warm, yummy cookies sits on the kitchen table. But one by one, they start to disappear! How many will be left when the story ends?",
         "learning_objectives": [
           "Subtraction means taking away",
           "When we take away, the total becomes smaller",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "math_08",
         "title": "Building the Tallest Tower",
+        "teaser": "Two friends build two block towers, and each one is sure theirs is the tallest! Just looking isn’t enough to settle it. How can they find out for sure, in a way that’s fair?",
         "learning_objectives": [
           "Measuring helps us compare fairly",
           "We can measure using equal units",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "math_09",
         "title": "The Little Shop and the Shiny Coins",
+        "teaser": "Two children find shiny coins in their pockets and head to the little neighborhood shop. They have their eye on a small toy. Do they have enough to buy it?",
         "learning_objectives": [
           "Money is used to buy things",
           "Coins can look different",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "math_10",
         "title": "Sharing the Cupcakes",
+        "teaser": "Three friends bake six delicious cupcakes together, and now it’s time to share. Everyone wants the same amount, of course! How can they make it perfectly fair?",
         "learning_objectives": [
           "Sharing equally means everyone gets the same amount",
           "Equal groups have the same number in each group",

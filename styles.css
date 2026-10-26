@@ -56,3 +56,22 @@ textarea.code{display:block;width:100%;margin-top:14px;padding:12px;border:1px s
 .tile img{display:block;width:76%;height:76%;margin:auto;object-fit:contain}
 .modal{text-align:center}
 .modal .label{text-align:center}
+.wallet{padding:16px;border-radius:24px;background:linear-gradient(135deg,#fff1c7,#ffe2ea 55%,#e7e3ff);border:1px solid #ffffffb0;box-shadow:0 6px 18px #ff5e7314}
+.wallet-tiles{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.wallet-tile{display:grid;grid-template-columns:auto 1fr;column-gap:10px;align-items:center;padding:12px;border-radius:18px;background:#ffffffc8}
+.wallet-icon{grid-row:span 2;width:42px;height:42px;display:grid;place-items:center;border-radius:14px;background:#ffd75e;font-size:21px}
+.wallet-tile.points .wallet-icon{background:#a8a3ff;color:#fff}
+.wallet-tile strong{font-size:26px;line-height:1.05}
+.wallet-tile small{font-weight:700}
+.wallet-goal{margin-top:10px;padding:12px 14px;border-radius:16px;background:#ffffffc8}
+.wallet-goal b{font-size:13px}
+.wallet-goal .progress{height:10px;margin-top:8px;background:#f0ecf8}
+.wallet-goal .progress>span{background:linear-gradient(90deg,#ffc15e,#ff5e73)}
+.wallet-goal.ready .progress>span{background:linear-gradient(90deg,#76d8b7,#48bb94)}
+.wallet-hint{margin-top:10px;text-align:center;font-size:12px;color:var(--muted)}
+.teaser{position:relative;overflow:hidden;padding:20px;border-radius:24px;background:linear-gradient(140deg,color-mix(in srgb,var(--hero) 14%,#fff),color-mix(in srgb,var(--hero) 4%,#fffaf3));border:1px solid color-mix(in srgb,var(--hero) 22%,#fff);box-shadow:0 6px 18px color-mix(in srgb,var(--hero) 10%,transparent)}
+.teaser:before,.teaser:after{content:'✦';position:absolute;color:color-mix(in srgb,var(--hero) 30%,#fff);pointer-events:none}
+.teaser:before{right:18px;top:10px;font-size:44px}
+.teaser:after{right:58px;top:46px;font-size:20px}
+.teaser-badge{display:inline-block;padding:6px 12px;border-radius:999px;background:var(--hero);color:#fff;font-size:12px;font-weight:800;letter-spacing:.4px}
+.teaser-text{position:relative;margin-top:14px;font-size:18px;line-height:1.6;font-weight:700;color:#2b2840}

@@ -6,6 +6,7 @@
       {
         "story_id": "animals_01",
         "title": "Ellie the Elephant and the Splashy Mud Bath",
+        "teaser": "It’s a hot day on the savanna, and Ellie the elephant knows just how to cool off: a big, squishy, splashy mud bath! But for an elephant, mud is more than just fun. What could it be good for?",
         "learning_objectives": [
           "Elephants are the largest land animals",
           "Elephants use a trunk to smell, drink, and pick up food",
@@ -191,6 +192,7 @@
       {
         "story_id": "animals_02",
         "title": "Leo the Lion and the Evening Roar",
+        "teaser": "Leo the lion spends his days lazing in the shade with his family. But when evening comes, he makes a sound you can hear from far, far away. What is he trying to say?",
         "learning_objectives": [
           "Lions are big cats",
           "Lions live in groups called prides",
@@ -376,6 +378,7 @@
       {
         "story_id": "animals_03",
         "title": "Gigi the Giraffe and the Treetop Snack",
+        "teaser": "Gigi the giraffe can reach treetop snacks that no other animal can. Being so tall is amazing, but it makes some things a little tricky. Have you ever wondered how a giraffe takes a drink?",
         "learning_objectives": [
           "Giraffes are the tallest land animals",
           "Giraffes use long necks to reach leaves high in trees",
@@ -561,6 +564,7 @@
       {
         "story_id": "animals_04",
         "title": "Pip the Penguin and the Icy Slide",
+        "teaser": "Pip the penguin is a bird who will never fly, and he doesn’t mind one bit! He has something even more fun planned: a slippery belly-slide and a speedy splash into the icy sea. How does he stay warm out there?",
         "learning_objectives": [
           "Penguins are birds that cannot fly",
           "Penguins live in the Southern Hemisphere, many near Antarctica",
@@ -746,6 +750,7 @@
       {
         "story_id": "animals_05",
         "title": "Freddy the Frog and the Pond Metamorphosis",
+        "teaser": "Down at the pond, tiny jelly-like eggs float in the water. Something inside them is about to begin a big, amazing change. Can you guess what those wiggly babies will become?",
         "learning_objectives": [
           "Frogs are amphibians",
           "Frogs lay eggs in water",
@@ -931,6 +936,7 @@
       {
         "story_id": "animals_06",
         "title": "Bea the Bee and the Flower Message Dance",
+        "teaser": "Bea the bee has found the best flowers in the whole garden. But how can one tiny bee tell her friends where they are? Get ready for a very special dance!",
         "learning_objectives": [
           "Bees are insects",
           "Bees collect nectar and pollen from flowers",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "animals_07",
         "title": "Ping the Panda and the Bamboo Breakfast",
+        "teaser": "Crunch, crunch! Ping the panda is having breakfast in a misty mountain forest. She eats lots and lots of one favorite food, all day long. What is it, and why does she need so much?",
         "learning_objectives": [
           "Giant pandas are mammals",
           "Pandas eat mostly bamboo",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "animals_08",
         "title": "Benny the Bat and the Night Echoes",
+        "teaser": "When the sun goes down, Benny the bat wakes up, upside down! He zooms through the dark without bumping into anything. What is his secret for finding his way at night?",
         "learning_objectives": [
           "Bats are mammals",
           "Many bats are nocturnal (active at night)",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "animals_09",
         "title": "Cami the Camel and the Desert Water Trick",
+        "teaser": "The desert is hot, dry and full of blowing sand, but Cami the camel isn’t worried. Her body comes with clever built-in tools. What do you think is really inside that big hump?",
         "learning_objectives": [
           "Camels are mammals that live in deserts and dry regions",
           "Camels have humps that store fat (energy)",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "animals_10",
         "title": "Willa the Wolf and the Pack Plan",
+        "teaser": "Snow crunches under Willa’s paws as she follows a trail through the pines. She is part of a wolf team, and every team needs a plan. How do wolves talk to each other across the forest?",
         "learning_objectives": [
           "Wolves are mammals",
           "Wolves live in family groups called packs",

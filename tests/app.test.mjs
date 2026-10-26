@@ -142,3 +142,5 @@ const hero=doc.querySelector('a.hero');const id=hero.getAttribute('href').replac
 await at(w,'/explore');await at(w,'/journey');assert.equal(doc.querySelector('a.hero').getAttribute('href'),'#/explore/'+id,'same topic while the app is open');
 hero.ownerDocument.querySelector('a.hero').click();await tick();assert.equal(w.location.hash,'#/explore/'+id);assert.match(doc.querySelector('.chip.active').textContent,new RegExp(cat.category_name));assert.equal(doc.querySelectorAll('.story').length,cat.stories.length);
 }finally{close();}});
+test('every story page shows its teaser',async()=>{for(const s of content.flatMap(c=>c.stories))assert(s.teaser&&s.teaser.split(/\s+/).length<=45,`${s.story_id} needs a short teaser`);
+const {w,doc,close}=await boot({profile});try{await at(w,'/story/animals_01');assert.equal(doc.querySelector('.teaser-text').textContent,content[1].stories[0].teaser);assert(!doc.querySelector('.objectives'));}finally{close();}});

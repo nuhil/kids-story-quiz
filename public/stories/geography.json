@@ -6,6 +6,7 @@
       {
         "story_id": "geography_01",
         "title": "Milo the Mountain and the Tall View",
+        "teaser": "Milo the mountain stands so tall that his top is chilly even when the bottom is warm. Tiny trickles start up on his rocky sides. Where do they end up, and what can you see from way up there?",
         "learning_objectives": [
           "Mountains are very tall landforms",
           "Mountains can be rocky or snowy",
@@ -191,6 +192,7 @@
       {
         "story_id": "geography_02",
         "title": "Ria the River and the Long Journey",
+        "teaser": "Drip, drip, splash! Ria the river starts as a tiny trickle high in the hills and sets off on a very long journey. She grows bigger and stronger along the way. Where will she end up?",
         "learning_objectives": [
           "Rivers are moving water",
           "Rivers usually start in mountains or hills",
@@ -376,6 +378,7 @@
       {
         "story_id": "geography_03",
         "title": "Sunny the Desert and the Dry Land",
+        "teaser": "Sunny the desert is hot, dry, and covered in sand that the wind keeps reshaping. It looks empty at first glance. But who is hiding out there, and how do they survive?",
         "learning_objectives": [
           "Deserts are very dry places",
           "Deserts can be hot or cold",
@@ -561,6 +564,7 @@
       {
         "story_id": "geography_04",
         "title": "Fiona the Forest and the Green World",
+        "teaser": "Step into Fiona the forest, where sunlight peeks through a leafy roof and every level is busy with life. Did you know trees do something for you with every breath you take? Let’s find out what!",
         "learning_objectives": [
           "Forests are areas with many trees",
           "Forests have different layers",
@@ -746,6 +750,7 @@
       {
         "story_id": "geography_05",
         "title": "Ivy the Island Surrounded by Water",
+        "teaser": "Ivy is a piece of land with waves sparkling all around her. Boats come and go, birds fly overhead, and fish swim nearby. What makes Ivy special, and how did islands like her begin?",
         "learning_objectives": [
           "An island is land surrounded by water",
           "Islands can be small or large",
@@ -931,6 +936,7 @@
       {
         "story_id": "geography_06",
         "title": "Cody the Continent and the Big Lands",
+        "teaser": "Cody the continent is so big you can’t see from one end to the other! Mountains, rivers, deserts, whole countries, and millions of people all fit inside him. How many giant lands like Cody are there on Earth?",
         "learning_objectives": [
           "Continents are very large land areas",
           "There are seven continents on Earth",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "geography_07",
         "title": "Polly the Polar Lands and the Cold Ends",
+        "teaser": "At the very top and the very bottom of our planet lies a world of snow and ice. In some seasons the sun barely sets, and in others it hardly rises! Who could possibly live in a place this cold?",
         "learning_objectives": [
           "The Earth has North and South Poles",
           "Polar regions are very cold",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "geography_08",
         "title": "Vicky the Volcano and the Hot Earth",
+        "teaser": "Vicky the volcano looks calm and quiet, but deep beneath her, something very, very hot is moving. What happens when it finds its way to the top?",
         "learning_objectives": [
           "Volcanoes are openings in Earth’s surface",
           "Hot melted rock is called magma or lava",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "geography_09",
         "title": "Wally the Weather Map and the Moving Sky",
+        "teaser": "Yesterday was sunny, today feels cool, and tomorrow might bring snow! Wally the weather map keeps an eye on the busy, moving sky. How can a map help you know what to wear?",
         "learning_objectives": [
           "Weather describes what the sky and air are like",
           "Weather can change from day to day",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "geography_10",
         "title": "Mia the Map and Finding Places",
+        "teaser": "Mia the map shows a whole town from above, the way a bird would see it. But she doesn’t show everything, and that’s on purpose! How do maps use clever little pictures to guide your way?",
         "learning_objectives": [
           "Maps show places from above",
           "Maps help us find where things are",

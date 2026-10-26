@@ -6,6 +6,7 @@
       {
         "story_id": "emotions_social_01",
         "title": "Happy, Sad, and Calm",
+        "teaser": "Lina wakes up smiling because it’s art day! But then her banana hits the floor and her favorite crayon goes missing. Her feelings go up and down all day. How will she find her calm again?",
         "learning_objectives": [
           "People can feel happy, sad, angry, or calm.",
           "Feelings can change during the day.",
@@ -131,6 +132,7 @@
       {
         "story_id": "emotions_social_02",
         "title": "When Anger Feels Big",
+        "teaser": "Arun builds the tallest block tower ever… and then, CRASH! His cheeks get hot and his fists go tight. Arun feels really, really mad. What can he do with such a big feeling?",
         "learning_objectives": [
           "Anger is a normal feeling.",
           "Anger can feel hot, tight, or fast in the body.",
@@ -256,6 +258,7 @@
       {
         "story_id": "emotions_social_03",
         "title": "Brave with New Things",
+        "teaser": "It’s swimming day, and Nora has butterflies in her tummy. The pool looks big and the splashes sound loud. Can Nora find her brave, one small step at a time?",
         "learning_objectives": [
           "Worry is a normal feeling before new experiences.",
           "Body clues of worry can include a fast heartbeat or quiet voice.",
@@ -381,6 +384,7 @@
       {
         "story_id": "emotions_social_04",
         "title": "Sharing and Taking Turns",
+        "teaser": "Two children grab the same red scooter at the same moment, and nobody wants to let go! Teacher Maya has an idea that might just save playtime. What could it be?",
         "learning_objectives": [
           "Sharing means letting others use things too.",
           "Taking turns helps play stay fair.",
@@ -506,6 +510,7 @@
       {
         "story_id": "emotions_social_05",
         "title": "Listening Ears, Kind Words",
+        "teaser": "In circle time, there’s a special shell, and only the person holding it gets to talk. Mina really wants a turn. What is so magical about this shell?",
         "learning_objectives": [
           "Listening means paying attention with eyes, ears, and body.",
           "Taking turns to talk helps everyone feel heard.",
@@ -631,6 +636,7 @@
       {
         "story_id": "emotions_social_06",
         "title": "Making a New Friend",
+        "teaser": "At the park, Sora spots a new kid drawing in the sand all alone. It takes a little courage to walk over and say hi. Will the two of them become friends?",
         "learning_objectives": [
           "Friendship can start with a simple greeting.",
           "Inviting others to play helps everyone feel included.",
@@ -756,6 +762,7 @@
       {
         "story_id": "emotions_social_07",
         "title": "Fixing a Small Conflict",
+        "teaser": "Two friends reach for the same blue marker, and suddenly everyone is arguing. Can Mika and Jon calm down, listen to each other, and find a fair way to share?",
         "learning_objectives": [
           "Conflicts happen when people want different things.",
           "Stopping and calming down comes before problem solving.",
@@ -881,6 +888,7 @@
       {
         "story_id": "emotions_social_08",
         "title": "Teamwork at Playtime",
+        "teaser": "The whole class has one giant job: build a cardboard train together! There’s cutting, taping, painting, and lots of ideas. Can they turn it into something amazing, as a team?",
         "learning_objectives": [
           "Teamwork means people work together toward one goal.",
           "Team members can have different jobs.",
@@ -1006,6 +1014,7 @@
       {
         "story_id": "emotions_social_09",
         "title": "Sorry and Repair",
+        "teaser": "Oops! Milo bumps into Ava’s block bridge, and it all comes tumbling down. Ava is upset, and Milo feels bad. Can a sorry fix it, or does he need to do something more?",
         "learning_objectives": [
           "Mistakes happen, and people can repair them.",
           "A good apology names what happened.",
@@ -1131,6 +1140,7 @@
       {
         "story_id": "emotions_social_10",
         "title": "Gratitude and Caring Hearts",
+        "teaser": "Teacher Sam starts a very special wall in class, covered in paper leaves. Each leaf holds a little secret about something someone is thankful for. What happens when the class starts saying thank you?",
         "learning_objectives": [
           "Gratitude means noticing and appreciating help or kindness.",
           "People can show gratitude with words, notes, or actions.",

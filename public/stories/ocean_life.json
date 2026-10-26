@@ -6,6 +6,7 @@
       {
         "story_id": "ocean_01",
         "title": "Whaley the Giant of the Sea",
+        "teaser": "Meet Whaley, the gentlest giant in the whole wide sea. He lives underwater, yet every so often he swims all the way up to the surface. What is he doing up there, and what makes that tall, splashy spray?",
         "learning_objectives": [
           "A blue whale is the largest animal on Earth",
           "Ocean water is salty",
@@ -196,6 +197,7 @@
       {
         "story_id": "ocean_02",
         "title": "Ollie the Octopus with Eight Arms",
+        "teaser": "Ollie has eight wiggly arms and a cozy rocky hideout. When danger swims close, he has some very sneaky tricks ready. Can you guess how an octopus can almost disappear?",
         "learning_objectives": [
           "An octopus has eight arms",
           "Octopuses can change color to hide",
@@ -381,6 +383,7 @@
       {
         "story_id": "ocean_03",
         "title": "Daisy the Dolphin Who Uses Echoes",
+        "teaser": "Daisy the dolphin can find fish in cloudy, murky water without even seeing them. Her secret is a sound you would never hear from the beach. How does she do it?",
         "learning_objectives": [
           "Dolphins are mammals",
           "Dolphins breathe air at the surface",
@@ -566,6 +569,7 @@
       {
         "story_id": "ocean_04",
         "title": "Tina the Sea Turtle and the Long Swim",
+        "teaser": "Tina the sea turtle is setting off on a very long swim. Along the way she meets tasty snacks, tricky trash, and one very special sandy beach. What is waiting for her there?",
         "learning_objectives": [
           "Sea turtles breathe air",
           "Sea turtles have shells",
@@ -751,6 +755,7 @@
       {
         "story_id": "ocean_05",
         "title": "Rafi the Reef Builder",
+        "teaser": "Rafi swims into an underwater city bursting with color, where fish, crabs and sea stars all live side by side. But who built this amazing place? The answer is smaller than you think!",
         "learning_objectives": [
           "Coral reefs are made by tiny animals called coral polyps",
           "Reefs are homes for many ocean animals",
@@ -936,6 +941,7 @@
       {
         "story_id": "ocean_06",
         "title": "Sammy the Seahorse Holds On",
+        "teaser": "Sammy is a fish, but he doesn’t look like any fish you know. When the waves push and a big fish swims by, Sammy has a clever way to hold on and hide. Want to see how?",
         "learning_objectives": [
           "Seahorses are fish",
           "Seahorses use tails to hold onto seagrass",
@@ -1121,6 +1127,7 @@
       {
         "story_id": "ocean_07",
         "title": "Sia the Shark and the Many Teeth",
+        "teaser": "Sia the shark glides through the ocean like a smooth shadow, with a smile full of teeth and a body full of surprises. What happens when one of her teeth falls out?",
         "learning_objectives": [
           "Sharks are fish",
           "Sharks have cartilage skeletons (not hard bone like humans)",
@@ -1306,6 +1313,7 @@
       {
         "story_id": "ocean_08",
         "title": "Jelly the Jellyfish Drifts",
+        "teaser": "Jelly has no bones and is in no hurry at all. He floats like a soft balloon wherever the water takes him. Where will the ocean carry him today, and why should we watch him from afar?",
         "learning_objectives": [
           "Jellyfish drift with ocean currents",
           "Jellyfish are soft-bodied (no bones)",
@@ -1491,6 +1499,7 @@
       {
         "story_id": "ocean_09",
         "title": "Angie the Anglerfish and the Tiny Light",
+        "teaser": "Deep, deep down, where the sunshine never reaches, lives Angie the anglerfish. It is very dark down there, but Angie carries a little surprise on her head. What could it be for?",
         "learning_objectives": [
           "Deep sea is very dark",
           "Some deep-sea animals use light (bioluminescence) to help find food",
@@ -1676,6 +1685,7 @@
       {
         "story_id": "ocean_10",
         "title": "Otto the Sea Otter Floats and Eats",
+        "teaser": "Otto the sea otter eats lunch floating on his back like a little boat. But some of his favorite snacks are locked inside hard shells. How does a clever otter crack them open?",
         "learning_objectives": [
           "Sea otters are mammals",
           "Sea otters have thick fur to stay warm",

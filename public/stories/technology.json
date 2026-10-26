@@ -6,6 +6,7 @@
       {
         "story_id": "technology_01",
         "title": "Wally the Wi‑Fi Router Shares the Signal",
+        "teaser": "In the corner of the living room, a little box blinks quietly. It is sending invisible waves all around your home. Who is Wally, and how does he help your tablet reach the whole world?",
         "learning_objectives": [
           "Wi‑Fi helps devices connect to the internet without wires",
           "A router sends and receives Wi‑Fi signals",
@@ -191,6 +192,7 @@
       {
         "story_id": "technology_02",
         "title": "Milo the Mobile Phone on the Move",
+        "teaser": "Milo the mobile phone is small enough to fit in a pocket, but he’s full of surprises: maps, music, photos and calls! How does such a tiny gadget send your voice so far away?",
         "learning_objectives": [
           "Mobile phones are small computers",
           "Phones use signals and towers to connect",
@@ -376,6 +378,7 @@
       {
         "story_id": "technology_03",
         "title": "Cody the Computer That Follows Instructions",
+        "teaser": "Cody the computer can draw, play games, and help you write stories. But here’s a surprise: he can’t think on his own at all! So how does he know what to do?",
         "learning_objectives": [
           "Computers follow instructions called programs",
           "Computers can store and process information",
@@ -561,6 +564,7 @@
       {
         "story_id": "technology_04",
         "title": "Tara the Television Shares Stories",
+        "teaser": "Click! The screen glows, and Tara the television is ready to tell a story. But how do the pictures move, and where do all the shows come from?",
         "learning_objectives": [
           "Televisions show pictures and sounds",
           "TV programs come from signals or the internet",
@@ -746,6 +750,7 @@
       {
         "story_id": "technology_05",
         "title": "Robo the Robot Helps Step by Step",
+        "teaser": "Beep boop! Robo the robot rolls forward with gears whirring and lights blinking. He’s a great helper, but he never guesses. How does a robot know what to do next?",
         "learning_objectives": [
           "Robots are machines made by people",
           "Robots follow instructions step by step",
@@ -931,6 +936,7 @@
       {
         "story_id": "technology_06",
         "title": "Iggy the Internet Connects the World",
+        "teaser": "Your message to Grandma can zip around the world faster than you can blink! Invisible paths connect phones and computers everywhere, even under the sea. How does Iggy the Internet do it?",
         "learning_objectives": [
           "The internet connects computers and devices",
           "Information travels as data through cables and signals",
@@ -1116,6 +1122,7 @@
       {
         "story_id": "technology_07",
         "title": "Ava the Smart Helper Listens and Learns",
+        "teaser": "Ding! Ava the smart helper wakes up and listens. She can play songs, set timers and answer questions. But how does she understand what you say, and who is really in charge?",
         "learning_objectives": [
           "Smart helpers can listen to voice commands",
           "Speech is turned into data a computer can understand",
@@ -1301,6 +1308,7 @@
       {
         "story_id": "technology_08",
         "title": "Milo the Map Knows the Way",
+        "teaser": "Lost on the way to the park? Milo the Map knows exactly where you are, thanks to helpers far up in space! How can satellites help you find your way?",
         "learning_objectives": [
           "Maps show places and directions",
           "GPS helps devices know where they are",
@@ -1486,6 +1494,7 @@
       {
         "story_id": "technology_09",
         "title": "Pia the Camera Catches Moments",
+        "teaser": "Click! Pia the camera can catch a smile, a jump or a wave and keep it forever. But how does a camera turn light into a picture?",
         "learning_objectives": [
           "Cameras capture light to make pictures",
           "Photos freeze moments in time",
@@ -1671,6 +1680,7 @@
       {
         "story_id": "technology_10",
         "title": "Vivi the Video Call Brings Faces Together",
+        "teaser": "Grandma lives far away, but you can still see her smile and hear her laugh! Vivi the video call brings faces together across the miles. How does your face travel all that way?",
         "learning_objectives": [
           "Video calls share pictures and sound together",
           "Cameras and microphones work at the same time",
