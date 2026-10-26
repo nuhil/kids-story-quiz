@@ -5,7 +5,7 @@ import {JSDOM} from 'jsdom';
 const content=JSON.parse(await readFile('public/content.json','utf8'));
 const assets=JSON.parse(await readFile('public/assets.json','utf8'));
 const source=await readFile('app.js','utf8');
-async function boot(saved,hash='',setup){const dom=new JSDOM('<div id="app"></div>',{url:'http://localhost/'+hash,runScripts:'outside-only',pretendToBeVisual:true});const w=dom.window;w.scrollTo=()=>{};w.fetch=async path=>({ok:true,json:async()=>structuredClone(path.includes('content')?content:assets)});if(saved)w.localStorage.setItem(saved.profiles?'storyspark.web.v2':'storyspark.web.v1',JSON.stringify(saved));setup?.(w);await w.eval(`(async()=>{${source}\n})()`);return {w,doc:w.document,close:()=>w.close()};}
+async function boot(saved,hash='',setup){const dom=new JSDOM('<div id="app"></div>',{url:'http://localhost/'+hash,runScripts:'outside-only',pretendToBeVisual:true});const w=dom.window;w.scrollTo=()=>{};w.fetch=async path=>path.includes('/audio/')?{ok:false,json:async()=>null}:({ok:true,json:async()=>structuredClone(path.includes('content')?content:assets)});if(saved)w.localStorage.setItem(saved.profiles?'storyspark.web.v2':'storyspark.web.v1',JSON.stringify(saved));setup?.(w);await w.eval(`(async()=>{${source}\n})()`);return {w,doc:w.document,close:()=>w.close()};}
 const profile={name:'Tester',age:7};
 const tick=()=>new Promise(r=>setTimeout(r,20));
 const stored=w=>JSON.parse(w.localStorage.getItem('storyspark.web.v2'));
@@ -129,7 +129,7 @@ const second=doc.querySelectorAll('#reading [data-at]')[1];current.onboundary({n
 btn().click();assert.equal(btn().textContent,'▶ Keep Reading');btn().click();assert.equal(btn().textContent,'⏸ Pause');current.onend();assert.equal(doc.querySelectorAll('.spoken').length,0);assert.equal(btn().textContent,'🔊 Read To Me');
 log.length=0;await at(w,'/read/ocean_01/3');assert(log.includes('cancel'),'speech stops when the page changes');
 }finally{close();}});
-test('read aloud is hidden when the browser has no speech',async()=>{const {w,doc,close}=await boot({profile},'#/read/ocean_01/0');try{assert(!doc.querySelector('#read-aloud'));}finally{close();}});
+test('read aloud is hidden when there is no recording and no browser speech',async()=>{const {w,doc,close}=await boot({profile},'#/read/ocean_01/0');try{await tick();assert(!doc.querySelector('#read-aloud:not([hidden])'));}finally{close();}});
 test('offline cache lists only files that exist',async()=>{const sw=await readFile('sw.js','utf8');const shell=JSON.parse(sw.match(/const SHELL=(\[.*?\]);/)[1].replace(/'/g,'"'));for(const path of shell.filter(p=>p!=='./')){const local=['./index.html','./app.js','./styles.css'].includes(path)?path:'public/'+path.slice(2);assert((await stat(local)).size>0,path);}});
 test('every story has its own cover and page images, with no repeated text or questions',async()=>{
 const art=['Ocean','Animals','Space','Science','Math','Culture','Emotions','History','Geography','Technology'];const missing=[],pages=new Map(),questions=new Map();
@@ -145,3 +145,19 @@ hero.ownerDocument.querySelector('a.hero').click();await tick();assert.equal(w.l
 test('every story page shows its teaser',async()=>{for(const s of content.flatMap(c=>c.stories))assert(s.teaser&&s.teaser.split(/\s+/).length<=45,`${s.story_id} needs a short teaser`);
 const {w,doc,close}=await boot({profile});try{await at(w,'/story/animals_01');assert.equal(doc.querySelector('.teaser-text').textContent,content[1].stories[0].teaser);assert(!doc.querySelector('.objectives'));}finally{close();}});
 test('story images are 3:2 landscape',async()=>{const bad=[];for(const [key,path] of Object.entries(assets).filter(([k])=>/^Story/.test(k))){const b=await readFile('public/'+path);let w,h;if(b[0]===0x89){w=b.readUInt32BE(16);h=b.readUInt32BE(20);}else{let i=2;while(i<b.length){const m=b[i+1],len=b.readUInt16BE(i+2);if(m>=0xc0&&m<=0xc3){h=b.readUInt16BE(i+5);w=b.readUInt16BE(i+7);break;}i+=2+len;}}if(Math.abs(w/h-1.5)>0.01)bad.push(`${key} ${w}x${h}`);}assert.deepEqual(bad,[]);});
+
+// Fake recorded narration: page text plus [start,end] seconds per word, and an Audio element we can drive.
+function narrationSetup({speech=false,text}={}){const played=[];return {played,setup:w=>{const real=w.fetch;w.fetch=async path=>{if(path==='./audio/ocean_01.json'){const pages=content[0].stories[0].pages.map((p,i)=>({text:i===2&&text?text:p.text,words:p.text.split(/\s+/).map((_,n)=>[n*0.5,n*0.5+0.4])}));return {ok:true,json:async()=>({voice:'Leela',pages})};}return real(path);};
+w.Audio=class{constructor(src){this.src=src;this.currentTime=0;played.push(this);}play(){this.playing=true;return Promise.resolve();}pause(){this.playing=false;}};
+if(speech){w.SpeechSynthesisUtterance=class{constructor(t){this.text=t;}};w.speechSynthesis={getVoices:()=>[],speak:u=>played.push('speech:'+u.text.slice(0,8)),pause(){},resume(){},cancel(){}};}}};}
+test('recorded narration plays and the highlight follows its word timings',async()=>{const n=narrationSetup();const {w,doc,close}=await boot({profile},'#/read/ocean_01/2',n.setup);try{
+await tick();const btn=()=>doc.querySelector('#read-aloud');assert(!btn().hidden,'shown for a recording even without browser speech');btn().click();
+const audio=n.played[0];assert.equal(audio.src,'./audio/ocean_01/03.mp3');assert(audio.playing);assert.equal(btn().textContent,'⏸ Pause');
+audio.currentTime=1.2;await new Promise(r=>setTimeout(r,60));const spoken=[...doc.querySelectorAll('#reading [data-at]')].findIndex(x=>x.classList.contains('spoken'));assert.equal(spoken,2,'third word is lit at 1.2s');
+btn().click();assert(!audio.playing);assert.equal(btn().textContent,'▶ Keep Reading');btn().click();assert(audio.playing);
+audio.onended();assert.equal(btn().textContent,'🔊 Read To Me');assert.equal(doc.querySelectorAll('.spoken').length,0);
+await at(w,'/read/ocean_01/3');assert(!audio.playing,'stops when the page changes');
+}finally{close();}});
+test('narration falls back to the browser voice when the recording no longer matches the text',async()=>{const n=narrationSetup({speech:true,text:'Some older wording.'});const {w,doc,close}=await boot({profile},'#/read/ocean_01/2',n.setup);try{
+await tick();doc.querySelector('#read-aloud').click();assert.equal(n.played.length,1);assert.match(n.played[0],/^speech:/);
+}finally{close();}});

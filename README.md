@@ -34,7 +34,7 @@ The production site is the `dist/` folder. No backend, runtime dependencies, ext
 - Backup codes (`STORYSPARK-…`) carry one explorer's progress to another browser, device, the Home Screen app, or a future custom domain; restore them from "Have a backup code?" on the sign-in screen.
 - Installable: web app manifest and icons in `public/`; the app asks the browser to keep its storage. On iPhone/iPad, Home Screen apps are exempt from Safari's 7-day storage cleanup but start with their own empty storage, so use a backup code to move progress in.
 - A quiz in progress resumes after a refresh; leaving the quiz screen after answering asks first. Explore remembers its search text and scroll position.
-- Read To Me: the browser's built-in speech reads each page aloud and highlights words as they are spoken (hidden when the browser has no speech support).
+- Read To Me: recorded narration (ElevenLabs voice "Leela", calm settings) with word-by-word highlighting. Falls back to the browser's speech voice when a page has no matching recording.
 - Play Zone shows time left on unlocked games and best scores for every game. Tic-Tac-Toe has Easy Robot, Clever Robot and Two Players modes.
 - Offline: `sw.js` caches the app files (network first, so updates appear immediately) and every image once shown. Bump `VERSION` in `sw.js` after replacing an image under the same file name. Data stays on the current browser/device; clearing browser data removes it. Changing from localhost to a hosted domain starts a separate progress collection.
 - Each correct answer earns 10 points. An 80% quiz score earns a badge and game pass. A pass or 120 points unlocks one game for 24 hours. Replaying quizzes earns rewards, matching the iOS behavior.
@@ -47,6 +47,19 @@ Live at **https://storyspark.marwaan.net**.
 - Pages source is **GitHub Actions**; the custom domain `storyspark.marwaan.net` is set in repository Settings → Pages. DNS: a `CNAME` record for `storyspark` on `marwaan.net` pointing to `nuhil.github.io`.
 - Relative asset URLs and hash routes mean the site also works at a project path without a routing server.
 - Progress is stored per domain in each browser, so visits to the live domain start separate from local testing. Save codes move progress between them.
+
+## Narration
+
+`public/audio/<story_id>/<page>.mp3` holds one recording per page, and `public/audio/<story_id>.json` holds each page's text plus `[start, end]` seconds per word. The app only uses a recording when its stored text matches the current page text.
+
+After editing story text, regenerate the changed pages (unchanged pages are skipped):
+
+```sh
+node scripts/narrate.mjs            # all stories
+node scripts/narrate.mjs ocean_01   # one story
+```
+
+The script reads an ElevenLabs API key (Text to Speech permission) from `~/.config/storyspark/elevenlabs.key`. Voice, model and settings are constants at the top of `scripts/narrate.mjs`.
 
 ## Source organization
 
