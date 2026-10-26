@@ -1,0 +1,1258 @@
+{
+  "category": {
+    "category_name": "Emotions & Social Learning",
+    "category_id": "emotions_social",
+    "stories": [
+      {
+        "story_id": "emotions_social_01",
+        "title": "Happy, Sad, and Calm",
+        "learning_objectives": [
+          "People can feel happy, sad, angry, or calm.",
+          "Feelings can change during the day.",
+          "Faces and body clues can show feelings.",
+          "Slow breathing can help calm strong feelings.",
+          "Talking to a trusted adult helps when feelings are big."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Lina wakes up smiling because today is art day at school.",
+            "image_prompt": "a cheerful child waking up excited for school art day. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "At snack time, her banana drops on the floor, and she feels sad.",
+            "image_prompt": "a child looking sad after dropping banana during snack time. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Later, she cannot find her favorite crayon and feels frustrated.",
+            "image_prompt": "classroom moment with missing crayon and frustrated expression. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Her teacher says, Feelings change, and that is normal.",
+            "image_prompt": "kind teacher explaining that feelings can change. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Lina looks in the mirror and notices her face changes with each feeling.",
+            "image_prompt": "child observing different facial expressions in a mirror. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "She puts one hand on her tummy and takes three slow breaths.",
+            "image_prompt": "child practicing belly breathing with hand on tummy. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Her shoulders relax, and her body starts to feel calm again.",
+            "image_prompt": "calm body language after breathing in a quiet classroom corner. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "She tells her teacher, I felt upset, but now I feel better.",
+            "image_prompt": "child talking to teacher about feelings in a safe space. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "By playtime, Lina is happy again and ready to build with blocks.",
+            "image_prompt": "happy playtime with blocks after calming down. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Before bed, she remembers: feelings move like waves, and calm can come back.",
+            "image_prompt": "cozy bedtime reflection with emotion cards beside bed. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Can feelings change during the day?",
+            "options": [
+              "Yes",
+              "No",
+              "Only on weekends"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Feelings can change many times in one day.",
+            "fact_feedback_incorrect": "Not quite. Feelings often change during the day."
+          },
+          {
+            "question_id": 2,
+            "question": "What can show a feeling?",
+            "options": [
+              "face and body clues",
+              "shoe color only",
+              "cloud shape"
+            ],
+            "correct_answer": "face and body clues",
+            "fact_feedback_correct": "Yes. Faces and body language can show feelings.",
+            "fact_feedback_incorrect": "Try again. We can notice feelings from faces and body clues."
+          },
+          {
+            "question_id": 3,
+            "question": "What can help calm big feelings?",
+            "options": [
+              "slow breathing",
+              "running away",
+              "yelling louder"
+            ],
+            "correct_answer": "slow breathing",
+            "fact_feedback_correct": "Right. Slow breaths can help your body calm down.",
+            "fact_feedback_incorrect": "Almost. Slow breathing is a helpful calming tool."
+          },
+          {
+            "question_id": 4,
+            "question": "If feelings feel too big, who can help?",
+            "options": [
+              "a trusted adult",
+              "a broken toy",
+              "nobody"
+            ],
+            "correct_answer": "a trusted adult",
+            "fact_feedback_correct": "Correct. Trusted adults can help with strong feelings.",
+            "fact_feedback_incorrect": "Not this one. Talking to a trusted adult is a safe choice."
+          },
+          {
+            "question_id": 5,
+            "question": "Is it okay to feel sad sometimes?",
+            "options": [
+              "Yes",
+              "No",
+              "Never"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Exactly. All feelings are normal, and they pass.",
+            "fact_feedback_incorrect": "Good try. Feeling sad sometimes is normal for everyone."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_02",
+        "title": "When Anger Feels Big",
+        "learning_objectives": [
+          "Anger is a normal feeling.",
+          "Anger can feel hot, tight, or fast in the body.",
+          "Safe calming choices include breathing and counting.",
+          "Hands stay safe: no hitting, pushing, or throwing.",
+          "Using words helps solve problems after calming down."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Arun builds a tall block tower. A ball bumps it, and crash! The tower falls.",
+            "image_prompt": "block tower falling in classroom with surprised child. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Arun feels heat in his cheeks and tight fists. He feels very angry.",
+            "image_prompt": "child showing anger body clues like tight fists and red cheeks. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "He wants to shout, but he remembers the class safety rule.",
+            "image_prompt": "child pausing instead of shouting to follow safety rule. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Arun steps to the calm spot and takes dragon breaths: in and out.",
+            "image_prompt": "calm corner with child taking deep dragon breaths. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "He counts slowly to ten while opening and closing his hands.",
+            "image_prompt": "child counting to ten and relaxing hands. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "His body feels less tight. His heart beats slower.",
+            "image_prompt": "body calming down with softer posture and slower breathing. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Now Arun uses words: I felt mad when my tower fell.",
+            "image_prompt": "child using words to explain feelings to friend. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "His friend says sorry and helps rebuild the tower.",
+            "image_prompt": "friend apologizing and helping rebuild blocks. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "They build an even stronger tower with a wider base.",
+            "image_prompt": "two children rebuilding a stronger wider tower together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Arun learns anger is okay, and safe actions help it shrink.",
+            "image_prompt": "happy reflection scene about safe anger tools. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Is anger a normal feeling?",
+            "options": [
+              "Yes",
+              "No",
+              "Only for adults"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Anger is a normal emotion.",
+            "fact_feedback_incorrect": "Not quite. Anger is normal, but we use safe actions with it."
+          },
+          {
+            "question_id": 2,
+            "question": "Anger can feel...",
+            "options": [
+              "hot or tight in the body",
+              "like a nap",
+              "like floating"
+            ],
+            "correct_answer": "hot or tight in the body",
+            "fact_feedback_correct": "Yes. Bodies can feel tight or hot when angry.",
+            "fact_feedback_incorrect": "Try again. Anger often has body clues like heat and tightness."
+          },
+          {
+            "question_id": 3,
+            "question": "What is a safe calming choice?",
+            "options": [
+              "breathing and counting",
+              "throwing toys",
+              "pushing friends"
+            ],
+            "correct_answer": "breathing and counting",
+            "fact_feedback_correct": "Right. Breathing and counting can calm anger safely.",
+            "fact_feedback_incorrect": "Not this one. Safe tools include breathing and counting."
+          },
+          {
+            "question_id": 4,
+            "question": "When angry, hands should...",
+            "options": [
+              "stay safe",
+              "hit",
+              "throw"
+            ],
+            "correct_answer": "stay safe",
+            "fact_feedback_correct": "Correct. Hands stay safe during big feelings.",
+            "fact_feedback_incorrect": "Almost. We do not hit or throw when angry."
+          },
+          {
+            "question_id": 5,
+            "question": "After calming down, we should...",
+            "options": [
+              "use words",
+              "run away forever",
+              "hide feelings"
+            ],
+            "correct_answer": "use words",
+            "fact_feedback_correct": "Exactly. Words help solve the problem.",
+            "fact_feedback_incorrect": "Good try. Using words after calming down helps repair problems."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_03",
+        "title": "Brave with New Things",
+        "learning_objectives": [
+          "Worry is a normal feeling before new experiences.",
+          "Body clues of worry can include a fast heartbeat or quiet voice.",
+          "Small steps can make hard things easier.",
+          "Asking for help is a brave choice.",
+          "Practice can turn worry into feeling brave."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Today is swimming day. Nora feels butterflies in her tummy.",
+            "image_prompt": "child feeling nervous before first swim lesson. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "She stands near the pool and hears loud splashes. Her voice gets quiet.",
+            "image_prompt": "poolside with quiet child and loud splash sounds. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Coach smiles and says, We can do this one small step at a time.",
+            "image_prompt": "supportive coach encouraging small steps. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Step one: dip toes in water. Step two: hold the wall.",
+            "image_prompt": "toes in water and child holding pool wall. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Nora breathes slowly and tries each step.",
+            "image_prompt": "child breathing slowly before trying next step. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "She asks, Can you stay close? Coach says, Yes, I am right here.",
+            "image_prompt": "child asking coach for help and reassurance. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Soon Nora kicks while holding the wall.",
+            "image_prompt": "child practicing kicks while holding wall. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Then she floats with a noodle and a big grin.",
+            "image_prompt": "happy floating practice with pool noodle. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "After practice, Nora says, I was worried, and then I got brave.",
+            "image_prompt": "proud child after swim lesson progress. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "She learns courage is not no fear; courage is trying with support.",
+            "image_prompt": "reflection scene about courage and support. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Is it normal to feel worried before something new?",
+            "options": [
+              "Yes",
+              "No",
+              "Never"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Worry before new things is normal.",
+            "fact_feedback_incorrect": "Not quite. Many people feel worried before trying new activities."
+          },
+          {
+            "question_id": 2,
+            "question": "A body clue for worry can be...",
+            "options": [
+              "fast heartbeat",
+              "sleeping instantly",
+              "flying"
+            ],
+            "correct_answer": "fast heartbeat",
+            "fact_feedback_correct": "Yes. Worry can make the heart beat faster.",
+            "fact_feedback_incorrect": "Try again. Fast heartbeat can be a clue for worry."
+          },
+          {
+            "question_id": 3,
+            "question": "What can help with new challenges?",
+            "options": [
+              "small steps",
+              "giving up first",
+              "hiding forever"
+            ],
+            "correct_answer": "small steps",
+            "fact_feedback_correct": "Right. Small steps make hard tasks manageable.",
+            "fact_feedback_incorrect": "Almost. Taking one small step at a time helps."
+          },
+          {
+            "question_id": 4,
+            "question": "Asking for help is...",
+            "options": [
+              "brave",
+              "wrong",
+              "impossible"
+            ],
+            "correct_answer": "brave",
+            "fact_feedback_correct": "Correct. Asking for help is a strong and smart action.",
+            "fact_feedback_incorrect": "Not this one. Asking for help is brave."
+          },
+          {
+            "question_id": 5,
+            "question": "Practice can turn worry into...",
+            "options": [
+              "feeling brave",
+              "confusion",
+              "thunder"
+            ],
+            "correct_answer": "feeling brave",
+            "fact_feedback_correct": "Exactly. Practice helps us feel braver.",
+            "fact_feedback_incorrect": "Good try. With practice, worry can become feeling brave."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_04",
+        "title": "Sharing and Taking Turns",
+        "learning_objectives": [
+          "Sharing means letting others use things too.",
+          "Taking turns helps play stay fair.",
+          "Timers and simple rules support turn-taking.",
+          "Waiting can be hard but gets easier with practice.",
+          "Kind words help when solving turn problems."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "At the playground, two children want the same red scooter.",
+            "image_prompt": "playground with two children wanting one red scooter. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Both hold the handle and frown.",
+            "image_prompt": "children frowning while both hold scooter handle. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Teacher Maya says, Let's make a turn plan.",
+            "image_prompt": "teacher introducing a fair turn-taking plan. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "She sets a one-minute timer for each rider.",
+            "image_prompt": "simple timer and cones for scooter turns. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "First, Imani rides while Ravi waits by the cone.",
+            "image_prompt": "one child riding while another waits calmly. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "When the timer beeps, Imani returns the scooter and smiles.",
+            "image_prompt": "timer beeping and scooter passed politely. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Now Ravi rides his turn.",
+            "image_prompt": "second child taking their turn on scooter. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "The children discover waiting feels easier when the rules are clear.",
+            "image_prompt": "children understanding clear rules for waiting. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Later they even share helmets and cheer for each other.",
+            "image_prompt": "kids sharing helmets and cheering each other. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "They learn fair turns make play longer and happier for everyone.",
+            "image_prompt": "happy playground scene with fair turn-taking. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What does sharing mean?",
+            "options": [
+              "letting others use things too",
+              "keeping everything",
+              "breaking toys"
+            ],
+            "correct_answer": "letting others use things too",
+            "fact_feedback_correct": "Correct. Sharing lets others participate.",
+            "fact_feedback_incorrect": "Try again. Sharing means letting others use things too."
+          },
+          {
+            "question_id": 2,
+            "question": "Taking turns helps play be...",
+            "options": [
+              "fair",
+              "confusing",
+              "short"
+            ],
+            "correct_answer": "fair",
+            "fact_feedback_correct": "Yes. Turns make play fair.",
+            "fact_feedback_incorrect": "Not quite. Turn-taking helps fairness."
+          },
+          {
+            "question_id": 3,
+            "question": "What can help with turn-taking?",
+            "options": [
+              "a timer and simple rules",
+              "yelling",
+              "running away"
+            ],
+            "correct_answer": "a timer and simple rules",
+            "fact_feedback_correct": "Right. Timers and clear rules support turns.",
+            "fact_feedback_incorrect": "Almost. A timer and simple rules can help everyone take turns."
+          },
+          {
+            "question_id": 4,
+            "question": "Is waiting always easy?",
+            "options": [
+              "No, but practice helps",
+              "Yes, always easy",
+              "Only at night"
+            ],
+            "correct_answer": "No, but practice helps",
+            "fact_feedback_correct": "Correct. Waiting can be hard, and practice helps.",
+            "fact_feedback_incorrect": "Good try. Waiting is hard sometimes, but it gets easier with practice."
+          },
+          {
+            "question_id": 5,
+            "question": "When turn problems happen, we should use...",
+            "options": [
+              "kind words",
+              "pushing",
+              "mean names"
+            ],
+            "correct_answer": "kind words",
+            "fact_feedback_correct": "Exactly. Kind words help solve turn problems.",
+            "fact_feedback_incorrect": "Not this one. Kind words are the safe and respectful choice."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_05",
+        "title": "Listening Ears, Kind Words",
+        "learning_objectives": [
+          "Listening means paying attention with eyes, ears, and body.",
+          "Taking turns to talk helps everyone feel heard.",
+          "Kind words can solve small social problems.",
+          "Interrupting can make others feel ignored.",
+          "Repeating back what someone said shows understanding."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "In circle time, the teacher shares a talking shell.",
+            "image_prompt": "circle time with teacher holding a talking shell. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Only the child holding the shell speaks.",
+            "image_prompt": "child speaking while others listen attentively. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "When Leo talks, Mina keeps her eyes on him and listens.",
+            "image_prompt": "active listening with eye contact and calm posture. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Mina wants to speak too, but she waits for her turn.",
+            "image_prompt": "child waiting patiently to speak. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "When she gets the shell, she speaks clearly and kindly.",
+            "image_prompt": "child speaking kindly when receiving talking shell. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Leo says, So you felt proud when you finished your puzzle?",
+            "image_prompt": "friend repeating back message to show understanding. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Mina nods. Leo repeated her idea to show he understood.",
+            "image_prompt": "children nodding to confirm understanding. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "At recess, they use kind words to solve who goes first on the slide.",
+            "image_prompt": "recess conflict solved with kind words at slide. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Everyone gets a turn to talk and a turn to play.",
+            "image_prompt": "group taking turns talking and playing. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "The class learns listening and kind words make friendship stronger.",
+            "image_prompt": "classroom friendship scene built on listening. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is listening?",
+            "options": [
+              "paying attention",
+              "looking away",
+              "talking over others"
+            ],
+            "correct_answer": "paying attention",
+            "fact_feedback_correct": "Correct. Listening means paying attention with body and mind.",
+            "fact_feedback_incorrect": "Try again. Listening is active attention."
+          },
+          {
+            "question_id": 2,
+            "question": "Taking turns to talk helps people feel...",
+            "options": [
+              "heard",
+              "ignored",
+              "invisible"
+            ],
+            "correct_answer": "heard",
+            "fact_feedback_correct": "Yes. Turn-taking helps everyone feel heard.",
+            "fact_feedback_incorrect": "Not quite. Taking turns helps each person feel heard."
+          },
+          {
+            "question_id": 3,
+            "question": "Kind words can...",
+            "options": [
+              "solve small problems",
+              "break toys",
+              "stop music forever"
+            ],
+            "correct_answer": "solve small problems",
+            "fact_feedback_correct": "Right. Kind language helps solve social problems.",
+            "fact_feedback_incorrect": "Almost. Kind words are useful for solving problems."
+          },
+          {
+            "question_id": 4,
+            "question": "Interrupting can make others feel...",
+            "options": [
+              "ignored",
+              "excited",
+              "taller"
+            ],
+            "correct_answer": "ignored",
+            "fact_feedback_correct": "Correct. Interrupting can make others feel ignored.",
+            "fact_feedback_incorrect": "Good try. Interrupting often makes others feel unheard."
+          },
+          {
+            "question_id": 5,
+            "question": "Repeating back someone's idea shows...",
+            "options": [
+              "understanding",
+              "anger",
+              "sleepiness"
+            ],
+            "correct_answer": "understanding",
+            "fact_feedback_correct": "Exactly. Repeating key words shows you understood.",
+            "fact_feedback_incorrect": "Not this one. Repeating back can show understanding."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_06",
+        "title": "Making a New Friend",
+        "learning_objectives": [
+          "Friendship can start with a simple greeting.",
+          "Inviting others to play helps everyone feel included.",
+          "Shared interests can build connection.",
+          "Respecting No is part of friendship.",
+          "Being kind and steady helps trust grow."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "At the park, Sora sees a new child drawing in the sand.",
+            "image_prompt": "park sandbox with one child drawing quietly. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Sora walks over and says, Hi, I am Sora. Want to build roads together?",
+            "image_prompt": "friendly greeting between two children in sandbox. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "The new child, Ben, smiles and says yes.",
+            "image_prompt": "new child smiling and agreeing to play. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "They discover both like toy trucks and bridges.",
+            "image_prompt": "kids discovering shared interest in toy trucks and bridges. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Soon they make a whole sand city with tunnels and ramps.",
+            "image_prompt": "sand city with tunnels ramps and teamwork. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "When Ben wants a quiet minute, Sora gives him space.",
+            "image_prompt": "one child respecting another's need for quiet space. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "After resting, Ben joins again and thanks Sora for waiting.",
+            "image_prompt": "children reconnecting after a short break. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "They cheer each other when a tower stands tall.",
+            "image_prompt": "kids cheering each other's building success. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "By sunset, they plan to meet again next weekend.",
+            "image_prompt": "sunset park scene with friends planning to meet again. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Sora learns friendship grows from hello, kindness, and respect.",
+            "image_prompt": "warm reflection scene about friendship values. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A friendship can start with...",
+            "options": [
+              "a simple hello",
+              "a loud argument",
+              "ignoring someone"
+            ],
+            "correct_answer": "a simple hello",
+            "fact_feedback_correct": "Correct. Saying hello can begin a friendship.",
+            "fact_feedback_incorrect": "Try again. A friendly hello is a strong first step."
+          },
+          {
+            "question_id": 2,
+            "question": "Inviting others to play helps...",
+            "options": [
+              "everyone feel included",
+              "leaving others out",
+              "confusion"
+            ],
+            "correct_answer": "everyone feel included",
+            "fact_feedback_correct": "Yes. Invitations help others feel included.",
+            "fact_feedback_incorrect": "Not quite. Inviting others helps everyone feel included."
+          },
+          {
+            "question_id": 3,
+            "question": "Shared interests can build...",
+            "options": [
+              "connection",
+              "traffic",
+              "storms"
+            ],
+            "correct_answer": "connection",
+            "fact_feedback_correct": "Right. Shared interests can connect people.",
+            "fact_feedback_incorrect": "Almost. Shared interests often help friendship grow."
+          },
+          {
+            "question_id": 4,
+            "question": "If a friend says No or needs space, we should...",
+            "options": [
+              "respect it",
+              "force them",
+              "laugh at them"
+            ],
+            "correct_answer": "respect it",
+            "fact_feedback_correct": "Correct. Respecting personal space is part of friendship.",
+            "fact_feedback_incorrect": "Not this one. Respecting No is important and safe."
+          },
+          {
+            "question_id": 5,
+            "question": "Trust grows with...",
+            "options": [
+              "kind and steady behavior",
+              "mean jokes",
+              "broken promises"
+            ],
+            "correct_answer": "kind and steady behavior",
+            "fact_feedback_correct": "Exactly. Steady kindness helps trust grow.",
+            "fact_feedback_incorrect": "Good try. Trust grows with kindness and steady care."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_07",
+        "title": "Fixing a Small Conflict",
+        "learning_objectives": [
+          "Conflicts happen when people want different things.",
+          "Stopping and calming down comes before problem solving.",
+          "I statements can share feelings clearly.",
+          "Listening to both sides helps find fair solutions.",
+          "Repairing a conflict can include apology and action."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Two friends both grab the same blue marker and begin to argue.",
+            "image_prompt": "two children reaching for one blue marker and arguing. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Their teacher says, Pause. Hands safe. Voices soft.",
+            "image_prompt": "teacher guiding pause with safe hands and soft voices. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Each child takes one breath to calm down.",
+            "image_prompt": "children taking calming breaths before talking. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Mika says, I felt upset when the marker was taken from me.",
+            "image_prompt": "child using I felt statement respectfully. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Jon says, I felt rushed because I needed blue for the sky.",
+            "image_prompt": "other child sharing their side calmly. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "They listen to each other without interrupting.",
+            "image_prompt": "both children listening without interrupting. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Together they make a plan: two minutes each, then switch.",
+            "image_prompt": "visual timer for two minute turns with marker. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Jon apologizes for grabbing. Mika apologizes for yelling.",
+            "image_prompt": "children exchanging apologies and nodding. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "They finish the drawing and add a bright rainbow together.",
+            "image_prompt": "collaborative drawing with rainbow at table. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Both learn conflicts can be fixed with calm words and fair plans.",
+            "image_prompt": "happy resolution scene after conflict repair. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is a conflict?",
+            "options": [
+              "when people want different things",
+              "a bedtime song",
+              "a snack"
+            ],
+            "correct_answer": "when people want different things",
+            "fact_feedback_correct": "Correct. Conflict often starts from different wants or needs.",
+            "fact_feedback_incorrect": "Try again. Conflicts happen when people want different things."
+          },
+          {
+            "question_id": 2,
+            "question": "Before solving a conflict, we should...",
+            "options": [
+              "calm down",
+              "shout louder",
+              "walk away forever"
+            ],
+            "correct_answer": "calm down",
+            "fact_feedback_correct": "Yes. Calm bodies and voices help problem solving.",
+            "fact_feedback_incorrect": "Not this one. First calm down, then solve."
+          },
+          {
+            "question_id": 3,
+            "question": "An I statement sounds like...",
+            "options": [
+              "I felt upset when...",
+              "You are bad",
+              "No words"
+            ],
+            "correct_answer": "I felt upset when...",
+            "fact_feedback_correct": "Right. I statements share feelings clearly and respectfully.",
+            "fact_feedback_incorrect": "Almost. I statements begin with your feeling, like I felt upset."
+          },
+          {
+            "question_id": 4,
+            "question": "Fair solutions need...",
+            "options": [
+              "listening to both sides",
+              "choosing one side only",
+              "ignoring everyone"
+            ],
+            "correct_answer": "listening to both sides",
+            "fact_feedback_correct": "Correct. Listening to both people helps fairness.",
+            "fact_feedback_incorrect": "Good try. Fair plans come from hearing both sides."
+          },
+          {
+            "question_id": 5,
+            "question": "Repair can include...",
+            "options": [
+              "apology and action",
+              "more yelling",
+              "taking toys"
+            ],
+            "correct_answer": "apology and action",
+            "fact_feedback_correct": "Exactly. A real repair uses sorry plus better actions.",
+            "fact_feedback_incorrect": "Not quite. Repair can include apology and a better plan."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_08",
+        "title": "Teamwork at Playtime",
+        "learning_objectives": [
+          "Teamwork means people work together toward one goal.",
+          "Team members can have different jobs.",
+          "Asking for ideas helps everyone join.",
+          "Encouraging words support teammates.",
+          "Working together can solve bigger challenges."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "During playtime, the class is asked to build one giant cardboard train.",
+            "image_prompt": "classroom project to build giant cardboard train. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "They choose team jobs: cutters, tapers, painters, and decorators.",
+            "image_prompt": "children selecting team roles like cutting taping painting. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Nia asks, What color should our train be? Everyone shares ideas.",
+            "image_prompt": "child asking team for color ideas. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "The team votes for red with yellow stars.",
+            "image_prompt": "group voting for red train with yellow stars. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Kai tapes the wheels while Rina paints the windows.",
+            "image_prompt": "team members working on wheels and windows. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "When tape tears, a friend says, Try again, I can hold this side.",
+            "image_prompt": "encouraging teammate helping with torn tape. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Soon the train has doors, seats, and a paper bell.",
+            "image_prompt": "finished cardboard train with details and paper bell. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Each child adds one final detail before the parade.",
+            "image_prompt": "each child adding final decoration. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "They pull the train together around the room, laughing.",
+            "image_prompt": "class parade pulling cardboard train together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "The class learns teamwork makes big projects possible and fun.",
+            "image_prompt": "proud teamwork celebration in classroom. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is teamwork?",
+            "options": [
+              "working together on one goal",
+              "working alone always",
+              "quitting quickly"
+            ],
+            "correct_answer": "working together on one goal",
+            "fact_feedback_correct": "Correct. Teamwork is shared effort toward a common goal.",
+            "fact_feedback_incorrect": "Try again. Teamwork means working together for one goal."
+          },
+          {
+            "question_id": 2,
+            "question": "In a team, people can have...",
+            "options": [
+              "different jobs",
+              "one identical job only",
+              "no jobs"
+            ],
+            "correct_answer": "different jobs",
+            "fact_feedback_correct": "Yes. Different roles help teams work smoothly.",
+            "fact_feedback_incorrect": "Not quite. Team members often do different tasks."
+          },
+          {
+            "question_id": 3,
+            "question": "Asking for ideas helps...",
+            "options": [
+              "everyone join",
+              "only one person",
+              "nobody"
+            ],
+            "correct_answer": "everyone join",
+            "fact_feedback_correct": "Right. Asking ideas invites participation.",
+            "fact_feedback_incorrect": "Almost. Asking ideas helps everyone feel included."
+          },
+          {
+            "question_id": 4,
+            "question": "Encouraging words are...",
+            "options": [
+              "helpful",
+              "hurtful",
+              "useless"
+            ],
+            "correct_answer": "helpful",
+            "fact_feedback_correct": "Correct. Encouragement supports teammates.",
+            "fact_feedback_incorrect": "Not this one. Kind encouragement helps teams succeed."
+          },
+          {
+            "question_id": 5,
+            "question": "Working together can solve...",
+            "options": [
+              "bigger challenges",
+              "nothing",
+              "only easy tasks"
+            ],
+            "correct_answer": "bigger challenges",
+            "fact_feedback_correct": "Exactly. Teamwork helps with bigger projects.",
+            "fact_feedback_incorrect": "Good try. Teams can handle bigger challenges together."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_09",
+        "title": "Sorry and Repair",
+        "learning_objectives": [
+          "Mistakes happen, and people can repair them.",
+          "A good apology names what happened.",
+          "A good apology includes how to fix it.",
+          "Repair actions rebuild trust.",
+          "Forgiveness can take time and patience."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Milo bumps into Ava's block bridge, and it falls apart.",
+            "image_prompt": "block bridge accident in classroom with surprised children. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Ava looks upset and crosses her arms.",
+            "image_prompt": "upset child with crossed arms near fallen blocks. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Milo pauses and says, I am sorry I knocked your bridge down.",
+            "image_prompt": "child giving clear apology statement. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "He adds, I can help rebuild it right now.",
+            "image_prompt": "child offering to rebuild as repair action. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Ava nods slowly and says, Okay, let's make it stronger.",
+            "image_prompt": "friends agreeing to repair together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "They gather blocks and rebuild with two wide supports.",
+            "image_prompt": "rebuilding stronger bridge with teamwork. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Milo checks each piece carefully before stepping back.",
+            "image_prompt": "careful checking of rebuilt bridge structure. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Ava smiles and says, Thank you for helping fix it.",
+            "image_prompt": "grateful smile after repair. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Milo learns saying sorry means words plus helpful action.",
+            "image_prompt": "reflection on words plus actions in apology. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Both friends learn trust grows again through repair and time.",
+            "image_prompt": "friends restored trust during calm playtime. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Do mistakes happen to everyone?",
+            "options": [
+              "Yes",
+              "No",
+              "Only to teachers"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Everyone makes mistakes sometimes.",
+            "fact_feedback_incorrect": "Not quite. Mistakes happen to everyone, and we can repair them."
+          },
+          {
+            "question_id": 2,
+            "question": "A good apology should...",
+            "options": [
+              "name what happened",
+              "blame others",
+              "hide silently"
+            ],
+            "correct_answer": "name what happened",
+            "fact_feedback_correct": "Yes. Clear apologies explain what happened.",
+            "fact_feedback_incorrect": "Try again. A helpful apology names the mistake clearly."
+          },
+          {
+            "question_id": 3,
+            "question": "A good apology also includes...",
+            "options": [
+              "a plan to fix it",
+              "a joke",
+              "running away"
+            ],
+            "correct_answer": "a plan to fix it",
+            "fact_feedback_correct": "Right. Repair actions are part of a strong apology.",
+            "fact_feedback_incorrect": "Almost. Apology should include how to make it better."
+          },
+          {
+            "question_id": 4,
+            "question": "Repair actions help rebuild...",
+            "options": [
+              "trust",
+              "rainbows",
+              "shadows"
+            ],
+            "correct_answer": "trust",
+            "fact_feedback_correct": "Correct. Helpful actions rebuild trust.",
+            "fact_feedback_incorrect": "Not this one. Repair actions help trust grow again."
+          },
+          {
+            "question_id": 5,
+            "question": "Does forgiveness always happen instantly?",
+            "options": [
+              "No, it can take time",
+              "Yes, always instant",
+              "Only on holidays"
+            ],
+            "correct_answer": "No, it can take time",
+            "fact_feedback_correct": "Exactly. Forgiveness can need time and patience.",
+            "fact_feedback_incorrect": "Good try. Forgiveness may take time, and that is okay."
+          }
+        ]
+      },
+      {
+        "story_id": "emotions_social_10",
+        "title": "Gratitude and Caring Hearts",
+        "learning_objectives": [
+          "Gratitude means noticing and appreciating help or kindness.",
+          "People can show gratitude with words, notes, or actions.",
+          "Helping others builds a caring group.",
+          "Small acts of kindness matter.",
+          "Practicing gratitude can improve mood and friendships."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "In class, Teacher Sam starts a gratitude wall.",
+            "image_prompt": "classroom gratitude wall setup with paper leaves. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Each child writes one thankful note on a paper leaf.",
+            "image_prompt": "children writing thankful notes and drawing hearts. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Lina writes, Thank you to Dad for reading with me.",
+            "image_prompt": "child writing thank you note for parent reading time. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Omar writes, Thank you to my friend for sharing crayons.",
+            "image_prompt": "child thanking friend for sharing crayons. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "The wall fills with kind notes and bright drawings.",
+            "image_prompt": "full gratitude wall with colorful notes. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "After lunch, children help clean tables without being asked.",
+            "image_prompt": "children helping clean lunch tables together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "They deliver a thank you card to the school cook.",
+            "image_prompt": "kids delivering thank you card to school cook. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "The cook smiles and says their kindness made her day better.",
+            "image_prompt": "smiling cook receiving appreciation card. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Lina notices she feels warm and happy when she gives thanks.",
+            "image_prompt": "child feeling warm and happy after giving thanks. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "The class learns small gratitude actions can spread kindness everywhere.",
+            "image_prompt": "class celebration of kindness and gratitude. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is gratitude?",
+            "options": [
+              "appreciating help or kindness",
+              "collecting stones",
+              "making noise"
+            ],
+            "correct_answer": "appreciating help or kindness",
+            "fact_feedback_correct": "Correct. Gratitude means noticing and appreciating kindness.",
+            "fact_feedback_incorrect": "Try again. Gratitude is appreciation for help and kindness."
+          },
+          {
+            "question_id": 2,
+            "question": "How can people show gratitude?",
+            "options": [
+              "words, notes, or actions",
+              "only by whispering",
+              "only by gifts"
+            ],
+            "correct_answer": "words, notes, or actions",
+            "fact_feedback_correct": "Yes. Gratitude can be shown in many simple ways.",
+            "fact_feedback_incorrect": "Not quite. People can show gratitude through words, notes, and helpful actions."
+          },
+          {
+            "question_id": 3,
+            "question": "Helping others builds...",
+            "options": [
+              "a caring group",
+              "empty rooms",
+              "traffic jams"
+            ],
+            "correct_answer": "a caring group",
+            "fact_feedback_correct": "Right. Helpful actions build a caring group.",
+            "fact_feedback_incorrect": "Almost. Helping others supports a caring group."
+          },
+          {
+            "question_id": 4,
+            "question": "Do small acts of kindness matter?",
+            "options": [
+              "Yes",
+              "No",
+              "Only in stories"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Small kindness acts can make a big difference.",
+            "fact_feedback_incorrect": "Not this one. Small acts of kindness matter a lot."
+          },
+          {
+            "question_id": 5,
+            "question": "Practicing gratitude can improve...",
+            "options": [
+              "mood and friendships",
+              "shoe size",
+              "weather"
+            ],
+            "correct_answer": "mood and friendships",
+            "fact_feedback_correct": "Exactly. Gratitude can boost mood and strengthen friendships.",
+            "fact_feedback_incorrect": "Good try. Gratitude practice can improve mood and friendships."
+          }
+        ]
+      }
+    ]
+  }
+}

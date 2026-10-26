@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "Animals",
+    "category_id": "animals",
+    "stories": [
+      {
+        "story_id": "animals_01",
+        "title": "Ellie the Elephant and the Splashy Mud Bath",
+        "learning_objectives": [
+          "Elephants are the largest land animals",
+          "Elephants use a trunk to smell, drink, and pick up food",
+          "Elephants live in family groups called herds",
+          "Elephants eat plants like grass, leaves, and fruit",
+          "Mud and dust can help protect elephant skin from sun and bugs"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Morning sun warms the savanna. Ellie the elephant stomps gently, feeling the ground rumble under her giant feet.",
+            "image_prompt": "Flat pastel illustration of a friendly elephant on sunny savanna, soft grass, warm sky, gentle smile, simple shapes, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "She curls her long trunk to sniff the air. The trunk smells water, trees, and even tiny flowers far away.",
+            "image_prompt": "Flat pastel illustration of elephant lifting trunk with small scent-wave icons, nearby acacia tree and flowers, soft shading. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "At the river, Ellie drinks like a straw. Her trunk sucks water up, then pours it neatly into her mouth.",
+            "image_prompt": "Flat pastel illustration of elephant at river using trunk like a straw, clear water, bubbles, calm scene. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Ellie plucks leafy branches with her trunk and munches slowly. Elephants are plant-eaters, so greens are their fuel.",
+            "image_prompt": "Flat pastel illustration of elephant picking leaves from branch with trunk, scattered grass, cheerful toddler style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Aunties and cousins arrive. Ellie’s herd stays close, helping babies, sharing paths, and watching for trouble together.",
+            "image_prompt": "Flat pastel illustration of elephant herd with adults and baby, protective circle, warm family feel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Heat rises at noon, so Ellie heads to a muddy puddle. Cool mud feels squishy and makes her giggle.",
+            "image_prompt": "Flat pastel illustration of elephant stepping into a muddy puddle, playful splashes, non-messy cute mud texture. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "She sprays mud on her back with her trunk. Mud can block sun and chase away itchy bugs.",
+            "image_prompt": "Flat pastel illustration of elephant spraying mud onto back with trunk, sun icon and tiny bug icons, friendly educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "After drying, the mud becomes dusty armor. Ellie scratches on a tree, then flaps her big ears to cool off.",
+            "image_prompt": "Flat pastel illustration of elephant rubbing against tree, ear-flap motion lines, calm savanna background. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Before sunset, the herd walks toward new grass. Ellie remembers the map: follow water, follow shade, stay together.",
+            "image_prompt": "Flat pastel illustration of elephants walking at sunset with simple trail line, water and shade icons, gentle colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Night stars appear. Ellie rests beside her family, trunk tucked in, dreaming of green leaves and fresh river sips.",
+            "image_prompt": "Flat pastel illustration of elephants resting under stars, cozy calm mood, soft night blues, kid-friendly. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What kind of animal is Ellie?",
+            "options": [
+              "An elephant",
+              "A zebra",
+              "A penguin"
+            ],
+            "correct_answer": "An elephant",
+            "fact_feedback_correct": "You are right! Ellie is an elephant, and elephants are the largest land animals.",
+            "fact_feedback_incorrect": "You missed the fact: Ellie is an elephant, and elephants are the largest land animals."
+          },
+          {
+            "question_id": 2,
+            "question": "Elephants use their trunk to…",
+            "options": [
+              "Smell and drink",
+              "Fly and sing",
+              "Build nests"
+            ],
+            "correct_answer": "Smell and drink",
+            "fact_feedback_correct": "Correct! A trunk helps elephants smell, drink, and pick up food.",
+            "fact_feedback_incorrect": "You missed the fact: A trunk helps elephants smell, drink, and pick up food."
+          },
+          {
+            "question_id": 3,
+            "question": "Elephants mostly eat…",
+            "options": [
+              "Plants",
+              "Fish",
+              "Candy"
+            ],
+            "correct_answer": "Plants",
+            "fact_feedback_correct": "Correct! Elephants are plant-eaters, so they eat grass, leaves, and fruit.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants are plant-eaters and eat grass, leaves, and fruit."
+          },
+          {
+            "question_id": 4,
+            "question": "A family group of elephants is called a…",
+            "options": [
+              "Herd",
+              "Hive",
+              "School"
+            ],
+            "correct_answer": "Herd",
+            "fact_feedback_correct": "Yes! Elephants live in family groups called herds.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants live in family groups called herds."
+          },
+          {
+            "question_id": 5,
+            "question": "Why does Ellie spray mud on her body?",
+            "options": [
+              "To help protect skin",
+              "To turn into a fish",
+              "To make ice"
+            ],
+            "correct_answer": "To help protect skin",
+            "fact_feedback_correct": "Right! Mud can block sun and help keep bugs away from elephant skin.",
+            "fact_feedback_incorrect": "You missed the fact: Mud can block sun and help keep bugs away."
+          },
+          {
+            "question_id": 6,
+            "question": "Elephants are the largest animals that live on…",
+            "options": [
+              "Land",
+              "Trees only",
+              "Clouds"
+            ],
+            "correct_answer": "Land",
+            "fact_feedback_correct": "Correct! Elephants are the biggest animals that live on land.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants are the biggest animals that live on land."
+          },
+          {
+            "question_id": 7,
+            "question": "Ellie drinks water by…",
+            "options": [
+              "Sucking it up with her trunk",
+              "Catching it with wings",
+              "Digging with claws"
+            ],
+            "correct_answer": "Sucking it up with her trunk",
+            "fact_feedback_correct": "Yes! An elephant trunk can suck up water and pour it into the mouth.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants suck water up with the trunk, then pour it into the mouth."
+          },
+          {
+            "question_id": 8,
+            "question": "Elephants stay safer when they…",
+            "options": [
+              "Stay together",
+              "Hide in the ocean",
+              "Sleep in the sky"
+            ],
+            "correct_answer": "Stay together",
+            "fact_feedback_correct": "Correct! Herds stay close to help protect babies and watch for danger.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants stay safer by staying together in a herd."
+          },
+          {
+            "question_id": 9,
+            "question": "Big elephant ears can help with…",
+            "options": [
+              "Cooling off",
+              "Reading books",
+              "Growing flowers"
+            ],
+            "correct_answer": "Cooling off",
+            "fact_feedback_correct": "Right! Flapping big ears helps elephants cool down in hot weather.",
+            "fact_feedback_incorrect": "You missed the fact: Elephants flap big ears to help cool off."
+          },
+          {
+            "question_id": 10,
+            "question": "Mud and dust can help elephants by…",
+            "options": [
+              "Blocking sun and bugs",
+              "Making them invisible forever",
+              "Turning water into juice"
+            ],
+            "correct_answer": "Blocking sun and bugs",
+            "fact_feedback_correct": "Correct! Mud and dust can protect skin from sun and biting insects.",
+            "fact_feedback_incorrect": "You missed the fact: Mud and dust can protect elephant skin from sun and insects."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_02",
+        "title": "Leo the Lion and the Evening Roar",
+        "learning_objectives": [
+          "Lions are big cats",
+          "Lions live in groups called prides",
+          "Lions rest a lot during the hottest hours",
+          "Lions communicate using roars and body signals",
+          "Lions are carnivores (meat-eaters)"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Golden grass sways in the breeze. Leo the lion blinks slowly, watching the savanna wake up around his pride.",
+            "image_prompt": "Flat pastel illustration of friendly lion in tall savanna grass, warm sunrise, gentle face, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Under a shady tree, the pride lounges together. Lions rest many hours to save energy during hot days.",
+            "image_prompt": "Flat pastel illustration of lions resting under acacia tree shade, calm and cozy, soft pastel palette. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Leo’s ears twitch at distant sounds. He listens for footsteps, birds, and the soft calls of his family.",
+            "image_prompt": "Flat pastel illustration of lion listening with small sound icons, distant birds, gentle scene. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When the air cools, the pride stands and stretches. Evening is a common time for lions to move and hunt.",
+            "image_prompt": "Flat pastel illustration of lions stretching at sunset, warm sky gradient, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Leo lifts his head and roars. The roar tells other lions, “This is our home area—hello, stay away!”",
+            "image_prompt": "Flat pastel illustration of lion roaring with soft sound-wave lines, non-scary, friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Other lions answer far away. Roars can travel a long distance across open grasslands.",
+            "image_prompt": "Flat pastel illustration of distant lions with echo sound waves across savanna, educational and gentle. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Leo’s pride works as a team. Lions can cooperate, using quiet steps and careful watching.",
+            "image_prompt": "Flat pastel illustration of lion family moving together, teamwork feel, safe and kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Lions are carnivores, so they eat meat. After eating, Leo drinks water and returns to shade.",
+            "image_prompt": "Flat pastel illustration of lion drinking near waterhole, respectful food implication without gore, calm style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Back at the tree, cubs play and practice pouncing. Play helps young animals learn important skills.",
+            "image_prompt": "Flat pastel illustration of lion cubs playing with gentle pounce poses, joyful and safe. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Night arrives softly. Leo lies close to his pride, calm and sleepy, while stars sparkle above the grass.",
+            "image_prompt": "Flat pastel illustration of lions resting under stars, cozy savanna night, soothing colors. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Lions are a kind of…",
+            "options": [
+              "Big cat",
+              "Bird",
+              "Fish"
+            ],
+            "correct_answer": "Big cat",
+            "fact_feedback_correct": "Correct! Lions are big cats.",
+            "fact_feedback_incorrect": "You missed the fact: Lions are big cats."
+          },
+          {
+            "question_id": 2,
+            "question": "A group of lions is called a…",
+            "options": [
+              "Pride",
+              "Herd",
+              "Hive"
+            ],
+            "correct_answer": "Pride",
+            "fact_feedback_correct": "Yes! Lions live in groups called prides.",
+            "fact_feedback_incorrect": "You missed the fact: Lions live in groups called prides."
+          },
+          {
+            "question_id": 3,
+            "question": "Lions rest a lot to…",
+            "options": [
+              "Save energy in heat",
+              "Grow leaves",
+              "Make rain"
+            ],
+            "correct_answer": "Save energy in heat",
+            "fact_feedback_correct": "Correct! Resting helps lions save energy during hot hours.",
+            "fact_feedback_incorrect": "You missed the fact: Lions rest to save energy during hot hours."
+          },
+          {
+            "question_id": 4,
+            "question": "A lion’s roar can travel…",
+            "options": [
+              "Far",
+              "Only one step",
+              "Not at all"
+            ],
+            "correct_answer": "Far",
+            "fact_feedback_correct": "Right! Roars can travel long distances across open land.",
+            "fact_feedback_incorrect": "You missed the fact: Roars can travel far across open land."
+          },
+          {
+            "question_id": 5,
+            "question": "Why does Leo roar?",
+            "options": [
+              "To communicate and mark area",
+              "To build a nest",
+              "To fly"
+            ],
+            "correct_answer": "To communicate and mark area",
+            "fact_feedback_correct": "Correct! Roars help lions communicate and warn others about their area.",
+            "fact_feedback_incorrect": "You missed the fact: Lions roar to communicate and warn others."
+          },
+          {
+            "question_id": 6,
+            "question": "Lions often move more when it is…",
+            "options": [
+              "Cooler",
+              "Hottest at noon",
+              "Snowing always"
+            ],
+            "correct_answer": "Cooler",
+            "fact_feedback_correct": "Yes! Lions are often more active when temperatures are cooler.",
+            "fact_feedback_incorrect": "You missed the fact: Lions often move more in cooler times."
+          },
+          {
+            "question_id": 7,
+            "question": "Lions mostly eat…",
+            "options": [
+              "Meat",
+              "Grass",
+              "Seeds"
+            ],
+            "correct_answer": "Meat",
+            "fact_feedback_correct": "Correct! Lions are carnivores, which means they eat meat.",
+            "fact_feedback_incorrect": "You missed the fact: Lions are carnivores and eat meat."
+          },
+          {
+            "question_id": 8,
+            "question": "Lion cubs play to…",
+            "options": [
+              "Practice skills",
+              "Turn invisible",
+              "Grow horns"
+            ],
+            "correct_answer": "Practice skills",
+            "fact_feedback_correct": "Right! Play helps young lions practice important hunting and movement skills.",
+            "fact_feedback_incorrect": "You missed the fact: Cubs play to practice important skills."
+          },
+          {
+            "question_id": 9,
+            "question": "Where do lions often live?",
+            "options": [
+              "Grasslands",
+              "Deep ocean",
+              "Icy glaciers only"
+            ],
+            "correct_answer": "Grasslands",
+            "fact_feedback_correct": "Correct! Many lions live in grasslands called savannas.",
+            "fact_feedback_incorrect": "You missed the fact: Lions often live in grasslands (savannas)."
+          },
+          {
+            "question_id": 10,
+            "question": "Lions in a pride can…",
+            "options": [
+              "Work as a team",
+              "Breathe underwater",
+              "Photosynthesize"
+            ],
+            "correct_answer": "Work as a team",
+            "fact_feedback_correct": "Yes! Pride members can cooperate and help protect each other.",
+            "fact_feedback_incorrect": "You missed the fact: Lions in a pride can work together."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_03",
+        "title": "Gigi the Giraffe and the Treetop Snack",
+        "learning_objectives": [
+          "Giraffes are the tallest land animals",
+          "Giraffes use long necks to reach leaves high in trees",
+          "Giraffes have spotted coats for camouflage",
+          "Giraffes eat plants, especially leaves",
+          "Giraffes have long tongues that help grab leaves"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "High above the grass, Gigi the giraffe spots the tastiest leaves. Her long neck lifts like a gentle crane.",
+            "image_prompt": "Flat pastel giraffe reaching toward tall acacia tree, warm savanna, friendly face, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Not many animals can reach this high. Gigi is the tallest land animal, so treetop snacks are perfect.",
+            "image_prompt": "Flat pastel comparison of giraffe towering over smaller animals, simple scale markers, soft colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Her tongue is long and dark. It helps her grab prickly leaves without hurting her mouth.",
+            "image_prompt": "Flat pastel close-up of giraffe tongue wrapping leaves, gentle educational style, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Spots cover Gigi’s coat like a puzzle. The pattern helps her blend with trees and shadows.",
+            "image_prompt": "Flat pastel giraffe with spot pattern blending into dappled tree shade, calm and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Gigi chews slowly and carefully. She is a plant-eater, so leaves and buds are her daily meal.",
+            "image_prompt": "Flat pastel giraffe chewing leaves, small buds, peaceful mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Suddenly, a sound! Gigi’s big eyes watch far away. Long legs help her run if she needs to.",
+            "image_prompt": "Flat pastel giraffe alert with wide gentle eyes, distant horizon, subtle motion lines on legs. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "She drinks water by spreading her front legs. It looks funny, but it helps her reach the ground.",
+            "image_prompt": "Flat pastel giraffe drinking at waterhole with legs spread, cute and respectful, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Baby giraffes learn by copying. Gigi’s calf nibbles small leaves, practicing with a tiny tongue.",
+            "image_prompt": "Flat pastel adult giraffe with calf eating leaves, warm family feel, soft pastel palette. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Evening breeze arrives. Gigi walks back to her group, staying near friends for safety.",
+            "image_prompt": "Flat pastel giraffes walking together at sunset, gentle trail line, cozy tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Under the stars, Gigi rests. She remembers: reach high, chew leaves, and let spots hide you in shade.",
+            "image_prompt": "Flat pastel giraffe resting in savanna night, stars, calm and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Giraffes are the…",
+            "options": [
+              "Tallest land animals",
+              "Smallest insects",
+              "Fastest fish"
+            ],
+            "correct_answer": "Tallest land animals",
+            "fact_feedback_correct": "Correct! Giraffes are the tallest animals that live on land.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes are the tallest land animals."
+          },
+          {
+            "question_id": 2,
+            "question": "Gigi’s long neck helps her…",
+            "options": [
+              "Reach high leaves",
+              "Swim underwater",
+              "Dig tunnels"
+            ],
+            "correct_answer": "Reach high leaves",
+            "fact_feedback_correct": "Yes! A long neck helps giraffes reach leaves high in trees.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes use long necks to reach high leaves."
+          },
+          {
+            "question_id": 3,
+            "question": "Giraffes mostly eat…",
+            "options": [
+              "Leaves and plants",
+              "Meat",
+              "Rocks"
+            ],
+            "correct_answer": "Leaves and plants",
+            "fact_feedback_correct": "Correct! Giraffes are plant-eaters that love leaves.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes eat plants, especially leaves."
+          },
+          {
+            "question_id": 4,
+            "question": "Giraffe spots help with…",
+            "options": [
+              "Camouflage",
+              "Flying",
+              "Making honey"
+            ],
+            "correct_answer": "Camouflage",
+            "fact_feedback_correct": "Right! Spots help giraffes blend with tree shadows and light.",
+            "fact_feedback_incorrect": "You missed the fact: Spots help giraffes camouflage in trees and shade."
+          },
+          {
+            "question_id": 5,
+            "question": "Giraffes have a long tongue to…",
+            "options": [
+              "Grab leaves",
+              "Breathe fire",
+              "Build nests"
+            ],
+            "correct_answer": "Grab leaves",
+            "fact_feedback_correct": "Correct! Long tongues help giraffes pull leaves from branches.",
+            "fact_feedback_incorrect": "You missed the fact: A long tongue helps giraffes grab leaves."
+          },
+          {
+            "question_id": 6,
+            "question": "To drink, a giraffe often…",
+            "options": [
+              "Spreads front legs",
+              "Jumps on clouds",
+              "Turns upside down forever"
+            ],
+            "correct_answer": "Spreads front legs",
+            "fact_feedback_correct": "Yes! Giraffes spread their front legs to reach water on the ground.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes spread their front legs to drink."
+          },
+          {
+            "question_id": 7,
+            "question": "Giraffes use their big eyes to…",
+            "options": [
+              "See far away",
+              "Read letters",
+              "See underground"
+            ],
+            "correct_answer": "See far away",
+            "fact_feedback_correct": "Correct! Giraffes have great vision and can see far across grasslands.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes can see far across open land."
+          },
+          {
+            "question_id": 8,
+            "question": "A giraffe calf learns by…",
+            "options": [
+              "Copying adults",
+              "Building robots",
+              "Sleeping all day"
+            ],
+            "correct_answer": "Copying adults",
+            "fact_feedback_correct": "Right! Young animals learn by watching and copying grown-ups.",
+            "fact_feedback_incorrect": "You missed the fact: Calves learn by watching and copying adults."
+          },
+          {
+            "question_id": 9,
+            "question": "Giraffes often live in…",
+            "options": [
+              "Savannas/grasslands",
+              "Deep oceans",
+              "Polar ice only"
+            ],
+            "correct_answer": "Savannas/grasslands",
+            "fact_feedback_correct": "Correct! Many giraffes live in African savannas and open grasslands.",
+            "fact_feedback_incorrect": "You missed the fact: Giraffes live in savannas and grasslands."
+          },
+          {
+            "question_id": 10,
+            "question": "Gigi’s long legs can help her…",
+            "options": [
+              "Run fast if needed",
+              "Grow roots",
+              "Photosynthesize"
+            ],
+            "correct_answer": "Run fast if needed",
+            "fact_feedback_correct": "Yes! Long legs help giraffes move quickly when they need safety.",
+            "fact_feedback_incorrect": "You missed the fact: Long legs help giraffes run when needed."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_04",
+        "title": "Pip the Penguin and the Icy Slide",
+        "learning_objectives": [
+          "Penguins are birds that cannot fly",
+          "Penguins live in the Southern Hemisphere, many near Antarctica",
+          "Penguins swim using flipper-like wings",
+          "Penguins have waterproof feathers and a layer of fat for warmth",
+          "Penguins often live in groups called colonies"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Cold wind whooshes across the ice. Pip the penguin waddles forward, ready for a slippery adventure.",
+            "image_prompt": "Flat pastel penguin on icy landscape with gentle wind lines, friendly face, kid-safe style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Pip is a bird, but he cannot fly. Instead, his wings work like flippers for swimming.",
+            "image_prompt": "Flat pastel penguin with small wing-to-flipper diagram icons, simple educational look. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "With a happy belly-flop, Pip slides down a smooth hill. Sliding saves energy on the ice.",
+            "image_prompt": "Flat pastel penguin belly-sliding down icy slope, playful motion lines, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "At the edge, Pip dives into the sea. Penguins are strong swimmers, zooming after fish underwater.",
+            "image_prompt": "Flat pastel penguin diving into water, bubbles, small fish silhouettes, gentle and fun. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Feathers keep Pip dry. Under his feathers, a layer of fat helps him stay warm in icy water.",
+            "image_prompt": "Flat pastel cutaway-style penguin showing feathers and fat layer icons, toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Pip pops up to breathe air. Birds breathe air, even when they spend lots of time swimming.",
+            "image_prompt": "Flat pastel penguin surfacing with small air puff, calm ocean, simple waves. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Back on land, Pip meets his colony. Penguins gather in groups to stay safe and warm.",
+            "image_prompt": "Flat pastel group of penguins huddled together, cozy warmth vibe, soft palette. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Some penguins take turns watching. Others rest. Working together helps the colony survive cold days.",
+            "image_prompt": "Flat pastel penguins taking turns (one looking out, others resting), gentle teamwork theme. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "The sun dips low. Pip remembers: slide on ice, swim like a torpedo, and stick with friends.",
+            "image_prompt": "Flat pastel sunset on ice with penguin and simple icons (slide, swim, group), calm. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Night is quiet. Pip snuggles close to neighbors, warm and sleepy, while snow sparkles like tiny stars.",
+            "image_prompt": "Flat pastel penguins huddled at night with sparkly snow, cozy bedtime feel. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Penguins are…",
+            "options": [
+              "Birds",
+              "Reptiles",
+              "Insects"
+            ],
+            "correct_answer": "Birds",
+            "fact_feedback_correct": "Correct! Penguins are birds.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins are birds."
+          },
+          {
+            "question_id": 2,
+            "question": "Can penguins fly?",
+            "options": [
+              "No",
+              "Yes, very high",
+              "Only at night"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Right! Penguins cannot fly.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins cannot fly."
+          },
+          {
+            "question_id": 3,
+            "question": "Penguins swim using…",
+            "options": [
+              "Flipper-like wings",
+              "Hooves",
+              "Long tails"
+            ],
+            "correct_answer": "Flipper-like wings",
+            "fact_feedback_correct": "Correct! Penguin wings act like flippers in water.",
+            "fact_feedback_incorrect": "You missed the fact: Penguin wings work like flippers for swimming."
+          },
+          {
+            "question_id": 4,
+            "question": "Penguins live mostly in the…",
+            "options": [
+              "Southern Hemisphere",
+              "Northern Pole only",
+              "Desert"
+            ],
+            "correct_answer": "Southern Hemisphere",
+            "fact_feedback_correct": "Yes! Penguins live in the Southern Hemisphere, many near Antarctica.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins live in the Southern Hemisphere, not at the North Pole."
+          },
+          {
+            "question_id": 5,
+            "question": "Penguin feathers help them stay…",
+            "options": [
+              "Dry",
+              "Square",
+              "Invisible"
+            ],
+            "correct_answer": "Dry",
+            "fact_feedback_correct": "Correct! Waterproof feathers help keep penguins dry.",
+            "fact_feedback_incorrect": "You missed the fact: Penguin feathers are waterproof and help keep them dry."
+          },
+          {
+            "question_id": 6,
+            "question": "Under feathers, penguins have…",
+            "options": [
+              "A fat layer for warmth",
+              "Leaves",
+              "Metal"
+            ],
+            "correct_answer": "A fat layer for warmth",
+            "fact_feedback_correct": "Right! A layer of fat helps penguins stay warm in cold water.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins have a fat layer to stay warm."
+          },
+          {
+            "question_id": 7,
+            "question": "Penguins breathe…",
+            "options": [
+              "Air",
+              "Water",
+              "Ice"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Correct! Penguins breathe air, so they surface to breathe.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins breathe air and must surface."
+          },
+          {
+            "question_id": 8,
+            "question": "A penguin group is often called a…",
+            "options": [
+              "Colony",
+              "Herd",
+              "Swarm"
+            ],
+            "correct_answer": "Colony",
+            "fact_feedback_correct": "Yes! Penguins often live in groups called colonies.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins live in colonies."
+          },
+          {
+            "question_id": 9,
+            "question": "Why do penguins huddle together?",
+            "options": [
+              "To stay warm and safe",
+              "To grow flowers",
+              "To build roads"
+            ],
+            "correct_answer": "To stay warm and safe",
+            "fact_feedback_correct": "Correct! Huddling helps penguins stay warm and safer in cold weather.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins huddle to stay warm and safe."
+          },
+          {
+            "question_id": 10,
+            "question": "Sliding on ice can help a penguin…",
+            "options": [
+              "Save energy",
+              "Learn to fly",
+              "Turn into a fish"
+            ],
+            "correct_answer": "Save energy",
+            "fact_feedback_correct": "Right! Belly-sliding can save energy while moving on ice.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins sometimes slide to save energy."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_05",
+        "title": "Freddy the Frog and the Pond Metamorphosis",
+        "learning_objectives": [
+          "Frogs are amphibians",
+          "Frogs lay eggs in water",
+          "Tadpoles hatch and grow into frogs (metamorphosis)",
+          "Frogs have moist skin",
+          "Adult frogs can live near water and on land"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Near a quiet pond, Freddy hears tiny plops. Spring is here, and the pond feels like a nursery.",
+            "image_prompt": "Flat pastel pond scene with friendly frog on lily pad, soft reeds, calm water, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Jelly-like frog eggs float gently. Frogs lay eggs in water so babies can grow safely at first.",
+            "image_prompt": "Flat pastel close-up of frog eggs in water, simple round clusters, gentle educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Days pass, and tadpoles hatch! They look like little commas with tails, wiggling through the pond.",
+            "image_prompt": "Flat pastel tadpoles swimming with cute shapes and motion lines, friendly and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Tadpoles breathe with gills, like fish. They stay in water while their bodies change slowly.",
+            "image_prompt": "Flat pastel tadpole with simple gill icon and water arrows, toddler-friendly diagram. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "One tadpole grows back legs, then front legs. The tail shrinks as the frog body forms.",
+            "image_prompt": "Flat pastel metamorphosis panels: tadpole → legs → small frog, soft pastel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Freddy’s skin stays moist and smooth. Amphibians need damp skin, so they like wet places.",
+            "image_prompt": "Flat pastel frog with water droplet icons on skin, gentle and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Now a young frog pops onto land. Frogs can live near water and hop onto shore to explore.",
+            "image_prompt": "Flat pastel small frog hopping from pond to grass, simple hop lines, cheerful tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Freddy catches bugs with a quick tongue flick. Insect snacks help frogs grow strong.",
+            "image_prompt": "Flat pastel frog catching a small bug with tongue, cute and non-scary, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "At sunset, Freddy returns to the pond edge. Water is still important for resting and staying moist.",
+            "image_prompt": "Flat pastel frog near pond at sunset, warm sky reflection, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime lesson: eggs become tadpoles, tadpoles become frogs. Growing and changing is called metamorphosis!",
+            "image_prompt": "Flat pastel bedtime pond with gentle icons showing life cycle, cozy and reassuring. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Frogs are…",
+            "options": [
+              "Amphibians",
+              "Birds",
+              "Reptiles only"
+            ],
+            "correct_answer": "Amphibians",
+            "fact_feedback_correct": "Correct! Frogs are amphibians, meaning they live near water and also on land.",
+            "fact_feedback_incorrect": "You missed the fact: Frogs are amphibians and live near water and on land."
+          },
+          {
+            "question_id": 2,
+            "question": "Frogs lay eggs in…",
+            "options": [
+              "Water",
+              "Sand",
+              "Trees"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Yes! Frog eggs are laid in water.",
+            "fact_feedback_incorrect": "You missed the fact: Frogs lay eggs in water."
+          },
+          {
+            "question_id": 3,
+            "question": "Baby frogs that look like little fish are called…",
+            "options": [
+              "Tadpoles",
+              "Kittens",
+              "Chicks"
+            ],
+            "correct_answer": "Tadpoles",
+            "fact_feedback_correct": "Correct! Tadpoles hatch from frog eggs.",
+            "fact_feedback_incorrect": "You missed the fact: Tadpoles hatch from frog eggs."
+          },
+          {
+            "question_id": 4,
+            "question": "Tadpoles breathe with…",
+            "options": [
+              "Gills",
+              "Lungs like adults",
+              "Leaves"
+            ],
+            "correct_answer": "Gills",
+            "fact_feedback_correct": "Right! Tadpoles use gills to breathe in water.",
+            "fact_feedback_incorrect": "You missed the fact: Tadpoles breathe with gills in water."
+          },
+          {
+            "question_id": 5,
+            "question": "When tadpoles grow, they develop…",
+            "options": [
+              "Legs",
+              "Wings",
+              "Horns"
+            ],
+            "correct_answer": "Legs",
+            "fact_feedback_correct": "Correct! Tadpoles grow legs as they change into frogs.",
+            "fact_feedback_incorrect": "You missed the fact: Tadpoles grow legs as they become frogs."
+          },
+          {
+            "question_id": 6,
+            "question": "Frog skin should stay…",
+            "options": [
+              "Moist",
+              "Dry like paper",
+              "Hard like stone"
+            ],
+            "correct_answer": "Moist",
+            "fact_feedback_correct": "Yes! Frogs have moist skin and like wet places.",
+            "fact_feedback_incorrect": "You missed the fact: Frogs need moist skin."
+          },
+          {
+            "question_id": 7,
+            "question": "The big change from tadpole to frog is called…",
+            "options": [
+              "Metamorphosis",
+              "Melting",
+              "Hibernation"
+            ],
+            "correct_answer": "Metamorphosis",
+            "fact_feedback_correct": "Correct! Metamorphosis means changing form as you grow.",
+            "fact_feedback_incorrect": "You missed the fact: Metamorphosis is the name for the big change."
+          },
+          {
+            "question_id": 8,
+            "question": "Adult frogs can live…",
+            "options": [
+              "Near water and on land",
+              "Only in the sky",
+              "Only in deserts"
+            ],
+            "correct_answer": "Near water and on land",
+            "fact_feedback_correct": "Right! Adult frogs live near water but can hop onto land.",
+            "fact_feedback_incorrect": "You missed the fact: Adult frogs live near water and on land."
+          },
+          {
+            "question_id": 9,
+            "question": "Frogs often eat…",
+            "options": [
+              "Insects",
+              "Leaves only",
+              "Rocks"
+            ],
+            "correct_answer": "Insects",
+            "fact_feedback_correct": "Correct! Many frogs eat insects using a quick tongue.",
+            "fact_feedback_incorrect": "You missed the fact: Frogs often eat insects."
+          },
+          {
+            "question_id": 10,
+            "question": "A tadpole tail usually…",
+            "options": [
+              "Shrinks as it becomes a frog",
+              "Turns into a hat",
+              "Grows forever"
+            ],
+            "correct_answer": "Shrinks as it becomes a frog",
+            "fact_feedback_correct": "Yes! The tail shrinks while the frog body forms.",
+            "fact_feedback_incorrect": "You missed the fact: Tadpole tails shrink as they become frogs."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_06",
+        "title": "Bea the Bee and the Flower Message Dance",
+        "learning_objectives": [
+          "Bees are insects",
+          "Bees collect nectar and pollen from flowers",
+          "Bees help plants by pollination",
+          "Honey bees live in colonies with a queen and workers",
+          "Bees communicate with movements (waggle dance)"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Buzz-buzz! Bea the bee zips out of the hive, searching for bright flowers like tiny treasure cups.",
+            "image_prompt": "Flat pastel honey bee flying from hive toward colorful flowers, soft outlines, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Bea is an insect with six legs. She uses her wings to fly and her antennae to smell.",
+            "image_prompt": "Flat pastel bee with six legs and antennae labeled by icons, simple educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "A sweet smell leads Bea to a bloom. She sips nectar, the sugary liquid flowers make.",
+            "image_prompt": "Flat pastel bee sipping nectar from flower with straw-like tongue, gentle and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Yellow pollen dust sticks to Bea’s fuzzy body. Pollen is like plant ‘powder’ that helps plants make seeds.",
+            "image_prompt": "Flat pastel bee with pollen dots on fuzzy body, seed icon, toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Next flower! As Bea visits, she carries pollen between blossoms. This is pollination, and it helps plants grow fruit.",
+            "image_prompt": "Flat pastel sequence of bee moving between two flowers with pollen transfer arrows, kid-friendly diagram. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Bea flies home to her colony. A honey bee home is a hive, full of busy workers and one queen.",
+            "image_prompt": "Flat pastel hive cross-section with queen icon and worker bees, warm and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Inside, Bea does a waggle dance. Her moves tell friends where the best flowers are.",
+            "image_prompt": "Flat pastel bee dancing with motion arrows on honeycomb floor, playful learning tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Workers share nectar and turn it into honey. Honey is stored in waxy honeycomb cells.",
+            "image_prompt": "Flat pastel honeycomb with honey drops, worker bees, simple and sweet. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Bea rests, then buzzes out again. Helping flowers helps gardens, farms, and many foods we eat.",
+            "image_prompt": "Flat pastel bee over garden with fruits (apples/berries) as icons, positive message. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime fact: bees are tiny helpers. They pollinate flowers and keep their hive working together like a team.",
+            "image_prompt": "Flat pastel bedtime hive scene with moon and flowers, calm and cozy. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Bea the bee is an…",
+            "options": [
+              "Insect",
+              "Fish",
+              "Mammal"
+            ],
+            "correct_answer": "Insect",
+            "fact_feedback_correct": "Correct! Bees are insects.",
+            "fact_feedback_incorrect": "You missed the fact: Bees are insects."
+          },
+          {
+            "question_id": 2,
+            "question": "Bees have how many legs?",
+            "options": [
+              "Six",
+              "Two",
+              "Eight"
+            ],
+            "correct_answer": "Six",
+            "fact_feedback_correct": "Yes! Insects, including bees, have six legs.",
+            "fact_feedback_incorrect": "You missed the fact: Bees are insects and have six legs."
+          },
+          {
+            "question_id": 3,
+            "question": "Nectar is…",
+            "options": [
+              "Sweet liquid from flowers",
+              "A rock",
+              "A cloud"
+            ],
+            "correct_answer": "Sweet liquid from flowers",
+            "fact_feedback_correct": "Correct! Nectar is a sweet liquid that bees drink from flowers.",
+            "fact_feedback_incorrect": "You missed the fact: Nectar is a sweet liquid from flowers."
+          },
+          {
+            "question_id": 4,
+            "question": "Pollen is important because it helps plants make…",
+            "options": [
+              "Seeds",
+              "Wheels",
+              "Bubbles"
+            ],
+            "correct_answer": "Seeds",
+            "fact_feedback_correct": "Right! Pollen helps plants make seeds, which can become new plants.",
+            "fact_feedback_incorrect": "You missed the fact: Pollen helps plants make seeds."
+          },
+          {
+            "question_id": 5,
+            "question": "Moving pollen between flowers is called…",
+            "options": [
+              "Pollination",
+              "Hibernation",
+              "Evaporation"
+            ],
+            "correct_answer": "Pollination",
+            "fact_feedback_correct": "Correct! Pollination happens when pollen is carried between flowers.",
+            "fact_feedback_incorrect": "You missed the fact: Pollination is moving pollen between flowers."
+          },
+          {
+            "question_id": 6,
+            "question": "Honey bees live in a…",
+            "options": [
+              "Colony",
+              "Solo cave",
+              "Tree nest only"
+            ],
+            "correct_answer": "Colony",
+            "fact_feedback_correct": "Yes! Honey bees live together in colonies.",
+            "fact_feedback_incorrect": "You missed the fact: Honey bees live in colonies."
+          },
+          {
+            "question_id": 7,
+            "question": "A honey bee home is a…",
+            "options": [
+              "Hive",
+              "Den",
+              "Pond"
+            ],
+            "correct_answer": "Hive",
+            "fact_feedback_correct": "Correct! Honey bees live in hives.",
+            "fact_feedback_incorrect": "You missed the fact: Honey bees live in a hive."
+          },
+          {
+            "question_id": 8,
+            "question": "Bees can communicate with a…",
+            "options": [
+              "Waggle dance",
+              "Loud roar",
+              "Drumbeat"
+            ],
+            "correct_answer": "Waggle dance",
+            "fact_feedback_correct": "Right! Bees use a waggle dance to show where flowers are.",
+            "fact_feedback_incorrect": "You missed the fact: Bees use a waggle dance to share directions."
+          },
+          {
+            "question_id": 9,
+            "question": "Honey is stored in…",
+            "options": [
+              "Honeycomb cells",
+              "Clouds",
+              "Sand"
+            ],
+            "correct_answer": "Honeycomb cells",
+            "fact_feedback_correct": "Correct! Honey is stored in honeycomb cells made of wax.",
+            "fact_feedback_incorrect": "You missed the fact: Honey is stored in honeycomb cells."
+          },
+          {
+            "question_id": 10,
+            "question": "Bees help many foods grow by…",
+            "options": [
+              "Pollinating flowers",
+              "Turning day into night",
+              "Freezing water"
+            ],
+            "correct_answer": "Pollinating flowers",
+            "fact_feedback_correct": "Yes! Pollination helps plants make fruits and seeds.",
+            "fact_feedback_incorrect": "You missed the fact: Bees help foods grow by pollinating flowers."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_07",
+        "title": "Ping the Panda and the Bamboo Breakfast",
+        "learning_objectives": [
+          "Giant pandas are mammals",
+          "Pandas eat mostly bamboo",
+          "Pandas have strong jaws and teeth for chewing bamboo",
+          "Pandas live in forested mountains in China",
+          "Pandas have black-and-white fur patterns"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Crunch-crunch echoes in a misty forest. Ping the panda sits like a cozy pillow, ready for bamboo breakfast.",
+            "image_prompt": "Flat pastel giant panda sitting in misty bamboo forest, friendly expression, soft greens, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Ping is a mammal, so she has fur and drinks milk when she is a baby panda.",
+            "image_prompt": "Flat pastel panda with gentle fur texture and baby panda icon, warm educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Bamboo stalks are her favorite. Bamboo is a grass, and pandas eat lots of it every day.",
+            "image_prompt": "Flat pastel panda holding bamboo stalks, grass icon, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Chewing bamboo takes work. Ping’s strong jaws and big teeth help crush the tough, crunchy stems.",
+            "image_prompt": "Flat pastel close-up of panda chewing bamboo, jaw/teeth icons, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "She lives in mountain forests where bamboo grows well. Cool air and tall trees make good panda homes.",
+            "image_prompt": "Flat pastel mountain forest with bamboo and panda, gentle hills, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Ping’s black-and-white fur helps her blend with shadows and bright patches of light in the woods.",
+            "image_prompt": "Flat pastel panda in dappled forest light, soft shadow pattern, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "After eating, Ping climbs a low tree branch carefully. Pandas can climb, especially when they are young.",
+            "image_prompt": "Flat pastel panda climbing low tree branch, safe and cute, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Ping rests often to save energy. Bamboo has low energy, so pandas eat and rest a lot.",
+            "image_prompt": "Flat pastel panda napping beside bamboo, calm and cozy tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "A small stream gurgles nearby. Ping drinks and then returns to her bamboo patch like it is her pantry.",
+            "image_prompt": "Flat pastel panda drinking from stream, bamboo patch, gentle scenery. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime thought: pandas are gentle bamboo eaters, living in mountain forests with special fur patterns.",
+            "image_prompt": "Flat pastel bedtime panda in bamboo forest under stars, cozy and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A giant panda is a…",
+            "options": [
+              "Mammal",
+              "Fish",
+              "Bird"
+            ],
+            "correct_answer": "Mammal",
+            "fact_feedback_correct": "Correct! Pandas are mammals and have fur.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas are mammals and have fur."
+          },
+          {
+            "question_id": 2,
+            "question": "Pandas eat mostly…",
+            "options": [
+              "Bamboo",
+              "Meat",
+              "Sand"
+            ],
+            "correct_answer": "Bamboo",
+            "fact_feedback_correct": "Yes! Pandas eat mostly bamboo.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas eat mostly bamboo."
+          },
+          {
+            "question_id": 3,
+            "question": "Bamboo is a type of…",
+            "options": [
+              "Grass",
+              "Rock",
+              "Cloud"
+            ],
+            "correct_answer": "Grass",
+            "fact_feedback_correct": "Correct! Bamboo is a kind of grass.",
+            "fact_feedback_incorrect": "You missed the fact: Bamboo is a type of grass."
+          },
+          {
+            "question_id": 4,
+            "question": "Pandas need strong jaws because bamboo is…",
+            "options": [
+              "Tough to chew",
+              "Made of ice",
+              "Full of feathers"
+            ],
+            "correct_answer": "Tough to chew",
+            "fact_feedback_correct": "Right! Bamboo is tough, so pandas have strong jaws and teeth.",
+            "fact_feedback_incorrect": "You missed the fact: Bamboo is tough, so pandas need strong jaws and teeth."
+          },
+          {
+            "question_id": 5,
+            "question": "Pandas live in…",
+            "options": [
+              "Forested mountains",
+              "Desert dunes",
+              "Open ocean"
+            ],
+            "correct_answer": "Forested mountains",
+            "fact_feedback_correct": "Correct! Giant pandas live in forested mountain areas in China.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas live in forested mountains in China."
+          },
+          {
+            "question_id": 6,
+            "question": "Panda fur is usually…",
+            "options": [
+              "Black and white",
+              "Green and purple",
+              "All red"
+            ],
+            "correct_answer": "Black and white",
+            "fact_feedback_correct": "Yes! Giant pandas have black-and-white fur.",
+            "fact_feedback_incorrect": "You missed the fact: Giant pandas are black and white."
+          },
+          {
+            "question_id": 7,
+            "question": "Pandas rest a lot because bamboo has…",
+            "options": [
+              "Low energy",
+              "Magic power",
+              "Lots of sugar"
+            ],
+            "correct_answer": "Low energy",
+            "fact_feedback_correct": "Correct! Bamboo is low energy, so pandas eat and rest often.",
+            "fact_feedback_incorrect": "You missed the fact: Bamboo is low energy, so pandas rest often."
+          },
+          {
+            "question_id": 8,
+            "question": "Young pandas can…",
+            "options": [
+              "Climb trees",
+              "Fly",
+              "Breathe underwater"
+            ],
+            "correct_answer": "Climb trees",
+            "fact_feedback_correct": "Right! Pandas can climb, especially when they are young.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas can climb trees, especially when young."
+          },
+          {
+            "question_id": 9,
+            "question": "Pandas drink water from…",
+            "options": [
+              "Streams",
+              "Volcanoes",
+              "Sand"
+            ],
+            "correct_answer": "Streams",
+            "fact_feedback_correct": "Correct! Pandas drink fresh water from streams and puddles.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas drink fresh water from streams."
+          },
+          {
+            "question_id": 10,
+            "question": "Pandas are best described as…",
+            "options": [
+              "Gentle bamboo eaters",
+              "Fast desert runners",
+              "Deep-sea swimmers"
+            ],
+            "correct_answer": "Gentle bamboo eaters",
+            "fact_feedback_correct": "Yes! Pandas are gentle animals that mainly eat bamboo.",
+            "fact_feedback_incorrect": "You missed the fact: Pandas are gentle animals that mainly eat bamboo."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_08",
+        "title": "Benny the Bat and the Night Echoes",
+        "learning_objectives": [
+          "Bats are mammals",
+          "Many bats are nocturnal (active at night)",
+          "Many bats use echolocation (sound echoes) to navigate",
+          "Bats can fly using wings made from skin stretched over fingers",
+          "Some bats eat insects and help reduce bug numbers"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sun sets behind trees, and the sky turns purple. Benny the bat wakes up upside down, ready for night.",
+            "image_prompt": "Flat pastel bat hanging upside down in a cave entrance, twilight sky, friendly face, kid-safe style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Benny is a mammal, not a bird. Mammals have fur and breathe air with lungs.",
+            "image_prompt": "Flat pastel bat with small fur texture and mammal icon, gentle educational tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Nighttime is Benny’s work time. Many bats are nocturnal, meaning they are active at night.",
+            "image_prompt": "Flat pastel bat flying under moon with ‘night’ icons, calm and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "His wings look like thin blankets. Bat wings are skin stretched over long finger bones.",
+            "image_prompt": "Flat pastel close-up of bat wing with finger-bone lines, toddler-friendly diagram. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "To see in darkness, Benny uses echolocation. He makes tiny squeaks, then listens for echoes bouncing back.",
+            "image_prompt": "Flat pastel bat with sound-wave lines bouncing off a tree and insect, clear and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Echoes tell Benny where things are. If an insect is nearby, the echo comes back quickly.",
+            "image_prompt": "Flat pastel simple echo timing concept with short arrow returning, non-math, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Benny catches mosquitoes and moths. Eating insects helps people by lowering the number of biting bugs.",
+            "image_prompt": "Flat pastel bat catching small insects with cute silhouettes, ‘helpful’ heart icon, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "After flying, Benny drinks water while swooping low. He skims the surface and takes quick sips.",
+            "image_prompt": "Flat pastel bat skimming over pond with small water splash, calm night colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Before dawn, Benny returns to his roost. Hanging upside down keeps him safe and ready to launch.",
+            "image_prompt": "Flat pastel bat returning to cave/roost, gentle sunrise glow, cozy. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime fact: bats are nighttime mammals that use echoes to navigate and often help by eating many insects.",
+            "image_prompt": "Flat pastel bedtime bat in roost with moon and stars, soft soothing palette. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Bats are…",
+            "options": [
+              "Mammals",
+              "Fish",
+              "Reptiles"
+            ],
+            "correct_answer": "Mammals",
+            "fact_feedback_correct": "Correct! Bats are mammals with fur and lungs.",
+            "fact_feedback_incorrect": "You missed the fact: Bats are mammals, not birds."
+          },
+          {
+            "question_id": 2,
+            "question": "Many bats are active…",
+            "options": [
+              "At night",
+              "Only at noon",
+              "Only in snow"
+            ],
+            "correct_answer": "At night",
+            "fact_feedback_correct": "Yes! Many bats are nocturnal, meaning active at night.",
+            "fact_feedback_incorrect": "You missed the fact: Nocturnal animals are active at night."
+          },
+          {
+            "question_id": 3,
+            "question": "What do many bats use to navigate in the dark?",
+            "options": [
+              "Echolocation",
+              "Photosynthesis",
+              "Hibernation"
+            ],
+            "correct_answer": "Echolocation",
+            "fact_feedback_correct": "Correct! Echolocation uses sound and echoes to find things.",
+            "fact_feedback_incorrect": "You missed the fact: Echolocation uses sound echoes to navigate."
+          },
+          {
+            "question_id": 4,
+            "question": "Bat wings are made from…",
+            "options": [
+              "Skin stretched over fingers",
+              "Feathers like birds",
+              "Hard shells"
+            ],
+            "correct_answer": "Skin stretched over fingers",
+            "fact_feedback_correct": "Right! Bat wings are skin stretched over long finger bones.",
+            "fact_feedback_incorrect": "You missed the fact: Bat wings are skin stretched over finger bones."
+          },
+          {
+            "question_id": 5,
+            "question": "Echoes happen when sound…",
+            "options": [
+              "Bounces back",
+              "Turns into light",
+              "Freezes"
+            ],
+            "correct_answer": "Bounces back",
+            "fact_feedback_correct": "Correct! An echo is sound that bounces back.",
+            "fact_feedback_incorrect": "You missed the fact: Echoes are sounds that bounce back."
+          },
+          {
+            "question_id": 6,
+            "question": "Many bats eat…",
+            "options": [
+              "Insects",
+              "Grass",
+              "Rocks"
+            ],
+            "correct_answer": "Insects",
+            "fact_feedback_correct": "Yes! Many bats eat insects like mosquitoes and moths.",
+            "fact_feedback_incorrect": "You missed the fact: Many bats eat insects."
+          },
+          {
+            "question_id": 7,
+            "question": "Eating insects can help people by…",
+            "options": [
+              "Reducing biting bugs",
+              "Making snow",
+              "Growing trees"
+            ],
+            "correct_answer": "Reducing biting bugs",
+            "fact_feedback_correct": "Correct! Fewer mosquitoes can mean fewer bites.",
+            "fact_feedback_incorrect": "You missed the fact: Bats can help reduce insect numbers."
+          },
+          {
+            "question_id": 8,
+            "question": "Bats breathe air with…",
+            "options": [
+              "Lungs",
+              "Gills",
+              "Leaves"
+            ],
+            "correct_answer": "Lungs",
+            "fact_feedback_correct": "Right! Bats are mammals and breathe with lungs.",
+            "fact_feedback_incorrect": "You missed the fact: Mammals breathe with lungs."
+          },
+          {
+            "question_id": 9,
+            "question": "Benny rests by hanging…",
+            "options": [
+              "Upside down",
+              "Underwater",
+              "Inside a flower"
+            ],
+            "correct_answer": "Upside down",
+            "fact_feedback_correct": "Correct! Many bats hang upside down in roosts.",
+            "fact_feedback_incorrect": "You missed the fact: Bats often hang upside down to rest."
+          },
+          {
+            "question_id": 10,
+            "question": "A place where bats rest is called a…",
+            "options": [
+              "Roost",
+              "Nest in ocean",
+              "Coral reef"
+            ],
+            "correct_answer": "Roost",
+            "fact_feedback_correct": "Yes! A roost is a resting place for bats.",
+            "fact_feedback_incorrect": "You missed the fact: Bats rest in places called roosts."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_09",
+        "title": "Cami the Camel and the Desert Water Trick",
+        "learning_objectives": [
+          "Camels are mammals that live in deserts and dry regions",
+          "Camels have humps that store fat (energy)",
+          "Camels can go a long time without water and then drink a lot at once",
+          "Camels have wide feet for walking on sand",
+          "Camels have long eyelashes to help keep sand out"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Hot sun shines over sandy dunes. Cami the camel steps forward, her wide feet pressing softly without sinking.",
+            "image_prompt": "Flat pastel camel on desert dunes with gentle sun, friendly face, simple shapes, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Sand blows in the wind, but Cami’s long eyelashes help keep gritty dust out of her eyes.",
+            "image_prompt": "Flat pastel close-up of camel face with long eyelashes and wind lines, calm and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Her hump stands tall. A camel’s hump stores fat, which is energy the body can use later.",
+            "image_prompt": "Flat pastel camel with hump highlighted and small energy icon, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Because deserts are dry, Cami can travel a long time without water when she needs to.",
+            "image_prompt": "Flat pastel camel walking with small ‘water drop’ icon showing scarce water, gentle tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "At an oasis, Cami drinks a lot quickly. Camels can drink big gulps when water is available.",
+            "image_prompt": "Flat pastel camel drinking at oasis with palm trees, calm water, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Wide feet act like snowshoes on sand. They spread weight and help Cami walk on soft dunes.",
+            "image_prompt": "Flat pastel camel feet on sand with simple weight-spread arrows, educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Cami’s nose can close a bit during dusty winds. That helps keep sand out while she walks.",
+            "image_prompt": "Flat pastel camel nose with gentle ‘close’ icon and wind lines, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "In the cooler evening, Cami continues her journey. Many desert animals move more when it is less hot.",
+            "image_prompt": "Flat pastel desert sunset with camel walking, cooler colors, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Cami meets people traveling too. For many places, camels are helpful for carrying loads across deserts.",
+            "image_prompt": "Flat pastel camel with small packs and travelers nearby, respectful and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime thought: camels use smart body tools—humps, eyelashes, and wide feet—to live in dry, windy deserts.",
+            "image_prompt": "Flat pastel bedtime desert with stars, camel resting, cozy and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Camels often live in…",
+            "options": [
+              "Deserts",
+              "Oceans",
+              "Rainforests only"
+            ],
+            "correct_answer": "Deserts",
+            "fact_feedback_correct": "Correct! Camels are adapted to deserts and dry regions.",
+            "fact_feedback_incorrect": "You missed the fact: Camels are adapted to deserts and dry regions."
+          },
+          {
+            "question_id": 2,
+            "question": "A camel hump stores…",
+            "options": [
+              "Fat for energy",
+              "Water balloons",
+              "Sand"
+            ],
+            "correct_answer": "Fat for energy",
+            "fact_feedback_correct": "Yes! Camel humps store fat, which provides energy.",
+            "fact_feedback_incorrect": "You missed the fact: Camel humps store fat for energy."
+          },
+          {
+            "question_id": 3,
+            "question": "Camels can go a long time without…",
+            "options": [
+              "Water",
+              "Air",
+              "Sleep"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Correct! Camels can travel a long time without water when needed.",
+            "fact_feedback_incorrect": "You missed the fact: Camels can go a long time without water."
+          },
+          {
+            "question_id": 4,
+            "question": "Camels have wide feet to…",
+            "options": [
+              "Walk on soft sand",
+              "Climb trees",
+              "Swim faster"
+            ],
+            "correct_answer": "Walk on soft sand",
+            "fact_feedback_correct": "Right! Wide feet spread weight so camels don’t sink in sand easily.",
+            "fact_feedback_incorrect": "You missed the fact: Wide feet help camels walk on soft sand."
+          },
+          {
+            "question_id": 5,
+            "question": "Long eyelashes help camels…",
+            "options": [
+              "Keep sand out of eyes",
+              "See through walls",
+              "Grow flowers"
+            ],
+            "correct_answer": "Keep sand out of eyes",
+            "fact_feedback_correct": "Correct! Long eyelashes protect camel eyes from blowing sand.",
+            "fact_feedback_incorrect": "You missed the fact: Long eyelashes help keep sand out of camel eyes."
+          },
+          {
+            "question_id": 6,
+            "question": "When water is available, camels can…",
+            "options": [
+              "Drink a lot quickly",
+              "Turn into birds",
+              "Freeze it"
+            ],
+            "correct_answer": "Drink a lot quickly",
+            "fact_feedback_correct": "Yes! Camels can drink big amounts when they find water.",
+            "fact_feedback_incorrect": "You missed the fact: Camels can drink a lot when water is available."
+          },
+          {
+            "question_id": 7,
+            "question": "A small water place in a desert is an…",
+            "options": [
+              "Oasis",
+              "Glacier",
+              "Volcano"
+            ],
+            "correct_answer": "Oasis",
+            "fact_feedback_correct": "Correct! An oasis is a water spot in a desert.",
+            "fact_feedback_incorrect": "You missed the fact: Oasis means a water spot in the desert."
+          },
+          {
+            "question_id": 8,
+            "question": "Camels are…",
+            "options": [
+              "Mammals",
+              "Insects",
+              "Fish"
+            ],
+            "correct_answer": "Mammals",
+            "fact_feedback_correct": "Right! Camels are mammals.",
+            "fact_feedback_incorrect": "You missed the fact: Camels are mammals."
+          },
+          {
+            "question_id": 9,
+            "question": "Dusty winds are handled by camel…",
+            "options": [
+              "Eyelashes and nose",
+              "Wings",
+              "Gills"
+            ],
+            "correct_answer": "Eyelashes and nose",
+            "fact_feedback_correct": "Correct! Eyelashes and a nose that can close help with sand.",
+            "fact_feedback_incorrect": "You missed the fact: Camel eyelashes and nose help with sand."
+          },
+          {
+            "question_id": 10,
+            "question": "Camels have special features to live in…",
+            "options": [
+              "Dry, windy places",
+              "Deep oceans",
+              "Frozen caves only"
+            ],
+            "correct_answer": "Dry, windy places",
+            "fact_feedback_correct": "Yes! Camels are built for dry, windy desert life.",
+            "fact_feedback_incorrect": "You missed the fact: Camels are adapted for dry, windy deserts."
+          }
+        ]
+      },
+      {
+        "story_id": "animals_10",
+        "title": "Willa the Wolf and the Pack Plan",
+        "learning_objectives": [
+          "Wolves are mammals",
+          "Wolves live in family groups called packs",
+          "Wolves communicate with howls, body posture, and scents",
+          "Wolves are carnivores and hunt cooperatively",
+          "Wolves have thick fur for warmth in colder places"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Snow crunches under paws as Willa the wolf trots through a pine forest, nose low, reading the smells on the wind.",
+            "image_prompt": "Flat pastel wolf in snowy pine forest, friendly but wild, soft snow, calm kid-safe style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Willa is a mammal with thick fur. Fur helps wolves stay warm when the weather is cold.",
+            "image_prompt": "Flat pastel wolf with fur texture cues and snowflake icon, gentle educational look. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "She meets her family pack. Packs work together, sharing care for pups and watching for danger.",
+            "image_prompt": "Flat pastel wolf pack together with pups, warm family teamwork mood, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "A long howl rises into the air. Howls help wolves communicate across distance in forests and valleys.",
+            "image_prompt": "Flat pastel wolf howling with soft sound-wave lines across trees, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Willa also uses body posture—ears, tail, and stance—to show feelings like calm, alert, or playful.",
+            "image_prompt": "Flat pastel wolf with simple posture icons (ears/tail), gentle infographic style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Tracks in the snow tell a story. The pack follows carefully, using quiet steps and sharp senses.",
+            "image_prompt": "Flat pastel paw prints in snow leading forward, wolves following, calm and focused. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Wolves are carnivores, and they hunt together. Working as a team helps them catch food safely.",
+            "image_prompt": "Flat pastel wolves moving together with teamwork arrows, respectful, no gore, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "After the search, the pack rests in a sheltered spot. Rest helps them save energy for later.",
+            "image_prompt": "Flat pastel wolves resting near rocks and trees, cozy and safe tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Before sunset, Willa checks on the pups. Packs care for young ones so they can grow strong.",
+            "image_prompt": "Flat pastel wolf nuzzling pups, warm family care, soft pastel palette. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Night falls quietly. Willa curls her tail around her body, warm in her fur, listening to the forest’s sleepy sounds.",
+            "image_prompt": "Flat pastel bedtime forest with wolves curled up, stars, cozy and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Wolves are…",
+            "options": [
+              "Mammals",
+              "Birds",
+              "Fish"
+            ],
+            "correct_answer": "Mammals",
+            "fact_feedback_correct": "Correct! Wolves are mammals.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves are mammals."
+          },
+          {
+            "question_id": 2,
+            "question": "A wolf family group is called a…",
+            "options": [
+              "Pack",
+              "Hive",
+              "School"
+            ],
+            "correct_answer": "Pack",
+            "fact_feedback_correct": "Yes! Wolves live in family groups called packs.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves live in packs."
+          },
+          {
+            "question_id": 3,
+            "question": "Wolves communicate with…",
+            "options": [
+              "Howls and body signals",
+              "Only colors",
+              "Only bubbles"
+            ],
+            "correct_answer": "Howls and body signals",
+            "fact_feedback_correct": "Correct! Wolves use howls, posture, and scent to communicate.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves communicate with howls, posture, and scent."
+          },
+          {
+            "question_id": 4,
+            "question": "Why do wolves howl?",
+            "options": [
+              "To communicate across distance",
+              "To make honey",
+              "To grow leaves"
+            ],
+            "correct_answer": "To communicate across distance",
+            "fact_feedback_correct": "Right! Howls can travel far and help wolves communicate.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves howl to communicate over distance."
+          },
+          {
+            "question_id": 5,
+            "question": "Wolves are carnivores, meaning they eat…",
+            "options": [
+              "Meat",
+              "Only bamboo",
+              "Only pollen"
+            ],
+            "correct_answer": "Meat",
+            "fact_feedback_correct": "Correct! Carnivores are animals that eat meat.",
+            "fact_feedback_incorrect": "You missed the fact: Carnivores eat meat."
+          },
+          {
+            "question_id": 6,
+            "question": "Wolves often hunt…",
+            "options": [
+              "Together as a team",
+              "Only alone always",
+              "Only in the ocean"
+            ],
+            "correct_answer": "Together as a team",
+            "fact_feedback_correct": "Yes! Wolves often hunt cooperatively to increase success and safety.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves often hunt together as a team."
+          },
+          {
+            "question_id": 7,
+            "question": "Thick fur helps wolves…",
+            "options": [
+              "Stay warm",
+              "Breathe underwater",
+              "Fly"
+            ],
+            "correct_answer": "Stay warm",
+            "fact_feedback_correct": "Correct! Fur helps wolves stay warm in cold weather.",
+            "fact_feedback_incorrect": "You missed the fact: Thick fur keeps wolves warm."
+          },
+          {
+            "question_id": 8,
+            "question": "Wolf body posture includes ears and…",
+            "options": [
+              "Tail",
+              "Wings",
+              "Shell"
+            ],
+            "correct_answer": "Tail",
+            "fact_feedback_correct": "Right! Ears and tail position can show wolf feelings and signals.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves signal with ears, tail, and stance."
+          },
+          {
+            "question_id": 9,
+            "question": "Packs help pups by…",
+            "options": [
+              "Caring for them together",
+              "Teaching them to swim in lava",
+              "Leaving them alone always"
+            ],
+            "correct_answer": "Caring for them together",
+            "fact_feedback_correct": "Correct! Pack members help care for young pups.",
+            "fact_feedback_incorrect": "You missed the fact: Packs care for pups together."
+          },
+          {
+            "question_id": 10,
+            "question": "Willa uses her nose to…",
+            "options": [
+              "Smell and track",
+              "Paint pictures",
+              "Make rainbows"
+            ],
+            "correct_answer": "Smell and track",
+            "fact_feedback_correct": "Yes! Wolves have strong noses for smelling and tracking.",
+            "fact_feedback_incorrect": "You missed the fact: Wolves use strong smell to track and explore."
+          }
+        ]
+      }
+    ]
+  }
+}

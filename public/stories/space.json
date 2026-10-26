@@ -1,0 +1,1863 @@
+{
+  "category": {
+    "category_name": "Space",
+    "category_id": "space",
+    "stories": [
+      {
+        "story_id": "space_01",
+        "title": "Sunny the Star at the Center",
+        "learning_objectives": [
+          "The Sun is a star",
+          "The Sun gives Earth light and heat",
+          "Earth moves around the Sun",
+          "Without the Sun, Earth would be cold and dark",
+          "Daytime happens when Earth faces the Sun"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sunny is a star called the Sun. He sits at the center of our solar system, glowing bright and warm.",
+            "image_prompt": "Flat pastel color illustration, smiling Sun at center of space, gentle glow, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Sunny is very big and very hot. His light travels far and reaches planets like Earth.",
+            "image_prompt": "Flat pastel illustration of Sun sending soft light rays toward planets, calm space background, toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Earth moves around Sunny in a slow path called an orbit. One trip around takes one whole year.",
+            "image_prompt": "Flat pastel diagram-style illustration of Earth orbiting the Sun with arrows, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When Earth faces Sunny, it is daytime. We see bright skies and feel warm sunlight.",
+            "image_prompt": "Flat pastel Earth half lit by Sun showing daytime side, happy land and sky, simple design. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When Earth turns away from Sunny, it becomes night. The sky grows dark and calm.",
+            "image_prompt": "Flat pastel Earth half in shadow with stars and Moon visible, peaceful nighttime mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Sunny helps plants grow. Plants use sunlight to make food for themselves.",
+            "image_prompt": "Flat pastel Sun shining on Earth with green plants growing, educational and gentle. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Sunny never leaves his place. The planets move, but the Sun stays in the middle.",
+            "image_prompt": "Flat pastel Sun steady in center with planets circling, calm and balanced layout. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Without Sunny, Earth would be frozen and dark. Life needs the Sun’s warmth and light.",
+            "image_prompt": "Flat pastel comparison: bright warm Earth vs dark cold Earth, simple educational contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Every morning, Sunny helps start a new day. He rises, and the world wakes up.",
+            "image_prompt": "Flat pastel sunrise over Earth with smiling Sun, soft colors, cozy tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: the Sun is a star that gives Earth light, warmth, and life.",
+            "image_prompt": "Flat pastel bedtime space scene with Sun glowing softly and Earth resting, soothing mood. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is the Sun?",
+            "options": [
+              "A star",
+              "A planet",
+              "A cloud"
+            ],
+            "correct_answer": "A star",
+            "fact_feedback_correct": "Correct! The Sun is a star at the center of our solar system.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun is a star, not a planet or cloud."
+          },
+          {
+            "question_id": 2,
+            "question": "What does the Sun give Earth?",
+            "options": [
+              "Light and heat",
+              "Rain only",
+              "Snow"
+            ],
+            "correct_answer": "Light and heat",
+            "fact_feedback_correct": "Yes! The Sun gives Earth light and warmth.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun gives Earth light and heat."
+          },
+          {
+            "question_id": 3,
+            "question": "Earth moves around the Sun in an…",
+            "options": [
+              "Orbit",
+              "Jump",
+              "Slide"
+            ],
+            "correct_answer": "Orbit",
+            "fact_feedback_correct": "Correct! Earth travels around the Sun in a path called an orbit.",
+            "fact_feedback_incorrect": "You missed the fact: Earth moves around the Sun in an orbit."
+          },
+          {
+            "question_id": 4,
+            "question": "Daytime happens when Earth…",
+            "options": [
+              "Faces the Sun",
+              "Hides behind the Moon",
+              "Stops spinning"
+            ],
+            "correct_answer": "Faces the Sun",
+            "fact_feedback_correct": "Yes! When Earth faces the Sun, it is daytime.",
+            "fact_feedback_incorrect": "You missed the fact: Daytime happens when Earth faces the Sun."
+          },
+          {
+            "question_id": 5,
+            "question": "Without the Sun, Earth would be…",
+            "options": [
+              "Cold and dark",
+              "Loud and bright",
+              "Full of fire"
+            ],
+            "correct_answer": "Cold and dark",
+            "fact_feedback_correct": "Correct! Without the Sun, Earth would be cold and dark.",
+            "fact_feedback_incorrect": "You missed the fact: Without the Sun, Earth would be cold and dark."
+          },
+          {
+            "question_id": 6,
+            "question": "Plants need sunlight to…",
+            "options": [
+              "Grow",
+              "Fly",
+              "Sleep"
+            ],
+            "correct_answer": "Grow",
+            "fact_feedback_correct": "Right! Plants use sunlight to grow.",
+            "fact_feedback_incorrect": "You missed the fact: Plants need sunlight to grow."
+          },
+          {
+            "question_id": 7,
+            "question": "The Sun stays mostly…",
+            "options": [
+              "In the center",
+              "On Earth",
+              "Inside the Moon"
+            ],
+            "correct_answer": "In the center",
+            "fact_feedback_correct": "Correct! The Sun stays at the center of the solar system.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun stays in the center."
+          },
+          {
+            "question_id": 8,
+            "question": "One trip of Earth around the Sun takes…",
+            "options": [
+              "One year",
+              "One day",
+              "One hour"
+            ],
+            "correct_answer": "One year",
+            "fact_feedback_correct": "Yes! One orbit around the Sun takes one year.",
+            "fact_feedback_incorrect": "You missed the fact: Earth takes one year to go around the Sun."
+          },
+          {
+            "question_id": 9,
+            "question": "The Sun is very…",
+            "options": [
+              "Hot",
+              "Cold",
+              "Wet"
+            ],
+            "correct_answer": "Hot",
+            "fact_feedback_correct": "Correct! The Sun is extremely hot.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun is very hot."
+          },
+          {
+            "question_id": 10,
+            "question": "The Sun helps life on Earth by giving…",
+            "options": [
+              "Energy",
+              "Toys",
+              "Windmills"
+            ],
+            "correct_answer": "Energy",
+            "fact_feedback_correct": "Correct! The Sun gives energy that helps life exist on Earth.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun gives energy to Earth."
+          }
+        ]
+      },
+      {
+        "story_id": "space_02",
+        "title": "Luna the Moon That Travels",
+        "learning_objectives": [
+          "The Moon is not a star; it reflects sunlight",
+          "The Moon moves around Earth in an orbit",
+          "The Moon has phases that change its shape",
+          "The Moon helps cause ocean tides",
+          "The Moon stays close to Earth"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Luna is the Moon. She is Earth’s closest space friend and follows Earth wherever it goes.",
+            "image_prompt": "Flat pastel color illustration, Moon with a gentle smiling face near Earth in space, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Luna is not a star. She does not make her own light. She shines by reflecting light from the Sun.",
+            "image_prompt": "Flat pastel illustration showing Sun light rays bouncing from the Moon toward Earth, simple educational arrows, calm space colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Luna travels around Earth in a path called an orbit. She goes all the way around again and again.",
+            "image_prompt": "Flat pastel diagram-style illustration of Moon orbiting Earth with curved arrows, clean and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "As Luna moves, we see different shapes of her. These shapes are called Moon phases.",
+            "image_prompt": "Flat pastel Moon phase sequence showing crescent, half, and full Moon, friendly faces, educational toddler style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sometimes Luna looks full and round. Sometimes she looks like a tiny glowing slice.",
+            "image_prompt": "Flat pastel comparison of full Moon and crescent Moon, soft glow, gentle contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Luna’s gentle pull helps move ocean water. This movement makes tides go in and out.",
+            "image_prompt": "Flat pastel illustration of Earth with ocean waves rising slightly toward the Moon, simple tide arrows, calm style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "At night, Luna lights the sky. She helps us see softly when the Sun is sleeping.",
+            "image_prompt": "Flat pastel nighttime Earth scene with Moon glowing gently and stars around, peaceful bedtime mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Luna stays close to Earth. She does not float away, because Earth’s gravity keeps her nearby.",
+            "image_prompt": "Flat pastel illustration of Earth gently holding the Moon with invisible gravity lines, friendly and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "People have visited Luna. Astronauts walked on her rocky surface long ago.",
+            "image_prompt": "Flat pastel illustration of astronaut standing on Moon waving, Earth visible in sky, soft and non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: Luna orbits Earth, shines with sunlight, and changes her shape in the sky.",
+            "image_prompt": "Flat pastel bedtime space scene with Moon phases softly glowing, Earth resting, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Luna?",
+            "options": [
+              "The Moon",
+              "A star",
+              "A planet"
+            ],
+            "correct_answer": "The Moon",
+            "fact_feedback_correct": "Correct! Luna is the Moon that travels around Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Luna is the Moon, not a star or planet."
+          },
+          {
+            "question_id": 2,
+            "question": "Does the Moon make its own light?",
+            "options": [
+              "No, it reflects sunlight",
+              "Yes, it makes light",
+              "Only at night"
+            ],
+            "correct_answer": "No, it reflects sunlight",
+            "fact_feedback_correct": "Yes! The Moon shines by reflecting light from the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon does not make its own light; it reflects sunlight."
+          },
+          {
+            "question_id": 3,
+            "question": "The Moon moves around Earth in an…",
+            "options": [
+              "Orbit",
+              "Jump",
+              "Slide"
+            ],
+            "correct_answer": "Orbit",
+            "fact_feedback_correct": "Correct! The Moon travels around Earth in an orbit.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon moves around Earth in an orbit."
+          },
+          {
+            "question_id": 4,
+            "question": "Why does the Moon look different on different nights?",
+            "options": [
+              "Moon phases",
+              "It grows",
+              "Clouds paint it"
+            ],
+            "correct_answer": "Moon phases",
+            "fact_feedback_correct": "Correct! The Moon’s changing shapes are called phases.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon changes shape because of its phases."
+          },
+          {
+            "question_id": 5,
+            "question": "What does the Moon help cause in the ocean?",
+            "options": [
+              "Tides",
+              "Storms",
+              "Ice"
+            ],
+            "correct_answer": "Tides",
+            "fact_feedback_correct": "Yes! The Moon’s pull helps move ocean water, making tides.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon helps cause ocean tides."
+          },
+          {
+            "question_id": 6,
+            "question": "The Moon is closest to…",
+            "options": [
+              "Earth",
+              "The Sun",
+              "Mars"
+            ],
+            "correct_answer": "Earth",
+            "fact_feedback_correct": "Correct! The Moon stays closest to Earth.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon is Earth’s closest space neighbor."
+          },
+          {
+            "question_id": 7,
+            "question": "At night, the Moon helps the sky look…",
+            "options": [
+              "Softly bright",
+              "Hot",
+              "Green"
+            ],
+            "correct_answer": "Softly bright",
+            "fact_feedback_correct": "Yes! Moonlight softly brightens the night sky.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon softly lights the night sky."
+          },
+          {
+            "question_id": 8,
+            "question": "What keeps the Moon near Earth?",
+            "options": [
+              "Gravity",
+              "Wind",
+              "Ropes"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Correct! Gravity keeps the Moon close to Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity holds the Moon near Earth."
+          },
+          {
+            "question_id": 9,
+            "question": "People have visited the Moon using…",
+            "options": [
+              "Spacecraft",
+              "Balloons",
+              "Boats"
+            ],
+            "correct_answer": "Spacecraft",
+            "fact_feedback_correct": "Correct! Astronauts traveled to the Moon in spacecraft.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts reached the Moon using spacecraft."
+          },
+          {
+            "question_id": 10,
+            "question": "The Moon changes shape in the sky because it…",
+            "options": [
+              "Moves around Earth",
+              "Shrinks",
+              "Breaks"
+            ],
+            "correct_answer": "Moves around Earth",
+            "fact_feedback_correct": "Yes! The Moon’s movement around Earth causes its phases.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon’s phases happen because it orbits Earth."
+          }
+        ]
+      },
+      {
+        "story_id": "space_03",
+        "title": "Earth Spins: Day and Night",
+        "learning_objectives": [
+          "Earth spins in place (rotation)",
+          "One full spin takes one day",
+          "Day happens when a place faces the Sun",
+          "Night happens when a place turns away from the Sun",
+          "Earth keeps spinning all the time"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Earth is our home planet. Earth spins slowly all the time, even when we are sleeping.",
+            "image_prompt": "Flat pastel color illustration, Earth with a gentle smiling face in space, curved arrows showing slow spin, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Earth does not stand still. It turns in place like a slow, gentle top.",
+            "image_prompt": "Flat pastel illustration comparing Earth to a spinning top with motion arrows, simple and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "When part of Earth faces the Sun, it becomes daytime in that place.",
+            "image_prompt": "Flat pastel illustration of Earth half lit by the Sun showing daytime side with bright sky and land. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When Earth turns away from the Sun, it becomes nighttime. The sky grows dark and calm.",
+            "image_prompt": "Flat pastel illustration of Earth half in shadow with stars and Moon, peaceful night mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Day and night happen again and again because Earth keeps spinning without stopping.",
+            "image_prompt": "Flat pastel illustration of Earth with looping arrows showing continuous rotation, clean and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "One full spin of Earth takes one whole day. That is why days are about the same length.",
+            "image_prompt": "Flat pastel illustration with Earth rotation and a simple clock icon labeled 'one day', toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "While one side has day, the other side has night. Different places have different times.",
+            "image_prompt": "Flat pastel illustration showing Earth with day on one side and night on the other, labeled simply. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Even when clouds cover the sky, Earth is still spinning and making day and night.",
+            "image_prompt": "Flat pastel illustration of Earth with clouds but still rotating, Sun partially hidden, simple explanation. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Earth has been spinning for a very long time, helping life follow a steady rhythm.",
+            "image_prompt": "Flat pastel illustration of Earth with gentle rhythm icons like hearts or waves, calm and balanced. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: Earth spins every day, making daytime and nighttime for everyone.",
+            "image_prompt": "Flat pastel bedtime space scene with Earth slowly spinning, stars around, cozy and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What does Earth do all the time?",
+            "options": [
+              "Spins",
+              "Stops",
+              "Jumps"
+            ],
+            "correct_answer": "Spins",
+            "fact_feedback_correct": "Correct! Earth spins all the time.",
+            "fact_feedback_incorrect": "You missed the fact: Earth spins all the time."
+          },
+          {
+            "question_id": 2,
+            "question": "Earth spinning in place is called…",
+            "options": [
+              "Rotation",
+              "Orbit",
+              "Floating"
+            ],
+            "correct_answer": "Rotation",
+            "fact_feedback_correct": "Yes! Rotation means spinning in place.",
+            "fact_feedback_incorrect": "You missed the fact: Earth spinning in place is called rotation."
+          },
+          {
+            "question_id": 3,
+            "question": "Day happens when a place on Earth…",
+            "options": [
+              "Faces the Sun",
+              "Faces away from the Sun",
+              "Faces the Moon"
+            ],
+            "correct_answer": "Faces the Sun",
+            "fact_feedback_correct": "Correct! When a place faces the Sun, it is daytime.",
+            "fact_feedback_incorrect": "You missed the fact: Day happens when Earth faces the Sun."
+          },
+          {
+            "question_id": 4,
+            "question": "Night happens when a place on Earth…",
+            "options": [
+              "Turns away from the Sun",
+              "Gets closer to the Sun",
+              "Stops spinning"
+            ],
+            "correct_answer": "Turns away from the Sun",
+            "fact_feedback_correct": "Yes! Night happens when Earth turns away from the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: Night happens when Earth turns away from the Sun."
+          },
+          {
+            "question_id": 5,
+            "question": "One full spin of Earth takes…",
+            "options": [
+              "One day",
+              "One year",
+              "One hour"
+            ],
+            "correct_answer": "One day",
+            "fact_feedback_correct": "Correct! One full spin of Earth takes one day.",
+            "fact_feedback_incorrect": "You missed the fact: One Earth spin takes one day."
+          },
+          {
+            "question_id": 6,
+            "question": "While it is day in one place, it is…",
+            "options": [
+              "Night somewhere else",
+              "Day everywhere",
+              "Always morning"
+            ],
+            "correct_answer": "Night somewhere else",
+            "fact_feedback_correct": "Correct! Different places have day and night at different times.",
+            "fact_feedback_incorrect": "You missed the fact: Day and night happen in different places at the same time."
+          },
+          {
+            "question_id": 7,
+            "question": "Does Earth ever stop spinning?",
+            "options": [
+              "No",
+              "Yes at night",
+              "Only in winter"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Yes! Earth keeps spinning all the time.",
+            "fact_feedback_incorrect": "You missed the fact: Earth does not stop spinning."
+          },
+          {
+            "question_id": 8,
+            "question": "Clouds can stop day and night from happening.",
+            "options": [
+              "False",
+              "True",
+              "Sometimes"
+            ],
+            "correct_answer": "False",
+            "fact_feedback_correct": "Correct! Clouds do not stop Earth from spinning.",
+            "fact_feedback_incorrect": "You missed the fact: Clouds do not affect Earth’s spinning."
+          },
+          {
+            "question_id": 9,
+            "question": "Earth spinning helps life follow a steady…",
+            "options": [
+              "Rhythm",
+              "Noise",
+              "Jump"
+            ],
+            "correct_answer": "Rhythm",
+            "fact_feedback_correct": "Correct! Earth’s spin helps life follow a steady rhythm of day and night.",
+            "fact_feedback_incorrect": "You missed the fact: Earth’s spin creates a steady rhythm."
+          },
+          {
+            "question_id": 10,
+            "question": "Day and night happen because Earth…",
+            "options": [
+              "Spins",
+              "Moves closer to the Sun",
+              "Changes size"
+            ],
+            "correct_answer": "Spins",
+            "fact_feedback_correct": "Yes! Earth’s spinning causes day and night.",
+            "fact_feedback_incorrect": "You missed the fact: Day and night happen because Earth spins."
+          }
+        ]
+      },
+      {
+        "story_id": "space_04",
+        "title": "The Planet Family",
+        "learning_objectives": [
+          "There are eight planets in our solar system",
+          "Planets move around the Sun",
+          "Each planet is different in size and features",
+          "Earth is one of the planets",
+          "Planets do not make their own light"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "In space, there is a planet family. These planets all travel around the Sun together.",
+            "image_prompt": "Flat pastel color illustration, Sun at center with colorful planets arranged around it, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "There are eight planets in our solar system. Each one has its own name and look.",
+            "image_prompt": "Flat pastel illustration showing eight planets in a neat row with gentle differences in color and size, educational toddler style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Mercury is small and close to the Sun. It gets very hot during the day.",
+            "image_prompt": "Flat pastel illustration of small gray Mercury near the glowing Sun, soft heat waves, simple and safe. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Venus is covered in thick clouds. It is very hot, even hotter than Mercury.",
+            "image_prompt": "Flat pastel illustration of Venus with soft yellow clouds wrapped around it, calm and friendly style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Earth is our home. It has air, water, plants, and animals living together.",
+            "image_prompt": "Flat pastel illustration of Earth with blue water, green land, small plants and clouds, warm and welcoming. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Mars is called the red planet. Its surface looks dusty and red.",
+            "image_prompt": "Flat pastel illustration of Mars with soft red tones and small rocks, simple and cute. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Jupiter is the biggest planet. It has colorful stripes and a giant storm.",
+            "image_prompt": "Flat pastel illustration of large Jupiter with gentle stripes and a soft red spot, friendly and bold. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Saturn wears beautiful rings. The rings are made of ice and rock pieces.",
+            "image_prompt": "Flat pastel illustration of Saturn with wide soft rings, sparkly but calm, toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Uranus and Neptune are far away. They are cold and look blue from space.",
+            "image_prompt": "Flat pastel illustration of two blue planets side by side in dark space, icy and calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "All planets move around the Sun. They shine because they reflect sunlight, not because they make light.",
+            "image_prompt": "Flat pastel illustration of planets reflecting Sun rays with gentle arrows, clear educational focus. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 11,
+            "text": "At bedtime, we remember: eight planets travel together, and Earth is one special home.",
+            "image_prompt": "Flat pastel bedtime space scene with planets resting in their paths, soft stars, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "How many planets are in our solar system?",
+            "options": [
+              "Eight",
+              "Five",
+              "Ten"
+            ],
+            "correct_answer": "Eight",
+            "fact_feedback_correct": "Correct! There are eight planets in our solar system.",
+            "fact_feedback_incorrect": "You missed the fact: Our solar system has eight planets."
+          },
+          {
+            "question_id": 2,
+            "question": "What do planets move around?",
+            "options": [
+              "The Sun",
+              "The Moon",
+              "Earth"
+            ],
+            "correct_answer": "The Sun",
+            "fact_feedback_correct": "Yes! All planets travel around the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: Planets move around the Sun."
+          },
+          {
+            "question_id": 3,
+            "question": "Which planet is our home?",
+            "options": [
+              "Earth",
+              "Mars",
+              "Venus"
+            ],
+            "correct_answer": "Earth",
+            "fact_feedback_correct": "Correct! Earth is our home planet.",
+            "fact_feedback_incorrect": "You missed the fact: Earth is our home planet."
+          },
+          {
+            "question_id": 4,
+            "question": "Which planet is called the red planet?",
+            "options": [
+              "Mars",
+              "Jupiter",
+              "Neptune"
+            ],
+            "correct_answer": "Mars",
+            "fact_feedback_correct": "Yes! Mars is known as the red planet.",
+            "fact_feedback_incorrect": "You missed the fact: Mars is the red planet."
+          },
+          {
+            "question_id": 5,
+            "question": "Which planet is the biggest?",
+            "options": [
+              "Jupiter",
+              "Earth",
+              "Mercury"
+            ],
+            "correct_answer": "Jupiter",
+            "fact_feedback_correct": "Correct! Jupiter is the largest planet.",
+            "fact_feedback_incorrect": "You missed the fact: Jupiter is the biggest planet."
+          },
+          {
+            "question_id": 6,
+            "question": "Which planet has rings?",
+            "options": [
+              "Saturn",
+              "Mars",
+              "Venus"
+            ],
+            "correct_answer": "Saturn",
+            "fact_feedback_correct": "Right! Saturn is famous for its rings.",
+            "fact_feedback_incorrect": "You missed the fact: Saturn has rings made of ice and rock."
+          },
+          {
+            "question_id": 7,
+            "question": "Do planets make their own light?",
+            "options": [
+              "No",
+              "Yes",
+              "Only at night"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Correct! Planets reflect sunlight; they do not make their own light.",
+            "fact_feedback_incorrect": "You missed the fact: Planets do not make their own light."
+          },
+          {
+            "question_id": 8,
+            "question": "Which planets look blue and are far away?",
+            "options": [
+              "Uranus and Neptune",
+              "Earth and Mars",
+              "Mercury and Venus"
+            ],
+            "correct_answer": "Uranus and Neptune",
+            "fact_feedback_correct": "Yes! Uranus and Neptune are blue and very far from the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: Uranus and Neptune are blue, far-away planets."
+          },
+          {
+            "question_id": 9,
+            "question": "Which planet is closest to the Sun?",
+            "options": [
+              "Mercury",
+              "Earth",
+              "Jupiter"
+            ],
+            "correct_answer": "Mercury",
+            "fact_feedback_correct": "Correct! Mercury is the closest planet to the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: Mercury is closest to the Sun."
+          },
+          {
+            "question_id": 10,
+            "question": "All planets together make a…",
+            "options": [
+              "Solar system",
+              "Galaxy",
+              "Cloud"
+            ],
+            "correct_answer": "Solar system",
+            "fact_feedback_correct": "Correct! The planets and the Sun together form the solar system.",
+            "fact_feedback_incorrect": "You missed the fact: Our planet family is called the solar system."
+          }
+        ]
+      },
+      {
+        "story_id": "space_05",
+        "title": "Gravity the Gentle Pull",
+        "learning_objectives": [
+          "Gravity is a pulling force",
+          "Gravity keeps us on the ground",
+          "Gravity pulls objects down",
+          "Gravity keeps the Moon near Earth",
+          "Gravity works everywhere, even in space"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Gravity is a gentle pull. We cannot see it, but we feel it every day.",
+            "image_prompt": "Flat pastel color illustration, friendly invisible force shown with soft arrows pulling objects down, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Gravity keeps our feet on the ground. It stops us from floating away.",
+            "image_prompt": "Flat pastel illustration of a child standing firmly on Earth with gentle downward arrows, simple and reassuring. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "When you drop a ball, gravity pulls it down to the ground.",
+            "image_prompt": "Flat pastel illustration of a ball falling toward the ground with motion arrows, clear cause-and-effect. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Gravity pulls rain from the clouds down to the land.",
+            "image_prompt": "Flat pastel illustration of raindrops falling from clouds to Earth, soft colors, calm scene. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Earth’s gravity is strong. It pulls people, animals, water, and air toward the planet.",
+            "image_prompt": "Flat pastel illustration of Earth gently holding people, trees, and water close with soft arrows, educational toddler style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Gravity also works in space. Earth’s gravity pulls the Moon and keeps it close.",
+            "image_prompt": "Flat pastel illustration of Earth and Moon with curved gravity lines between them, friendly and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "The Sun has very strong gravity. It pulls planets and keeps them moving in paths around it.",
+            "image_prompt": "Flat pastel illustration of Sun holding planets in orbit with gentle curved arrows, balanced and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "In space, far from planets, gravity feels weaker. Astronauts can float more easily.",
+            "image_prompt": "Flat pastel illustration of astronaut floating gently in space, Earth nearby, calm and safe. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Gravity works all the time, everywhere. It quietly keeps the universe together.",
+            "image_prompt": "Flat pastel illustration of space objects softly held together by invisible lines, peaceful and connected. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: gravity is the gentle pull that keeps us safe and grounded.",
+            "image_prompt": "Flat pastel bedtime scene with Earth resting in space, stars glowing softly, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is gravity?",
+            "options": [
+              "A pulling force",
+              "A color",
+              "A sound"
+            ],
+            "correct_answer": "A pulling force",
+            "fact_feedback_correct": "Correct! Gravity is a force that pulls things together.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity is a pulling force."
+          },
+          {
+            "question_id": 2,
+            "question": "What keeps our feet on the ground?",
+            "options": [
+              "Gravity",
+              "Wind",
+              "Light"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Yes! Gravity keeps us standing on the ground.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity keeps us on the ground."
+          },
+          {
+            "question_id": 3,
+            "question": "When you drop a ball, it falls because of…",
+            "options": [
+              "Gravity",
+              "Magic",
+              "Music"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Correct! Gravity pulls the ball down.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity pulls objects downward."
+          },
+          {
+            "question_id": 4,
+            "question": "Gravity pulls rain…",
+            "options": [
+              "Down to Earth",
+              "Up to the sky",
+              "Sideways only"
+            ],
+            "correct_answer": "Down to Earth",
+            "fact_feedback_correct": "Yes! Gravity pulls rain down from clouds.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity pulls rain downward."
+          },
+          {
+            "question_id": 5,
+            "question": "What does Earth’s gravity pull?",
+            "options": [
+              "People and objects",
+              "Only rocks",
+              "Only clouds"
+            ],
+            "correct_answer": "People and objects",
+            "fact_feedback_correct": "Correct! Earth’s gravity pulls everything toward it.",
+            "fact_feedback_incorrect": "You missed the fact: Earth’s gravity pulls people and objects."
+          },
+          {
+            "question_id": 6,
+            "question": "What keeps the Moon near Earth?",
+            "options": [
+              "Gravity",
+              "Ropes",
+              "Wind"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Right! Gravity keeps the Moon close to Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity holds the Moon near Earth."
+          },
+          {
+            "question_id": 7,
+            "question": "Which object has very strong gravity?",
+            "options": [
+              "The Sun",
+              "A leaf",
+              "A balloon"
+            ],
+            "correct_answer": "The Sun",
+            "fact_feedback_correct": "Correct! The Sun’s gravity is very strong.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun has strong gravity."
+          },
+          {
+            "question_id": 8,
+            "question": "Astronauts can float because gravity is…",
+            "options": [
+              "Weaker",
+              "Gone forever",
+              "Louder"
+            ],
+            "correct_answer": "Weaker",
+            "fact_feedback_correct": "Yes! Far from planets, gravity feels weaker.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity feels weaker far from planets."
+          },
+          {
+            "question_id": 9,
+            "question": "Gravity works…",
+            "options": [
+              "Everywhere",
+              "Only on Earth",
+              "Only at night"
+            ],
+            "correct_answer": "Everywhere",
+            "fact_feedback_correct": "Correct! Gravity works everywhere in the universe.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity works everywhere."
+          },
+          {
+            "question_id": 10,
+            "question": "Gravity helps keep the universe…",
+            "options": [
+              "Together",
+              "Loud",
+              "Square"
+            ],
+            "correct_answer": "Together",
+            "fact_feedback_correct": "Correct! Gravity helps hold the universe together.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity keeps things together."
+          }
+        ]
+      },
+      {
+        "story_id": "space_06",
+        "title": "Rocket Rides to Space",
+        "learning_objectives": [
+          "Rockets help humans travel to space",
+          "Rockets use fuel to push upward",
+          "Rockets must be very strong to leave Earth",
+          "Space begins far above Earth",
+          "Rockets return safely back to Earth"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "This is a rocket. Rockets help people and tools travel from Earth into space.",
+            "image_prompt": "Flat pastel color illustration, friendly rocket standing on launch pad, soft sky, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Rockets must be very strong. Earth’s gravity pulls down, so rockets push up very hard.",
+            "image_prompt": "Flat pastel illustration showing rocket pushing upward against gravity arrows pointing down, simple educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Inside the rocket is fuel. Fuel burns and makes hot gas that pushes the rocket upward.",
+            "image_prompt": "Flat pastel cutaway illustration of rocket with glowing fuel chamber and arrows showing thrust, safe and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When the rocket launches, it makes loud sounds and bright flames. The ground shakes a little.",
+            "image_prompt": "Flat pastel illustration of rocket launch with soft flame shapes and gentle smoke clouds, non-scary style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Up, up, up the rocket goes, climbing higher than planes and clouds.",
+            "image_prompt": "Flat pastel illustration of rocket rising above clouds and airplanes, smooth motion lines, calm sky colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Space begins far above Earth. There is no air, and the sky looks very dark.",
+            "image_prompt": "Flat pastel illustration of rocket reaching dark space with stars, Earth below, clear contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "In space, things float more easily. Rockets help astronauts bring tools, food, and science to space.",
+            "image_prompt": "Flat pastel illustration of rocket near astronauts and floating tools, gentle and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Some rockets drop empty parts as they fly. This helps the rocket go farther using less fuel.",
+            "image_prompt": "Flat pastel illustration of rocket stages separating gently, labeled simply, educational toddler style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "After the mission, rockets or capsules come back to Earth and land safely.",
+            "image_prompt": "Flat pastel illustration of capsule returning with parachute over Earth, calm and reassuring. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: rockets use fuel and strength to carry people and tools into space.",
+            "image_prompt": "Flat pastel bedtime space scene with rocket resting near Earth, stars glowing softly, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What do rockets help us do?",
+            "options": [
+              "Travel to space",
+              "Swim in oceans",
+              "Dig underground"
+            ],
+            "correct_answer": "Travel to space",
+            "fact_feedback_correct": "Correct! Rockets help people and tools travel to space.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets help us travel to space."
+          },
+          {
+            "question_id": 2,
+            "question": "Rockets must push hard to leave Earth because of…",
+            "options": [
+              "Gravity",
+              "Rain",
+              "Clouds"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Yes! Gravity pulls down, so rockets must push upward strongly.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity pulls rockets toward Earth."
+          },
+          {
+            "question_id": 3,
+            "question": "What inside the rocket helps it go up?",
+            "options": [
+              "Fuel",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Fuel",
+            "fact_feedback_correct": "Correct! Burning fuel makes gas that pushes the rocket upward.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets use fuel to push upward."
+          },
+          {
+            "question_id": 4,
+            "question": "Rockets travel higher than…",
+            "options": [
+              "Planes",
+              "Trees",
+              "Mountains"
+            ],
+            "correct_answer": "Planes",
+            "fact_feedback_correct": "Yes! Rockets go much higher than airplanes.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets travel higher than planes."
+          },
+          {
+            "question_id": 5,
+            "question": "Space has…",
+            "options": [
+              "No air",
+              "Lots of air",
+              "Rain clouds"
+            ],
+            "correct_answer": "No air",
+            "fact_feedback_correct": "Correct! Space has no air to breathe.",
+            "fact_feedback_incorrect": "You missed the fact: Space does not have air."
+          },
+          {
+            "question_id": 6,
+            "question": "In space, things can…",
+            "options": [
+              "Float",
+              "Fall fast",
+              "Sink"
+            ],
+            "correct_answer": "Float",
+            "fact_feedback_correct": "Yes! Things float more easily in space.",
+            "fact_feedback_incorrect": "You missed the fact: Objects float more easily in space."
+          },
+          {
+            "question_id": 7,
+            "question": "Why do some rockets drop parts as they fly?",
+            "options": [
+              "To go farther",
+              "To look smaller",
+              "To make noise"
+            ],
+            "correct_answer": "To go farther",
+            "fact_feedback_correct": "Correct! Dropping empty parts helps rockets travel farther.",
+            "fact_feedback_incorrect": "You missed the fact: Dropping parts helps rockets go farther."
+          },
+          {
+            "question_id": 8,
+            "question": "Rockets can carry…",
+            "options": [
+              "People and tools",
+              "Trees and houses",
+              "Oceans"
+            ],
+            "correct_answer": "People and tools",
+            "fact_feedback_correct": "Yes! Rockets carry astronauts and tools into space.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets carry people and tools."
+          },
+          {
+            "question_id": 9,
+            "question": "After a mission, rockets or capsules…",
+            "options": [
+              "Return to Earth",
+              "Stay forever in space",
+              "Turn into stars"
+            ],
+            "correct_answer": "Return to Earth",
+            "fact_feedback_correct": "Correct! Rockets or capsules come back safely to Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets can return to Earth."
+          },
+          {
+            "question_id": 10,
+            "question": "Rockets help humans explore…",
+            "options": [
+              "Space",
+              "The inside of Earth",
+              "The ocean floor"
+            ],
+            "correct_answer": "Space",
+            "fact_feedback_correct": "Correct! Rockets help us explore space.",
+            "fact_feedback_incorrect": "You missed the fact: Rockets help us explore space."
+          }
+        ]
+      },
+      {
+        "story_id": "space_07",
+        "title": "Astronauts Work in Space",
+        "learning_objectives": [
+          "Astronauts are people who travel to space",
+          "Astronauts float because gravity is weaker",
+          "Astronauts wear space suits to stay safe",
+          "Astronauts live and work inside space stations",
+          "Astronauts do science in space"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Astronauts are people who travel from Earth into space to explore and learn.",
+            "image_prompt": "Flat pastel color illustration, smiling astronaut waving near Earth, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "In space, astronauts float gently. Gravity feels weaker, so bodies feel light.",
+            "image_prompt": "Flat pastel illustration of astronaut floating calmly inside a spacecraft, soft motion lines, friendly tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Astronauts live inside a space station. It is like a home that circles Earth.",
+            "image_prompt": "Flat pastel illustration of space station orbiting Earth with astronaut visible in window, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Inside the station, astronauts sleep, eat, and work while floating.",
+            "image_prompt": "Flat pastel illustration of astronaut eating floating food and resting in sleeping bag, calm and cozy. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Astronauts wear special space suits when they go outside the station.",
+            "image_prompt": "Flat pastel illustration of astronaut putting on space suit, simple safety details, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Space suits give astronauts air to breathe and protect them from cold and heat.",
+            "image_prompt": "Flat pastel illustration of space suit with simple icons for air, warmth, and safety, educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Astronauts do science in space. They study plants, water, and how bodies move.",
+            "image_prompt": "Flat pastel illustration of astronaut doing simple experiments with plants and water drops, gentle learning tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Floating helps astronauts learn how things move without strong gravity.",
+            "image_prompt": "Flat pastel illustration of astronaut gently pushing an object that floats away slowly, clear cause-and-effect. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Astronauts work together and help each other stay safe in space.",
+            "image_prompt": "Flat pastel illustration of two astronauts giving a thumbs-up and helping each other, warm teamwork feel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: astronauts float, wear suits, and learn new things in space.",
+            "image_prompt": "Flat pastel bedtime space scene with astronauts resting inside station, stars glowing softly, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Who are astronauts?",
+            "options": [
+              "People who travel to space",
+              "Animals that fly",
+              "Robots only"
+            ],
+            "correct_answer": "People who travel to space",
+            "fact_feedback_correct": "Correct! Astronauts are people who travel to space.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts are people who go to space."
+          },
+          {
+            "question_id": 2,
+            "question": "Why do astronauts float in space?",
+            "options": [
+              "Gravity is weaker",
+              "They are jumping",
+              "The air lifts them"
+            ],
+            "correct_answer": "Gravity is weaker",
+            "fact_feedback_correct": "Yes! Gravity feels weaker, so astronauts float.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts float because gravity is weaker."
+          },
+          {
+            "question_id": 3,
+            "question": "Where do astronauts live in space?",
+            "options": [
+              "Space station",
+              "The Moon only",
+              "Inside stars"
+            ],
+            "correct_answer": "Space station",
+            "fact_feedback_correct": "Correct! Astronauts live and work inside space stations.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts live in space stations."
+          },
+          {
+            "question_id": 4,
+            "question": "What do astronauts wear outside the station?",
+            "options": [
+              "Space suits",
+              "Winter coats",
+              "Rain jackets"
+            ],
+            "correct_answer": "Space suits",
+            "fact_feedback_correct": "Yes! Astronauts wear space suits to stay safe.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts wear space suits outside."
+          },
+          {
+            "question_id": 5,
+            "question": "Space suits give astronauts…",
+            "options": [
+              "Air to breathe",
+              "Wings",
+              "Music"
+            ],
+            "correct_answer": "Air to breathe",
+            "fact_feedback_correct": "Correct! Space suits provide air to breathe.",
+            "fact_feedback_incorrect": "You missed the fact: Space suits give astronauts air."
+          },
+          {
+            "question_id": 6,
+            "question": "Astronauts do science by studying…",
+            "options": [
+              "Plants and water",
+              "Cars and roads",
+              "Volcanoes"
+            ],
+            "correct_answer": "Plants and water",
+            "fact_feedback_correct": "Yes! Astronauts study plants, water, and movement.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts study plants and water in space."
+          },
+          {
+            "question_id": 7,
+            "question": "Floating helps astronauts learn about…",
+            "options": [
+              "Movement",
+              "Loud sounds",
+              "Colors only"
+            ],
+            "correct_answer": "Movement",
+            "fact_feedback_correct": "Correct! Floating helps scientists learn how things move.",
+            "fact_feedback_incorrect": "You missed the fact: Floating helps study movement."
+          },
+          {
+            "question_id": 8,
+            "question": "Astronauts work best when they…",
+            "options": [
+              "Work together",
+              "Work alone always",
+              "Never help"
+            ],
+            "correct_answer": "Work together",
+            "fact_feedback_correct": "Yes! Teamwork helps astronauts stay safe.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts help each other."
+          },
+          {
+            "question_id": 9,
+            "question": "Astronauts float because gravity is…",
+            "options": [
+              "Weaker",
+              "Gone forever",
+              "Stronger"
+            ],
+            "correct_answer": "Weaker",
+            "fact_feedback_correct": "Correct! Gravity feels weaker in space.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity is weaker in space."
+          },
+          {
+            "question_id": 10,
+            "question": "Astronauts explore space to…",
+            "options": [
+              "Learn new things",
+              "Paint stars",
+              "Make clouds"
+            ],
+            "correct_answer": "Learn new things",
+            "fact_feedback_correct": "Correct! Astronauts explore space to learn and discover.",
+            "fact_feedback_incorrect": "You missed the fact: Astronauts explore space to learn."
+          }
+        ]
+      },
+      {
+        "story_id": "space_08",
+        "title": "Stars and Constellations",
+        "learning_objectives": [
+          "Stars are giant glowing balls of gas",
+          "Stars are very far away",
+          "The Sun is also a star",
+          "Constellations are patterns made by stars",
+          "People use constellations to find shapes in the sky"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "At night, the sky fills with tiny lights. These lights are called stars.",
+            "image_prompt": "Flat pastel color illustration, nighttime sky with many soft glowing stars above Earth, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Stars are not tiny. They are huge, glowing balls of hot gas far, far away.",
+            "image_prompt": "Flat pastel illustration showing one star enlarged with gentle glow, compared to small Earth far below, simple educational contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The star closest to us is the Sun. It looks big because it is much closer than other stars.",
+            "image_prompt": "Flat pastel illustration comparing the Sun close to Earth and tiny distant stars, clear size-distance idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Other stars are so far away that they look like tiny dots in the sky.",
+            "image_prompt": "Flat pastel illustration of deep space with many small star dots, calm and magical mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When people look at stars, they like to find pictures and shapes.",
+            "image_prompt": "Flat pastel illustration of child pointing at stars, simple lines hinting at shapes, warm and curious tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Star pictures are called constellations. They are patterns we imagine in the sky.",
+            "image_prompt": "Flat pastel illustration of stars connected with dotted lines to form a simple constellation shape, educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Some constellations look like animals or people. Others look like tools or shapes.",
+            "image_prompt": "Flat pastel illustration showing two simple constellation outlines, like a bear and a dipper, friendly and abstract. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Constellations help people remember where stars are in the sky.",
+            "image_prompt": "Flat pastel illustration of star map style sky with labeled constellation lines, gentle and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Stars do not move around us each night. Earth’s spinning makes them appear to move.",
+            "image_prompt": "Flat pastel illustration showing Earth spinning with stars appearing to shift, clear cause-and-effect. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: stars are far away, the Sun is a star, and patterns help us learn the sky.",
+            "image_prompt": "Flat pastel bedtime sky with soft glowing stars and simple constellation lines, calm and cozy mood. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What are the tiny lights in the night sky?",
+            "options": [
+              "Stars",
+              "Fireflies",
+              "Airplanes"
+            ],
+            "correct_answer": "Stars",
+            "fact_feedback_correct": "Correct! The tiny lights in the night sky are stars.",
+            "fact_feedback_incorrect": "You missed the fact: Those tiny lights are stars."
+          },
+          {
+            "question_id": 2,
+            "question": "Are stars small or very big?",
+            "options": [
+              "Very big",
+              "Very small",
+              "Flat"
+            ],
+            "correct_answer": "Very big",
+            "fact_feedback_correct": "Yes! Stars are huge glowing balls of gas.",
+            "fact_feedback_incorrect": "You missed the fact: Stars are very big, even if they look small."
+          },
+          {
+            "question_id": 3,
+            "question": "Why do stars look tiny in the sky?",
+            "options": [
+              "They are far away",
+              "They are shrinking",
+              "They turn off"
+            ],
+            "correct_answer": "They are far away",
+            "fact_feedback_correct": "Correct! Stars look small because they are very far away.",
+            "fact_feedback_incorrect": "You missed the fact: Stars look tiny because they are far away."
+          },
+          {
+            "question_id": 4,
+            "question": "Which star is closest to Earth?",
+            "options": [
+              "The Sun",
+              "The Moon",
+              "Polaris"
+            ],
+            "correct_answer": "The Sun",
+            "fact_feedback_correct": "Yes! The Sun is the closest star to Earth.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun is the closest star."
+          },
+          {
+            "question_id": 5,
+            "question": "What is a constellation?",
+            "options": [
+              "A star pattern",
+              "A planet",
+              "A cloud"
+            ],
+            "correct_answer": "A star pattern",
+            "fact_feedback_correct": "Correct! A constellation is a pattern made by stars.",
+            "fact_feedback_incorrect": "You missed the fact: Constellations are star patterns."
+          },
+          {
+            "question_id": 6,
+            "question": "Do constellations really connect the stars?",
+            "options": [
+              "No, we imagine the lines",
+              "Yes, with strings",
+              "Only at night"
+            ],
+            "correct_answer": "No, we imagine the lines",
+            "fact_feedback_correct": "Yes! The lines are imaginary to help us see shapes.",
+            "fact_feedback_incorrect": "You missed the fact: Constellation lines are imagined."
+          },
+          {
+            "question_id": 7,
+            "question": "People use constellations to…",
+            "options": [
+              "Learn the sky",
+              "Change the weather",
+              "Light the Sun"
+            ],
+            "correct_answer": "Learn the sky",
+            "fact_feedback_correct": "Correct! Constellations help people learn where stars are.",
+            "fact_feedback_incorrect": "You missed the fact: Constellations help people learn the sky."
+          },
+          {
+            "question_id": 8,
+            "question": "Stars seem to move because Earth is…",
+            "options": [
+              "Spinning",
+              "Stopping",
+              "Growing"
+            ],
+            "correct_answer": "Spinning",
+            "fact_feedback_correct": "Yes! Earth’s spinning makes stars seem to move.",
+            "fact_feedback_incorrect": "You missed the fact: Stars seem to move because Earth spins."
+          },
+          {
+            "question_id": 9,
+            "question": "Are stars closer than the Moon?",
+            "options": [
+              "No",
+              "Yes",
+              "Sometimes"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Correct! Stars are much farther away than the Moon.",
+            "fact_feedback_incorrect": "You missed the fact: Stars are farther than the Moon."
+          },
+          {
+            "question_id": 10,
+            "question": "The Sun is a kind of…",
+            "options": [
+              "Star",
+              "Planet",
+              "Comet"
+            ],
+            "correct_answer": "Star",
+            "fact_feedback_correct": "Correct! The Sun is a star.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun is a star."
+          }
+        ]
+      },
+      {
+        "story_id": "space_09",
+        "title": "Our Home Galaxy: The Milky Way",
+        "learning_objectives": [
+          "A galaxy is a huge group of stars",
+          "The Milky Way is our home galaxy",
+          "Galaxies contain stars, planets, and dust",
+          "The solar system lives inside the Milky Way",
+          "Galaxies are very big and very far apart"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Far beyond our solar system are giant families of stars called galaxies.",
+            "image_prompt": "Flat pastel color illustration of a gentle spiral galaxy in space, soft glow, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "A galaxy holds billions of stars, along with planets, gas, and dust.",
+            "image_prompt": "Flat pastel illustration showing many tiny stars inside a soft glowing galaxy cloud, simple educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Our home galaxy is called the Milky Way. It looks like a glowing swirl in space.",
+            "image_prompt": "Flat pastel illustration of the Milky Way spiral with warm glowing arms, calm and magical. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The Milky Way is so big that it takes light a very long time to cross it.",
+            "image_prompt": "Flat pastel illustration showing galaxy with dotted light paths traveling across it, simple scale idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Inside the Milky Way is our solar system, with the Sun and all its planets.",
+            "image_prompt": "Flat pastel illustration zooming from Milky Way to a tiny solar system spot, clear nesting idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Earth is a tiny home inside the solar system, inside the Milky Way galaxy.",
+            "image_prompt": "Flat pastel illustration showing Earth highlighted within the solar system and galaxy layers, gentle and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "There are many other galaxies besides the Milky Way, spread across space.",
+            "image_prompt": "Flat pastel illustration of multiple small galaxies scattered across dark space, soft colors, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Galaxies are very far apart. Space between them is wide and quiet.",
+            "image_prompt": "Flat pastel illustration showing large empty space between two galaxies, simple distance concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Galaxies slowly move and change over very long times.",
+            "image_prompt": "Flat pastel illustration of galaxies gently drifting with subtle motion lines, peaceful and abstract. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: Earth lives in the solar system, inside the Milky Way galaxy.",
+            "image_prompt": "Flat pastel bedtime space scene with Milky Way glowing softly above Earth, cozy and calming. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is a galaxy?",
+            "options": [
+              "A huge group of stars",
+              "One single planet",
+              "A cloud on Earth"
+            ],
+            "correct_answer": "A huge group of stars",
+            "fact_feedback_correct": "Correct! A galaxy is a huge family of stars.",
+            "fact_feedback_incorrect": "You missed the fact: A galaxy is a huge group of stars."
+          },
+          {
+            "question_id": 2,
+            "question": "What is the name of our home galaxy?",
+            "options": [
+              "Milky Way",
+              "Andromeda",
+              "Solar Way"
+            ],
+            "correct_answer": "Milky Way",
+            "fact_feedback_correct": "Yes! Our home galaxy is called the Milky Way.",
+            "fact_feedback_incorrect": "You missed the fact: Our home galaxy is the Milky Way."
+          },
+          {
+            "question_id": 3,
+            "question": "Galaxies contain stars and also…",
+            "options": [
+              "Planets and dust",
+              "Trees and oceans",
+              "Mountains"
+            ],
+            "correct_answer": "Planets and dust",
+            "fact_feedback_correct": "Correct! Galaxies hold stars, planets, gas, and dust.",
+            "fact_feedback_incorrect": "You missed the fact: Galaxies contain planets, gas, and dust."
+          },
+          {
+            "question_id": 4,
+            "question": "Where is our solar system?",
+            "options": [
+              "Inside the Milky Way",
+              "Outside all galaxies",
+              "Inside the Moon"
+            ],
+            "correct_answer": "Inside the Milky Way",
+            "fact_feedback_correct": "Yes! Our solar system lives inside the Milky Way galaxy.",
+            "fact_feedback_incorrect": "You missed the fact: The solar system is inside the Milky Way."
+          },
+          {
+            "question_id": 5,
+            "question": "Is Earth big or tiny compared to the galaxy?",
+            "options": [
+              "Tiny",
+              "Bigger",
+              "The same size"
+            ],
+            "correct_answer": "Tiny",
+            "fact_feedback_correct": "Correct! Earth is very tiny compared to a galaxy.",
+            "fact_feedback_incorrect": "You missed the fact: Earth is tiny compared to the galaxy."
+          },
+          {
+            "question_id": 6,
+            "question": "Are there many galaxies in space?",
+            "options": [
+              "Yes",
+              "Only one",
+              "Only two"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Yes! There are many galaxies in space.",
+            "fact_feedback_incorrect": "You missed the fact: Space has many galaxies."
+          },
+          {
+            "question_id": 7,
+            "question": "The space between galaxies is…",
+            "options": [
+              "Wide and quiet",
+              "Crowded",
+              "Full of air"
+            ],
+            "correct_answer": "Wide and quiet",
+            "fact_feedback_correct": "Correct! Galaxies are very far apart.",
+            "fact_feedback_incorrect": "You missed the fact: Space between galaxies is wide."
+          },
+          {
+            "question_id": 8,
+            "question": "Do galaxies stay still forever?",
+            "options": [
+              "No, they slowly move",
+              "Yes, never move",
+              "They jump"
+            ],
+            "correct_answer": "No, they slowly move",
+            "fact_feedback_correct": "Yes! Galaxies slowly move and change over time.",
+            "fact_feedback_incorrect": "You missed the fact: Galaxies slowly move."
+          },
+          {
+            "question_id": 9,
+            "question": "The Milky Way looks like a…",
+            "options": [
+              "Glowing swirl",
+              "Straight line",
+              "Triangle"
+            ],
+            "correct_answer": "Glowing swirl",
+            "fact_feedback_correct": "Correct! The Milky Way looks like a glowing spiral.",
+            "fact_feedback_incorrect": "You missed the fact: The Milky Way looks like a spiral."
+          },
+          {
+            "question_id": 10,
+            "question": "Earth is inside the solar system, which is inside the…",
+            "options": [
+              "Milky Way",
+              "Moon",
+              "Sun"
+            ],
+            "correct_answer": "Milky Way",
+            "fact_feedback_correct": "Correct! Earth is inside the solar system inside the Milky Way.",
+            "fact_feedback_incorrect": "You missed the fact: Earth lives inside the Milky Way."
+          }
+        ]
+      },
+      {
+        "story_id": "space_10",
+        "title": "Earth Is Safe and Special",
+        "learning_objectives": [
+          "Earth has air to breathe",
+          "Earth’s atmosphere protects life",
+          "Earth stays warm because of the Sun and atmosphere",
+          "Some space rocks are called asteroids",
+          "Earth is a special place for living things"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Earth is our home planet. It is a place where people, animals, and plants can live.",
+            "image_prompt": "Flat pastel color illustration of Earth smiling in space with clouds and oceans, kid-friendly, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Earth has air all around it. We breathe this air to live and grow.",
+            "image_prompt": "Flat pastel illustration of Earth with a soft glowing air layer and breathing icons, gentle educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The air around Earth is called the atmosphere. It wraps Earth like a blanket.",
+            "image_prompt": "Flat pastel illustration of Earth wrapped in a soft atmospheric glow like a blanket, warm and cozy. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The atmosphere helps keep Earth warm. It holds in heat from the Sun.",
+            "image_prompt": "Flat pastel illustration showing Sun rays reaching Earth and being gently held by the atmosphere, simple cause-and-effect. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "The atmosphere also protects Earth. It helps burn up many small space rocks.",
+            "image_prompt": "Flat pastel illustration of small meteors glowing and fading in Earth’s atmosphere, non-scary and calm. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Some space rocks are called asteroids. Most stay far away from Earth.",
+            "image_prompt": "Flat pastel illustration of asteroids floating far from Earth, friendly shapes, safe distance shown. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Scientists watch space carefully. They track asteroids to help keep Earth safe.",
+            "image_prompt": "Flat pastel illustration of scientists looking at screens with Earth and asteroid icons, reassuring tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Earth has water, air, and the right warmth. These things help life grow.",
+            "image_prompt": "Flat pastel illustration showing Earth with water drops, air swirls, and warm sunlight icons, educational and gentle. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "That is why Earth is special. It is a safe place for living things to call home.",
+            "image_prompt": "Flat pastel illustration of Earth surrounded by animals, plants, and people icons, warm and loving mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: Earth protects us, and we can help protect Earth too.",
+            "image_prompt": "Flat pastel bedtime Earth scene with soft stars and a gentle heart glow, cozy and calming. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What planet is our home?",
+            "options": [
+              "Earth",
+              "Mars",
+              "Jupiter"
+            ],
+            "correct_answer": "Earth",
+            "fact_feedback_correct": "Correct! Earth is our home planet.",
+            "fact_feedback_incorrect": "You missed the fact: Earth is our home planet."
+          },
+          {
+            "question_id": 2,
+            "question": "What do we breathe to live?",
+            "options": [
+              "Air",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Yes! We breathe air to live.",
+            "fact_feedback_incorrect": "You missed the fact: Living things breathe air."
+          },
+          {
+            "question_id": 3,
+            "question": "The air around Earth is called the…",
+            "options": [
+              "Atmosphere",
+              "Ocean",
+              "Core"
+            ],
+            "correct_answer": "Atmosphere",
+            "fact_feedback_correct": "Correct! The atmosphere is the air around Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Earth’s air is called the atmosphere."
+          },
+          {
+            "question_id": 4,
+            "question": "The atmosphere helps keep Earth…",
+            "options": [
+              "Warm",
+              "Frozen",
+              "Dark"
+            ],
+            "correct_answer": "Warm",
+            "fact_feedback_correct": "Yes! The atmosphere helps hold in warmth from the Sun.",
+            "fact_feedback_incorrect": "You missed the fact: The atmosphere helps keep Earth warm."
+          },
+          {
+            "question_id": 5,
+            "question": "Small space rocks can burn up in the…",
+            "options": [
+              "Atmosphere",
+              "Ocean",
+              "Moon"
+            ],
+            "correct_answer": "Atmosphere",
+            "fact_feedback_correct": "Correct! Many small space rocks burn up in the atmosphere.",
+            "fact_feedback_incorrect": "You missed the fact: The atmosphere burns up many small space rocks."
+          },
+          {
+            "question_id": 6,
+            "question": "Big space rocks are called…",
+            "options": [
+              "Asteroids",
+              "Clouds",
+              "Stars"
+            ],
+            "correct_answer": "Asteroids",
+            "fact_feedback_correct": "Yes! Big space rocks are called asteroids.",
+            "fact_feedback_incorrect": "You missed the fact: Asteroids are space rocks."
+          },
+          {
+            "question_id": 7,
+            "question": "Do most asteroids stay far from Earth?",
+            "options": [
+              "Yes",
+              "No",
+              "Only at night"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct! Most asteroids stay far away from Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Most asteroids stay far from Earth."
+          },
+          {
+            "question_id": 8,
+            "question": "Who watches space to help keep Earth safe?",
+            "options": [
+              "Scientists",
+              "Dinosaurs",
+              "Clouds"
+            ],
+            "correct_answer": "Scientists",
+            "fact_feedback_correct": "Yes! Scientists watch and track space objects.",
+            "fact_feedback_incorrect": "You missed the fact: Scientists help watch space."
+          },
+          {
+            "question_id": 9,
+            "question": "Earth is special because it has air, water, and…",
+            "options": [
+              "The right warmth",
+              "Only rocks",
+              "Only ice"
+            ],
+            "correct_answer": "The right warmth",
+            "fact_feedback_correct": "Correct! Earth has the right warmth for life.",
+            "fact_feedback_incorrect": "You missed the fact: Earth has the right warmth for life."
+          },
+          {
+            "question_id": 10,
+            "question": "We can help Earth by…",
+            "options": [
+              "Taking care of it",
+              "Throwing trash",
+              "Ignoring it"
+            ],
+            "correct_answer": "Taking care of it",
+            "fact_feedback_correct": "Yes! We can help protect Earth by taking care of it.",
+            "fact_feedback_incorrect": "You missed the fact: Earth needs our care and protection."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "Math",
+    "category_id": "math",
+    "stories": [
+      {
+        "story_id": "math_01",
+        "title": "The Story of Numbers",
+        "learning_objectives": [
+          "People did not always have written numbers",
+          "Early humans used fingers to count",
+          "People made marks to keep track of things",
+          "Number symbols were created to make counting easier",
+          "Numbers help us understand and organize the world"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long, long ago, people did not have numbers written on paper.",
+            "image_prompt": "Flat pastel illustration of ancient humans in simple village setting without written numbers, warm earthy tones, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "But they still needed to count things — like animals, fruits, and tools.",
+            "image_prompt": "Flat pastel illustration of early human counting sheep and fruits, simple shapes, friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "So they used their fingers. One finger for one sheep.",
+            "image_prompt": "Flat pastel illustration of hand with fingers raised next to small sheep icons, gentle educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When their fingers were not enough, they made small marks on rocks.",
+            "image_prompt": "Flat pastel illustration of simple tally marks carved into stone, non-detailed and toddler-safe, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Each mark meant one. More marks meant more things.",
+            "image_prompt": "Flat pastel close-up of stone with increasing tally marks, simple counting concept, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Over time, people created special symbols for numbers.",
+            "image_prompt": "Flat pastel illustration showing evolution from tally marks to simple number symbols 1, 2, 3, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "These symbols made counting faster and easier.",
+            "image_prompt": "Flat pastel illustration of person using number symbols to count baskets of fruit, friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Numbers helped people trade, build homes, and share food fairly.",
+            "image_prompt": "Flat pastel illustration of simple market trade scene using number signs, cheerful and cooperative tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "As people explored the world, numbers helped them measure distance and time.",
+            "image_prompt": "Flat pastel illustration of explorer with simple map and measuring rope, toddler-safe and non-detailed, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Today, numbers are everywhere — on clocks, houses, books, and even phones!",
+            "image_prompt": "Flat pastel collage of clock, house number, book page, and phone screen with simple numbers, bright cheerful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Long ago, did people have written numbers?",
+            "options": [
+              "No",
+              "Yes",
+              "Only on phones"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Correct! Long ago, people did not have written numbers.",
+            "fact_feedback_incorrect": "People did not always have written numbers."
+          },
+          {
+            "question_id": 2,
+            "question": "What did people use first to count?",
+            "options": [
+              "Fingers",
+              "Television",
+              "Cars"
+            ],
+            "correct_answer": "Fingers",
+            "fact_feedback_correct": "Right! People used their fingers to count.",
+            "fact_feedback_incorrect": "Early humans used fingers to count."
+          },
+          {
+            "question_id": 3,
+            "question": "What did they draw on rocks?",
+            "options": [
+              "Marks",
+              "Flowers",
+              "Faces"
+            ],
+            "correct_answer": "Marks",
+            "fact_feedback_correct": "Correct! They made counting marks.",
+            "fact_feedback_incorrect": "They made small tally marks."
+          },
+          {
+            "question_id": 4,
+            "question": "Why did people create number symbols?",
+            "options": [
+              "To count easier",
+              "To decorate only",
+              "To sing"
+            ],
+            "correct_answer": "To count easier",
+            "fact_feedback_correct": "Yes! Symbols made counting easier.",
+            "fact_feedback_incorrect": "Number symbols help with counting."
+          },
+          {
+            "question_id": 5,
+            "question": "Numbers help people…",
+            "options": [
+              "Trade and build",
+              "Fly",
+              "Sleep"
+            ],
+            "correct_answer": "Trade and build",
+            "fact_feedback_correct": "Correct! Numbers help with trading and building.",
+            "fact_feedback_incorrect": "Numbers help organize things."
+          },
+          {
+            "question_id": 6,
+            "question": "Are numbers still used today?",
+            "options": [
+              "Yes",
+              "No",
+              "Only in the past"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Right! Numbers are everywhere today.",
+            "fact_feedback_incorrect": "Numbers are used every day."
+          },
+          {
+            "question_id": 7,
+            "question": "Numbers help us know…",
+            "options": [
+              "How many",
+              "How loud",
+              "How shiny"
+            ],
+            "correct_answer": "How many",
+            "fact_feedback_correct": "Correct! Numbers tell us how many.",
+            "fact_feedback_incorrect": "Numbers help us count."
+          },
+          {
+            "question_id": 8,
+            "question": "Tally marks are used for…",
+            "options": [
+              "Counting",
+              "Drawing animals",
+              "Cooking"
+            ],
+            "correct_answer": "Counting",
+            "fact_feedback_correct": "Yes! Tally marks help count things.",
+            "fact_feedback_incorrect": "Tally marks are for counting."
+          },
+          {
+            "question_id": 9,
+            "question": "Numbers help measure…",
+            "options": [
+              "Time and distance",
+              "Only colors",
+              "Nothing"
+            ],
+            "correct_answer": "Time and distance",
+            "fact_feedback_correct": "Correct! Numbers help measure time and distance.",
+            "fact_feedback_incorrect": "Numbers are used to measure."
+          },
+          {
+            "question_id": 10,
+            "question": "Numbers help us understand the…",
+            "options": [
+              "World",
+              "Sky only",
+              "Ocean only"
+            ],
+            "correct_answer": "World",
+            "fact_feedback_correct": "Right! Numbers help us understand the world.",
+            "fact_feedback_incorrect": "Numbers help us organize the world."
+          }
+        ]
+      },
+      {
+        "story_id": "math_02",
+        "title": "The Day We Discovered Bigger and Smaller",
+        "learning_objectives": [
+          "Objects can be compared by size",
+          "Bigger means more space",
+          "Smaller means less space",
+          "Size is relative and depends on comparison",
+          "We compare things every day"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One morning, two children found two pumpkins in the garden.",
+            "image_prompt": "Flat pastel illustration of two children in garden with one large pumpkin and one small pumpkin, warm cheerful tones, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "One pumpkin was very big. The other was small.",
+            "image_prompt": "Flat pastel close-up of large pumpkin next to smaller pumpkin, clear size contrast, simple background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The children looked carefully. Which pumpkin takes more space?",
+            "image_prompt": "Flat pastel illustration of children examining pumpkins with simple dotted outline showing size difference, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The bigger pumpkin takes more space. The smaller pumpkin takes less.",
+            "image_prompt": "Flat pastel infographic style showing big pumpkin labeled 'bigger' and small pumpkin labeled 'smaller', clean toddler design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Later, they saw two trees. One was tall. One was short.",
+            "image_prompt": "Flat pastel illustration of tall tree and short tree side by side, bright sky background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "The taller tree reached higher into the sky.",
+            "image_prompt": "Flat pastel illustration with height line drawn beside tall tree, simple arrow upward, toddler-safe infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Then they found two rocks. One felt heavy. One felt light.",
+            "image_prompt": "Flat pastel illustration of child holding large rock and small pebble, showing effort difference gently, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "The bigger rock was heavier. The smaller rock was lighter.",
+            "image_prompt": "Flat pastel infographic showing size and weight comparison with soft balance scale icon, simple and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "They learned something important: bigger and smaller depend on what we compare.",
+            "image_prompt": "Flat pastel illustration of children comparing two balls of different sizes with thoughtful expressions, warm educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From that day on, they noticed size everywhere — in shoes, cups, and even clouds!",
+            "image_prompt": "Flat pastel collage of big and small shoes, cups, and clouds, cheerful colorful style, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Which pumpkin takes more space?",
+            "options": [
+              "The bigger one",
+              "The smaller one",
+              "Both the same"
+            ],
+            "correct_answer": "The bigger one",
+            "fact_feedback_correct": "Correct! Bigger means more space.",
+            "fact_feedback_incorrect": "The bigger pumpkin takes more space."
+          },
+          {
+            "question_id": 2,
+            "question": "Smaller means…",
+            "options": [
+              "Less space",
+              "More space",
+              "More noise"
+            ],
+            "correct_answer": "Less space",
+            "fact_feedback_correct": "Right! Smaller takes less space.",
+            "fact_feedback_incorrect": "Smaller means less space."
+          },
+          {
+            "question_id": 3,
+            "question": "A taller tree is…",
+            "options": [
+              "Higher",
+              "Shorter",
+              "Wider"
+            ],
+            "correct_answer": "Higher",
+            "fact_feedback_correct": "Correct! Taller means higher.",
+            "fact_feedback_incorrect": "Taller trees reach higher."
+          },
+          {
+            "question_id": 4,
+            "question": "Which rock felt heavier?",
+            "options": [
+              "The bigger rock",
+              "The smaller rock",
+              "Both light"
+            ],
+            "correct_answer": "The bigger rock",
+            "fact_feedback_correct": "Yes! Bigger rock was heavier.",
+            "fact_feedback_incorrect": "The bigger rock was heavier."
+          },
+          {
+            "question_id": 5,
+            "question": "Bigger and smaller are about…",
+            "options": [
+              "Comparing",
+              "Sleeping",
+              "Singing"
+            ],
+            "correct_answer": "Comparing",
+            "fact_feedback_correct": "Correct! We compare objects.",
+            "fact_feedback_incorrect": "Bigger and smaller mean we compare."
+          },
+          {
+            "question_id": 6,
+            "question": "Size depends on…",
+            "options": [
+              "What we compare",
+              "Magic",
+              "Color only"
+            ],
+            "correct_answer": "What we compare",
+            "fact_feedback_correct": "Right! Size depends on comparison.",
+            "fact_feedback_incorrect": "Size is relative."
+          },
+          {
+            "question_id": 7,
+            "question": "Which takes more space?",
+            "options": [
+              "A big ball",
+              "A tiny ball",
+              "Both same"
+            ],
+            "correct_answer": "A big ball",
+            "fact_feedback_correct": "Correct! Bigger objects take more space.",
+            "fact_feedback_incorrect": "Big objects take more space."
+          },
+          {
+            "question_id": 8,
+            "question": "Which cup holds more juice?",
+            "options": [
+              "The bigger cup",
+              "The smaller cup",
+              "Both same"
+            ],
+            "correct_answer": "The bigger cup",
+            "fact_feedback_correct": "Yes! Bigger cups hold more.",
+            "fact_feedback_incorrect": "The bigger cup holds more."
+          },
+          {
+            "question_id": 9,
+            "question": "Short means…",
+            "options": [
+              "Not tall",
+              "Very tall",
+              "Heavy"
+            ],
+            "correct_answer": "Not tall",
+            "fact_feedback_correct": "Correct! Short means not tall.",
+            "fact_feedback_incorrect": "Short is the opposite of tall."
+          },
+          {
+            "question_id": 10,
+            "question": "We see bigger and smaller…",
+            "options": [
+              "Everywhere",
+              "Nowhere",
+              "Only at night"
+            ],
+            "correct_answer": "Everywhere",
+            "fact_feedback_correct": "Right! We see size differences everywhere.",
+            "fact_feedback_incorrect": "Size comparison is everywhere."
+          }
+        ]
+      },
+      {
+        "story_id": "math_03",
+        "title": "The Day We Found Shapes Everywhere",
+        "learning_objectives": [
+          "Shapes are found in everyday objects",
+          "A circle is round",
+          "A square has four equal sides",
+          "A triangle has three sides",
+          "A rectangle has four sides with two long and two short"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, people began to notice something interesting about the world around them.",
+            "image_prompt": "Flat pastel illustration of child looking thoughtfully at different objects outdoors, soft natural background, curious tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The Sun looked round. So did fruits and wheels.",
+            "image_prompt": "Flat pastel illustration of sun, orange fruit, and wagon wheel highlighted as circles, bright cheerful style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "They called this round shape a circle.",
+            "image_prompt": "Flat pastel simple bold circle shape with everyday objects inside it, toddler-friendly clean design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Then they looked at windows and tiles. They had four equal sides.",
+            "image_prompt": "Flat pastel illustration of square window and floor tiles outlined clearly, simple educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "They named this shape a square.",
+            "image_prompt": "Flat pastel illustration of bold square shape with equal sides marked softly, toddler-safe infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Mountains and rooftops had three sides meeting at a point.",
+            "image_prompt": "Flat pastel illustration of mountain and house roof highlighted as triangles, warm cheerful design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "That shape was called a triangle.",
+            "image_prompt": "Flat pastel simple triangle shape clearly shown with soft outline, clean and minimal style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Doors and books were shaped like long squares.",
+            "image_prompt": "Flat pastel illustration of door and book outlined to show rectangular shape, bright simple background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "This shape was named a rectangle.",
+            "image_prompt": "Flat pastel bold rectangle shape with subtle side length differences shown, toddler-friendly educational design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From that day on, people saw shapes everywhere — in buildings, toys, and even the sky.",
+            "image_prompt": "Flat pastel collage of circle sun, square window, triangle roof, rectangle door, cheerful and colorful, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Which shape is round?",
+            "options": [
+              "Circle",
+              "Square",
+              "Triangle"
+            ],
+            "correct_answer": "Circle",
+            "fact_feedback_correct": "Correct! A circle is round.",
+            "fact_feedback_incorrect": "A circle is the round shape."
+          },
+          {
+            "question_id": 2,
+            "question": "How many sides does a triangle have?",
+            "options": [
+              "3",
+              "4",
+              "5"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Right! A triangle has three sides.",
+            "fact_feedback_incorrect": "A triangle has three sides."
+          },
+          {
+            "question_id": 3,
+            "question": "A square has how many equal sides?",
+            "options": [
+              "4",
+              "3",
+              "2"
+            ],
+            "correct_answer": "4",
+            "fact_feedback_correct": "Correct! A square has four equal sides.",
+            "fact_feedback_incorrect": "Squares have four equal sides."
+          },
+          {
+            "question_id": 4,
+            "question": "Which shape looks like a door?",
+            "options": [
+              "Rectangle",
+              "Circle",
+              "Triangle"
+            ],
+            "correct_answer": "Rectangle",
+            "fact_feedback_correct": "Yes! Doors are rectangles.",
+            "fact_feedback_incorrect": "Doors are shaped like rectangles."
+          },
+          {
+            "question_id": 5,
+            "question": "The Sun looks like a…",
+            "options": [
+              "Circle",
+              "Square",
+              "Rectangle"
+            ],
+            "correct_answer": "Circle",
+            "fact_feedback_correct": "Correct! The Sun looks round like a circle.",
+            "fact_feedback_incorrect": "The Sun is circle-shaped."
+          },
+          {
+            "question_id": 6,
+            "question": "A triangle has how many corners?",
+            "options": [
+              "3",
+              "4",
+              "2"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Right! Three sides mean three corners.",
+            "fact_feedback_incorrect": "Triangles have three corners."
+          },
+          {
+            "question_id": 7,
+            "question": "Which shape has four equal sides?",
+            "options": [
+              "Square",
+              "Rectangle",
+              "Circle"
+            ],
+            "correct_answer": "Square",
+            "fact_feedback_correct": "Correct! Squares have four equal sides.",
+            "fact_feedback_incorrect": "A square has equal sides."
+          },
+          {
+            "question_id": 8,
+            "question": "A rectangle has…",
+            "options": [
+              "Two long and two short sides",
+              "All equal sides",
+              "No sides"
+            ],
+            "correct_answer": "Two long and two short sides",
+            "fact_feedback_correct": "Yes! Rectangles have two long and two short sides.",
+            "fact_feedback_incorrect": "Rectangles have four sides, two long and two short."
+          },
+          {
+            "question_id": 9,
+            "question": "Shapes can be found…",
+            "options": [
+              "Everywhere",
+              "Only in books",
+              "Only in math class"
+            ],
+            "correct_answer": "Everywhere",
+            "fact_feedback_correct": "Correct! Shapes are everywhere around us.",
+            "fact_feedback_incorrect": "Shapes are found everywhere."
+          },
+          {
+            "question_id": 10,
+            "question": "Mountains often look like a…",
+            "options": [
+              "Triangle",
+              "Circle",
+              "Square"
+            ],
+            "correct_answer": "Triangle",
+            "fact_feedback_correct": "Right! Mountains can look like triangles.",
+            "fact_feedback_incorrect": "Mountains often look like triangles."
+          }
+        ]
+      },
+      {
+        "story_id": "math_04",
+        "title": "The Day We Learned to Sort and Group",
+        "learning_objectives": [
+          "Sorting means putting similar things together",
+          "Objects can be grouped by color, shape, or size",
+          "Grouping helps organize information",
+          "One object can belong to a group because of a shared feature",
+          "Sorting makes counting and comparing easier"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One day, two children found a big basket full of mixed toys.",
+            "image_prompt": "Flat pastel illustration of children looking at messy basket of mixed toys, colorful and cheerful, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Cars, blocks, balls, and dolls were all mixed together.",
+            "image_prompt": "Flat pastel close-up of mixed toys scattered randomly, bright colors, simple clean background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "It felt messy. They decided to put similar things together.",
+            "image_prompt": "Flat pastel illustration of children thinking and starting to separate toys into small piles, gentle organized scene, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "All the cars went into one group.",
+            "image_prompt": "Flat pastel illustration of small group of toy cars neatly placed together, simple white background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "All the blocks went into another group.",
+            "image_prompt": "Flat pastel illustration of colorful toy blocks stacked neatly in one pile, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Then they grouped the balls together.",
+            "image_prompt": "Flat pastel illustration of round balls placed in one cluster, bright cheerful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Now everything looked neat and organized.",
+            "image_prompt": "Flat pastel illustration of sorted toy groups arranged clearly in sections, calm and tidy atmosphere, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "They noticed something else — they could sort by color too!",
+            "image_prompt": "Flat pastel illustration of toys grouped by red, blue, and yellow colors in separate piles, clean toddler-friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Sorting helped them see how many toys were in each group.",
+            "image_prompt": "Flat pastel illustration showing sorted piles with small counting numbers above each group, simple infographic look, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From that day on, they learned that sorting makes the world easier to understand.",
+            "image_prompt": "Flat pastel collage of books, fruits, and shoes grouped neatly by type, warm educational tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Sorting means putting things…",
+            "options": [
+              "Together if they are alike",
+              "In the air",
+              "Under the bed"
+            ],
+            "correct_answer": "Together if they are alike",
+            "fact_feedback_correct": "Correct! Sorting means grouping similar things.",
+            "fact_feedback_incorrect": "Sorting means putting similar things together."
+          },
+          {
+            "question_id": 2,
+            "question": "Cars and blocks are sorted by…",
+            "options": [
+              "Type",
+              "Weather",
+              "Sound"
+            ],
+            "correct_answer": "Type",
+            "fact_feedback_correct": "Right! They are grouped by type.",
+            "fact_feedback_incorrect": "They were grouped by type."
+          },
+          {
+            "question_id": 3,
+            "question": "You can also sort by…",
+            "options": [
+              "Color",
+              "Dreams",
+              "Songs"
+            ],
+            "correct_answer": "Color",
+            "fact_feedback_correct": "Correct! Color is one way to sort.",
+            "fact_feedback_incorrect": "Color is a sorting rule."
+          },
+          {
+            "question_id": 4,
+            "question": "Sorting makes things look…",
+            "options": [
+              "Organized",
+              "Messy",
+              "Invisible"
+            ],
+            "correct_answer": "Organized",
+            "fact_feedback_correct": "Yes! Sorting makes things organized.",
+            "fact_feedback_incorrect": "Sorting helps organize."
+          },
+          {
+            "question_id": 5,
+            "question": "A group has things that are…",
+            "options": [
+              "Similar",
+              "Different colors only",
+              "Flying"
+            ],
+            "correct_answer": "Similar",
+            "fact_feedback_correct": "Correct! A group has similar things.",
+            "fact_feedback_incorrect": "Groups contain similar items."
+          },
+          {
+            "question_id": 6,
+            "question": "Sorting helps us…",
+            "options": [
+              "Count easier",
+              "Sleep faster",
+              "Jump higher"
+            ],
+            "correct_answer": "Count easier",
+            "fact_feedback_correct": "Right! Sorting makes counting easier.",
+            "fact_feedback_incorrect": "Sorting helps with counting."
+          },
+          {
+            "question_id": 7,
+            "question": "Balls were grouped because they are…",
+            "options": [
+              "Round toys",
+              "Green only",
+              "Very loud"
+            ],
+            "correct_answer": "Round toys",
+            "fact_feedback_correct": "Correct! They were grouped by type.",
+            "fact_feedback_incorrect": "Balls were grouped together."
+          },
+          {
+            "question_id": 8,
+            "question": "Sorting by color means putting all the same…",
+            "options": [
+              "Color together",
+              "Shape together",
+              "Size together"
+            ],
+            "correct_answer": "Color together",
+            "fact_feedback_correct": "Yes! Same colors go together.",
+            "fact_feedback_incorrect": "Sorting by color groups same colors."
+          },
+          {
+            "question_id": 9,
+            "question": "Sorting is a way of…",
+            "options": [
+              "Organizing",
+              "Flying",
+              "Cooking"
+            ],
+            "correct_answer": "Organizing",
+            "fact_feedback_correct": "Correct! Sorting organizes things.",
+            "fact_feedback_incorrect": "Sorting organizes."
+          },
+          {
+            "question_id": 10,
+            "question": "Grouping makes the world feel…",
+            "options": [
+              "Easier to understand",
+              "Louder",
+              "Dark"
+            ],
+            "correct_answer": "Easier to understand",
+            "fact_feedback_correct": "Right! Grouping helps us understand.",
+            "fact_feedback_incorrect": "Grouping helps understanding."
+          }
+        ]
+      },
+      {
+        "story_id": "math_05",
+        "title": "The Day We Discovered Patterns",
+        "learning_objectives": [
+          "A pattern repeats in a predictable way",
+          "Patterns can use colors, shapes, or sounds",
+          "Recognizing patterns helps us predict what comes next",
+          "Patterns are found in nature and daily life",
+          "Patterns help us organize and understand information"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One day, the children noticed something interesting on the garden fence.",
+            "image_prompt": "Flat pastel illustration of garden fence with colored panels repeating red-blue-red-blue pattern, cheerful outdoor scene, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The fence colors went red, blue, red, blue, red, blue.",
+            "image_prompt": "Flat pastel close-up of repeating red and blue fence panels clearly alternating, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "They realized the colors were repeating in a pattern.",
+            "image_prompt": "Flat pastel illustration highlighting repeating section with soft dotted circle, toddler-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "A pattern happens when something repeats in the same order.",
+            "image_prompt": "Flat pastel simple diagram showing repeat arrow looping over colored blocks, clean minimal design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Then they saw stepping stones shaped like circle, square, circle, square.",
+            "image_prompt": "Flat pastel garden stepping stones alternating circle and square shapes, bright cheerful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Circle, square, circle, square. What shape comes next?",
+            "image_prompt": "Flat pastel illustration showing circle, square, circle, square, with empty space at end and question mark, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "It must be a circle! The pattern keeps going.",
+            "image_prompt": "Flat pastel illustration completing the sequence with circle highlighted, gentle glowing effect, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "They heard a bird singing: chirp, chirp, pause. Chirp, chirp, pause.",
+            "image_prompt": "Flat pastel illustration of bird on branch with sound wave icons showing chirp-chirp-pause sequence, playful and soft, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Patterns were everywhere — in stripes, music, and even footsteps.",
+            "image_prompt": "Flat pastel collage of striped shirt, music notes repeating, and footprints in sand forming pattern, warm colorful design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From that day on, they could predict what would happen next just by noticing the pattern.",
+            "image_prompt": "Flat pastel illustration of children smiling confidently while pointing at repeating pattern blocks, bright hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A pattern means something…",
+            "options": [
+              "Repeats",
+              "Stops forever",
+              "Falls down"
+            ],
+            "correct_answer": "Repeats",
+            "fact_feedback_correct": "Correct! Patterns repeat.",
+            "fact_feedback_incorrect": "A pattern repeats in order."
+          },
+          {
+            "question_id": 2,
+            "question": "Red, blue, red, blue — what comes next?",
+            "options": [
+              "Red",
+              "Green",
+              "Yellow"
+            ],
+            "correct_answer": "Red",
+            "fact_feedback_correct": "Right! The pattern repeats red, blue.",
+            "fact_feedback_incorrect": "The pattern repeats red, blue."
+          },
+          {
+            "question_id": 3,
+            "question": "Circle, square, circle, square — next is…",
+            "options": [
+              "Circle",
+              "Triangle",
+              "Rectangle"
+            ],
+            "correct_answer": "Circle",
+            "fact_feedback_correct": "Correct! The pattern continues.",
+            "fact_feedback_incorrect": "The repeating order continues."
+          },
+          {
+            "question_id": 4,
+            "question": "Patterns help us…",
+            "options": [
+              "Predict",
+              "Sleep",
+              "Hide"
+            ],
+            "correct_answer": "Predict",
+            "fact_feedback_correct": "Yes! Patterns help us know what comes next.",
+            "fact_feedback_incorrect": "Patterns help us predict."
+          },
+          {
+            "question_id": 5,
+            "question": "Patterns can use…",
+            "options": [
+              "Colors and shapes",
+              "Only numbers",
+              "Only sounds"
+            ],
+            "correct_answer": "Colors and shapes",
+            "fact_feedback_correct": "Correct! Patterns can use colors and shapes.",
+            "fact_feedback_incorrect": "Patterns can use many things."
+          },
+          {
+            "question_id": 6,
+            "question": "Chirp, chirp, pause is a…",
+            "options": [
+              "Pattern",
+              "Accident",
+              "Silence"
+            ],
+            "correct_answer": "Pattern",
+            "fact_feedback_correct": "Right! That is a repeating pattern.",
+            "fact_feedback_incorrect": "It repeats in order."
+          },
+          {
+            "question_id": 7,
+            "question": "Stripes on a shirt are often…",
+            "options": [
+              "Patterns",
+              "Random only",
+              "Invisible"
+            ],
+            "correct_answer": "Patterns",
+            "fact_feedback_correct": "Correct! Stripes often repeat.",
+            "fact_feedback_incorrect": "Stripes form patterns."
+          },
+          {
+            "question_id": 8,
+            "question": "Patterns follow a special…",
+            "options": [
+              "Order",
+              "Noise",
+              "Jump"
+            ],
+            "correct_answer": "Order",
+            "fact_feedback_correct": "Yes! Patterns follow an order.",
+            "fact_feedback_incorrect": "Patterns repeat in order."
+          },
+          {
+            "question_id": 9,
+            "question": "Circle, circle, square, circle, circle, square — what comes next?",
+            "options": [
+              "Circle",
+              "Square",
+              "Triangle"
+            ],
+            "correct_answer": "Circle",
+            "fact_feedback_correct": "Correct! Two circles then one square repeats.",
+            "fact_feedback_incorrect": "The repeating pattern continues."
+          },
+          {
+            "question_id": 10,
+            "question": "Patterns are found…",
+            "options": [
+              "Everywhere",
+              "Nowhere",
+              "Only in school"
+            ],
+            "correct_answer": "Everywhere",
+            "fact_feedback_correct": "Right! Patterns are everywhere.",
+            "fact_feedback_incorrect": "Patterns are found all around us."
+          }
+        ]
+      },
+      {
+        "story_id": "math_06",
+        "title": "The Picnic That Grew Bigger",
+        "learning_objectives": [
+          "Addition means putting things together",
+          "When we combine groups, the total becomes bigger",
+          "We can count the new total after combining",
+          "Adding happens in everyday life",
+          "Addition helps us know how many in all"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One sunny morning, two friends packed food for a picnic.",
+            "image_prompt": "Flat pastel illustration of two children packing picnic basket with sandwiches and fruits, bright sunny park setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "They put two apples into the basket.",
+            "image_prompt": "Flat pastel illustration of picnic basket with two red apples clearly visible, clean toddler-friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Then they added one more apple.",
+            "image_prompt": "Flat pastel illustration showing one additional apple being placed into basket, simple visual change, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Now they had more apples than before.",
+            "image_prompt": "Flat pastel illustration of basket with three apples, small sparkle highlight to show change, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "They counted carefully: one, two, three apples in all.",
+            "image_prompt": "Flat pastel close-up of three apples with small counting numbers above them, clean simple background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Later, they had three sandwiches.",
+            "image_prompt": "Flat pastel illustration of picnic blanket with three sandwiches arranged neatly, cheerful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Their friend arrived and brought two more sandwiches.",
+            "image_prompt": "Flat pastel illustration of third child arriving with two sandwiches in hands, friendly smiling faces, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "They put all the sandwiches together.",
+            "image_prompt": "Flat pastel illustration showing five sandwiches grouped together clearly, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Now there were more sandwiches than before!",
+            "image_prompt": "Flat pastel illustration of five sandwiches with happy sparkle effect, joyful picnic scene, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "They learned something important: when we put things together, we get more in all.",
+            "image_prompt": "Flat pastel illustration of children happily sharing picnic food, warm sunny atmosphere, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "If you have two apples and add one more, do you have more or less?",
+            "options": [
+              "More",
+              "Less",
+              "The same"
+            ],
+            "correct_answer": "More",
+            "fact_feedback_correct": "Correct! Adding makes the total bigger.",
+            "fact_feedback_incorrect": "When we add, we get more."
+          },
+          {
+            "question_id": 2,
+            "question": "Two apples plus one apple makes how many apples in all?",
+            "options": [
+              "3",
+              "1",
+              "2"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Right! Two and one make three.",
+            "fact_feedback_incorrect": "Two and one together make three."
+          },
+          {
+            "question_id": 3,
+            "question": "If there are three sandwiches and two more are added, is the group bigger or smaller?",
+            "options": [
+              "Bigger",
+              "Smaller",
+              "The same"
+            ],
+            "correct_answer": "Bigger",
+            "fact_feedback_correct": "Correct! Putting together makes it bigger.",
+            "fact_feedback_incorrect": "Adding makes the group bigger."
+          },
+          {
+            "question_id": 4,
+            "question": "Three sandwiches and two sandwiches together make…",
+            "options": [
+              "5",
+              "2",
+              "3"
+            ],
+            "correct_answer": "5",
+            "fact_feedback_correct": "Yes! Three and two make five.",
+            "fact_feedback_incorrect": "Three plus two equals five."
+          },
+          {
+            "question_id": 5,
+            "question": "Addition means…",
+            "options": [
+              "Putting together",
+              "Taking away",
+              "Hiding"
+            ],
+            "correct_answer": "Putting together",
+            "fact_feedback_correct": "Correct! Addition means putting together.",
+            "fact_feedback_incorrect": "Addition means combining."
+          },
+          {
+            "question_id": 6,
+            "question": "When we add, the total usually becomes…",
+            "options": [
+              "More",
+              "Less",
+              "Zero"
+            ],
+            "correct_answer": "More",
+            "fact_feedback_correct": "Right! Adding increases the total.",
+            "fact_feedback_incorrect": "Adding makes more."
+          },
+          {
+            "question_id": 7,
+            "question": "If one friend brings more food, the picnic becomes…",
+            "options": [
+              "Bigger",
+              "Smaller",
+              "Empty"
+            ],
+            "correct_answer": "Bigger",
+            "fact_feedback_correct": "Correct! More food makes it bigger.",
+            "fact_feedback_incorrect": "Bringing more adds to the group."
+          },
+          {
+            "question_id": 8,
+            "question": "Addition helps us know how many…",
+            "options": [
+              "In all",
+              "At night only",
+              "In dreams"
+            ],
+            "correct_answer": "In all",
+            "fact_feedback_correct": "Yes! Addition tells us how many in all.",
+            "fact_feedback_incorrect": "Addition helps count the total."
+          },
+          {
+            "question_id": 9,
+            "question": "Putting two groups together makes one group that is…",
+            "options": [
+              "Larger",
+              "Invisible",
+              "Broken"
+            ],
+            "correct_answer": "Larger",
+            "fact_feedback_correct": "Correct! Combining groups makes a larger group.",
+            "fact_feedback_incorrect": "Putting together makes a larger group."
+          },
+          {
+            "question_id": 10,
+            "question": "Two and two together make…",
+            "options": [
+              "4",
+              "2",
+              "5"
+            ],
+            "correct_answer": "4",
+            "fact_feedback_correct": "Right! Two and two make four.",
+            "fact_feedback_incorrect": "Two plus two equals four."
+          }
+        ]
+      },
+      {
+        "story_id": "math_07",
+        "title": "The Cookies That Disappeared",
+        "learning_objectives": [
+          "Subtraction means taking away",
+          "When we take away, the total becomes smaller",
+          "We can count how many are left",
+          "Taking away happens in everyday life",
+          "Subtraction helps us know how many remain"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One afternoon, a plate of warm cookies sat on the kitchen table.",
+            "image_prompt": "Flat pastel illustration of plate with six chocolate chip cookies on table, cozy kitchen setting, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "There were six cookies on the plate.",
+            "image_prompt": "Flat pastel close-up of six cookies clearly spaced with small counting numbers above them, clean simple design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "One child ate one cookie.",
+            "image_prompt": "Flat pastel illustration of one cookie being gently picked up from plate, cheerful expression, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Now there were fewer cookies than before.",
+            "image_prompt": "Flat pastel illustration of plate now showing five cookies, simple sparkle to show change, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "They counted carefully: one, two, three, four, five cookies left.",
+            "image_prompt": "Flat pastel close-up of five cookies with counting numbers above them, clean toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Later, another cookie was eaten.",
+            "image_prompt": "Flat pastel illustration showing one more cookie being removed from plate, friendly and playful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Now there were even fewer cookies on the plate.",
+            "image_prompt": "Flat pastel illustration of four cookies remaining on plate, simple clear spacing, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "They counted again to see how many were left.",
+            "image_prompt": "Flat pastel illustration of child pointing and counting four cookies, clean educational design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Taking cookies away made the number smaller.",
+            "image_prompt": "Flat pastel infographic-style visual showing 6 cookies → 5 → 4 with simple arrow steps, friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "They learned that when we take something away, we have fewer than before.",
+            "image_prompt": "Flat pastel illustration of happy children sharing remaining cookies, warm cozy tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "If there are six cookies and one is eaten, are there more or fewer?",
+            "options": [
+              "Fewer",
+              "More",
+              "The same"
+            ],
+            "correct_answer": "Fewer",
+            "fact_feedback_correct": "Correct! Taking away makes fewer.",
+            "fact_feedback_incorrect": "When we take away, the number gets smaller."
+          },
+          {
+            "question_id": 2,
+            "question": "Six cookies take away one cookie leaves…",
+            "options": [
+              "5",
+              "6",
+              "7"
+            ],
+            "correct_answer": "5",
+            "fact_feedback_correct": "Right! Six minus one leaves five.",
+            "fact_feedback_incorrect": "Six cookies minus one equals five."
+          },
+          {
+            "question_id": 3,
+            "question": "If five cookies are left and one more is eaten, how many remain?",
+            "options": [
+              "4",
+              "6",
+              "3"
+            ],
+            "correct_answer": "4",
+            "fact_feedback_correct": "Correct! Five minus one equals four.",
+            "fact_feedback_incorrect": "Five minus one leaves four."
+          },
+          {
+            "question_id": 4,
+            "question": "Subtraction means…",
+            "options": [
+              "Taking away",
+              "Putting together",
+              "Hiding forever"
+            ],
+            "correct_answer": "Taking away",
+            "fact_feedback_correct": "Yes! Subtraction means taking away.",
+            "fact_feedback_incorrect": "Subtraction is when we take away."
+          },
+          {
+            "question_id": 5,
+            "question": "When we take away, the group becomes…",
+            "options": [
+              "Smaller",
+              "Bigger",
+              "Louder"
+            ],
+            "correct_answer": "Smaller",
+            "fact_feedback_correct": "Correct! Taking away makes it smaller.",
+            "fact_feedback_incorrect": "Taking away reduces the total."
+          },
+          {
+            "question_id": 6,
+            "question": "If there are four cookies and one is eaten, how many are left?",
+            "options": [
+              "3",
+              "5",
+              "4"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Right! Four minus one equals three.",
+            "fact_feedback_incorrect": "Four minus one leaves three."
+          },
+          {
+            "question_id": 7,
+            "question": "Counting what is left helps us…",
+            "options": [
+              "Know the remaining amount",
+              "Make noise",
+              "Sleep"
+            ],
+            "correct_answer": "Know the remaining amount",
+            "fact_feedback_correct": "Correct! Subtraction tells us how many remain.",
+            "fact_feedback_incorrect": "Subtraction helps count what is left."
+          },
+          {
+            "question_id": 8,
+            "question": "If two cookies are eaten from six, the number becomes…",
+            "options": [
+              "Smaller",
+              "Bigger",
+              "The same"
+            ],
+            "correct_answer": "Smaller",
+            "fact_feedback_correct": "Yes! Taking away makes fewer.",
+            "fact_feedback_incorrect": "Eating cookies reduces the total."
+          },
+          {
+            "question_id": 9,
+            "question": "Subtraction happens when we…",
+            "options": [
+              "Remove something",
+              "Add something",
+              "Grow something"
+            ],
+            "correct_answer": "Remove something",
+            "fact_feedback_correct": "Correct! Removing is subtraction.",
+            "fact_feedback_incorrect": "Subtraction means removing."
+          },
+          {
+            "question_id": 10,
+            "question": "Six take away two equals…",
+            "options": [
+              "4",
+              "8",
+              "5"
+            ],
+            "correct_answer": "4",
+            "fact_feedback_correct": "Right! Six minus two leaves four.",
+            "fact_feedback_incorrect": "Six minus two leaves four."
+          }
+        ]
+      },
+      {
+        "story_id": "math_08",
+        "title": "Building the Tallest Tower",
+        "learning_objectives": [
+          "Measuring helps us compare fairly",
+          "We can measure using equal units",
+          "Counting units tells us how tall something is",
+          "The same-sized units make measurement accurate",
+          "Measurement answers the question 'how much?'"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Two friends decided to build towers with their blocks.",
+            "image_prompt": "Flat pastel illustration of two children building colorful block towers on floor, cheerful indoor playroom setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "One tower looked taller. The other looked shorter.",
+            "image_prompt": "Flat pastel illustration of two block towers of slightly different heights, clean background, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "They wondered, 'Which tower is really taller?'",
+            "image_prompt": "Flat pastel illustration of children looking thoughtfully at towers with question marks above, playful curious tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "They decided to measure using the same size blocks.",
+            "image_prompt": "Flat pastel illustration showing identical small cube blocks placed beside tower as measuring units, clear simple design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "They lined up the blocks from the bottom to the top.",
+            "image_prompt": "Flat pastel illustration of measuring blocks stacked beside tower reaching same height, simple vertical alignment, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "They counted: one, two, three, four, five blocks tall.",
+            "image_prompt": "Flat pastel illustration of five equal blocks stacked beside tower with small counting numbers, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "The other tower measured one, two, three, four blocks tall.",
+            "image_prompt": "Flat pastel illustration of four equal blocks stacked beside second tower, clear height difference, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Now they knew for sure which tower was taller.",
+            "image_prompt": "Flat pastel illustration of children smiling and pointing at taller measured tower, warm friendly tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Measuring with equal blocks made the comparison fair.",
+            "image_prompt": "Flat pastel infographic-style illustration showing equal-sized units labeled 'same size', clean toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "They learned that measuring tells us exactly how tall something is.",
+            "image_prompt": "Flat pastel illustration of tower with measurement blocks and small ruler icon, bright educational tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Why did they use the same size blocks to measure?",
+            "options": [
+              "To be fair",
+              "To make noise",
+              "To hide them"
+            ],
+            "correct_answer": "To be fair",
+            "fact_feedback_correct": "Correct! Using equal units makes it fair.",
+            "fact_feedback_incorrect": "We use equal units for fair measurement."
+          },
+          {
+            "question_id": 2,
+            "question": "If one tower is five blocks tall and the other is four blocks tall, which is taller?",
+            "options": [
+              "The five-block tower",
+              "The four-block tower",
+              "Both the same"
+            ],
+            "correct_answer": "The five-block tower",
+            "fact_feedback_correct": "Right! Five is taller than four.",
+            "fact_feedback_incorrect": "Five blocks is taller than four blocks."
+          },
+          {
+            "question_id": 3,
+            "question": "Measuring helps us know…",
+            "options": [
+              "How tall",
+              "How loud",
+              "How tasty"
+            ],
+            "correct_answer": "How tall",
+            "fact_feedback_correct": "Correct! Measuring tells us how tall.",
+            "fact_feedback_incorrect": "Measuring answers 'how tall?'."
+          },
+          {
+            "question_id": 4,
+            "question": "Counting the blocks tells us…",
+            "options": [
+              "The height",
+              "The color",
+              "The smell"
+            ],
+            "correct_answer": "The height",
+            "fact_feedback_correct": "Yes! Counting units gives the height.",
+            "fact_feedback_incorrect": "Counting blocks shows the height."
+          },
+          {
+            "question_id": 5,
+            "question": "Using different-sized blocks would be…",
+            "options": [
+              "Unfair",
+              "More fun",
+              "The same"
+            ],
+            "correct_answer": "Unfair",
+            "fact_feedback_correct": "Correct! Different units are not fair.",
+            "fact_feedback_incorrect": "Equal units are needed for fairness."
+          },
+          {
+            "question_id": 6,
+            "question": "If something is six blocks tall, is it taller than four blocks?",
+            "options": [
+              "Yes",
+              "No",
+              "Maybe"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Right! Six is more than four.",
+            "fact_feedback_incorrect": "Six blocks is taller than four."
+          },
+          {
+            "question_id": 7,
+            "question": "Measurement helps answer…",
+            "options": [
+              "How much",
+              "Why clouds float",
+              "What color it is"
+            ],
+            "correct_answer": "How much",
+            "fact_feedback_correct": "Correct! Measurement answers 'how much?'.",
+            "fact_feedback_incorrect": "Measurement tells how much."
+          },
+          {
+            "question_id": 8,
+            "question": "If both towers are five blocks tall, they are…",
+            "options": [
+              "Equal height",
+              "Different",
+              "Invisible"
+            ],
+            "correct_answer": "Equal height",
+            "fact_feedback_correct": "Yes! Same units and same number means equal.",
+            "fact_feedback_incorrect": "Five blocks equals five blocks."
+          },
+          {
+            "question_id": 9,
+            "question": "Measuring uses…",
+            "options": [
+              "Units",
+              "Magic",
+              "Dreams"
+            ],
+            "correct_answer": "Units",
+            "fact_feedback_correct": "Correct! We measure using units.",
+            "fact_feedback_incorrect": "Measurement uses units."
+          },
+          {
+            "question_id": 10,
+            "question": "Measurement makes comparing more…",
+            "options": [
+              "Accurate",
+              "Confusing",
+              "Loud"
+            ],
+            "correct_answer": "Accurate",
+            "fact_feedback_correct": "Right! Measuring makes comparison accurate.",
+            "fact_feedback_incorrect": "Measurement improves accuracy."
+          }
+        ]
+      },
+      {
+        "story_id": "math_09",
+        "title": "The Little Shop and the Shiny Coins",
+        "learning_objectives": [
+          "Money is used to buy things",
+          "Coins can look different",
+          "We count coins to know how many we have",
+          "Giving money is part of buying",
+          "Money helps people trade fairly"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One day, two children visited a small shop in their neighborhood.",
+            "image_prompt": "Flat pastel illustration of small friendly neighborhood shop with candy jars and toys, cheerful warm colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "They saw shiny coins in their pockets.",
+            "image_prompt": "Flat pastel close-up of small hands holding different shiny coins, simple clean design, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Coins can look different. Some are bigger. Some are smaller.",
+            "image_prompt": "Flat pastel illustration of different sized coins arranged side by side, simple visual comparison, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "They counted their coins carefully.",
+            "image_prompt": "Flat pastel illustration of coins laid out in a row with small counting numbers above them, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "One, two, three coins in all.",
+            "image_prompt": "Flat pastel close-up of three coins clearly spaced with counting numbers 1, 2, 3 above, bright cheerful design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "They wanted to buy one small toy.",
+            "image_prompt": "Flat pastel illustration of small toy on shop counter with simple price tag icon (no numbers), toddler-friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "They gave the shopkeeper their coins.",
+            "image_prompt": "Flat pastel illustration of child handing coins to friendly shopkeeper over counter, warm and positive tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "The shopkeeper smiled and gave them the toy.",
+            "image_prompt": "Flat pastel illustration of shopkeeper handing toy across counter, happy faces, simple cozy shop background, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Money helps people trade things fairly.",
+            "image_prompt": "Flat pastel simple infographic-style image showing coins → toy with arrow between them, clean toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "They learned that counting money helps us know if we have enough.",
+            "image_prompt": "Flat pastel illustration of children happily counting remaining coins at home, warm cozy tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Money is used to…",
+            "options": [
+              "Buy things",
+              "Fly",
+              "Sleep"
+            ],
+            "correct_answer": "Buy things",
+            "fact_feedback_correct": "Correct! Money helps us buy things.",
+            "fact_feedback_incorrect": "Money is used to buy things."
+          },
+          {
+            "question_id": 2,
+            "question": "Coins can be…",
+            "options": [
+              "Different sizes",
+              "All the same always",
+              "Invisible"
+            ],
+            "correct_answer": "Different sizes",
+            "fact_feedback_correct": "Right! Coins can look different.",
+            "fact_feedback_incorrect": "Coins can be different sizes."
+          },
+          {
+            "question_id": 3,
+            "question": "Counting coins helps us know…",
+            "options": [
+              "How many we have",
+              "What color they are",
+              "How loud they are"
+            ],
+            "correct_answer": "How many we have",
+            "fact_feedback_correct": "Correct! Counting tells us how many.",
+            "fact_feedback_incorrect": "Counting coins tells how many."
+          },
+          {
+            "question_id": 4,
+            "question": "When you give coins at a shop, you are…",
+            "options": [
+              "Buying",
+              "Hiding",
+              "Sleeping"
+            ],
+            "correct_answer": "Buying",
+            "fact_feedback_correct": "Yes! Giving money is buying.",
+            "fact_feedback_incorrect": "Giving coins is part of buying."
+          },
+          {
+            "question_id": 5,
+            "question": "If you have three coins and give one away, you have…",
+            "options": [
+              "2",
+              "3",
+              "4"
+            ],
+            "correct_answer": "2",
+            "fact_feedback_correct": "Correct! Three minus one leaves two.",
+            "fact_feedback_incorrect": "Three coins minus one equals two."
+          },
+          {
+            "question_id": 6,
+            "question": "Money helps people…",
+            "options": [
+              "Trade fairly",
+              "Grow taller",
+              "Fly faster"
+            ],
+            "correct_answer": "Trade fairly",
+            "fact_feedback_correct": "Right! Money helps fair trade.",
+            "fact_feedback_incorrect": "Money helps people trade fairly."
+          },
+          {
+            "question_id": 7,
+            "question": "If you count one, two, three coins, how many do you have?",
+            "options": [
+              "3",
+              "2",
+              "4"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Correct! That makes three coins.",
+            "fact_feedback_incorrect": "One, two, three equals three."
+          },
+          {
+            "question_id": 8,
+            "question": "Before buying, we should…",
+            "options": [
+              "Count our money",
+              "Throw it",
+              "Hide it"
+            ],
+            "correct_answer": "Count our money",
+            "fact_feedback_correct": "Yes! Counting tells us if we have enough.",
+            "fact_feedback_incorrect": "We count money before buying."
+          },
+          {
+            "question_id": 9,
+            "question": "Coins are a type of…",
+            "options": [
+              "Money",
+              "Food",
+              "Toy"
+            ],
+            "correct_answer": "Money",
+            "fact_feedback_correct": "Correct! Coins are money.",
+            "fact_feedback_incorrect": "Coins are used as money."
+          },
+          {
+            "question_id": 10,
+            "question": "If you do not have enough coins, you may need…",
+            "options": [
+              "More coins",
+              "Less coins",
+              "No coins"
+            ],
+            "correct_answer": "More coins",
+            "fact_feedback_correct": "Right! Sometimes we need more coins.",
+            "fact_feedback_incorrect": "If we do not have enough, we need more."
+          }
+        ]
+      },
+      {
+        "story_id": "math_10",
+        "title": "Sharing the Cupcakes",
+        "learning_objectives": [
+          "Sharing equally means everyone gets the same amount",
+          "Equal groups have the same number in each group",
+          "We can count to check fairness",
+          "If groups are not equal, we can fix them",
+          "Division begins with fair sharing"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Three friends baked six cupcakes together.",
+            "image_prompt": "Flat pastel illustration of three children with six colorful cupcakes on table, cheerful kitchen setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Now it was time to share the cupcakes.",
+            "image_prompt": "Flat pastel illustration of cupcakes arranged in middle of table with three children around it, warm friendly tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "They wanted everyone to get the same amount.",
+            "image_prompt": "Flat pastel illustration of children looking thoughtful with cupcakes in center, soft equality theme, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "They gave one cupcake to each friend.",
+            "image_prompt": "Flat pastel illustration of each child receiving one cupcake, clean simple layout, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Then they gave one more cupcake to each friend.",
+            "image_prompt": "Flat pastel illustration of second round of cupcakes being handed out evenly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Now each friend had two cupcakes.",
+            "image_prompt": "Flat pastel close-up of each child holding two cupcakes, clear visual equality, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "They counted to make sure it was fair.",
+            "image_prompt": "Flat pastel illustration showing each child with two cupcakes and small counting numbers above them, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Two, two, and two. Everyone had the same number.",
+            "image_prompt": "Flat pastel infographic-style image showing 2 + 2 + 2 separated by groups, simple and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "If one friend had more, they would move one to make it equal.",
+            "image_prompt": "Flat pastel illustration showing one cupcake being moved from one group to another to balance, gentle visual explanation, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "They learned that sharing equally means everyone gets the same amount.",
+            "image_prompt": "Flat pastel illustration of three happy friends eating cupcakes together, warm cozy tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "If six cupcakes are shared by three friends equally, how many does each get?",
+            "options": [
+              "2",
+              "3",
+              "6"
+            ],
+            "correct_answer": "2",
+            "fact_feedback_correct": "Correct! Six shared equally by three makes two each.",
+            "fact_feedback_incorrect": "Six divided equally into three groups gives two each."
+          },
+          {
+            "question_id": 2,
+            "question": "Sharing equally means…",
+            "options": [
+              "Same amount for everyone",
+              "One gets more",
+              "No one gets any"
+            ],
+            "correct_answer": "Same amount for everyone",
+            "fact_feedback_correct": "Right! Equal means the same amount.",
+            "fact_feedback_incorrect": "Equal means the same number."
+          },
+          {
+            "question_id": 3,
+            "question": "If one child has three cupcakes and others have two, is that equal?",
+            "options": [
+              "No",
+              "Yes",
+              "Maybe"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Correct! That is not equal.",
+            "fact_feedback_incorrect": "Equal means everyone has the same."
+          },
+          {
+            "question_id": 4,
+            "question": "To make sharing fair, we should…",
+            "options": [
+              "Make the amounts the same",
+              "Give one person all",
+              "Hide some"
+            ],
+            "correct_answer": "Make the amounts the same",
+            "fact_feedback_correct": "Yes! Fair sharing makes equal groups.",
+            "fact_feedback_incorrect": "Fair means equal amounts."
+          },
+          {
+            "question_id": 5,
+            "question": "If four cookies are shared equally between two friends, how many does each get?",
+            "options": [
+              "2",
+              "4",
+              "1"
+            ],
+            "correct_answer": "2",
+            "fact_feedback_correct": "Correct! Four shared by two makes two each.",
+            "fact_feedback_incorrect": "Four divided equally into two groups is two."
+          },
+          {
+            "question_id": 6,
+            "question": "If there are three friends and three apples, each gets…",
+            "options": [
+              "1",
+              "3",
+              "2"
+            ],
+            "correct_answer": "1",
+            "fact_feedback_correct": "Right! Three shared by three gives one each.",
+            "fact_feedback_incorrect": "Three divided into three equal groups is one."
+          },
+          {
+            "question_id": 7,
+            "question": "Equal groups have…",
+            "options": [
+              "The same number",
+              "Different numbers",
+              "No numbers"
+            ],
+            "correct_answer": "The same number",
+            "fact_feedback_correct": "Correct! Equal means same number.",
+            "fact_feedback_incorrect": "Equal groups are the same size."
+          },
+          {
+            "question_id": 8,
+            "question": "If two friends share four candies equally, how many each?",
+            "options": [
+              "2",
+              "4",
+              "3"
+            ],
+            "correct_answer": "2",
+            "fact_feedback_correct": "Yes! Four shared equally between two gives two.",
+            "fact_feedback_incorrect": "Four divided equally into two groups is two."
+          },
+          {
+            "question_id": 9,
+            "question": "Sharing equally is also called…",
+            "options": [
+              "Fair sharing",
+              "Adding",
+              "Counting backwards"
+            ],
+            "correct_answer": "Fair sharing",
+            "fact_feedback_correct": "Correct! Equal sharing is fair sharing.",
+            "fact_feedback_incorrect": "Sharing equally means fair."
+          },
+          {
+            "question_id": 10,
+            "question": "Six shared equally between two friends gives…",
+            "options": [
+              "3",
+              "2",
+              "6"
+            ],
+            "correct_answer": "3",
+            "fact_feedback_correct": "Right! Six divided equally by two gives three each.",
+            "fact_feedback_incorrect": "Six divided equally into two groups is three."
+          }
+        ]
+      }
+    ]
+  }
+}

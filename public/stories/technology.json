@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "Technology",
+    "category_id": "technology",
+    "stories": [
+      {
+        "story_id": "technology_01",
+        "title": "Wally the Wi‑Fi Router Shares the Signal",
+        "learning_objectives": [
+          "Wi‑Fi helps devices connect to the internet without wires",
+          "A router sends and receives Wi‑Fi signals",
+          "Signals carry data (information)",
+          "Distance and walls can make Wi‑Fi weaker",
+          "Passwords help keep Wi‑Fi private"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "In the living room, a tiny box blinks—Wally the Wi‑Fi router. He’s ready to share internet signals around the home.",
+            "image_prompt": "Friendly Wi‑Fi router with blinking lights on a small table, cozy room Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Wally sends invisible waves through the air. These waves are Wi‑Fi signals that nearby devices can listen to.",
+            "image_prompt": "Curved Wi‑Fi waves spreading from router toward phone, tablet, laptop Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Phones and tablets connect to Wally. Then they can send data, like messages, pictures, and questions, to the internet.",
+            "image_prompt": "Devices linking to router with dotted lines, data icons floating Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "A router is like a helper bridge. It passes data between your home devices and the bigger internet outside.",
+            "image_prompt": "Simple bridge metaphor: router as bridge between home and cloud internet Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Walls and long distance can make signals weaker. Closer devices often get faster, stronger Wi‑Fi.",
+            "image_prompt": "Split scene: strong signal nearby, weaker signal behind wall Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Sometimes too many devices share at once. Wally works hard, but waiting turns can help everyone connect smoothly.",
+            "image_prompt": "Many devices with gentle 'turn-taking' icons, friendly network scene Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "A Wi‑Fi password is like a secret key. It helps keep strangers from joining your home network.",
+            "image_prompt": "Key and lock icons next to Wi‑Fi symbol, safe and friendly Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Grown-ups choose the password and settings. People stay in charge of what connects and when.",
+            "image_prompt": "Adult adjusting router settings on a phone, shield icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "When the router restarts, the signal may pause. Then Wally wakes up and sends waves again.",
+            "image_prompt": "Router turning off/on with a small restart arrow, calm tone Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, Wally’s lights glow softly. Quiet signals keep ready, so devices can connect again tomorrow.",
+            "image_prompt": "Nighttime cozy room with router lights and stars, soothing Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Wi‑Fi helps devices connect…",
+            "options": [
+              "Without wires",
+              "Only with ropes",
+              "Only underwater"
+            ],
+            "correct_answer": "Without wires",
+            "fact_feedback_correct": "Correct! Wi‑Fi connects devices without wires.",
+            "fact_feedback_incorrect": "You missed the fact: Wi‑Fi connects devices without wires."
+          },
+          {
+            "question_id": 2,
+            "question": "A router’s job is to…",
+            "options": [
+              "Send and receive Wi‑Fi signals",
+              "Bake cookies",
+              "Water plants"
+            ],
+            "correct_answer": "Send and receive Wi‑Fi signals",
+            "fact_feedback_correct": "Right! A router sends and receives Wi‑Fi signals.",
+            "fact_feedback_incorrect": "You missed the fact: Routers send and receive Wi‑Fi signals."
+          },
+          {
+            "question_id": 3,
+            "question": "Signals can carry…",
+            "options": [
+              "Data (information)",
+              "Sand",
+              "Shoes"
+            ],
+            "correct_answer": "Data (information)",
+            "fact_feedback_correct": "Correct! Signals can carry data—information like messages and pictures.",
+            "fact_feedback_incorrect": "You missed the fact: Signals can carry data (information)."
+          },
+          {
+            "question_id": 4,
+            "question": "Wi‑Fi signals travel through the…",
+            "options": [
+              "Air",
+              "Only rocks",
+              "Only books"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Yes! Wi‑Fi signals travel through the air.",
+            "fact_feedback_incorrect": "You missed the fact: Wi‑Fi signals travel through the air."
+          },
+          {
+            "question_id": 5,
+            "question": "Walls and distance can make Wi‑Fi…",
+            "options": [
+              "Weaker",
+              "Louder",
+              "Sweeter"
+            ],
+            "correct_answer": "Weaker",
+            "fact_feedback_correct": "Correct! Walls and distance can weaken Wi‑Fi signals.",
+            "fact_feedback_incorrect": "You missed the fact: Walls and distance can weaken Wi‑Fi."
+          },
+          {
+            "question_id": 6,
+            "question": "A Wi‑Fi password is like a…",
+            "options": [
+              "Secret key",
+              "Snack",
+              "Hat"
+            ],
+            "correct_answer": "Secret key",
+            "fact_feedback_correct": "Right! A password is like a secret key for your network.",
+            "fact_feedback_incorrect": "You missed the fact: A password is like a secret key."
+          },
+          {
+            "question_id": 7,
+            "question": "Who should set Wi‑Fi settings?",
+            "options": [
+              "Trusted adults",
+              "Random strangers",
+              "Pets"
+            ],
+            "correct_answer": "Trusted adults",
+            "fact_feedback_correct": "Correct! Trusted adults choose passwords and settings.",
+            "fact_feedback_incorrect": "You missed the fact: Trusted adults should set Wi‑Fi settings."
+          },
+          {
+            "question_id": 8,
+            "question": "Devices use Wi‑Fi to reach the…",
+            "options": [
+              "Internet",
+              "Moon",
+              "Ocean floor"
+            ],
+            "correct_answer": "Internet",
+            "fact_feedback_correct": "Yes! Wi‑Fi can help devices reach the internet.",
+            "fact_feedback_incorrect": "You missed the fact: Wi‑Fi helps devices reach the internet."
+          },
+          {
+            "question_id": 9,
+            "question": "If many devices use Wi‑Fi at once, it may feel…",
+            "options": [
+              "Slower",
+              "Hotter",
+              "Brighter"
+            ],
+            "correct_answer": "Slower",
+            "fact_feedback_correct": "Correct! Sharing can make Wi‑Fi slower sometimes.",
+            "fact_feedback_incorrect": "You missed the fact: Many devices sharing can slow Wi‑Fi."
+          },
+          {
+            "question_id": 10,
+            "question": "Restarting a router can…",
+            "options": [
+              "Pause then fix the connection",
+              "Turn it into a toy",
+              "Freeze time"
+            ],
+            "correct_answer": "Pause then fix the connection",
+            "fact_feedback_correct": "Right! Restarting can pause the signal and then reconnect.",
+            "fact_feedback_incorrect": "You missed the fact: Restarting can pause then fix the connection."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_02",
+        "title": "Milo the Mobile Phone on the Move",
+        "learning_objectives": [
+          "Mobile phones are small computers",
+          "Phones use signals and towers to connect",
+          "Phones can make calls, send messages, and take photos",
+          "Batteries store energy to power phones",
+          "Balanced and careful phone use is important"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Milo the mobile phone buzzes softly in a pocket. He is small, but inside him lives a powerful tiny computer.",
+            "image_prompt": "Smiling smartphone peeking from a pocket, cozy simple scene Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "When someone taps Milo’s screen, his tiny computer wakes up and follows instructions very fast.",
+            "image_prompt": "Phone screen with glowing circuit icons inside, playful educational Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Milo talks to tall phone towers nearby. These towers help phones send signals through the air.",
+            "image_prompt": "Phone towers sending gentle signal waves to a phone Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Voices, texts, and pictures turn into digital signals. Signals travel quickly so messages arrive in seconds.",
+            "image_prompt": "Voice, text, photo icons turning into dots traveling through air Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Milo loves taking photos. Light enters the camera and becomes a picture saved inside the phone.",
+            "image_prompt": "Phone camera capturing a happy scene, light rays entering lens Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Inside Milo is a battery. The battery stores energy that keeps the phone working all day.",
+            "image_prompt": "Battery glowing gently inside a phone outline Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "When the battery gets low, Milo needs rest. Plugging into a charger fills the battery again.",
+            "image_prompt": "Phone charging with a happy battery icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Phones are helpful tools. They can show maps, play music, and help families talk from far away.",
+            "image_prompt": "Phone showing map, music note, and call icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Too much screen time can tire eyes and minds. Taking breaks helps bodies feel better.",
+            "image_prompt": "Phone resting while a child stretches, balanced theme Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At night, Milo rests on the charger. Tomorrow, he will help again with learning, sharing, and connecting.",
+            "image_prompt": "Phone charging beside a bed with moon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A mobile phone is like a small…",
+            "options": [
+              "Computer",
+              "Book",
+              "Rock"
+            ],
+            "correct_answer": "Computer",
+            "fact_feedback_correct": "Correct! A mobile phone is a small computer that can think and follow instructions.",
+            "fact_feedback_incorrect": "You missed the fact: A mobile phone is a small computer."
+          },
+          {
+            "question_id": 2,
+            "question": "Phones send messages using…",
+            "options": [
+              "Signals",
+              "Roots",
+              "Water pipes"
+            ],
+            "correct_answer": "Signals",
+            "fact_feedback_correct": "Yes! Phones use signals that travel through the air to communicate.",
+            "fact_feedback_incorrect": "You missed the fact: Phones use signals to send messages."
+          },
+          {
+            "question_id": 3,
+            "question": "Phone towers help phones…",
+            "options": [
+              "Connect",
+              "Grow taller",
+              "Make food"
+            ],
+            "correct_answer": "Connect",
+            "fact_feedback_correct": "Correct! Phone towers help phones connect to each other.",
+            "fact_feedback_incorrect": "You missed the fact: Phone towers help phones connect."
+          },
+          {
+            "question_id": 4,
+            "question": "What powers a mobile phone?",
+            "options": [
+              "Battery",
+              "Wind",
+              "Sand"
+            ],
+            "correct_answer": "Battery",
+            "fact_feedback_correct": "Right! A battery stores energy that powers the phone.",
+            "fact_feedback_incorrect": "You missed the fact: A battery powers the phone."
+          },
+          {
+            "question_id": 5,
+            "question": "Charging a phone does what?",
+            "options": [
+              "Refills energy",
+              "Deletes pictures",
+              "Breaks the screen"
+            ],
+            "correct_answer": "Refills energy",
+            "fact_feedback_correct": "Correct! Charging refills the phone’s battery with energy.",
+            "fact_feedback_incorrect": "You missed the fact: Charging refills the phone’s energy."
+          },
+          {
+            "question_id": 6,
+            "question": "Phones can take…",
+            "options": [
+              "Photos",
+              "Clouds",
+              "Leaves"
+            ],
+            "correct_answer": "Photos",
+            "fact_feedback_correct": "Yes! Phone cameras turn light into pictures.",
+            "fact_feedback_incorrect": "You missed the fact: Phones can take photos."
+          },
+          {
+            "question_id": 7,
+            "question": "Looking at screens too long can make…",
+            "options": [
+              "Eyes tired",
+              "Legs longer",
+              "Hair curl"
+            ],
+            "correct_answer": "Eyes tired",
+            "fact_feedback_correct": "Correct! Too much screen time can make eyes feel tired.",
+            "fact_feedback_incorrect": "You missed the fact: Too much screen time can tire eyes."
+          },
+          {
+            "question_id": 8,
+            "question": "Phones help families…",
+            "options": [
+              "Talk far away",
+              "Fly together",
+              "Change weather"
+            ],
+            "correct_answer": "Talk far away",
+            "fact_feedback_correct": "Right! Phones help people talk even when they are far apart.",
+            "fact_feedback_incorrect": "You missed the fact: Phones help families talk from far away."
+          },
+          {
+            "question_id": 9,
+            "question": "Phones work best when used…",
+            "options": [
+              "Carefully",
+              "All night",
+              "Underwater"
+            ],
+            "correct_answer": "Carefully",
+            "fact_feedback_correct": "Correct! Careful and balanced phone use is important.",
+            "fact_feedback_incorrect": "You missed the fact: Phones should be used carefully."
+          },
+          {
+            "question_id": 10,
+            "question": "Inside a phone is a tiny…",
+            "options": [
+              "Computer",
+              "Tree",
+              "Toy car"
+            ],
+            "correct_answer": "Computer",
+            "fact_feedback_correct": "Yes! A tiny computer inside the phone helps it work.",
+            "fact_feedback_incorrect": "You missed the fact: Phones have tiny computers inside."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_03",
+        "title": "Cody the Computer That Follows Instructions",
+        "learning_objectives": [
+          "Computers follow instructions called programs",
+          "Computers can store and process information",
+          "Input, processing, and output are basic computer steps",
+          "Computers need electricity to work",
+          "People tell computers what to do"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Cody the computer hums quietly on a desk. Inside him, tiny parts are ready to follow instructions.",
+            "image_prompt": "Friendly desktop computer on a desk, softly glowing Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Cody does not think on his own. He waits for people to give clear instructions called programs.",
+            "image_prompt": "Child giving instruction arrows to a computer, simple program concept Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "When a key is pressed or a mouse is clicked, Cody receives input. Input tells him something new.",
+            "image_prompt": "Keyboard and mouse sending icons into a computer Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Inside, Cody processes the information. Processing means working on the input step by step.",
+            "image_prompt": "Gears and lines inside a computer screen showing steps Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "After processing, Cody shows results on the screen or plays a sound. This is called output.",
+            "image_prompt": "Computer screen showing pictures with sound icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Cody remembers things using storage. Storage keeps pictures, games, and documents safe inside.",
+            "image_prompt": "Folders and files inside a computer, tidy storage Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Electric power keeps Cody awake. Without electricity, computers cannot run or respond.",
+            "image_prompt": "Power plug connecting to a computer with gentle glow Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Computers help people write stories, draw pictures, and learn new ideas every day.",
+            "image_prompt": "Kids writing and drawing on a computer, positive mood Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Cody works best when instructions are clear. Good instructions help computers do the right job.",
+            "image_prompt": "Checklist turning into a happy computer face Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the day ends, Cody rests. Tomorrow, he will follow new instructions and help again.",
+            "image_prompt": "Computer in sleep mode with moon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Computers follow instructions called…",
+            "options": [
+              "Programs",
+              "Dreams",
+              "Songs"
+            ],
+            "correct_answer": "Programs",
+            "fact_feedback_correct": "Correct! Computers follow instructions called programs.",
+            "fact_feedback_incorrect": "You missed the fact: Computers follow instructions called programs."
+          },
+          {
+            "question_id": 2,
+            "question": "When you press a key, the computer receives…",
+            "options": [
+              "Input",
+              "Output",
+              "Electricity"
+            ],
+            "correct_answer": "Input",
+            "fact_feedback_correct": "Yes! Input is information sent into a computer.",
+            "fact_feedback_incorrect": "You missed the fact: Pressing a key gives the computer input."
+          },
+          {
+            "question_id": 3,
+            "question": "Processing means the computer is…",
+            "options": [
+              "Working on information",
+              "Sleeping",
+              "Breaking"
+            ],
+            "correct_answer": "Working on information",
+            "fact_feedback_correct": "Correct! Processing means working on information step by step.",
+            "fact_feedback_incorrect": "You missed the fact: Processing means working on information."
+          },
+          {
+            "question_id": 4,
+            "question": "Pictures and sounds shown by a computer are called…",
+            "options": [
+              "Output",
+              "Input",
+              "Storage"
+            ],
+            "correct_answer": "Output",
+            "fact_feedback_correct": "Right! Output is what the computer shows or plays.",
+            "fact_feedback_incorrect": "You missed the fact: Output is what the computer shows or plays."
+          },
+          {
+            "question_id": 5,
+            "question": "Where does a computer keep pictures and files?",
+            "options": [
+              "Storage",
+              "Keyboard",
+              "Screen"
+            ],
+            "correct_answer": "Storage",
+            "fact_feedback_correct": "Correct! Storage keeps information safe inside the computer.",
+            "fact_feedback_incorrect": "You missed the fact: Storage keeps information inside the computer."
+          },
+          {
+            "question_id": 6,
+            "question": "Computers need what to work?",
+            "options": [
+              "Electricity",
+              "Wind",
+              "Sand"
+            ],
+            "correct_answer": "Electricity",
+            "fact_feedback_correct": "Yes! Electricity powers computers.",
+            "fact_feedback_incorrect": "You missed the fact: Computers need electricity to work."
+          },
+          {
+            "question_id": 7,
+            "question": "Who tells computers what to do?",
+            "options": [
+              "People",
+              "Pets",
+              "Plants"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Correct! People give instructions to computers.",
+            "fact_feedback_incorrect": "You missed the fact: People tell computers what to do."
+          },
+          {
+            "question_id": 8,
+            "question": "A mouse or keyboard is used to give…",
+            "options": [
+              "Input",
+              "Output",
+              "Heat"
+            ],
+            "correct_answer": "Input",
+            "fact_feedback_correct": "Right! A mouse and keyboard give input to the computer.",
+            "fact_feedback_incorrect": "You missed the fact: Mouse and keyboard give input."
+          },
+          {
+            "question_id": 9,
+            "question": "Clear instructions help computers…",
+            "options": [
+              "Do the right job",
+              "Guess",
+              "Sleep longer"
+            ],
+            "correct_answer": "Do the right job",
+            "fact_feedback_correct": "Correct! Clear instructions help computers work correctly.",
+            "fact_feedback_incorrect": "You missed the fact: Clear instructions help computers work correctly."
+          },
+          {
+            "question_id": 10,
+            "question": "Computers can help people…",
+            "options": [
+              "Learn and create",
+              "Grow wings",
+              "Change weather"
+            ],
+            "correct_answer": "Learn and create",
+            "fact_feedback_correct": "Yes! Computers help people learn, write, draw, and create.",
+            "fact_feedback_incorrect": "You missed the fact: Computers help people learn and create."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_04",
+        "title": "Tara the Television Shares Stories",
+        "learning_objectives": [
+          "Televisions show pictures and sounds",
+          "TV programs come from signals or the internet",
+          "Screens refresh images very fast to look smooth",
+          "Volume controls sound levels",
+          "Choosing shows and taking breaks are important"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "A soft glow fills the room as Tara the television turns on. Bright pictures line up, ready to tell a story.",
+            "image_prompt": "Friendly television glowing in a cozy living room Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Pictures on Tara move smoothly. Many tiny images change very fast so our eyes see motion.",
+            "image_prompt": "Fast-changing picture frames blending into smooth motion Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sound comes with the pictures. Speakers inside Tara turn signals into voices, music, and effects.",
+            "image_prompt": "Speaker waves coming from a TV with sound icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Shows reach Tara through signals, cables, or the internet. Different paths bring the same fun.",
+            "image_prompt": "TV receiving content via cable, antenna, and Wi‑Fi icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "A remote helps choose. Buttons send commands so Tara knows which show and volume to use.",
+            "image_prompt": "Remote pointing at TV with command arrows Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Turning the volume knob changes loudness. Softer sound can be kinder to ears.",
+            "image_prompt": "Volume bar lowering with happy ear icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Television can teach and entertain. News, cartoons, and nature shows share ideas and facts.",
+            "image_prompt": "TV showing news, cartoon, and nature icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Eyes and bodies need breaks. Standing up and stretching helps after watching.",
+            "image_prompt": "Child stretching beside a paused TV Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Families choose together. Picking shows and times makes TV a helpful helper.",
+            "image_prompt": "Family choosing a show together Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the screen goes dark, Tara rests. Stories will return tomorrow, bright and ready.",
+            "image_prompt": "TV in sleep mode with moon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What does a television show?",
+            "options": [
+              "Pictures and sounds",
+              "Smells only",
+              "Wind"
+            ],
+            "correct_answer": "Pictures and sounds",
+            "fact_feedback_correct": "Correct! Televisions show pictures and play sounds.",
+            "fact_feedback_incorrect": "You missed the fact: Televisions show pictures and sounds."
+          },
+          {
+            "question_id": 2,
+            "question": "Moving pictures look smooth because…",
+            "options": [
+              "Images change very fast",
+              "The screen sleeps",
+              "Lights turn off"
+            ],
+            "correct_answer": "Images change very fast",
+            "fact_feedback_correct": "Yes! Many images change quickly to look like smooth motion.",
+            "fact_feedback_incorrect": "You missed the fact: Motion looks smooth because images change very fast."
+          },
+          {
+            "question_id": 3,
+            "question": "What makes sound come from a TV?",
+            "options": [
+              "Speakers",
+              "Cameras",
+              "Batteries only"
+            ],
+            "correct_answer": "Speakers",
+            "fact_feedback_correct": "Right! Speakers turn signals into sound.",
+            "fact_feedback_incorrect": "You missed the fact: Speakers make the sound."
+          },
+          {
+            "question_id": 4,
+            "question": "Shows can reach a TV through…",
+            "options": [
+              "Signals, cables, or internet",
+              "Shoelaces",
+              "Leaves"
+            ],
+            "correct_answer": "Signals, cables, or internet",
+            "fact_feedback_correct": "Correct! TV shows can arrive through different paths.",
+            "fact_feedback_incorrect": "You missed the fact: Shows come via signals, cables, or the internet."
+          },
+          {
+            "question_id": 5,
+            "question": "What tool helps choose shows?",
+            "options": [
+              "Remote",
+              "Spoon",
+              "Hat"
+            ],
+            "correct_answer": "Remote",
+            "fact_feedback_correct": "Yes! A remote sends commands to the TV.",
+            "fact_feedback_incorrect": "You missed the fact: A remote helps control the TV."
+          },
+          {
+            "question_id": 6,
+            "question": "Changing volume controls…",
+            "options": [
+              "How loud the sound is",
+              "The picture size only",
+              "The color"
+            ],
+            "correct_answer": "How loud the sound is",
+            "fact_feedback_correct": "Correct! Volume changes how loud the sound is.",
+            "fact_feedback_incorrect": "You missed the fact: Volume controls loudness."
+          },
+          {
+            "question_id": 7,
+            "question": "Taking breaks from TV helps…",
+            "options": [
+              "Eyes and bodies",
+              "Screens grow",
+              "Batteries charge"
+            ],
+            "correct_answer": "Eyes and bodies",
+            "fact_feedback_correct": "Right! Breaks help eyes and bodies feel better.",
+            "fact_feedback_incorrect": "You missed the fact: Breaks help eyes and bodies."
+          },
+          {
+            "question_id": 8,
+            "question": "TV can be used to…",
+            "options": [
+              "Learn and enjoy",
+              "Fly",
+              "Change weather"
+            ],
+            "correct_answer": "Learn and enjoy",
+            "fact_feedback_correct": "Correct! TV can teach and entertain.",
+            "fact_feedback_incorrect": "You missed the fact: TV can teach and entertain."
+          },
+          {
+            "question_id": 9,
+            "question": "Choosing shows together helps make TV…",
+            "options": [
+              "Helpful",
+              "Noisy",
+              "Invisible"
+            ],
+            "correct_answer": "Helpful",
+            "fact_feedback_correct": "Yes! Choosing together makes TV more helpful.",
+            "fact_feedback_incorrect": "You missed the fact: Choosing together makes TV helpful."
+          },
+          {
+            "question_id": 10,
+            "question": "When turned off, the TV…",
+            "options": [
+              "Rests",
+              "Keeps talking",
+              "Runs away"
+            ],
+            "correct_answer": "Rests",
+            "fact_feedback_correct": "Correct! Turning off lets the TV rest.",
+            "fact_feedback_incorrect": "You missed the fact: Turning off lets the TV rest."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_05",
+        "title": "Robo the Robot Helps Step by Step",
+        "learning_objectives": [
+          "Robots are machines made by people",
+          "Robots follow instructions step by step",
+          "Sensors help robots notice the world",
+          "Robots can help with jobs but do not think like humans",
+          "Electricity or batteries power robots"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Metal feet tap softly as Robo rolls forward. Gears, wires, and lights work together inside him.",
+            "image_prompt": "Friendly small robot with wheels and lights Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "People built Robo to help. Robots are machines made to do jobs carefully and safely.",
+            "image_prompt": "People assembling a robot with tools, warm tone Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Robo does not guess. He follows instructions one step at a time, just like a recipe.",
+            "image_prompt": "Instruction steps turning into robot actions, checklist style Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Tiny sensors help Robo notice light, sound, or touch. Sensors are like robot senses.",
+            "image_prompt": "Robot with sensor icons for light, sound, touch Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When a box is in the way, Robo stops. Sensors send messages so he knows what is nearby.",
+            "image_prompt": "Robot stopping near a box with alert icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Electric power keeps Robo moving. Batteries or plugs give robots the energy they need.",
+            "image_prompt": "Robot charging with battery and plug icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Robo can help clean floors, carry items, or build things in factories.",
+            "image_prompt": "Robot helping with cleaning and carrying boxes Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Even when Robo helps a lot, people stay in charge. Humans decide the rules and goals.",
+            "image_prompt": "Child giving thumbs-up to robot with control icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Robots do not feel hungry or tired. They work when powered and stop when turned off.",
+            "image_prompt": "Robot power-on vs power-off comparison icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "As lights dim, Robo powers down. Tomorrow, he will help again, step by careful step.",
+            "image_prompt": "Robot resting with charging light and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A robot is a…",
+            "options": [
+              "Machine",
+              "Animal",
+              "Plant"
+            ],
+            "correct_answer": "Machine",
+            "fact_feedback_correct": "Correct! Robots are machines made by people.",
+            "fact_feedback_incorrect": "You missed the fact: Robots are machines made by people."
+          },
+          {
+            "question_id": 2,
+            "question": "Robots follow instructions…",
+            "options": [
+              "Step by step",
+              "By guessing",
+              "By dreaming"
+            ],
+            "correct_answer": "Step by step",
+            "fact_feedback_correct": "Yes! Robots follow instructions step by step.",
+            "fact_feedback_incorrect": "You missed the fact: Robots follow instructions step by step."
+          },
+          {
+            "question_id": 3,
+            "question": "What helps a robot notice light or touch?",
+            "options": [
+              "Sensors",
+              "Shoes",
+              "Paint"
+            ],
+            "correct_answer": "Sensors",
+            "fact_feedback_correct": "Correct! Sensors help robots notice the world around them.",
+            "fact_feedback_incorrect": "You missed the fact: Sensors help robots notice the world."
+          },
+          {
+            "question_id": 4,
+            "question": "Robots need power like…",
+            "options": [
+              "Electricity or batteries",
+              "Wind only",
+              "Leaves"
+            ],
+            "correct_answer": "Electricity or batteries",
+            "fact_feedback_correct": "Right! Robots need electricity or batteries to work.",
+            "fact_feedback_incorrect": "You missed the fact: Robots need electricity or batteries."
+          },
+          {
+            "question_id": 5,
+            "question": "Who decides what robots should do?",
+            "options": [
+              "People",
+              "Robots themselves",
+              "Animals"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Correct! People decide the rules and jobs for robots.",
+            "fact_feedback_incorrect": "You missed the fact: People decide what robots do."
+          },
+          {
+            "question_id": 6,
+            "question": "Sensors help robots…",
+            "options": [
+              "Notice nearby things",
+              "Eat food",
+              "Sleep"
+            ],
+            "correct_answer": "Notice nearby things",
+            "fact_feedback_correct": "Yes! Sensors send information about nearby things.",
+            "fact_feedback_incorrect": "You missed the fact: Sensors help robots notice things."
+          },
+          {
+            "question_id": 7,
+            "question": "Robots can help with…",
+            "options": [
+              "Jobs and tasks",
+              "Growing trees",
+              "Flying clouds"
+            ],
+            "correct_answer": "Jobs and tasks",
+            "fact_feedback_correct": "Correct! Robots help with many jobs and tasks.",
+            "fact_feedback_incorrect": "You missed the fact: Robots help with jobs and tasks."
+          },
+          {
+            "question_id": 8,
+            "question": "Robots think like humans…",
+            "options": [
+              "No",
+              "Yes",
+              "Sometimes"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Right! Robots do not think like humans.",
+            "fact_feedback_incorrect": "You missed the fact: Robots do not think like humans."
+          },
+          {
+            "question_id": 9,
+            "question": "When power is off, robots…",
+            "options": [
+              "Stop working",
+              "Keep moving",
+              "Grow taller"
+            ],
+            "correct_answer": "Stop working",
+            "fact_feedback_correct": "Correct! Robots stop working when power is off.",
+            "fact_feedback_incorrect": "You missed the fact: Robots stop working when power is off."
+          },
+          {
+            "question_id": 10,
+            "question": "Robots work best when instructions are…",
+            "options": [
+              "Clear",
+              "Confusing",
+              "Missing"
+            ],
+            "correct_answer": "Clear",
+            "fact_feedback_correct": "Yes! Clear instructions help robots work correctly.",
+            "fact_feedback_incorrect": "You missed the fact: Clear instructions help robots work correctly."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_06",
+        "title": "Iggy the Internet Connects the World",
+        "learning_objectives": [
+          "The internet connects computers and devices",
+          "Information travels as data through cables and signals",
+          "The internet helps people talk, learn, and share",
+          "Wi‑Fi is one way devices connect to the internet",
+          "Staying safe and asking adults is important online"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Invisible paths stretch everywhere as Iggy the Internet wakes up. Messages are ready to travel far and fast.",
+            "image_prompt": "Glowing connection lines wrapping around a globe Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Phones, tablets, and computers all join in. The internet connects many devices together.",
+            "image_prompt": "Phone, tablet, and computer linked by soft lines Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Tiny pieces of information called data move through cables and signals like speedy notes.",
+            "image_prompt": "Data packets traveling through cables and waves Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Some data travels through wires under land and sea. Other data moves through the air as signals.",
+            "image_prompt": "Undersea cable and wireless signal waves, split view Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Wi‑Fi helps devices connect without cords. A router sends signals so data can move nearby.",
+            "image_prompt": "Wi‑Fi router sending curved signal waves to devices Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Video calls, messages, and pictures travel using the internet. People can share from far away.",
+            "image_prompt": "Video call with smiling faces in frames Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Learning happens online too. Stories, maps, and lessons can appear with a tap or click.",
+            "image_prompt": "Child learning with online books and maps on a screen Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Not everything online is for kids. Asking a trusted adult helps keep internet time safe.",
+            "image_prompt": "Child and adult together at a device with shield icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "The internet does not think or choose. People decide what to send and share.",
+            "image_prompt": "People sending messages through devices, balanced Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When devices turn off, Iggy rests. The connections will be ready again tomorrow.",
+            "image_prompt": "Devices sleeping with dim connection lines and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The internet helps connect…",
+            "options": [
+              "Devices",
+              "Mountains",
+              "Trees"
+            ],
+            "correct_answer": "Devices",
+            "fact_feedback_correct": "Correct! The internet connects devices like phones and computers.",
+            "fact_feedback_incorrect": "You missed the fact: The internet connects devices."
+          },
+          {
+            "question_id": 2,
+            "question": "Information sent online is called…",
+            "options": [
+              "Data",
+              "Water",
+              "Air"
+            ],
+            "correct_answer": "Data",
+            "fact_feedback_correct": "Yes! Data is information that travels on the internet.",
+            "fact_feedback_incorrect": "You missed the fact: Information online is called data."
+          },
+          {
+            "question_id": 3,
+            "question": "Data can travel through…",
+            "options": [
+              "Cables and signals",
+              "Shoes",
+              "Leaves"
+            ],
+            "correct_answer": "Cables and signals",
+            "fact_feedback_correct": "Correct! Data moves through cables and wireless signals.",
+            "fact_feedback_incorrect": "You missed the fact: Data travels through cables and signals."
+          },
+          {
+            "question_id": 4,
+            "question": "Wi‑Fi helps devices connect…",
+            "options": [
+              "Without wires",
+              "Only underwater",
+              "Only at night"
+            ],
+            "correct_answer": "Without wires",
+            "fact_feedback_correct": "Right! Wi‑Fi lets devices connect without cords.",
+            "fact_feedback_incorrect": "You missed the fact: Wi‑Fi connects devices without wires."
+          },
+          {
+            "question_id": 5,
+            "question": "Video calls use the…",
+            "options": [
+              "Internet",
+              "Moon",
+              "Wind"
+            ],
+            "correct_answer": "Internet",
+            "fact_feedback_correct": "Correct! Video calls use the internet to share pictures and sound.",
+            "fact_feedback_incorrect": "You missed the fact: Video calls use the internet."
+          },
+          {
+            "question_id": 6,
+            "question": "People use the internet to…",
+            "options": [
+              "Learn and share",
+              "Change weather",
+              "Grow plants instantly"
+            ],
+            "correct_answer": "Learn and share",
+            "fact_feedback_correct": "Yes! The internet helps people learn and share ideas.",
+            "fact_feedback_incorrect": "You missed the fact: The internet helps people learn and share."
+          },
+          {
+            "question_id": 7,
+            "question": "Who decides what is shared online?",
+            "options": [
+              "People",
+              "The internet itself",
+              "Animals"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Correct! People choose what to send and share online.",
+            "fact_feedback_incorrect": "You missed the fact: People decide what is shared online."
+          },
+          {
+            "question_id": 8,
+            "question": "For safety online, kids should…",
+            "options": [
+              "Ask a trusted adult",
+              "Click everything",
+              "Hide the device"
+            ],
+            "correct_answer": "Ask a trusted adult",
+            "fact_feedback_correct": "Right! Asking an adult helps keep internet time safe.",
+            "fact_feedback_incorrect": "You missed the fact: Asking a trusted adult helps keep kids safe online."
+          },
+          {
+            "question_id": 9,
+            "question": "Internet signals can travel…",
+            "options": [
+              "Through the air",
+              "Only through dirt",
+              "Only on paper"
+            ],
+            "correct_answer": "Through the air",
+            "fact_feedback_correct": "Correct! Some internet signals travel through the air.",
+            "fact_feedback_incorrect": "You missed the fact: Internet signals can travel through the air."
+          },
+          {
+            "question_id": 10,
+            "question": "When devices turn off, the internet…",
+            "options": [
+              "Waits",
+              "Disappears forever",
+              "Turns into water"
+            ],
+            "correct_answer": "Waits",
+            "fact_feedback_correct": "Yes! The internet connections are ready again when devices turn on.",
+            "fact_feedback_incorrect": "You missed the fact: The internet waits until devices turn back on."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_07",
+        "title": "Ava the Smart Helper Listens and Learns",
+        "learning_objectives": [
+          "Smart helpers can listen to voice commands",
+          "Speech is turned into data a computer can understand",
+          "Smart helpers can answer questions and control devices",
+          "They need internet and electricity to work",
+          "People decide what smart helpers are allowed to do"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "A gentle chime sounds as Ava the smart helper wakes up. She is ready to listen carefully.",
+            "image_prompt": "Friendly smart speaker with a soft glow in a cozy room Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "When someone speaks, Ava listens. Voices travel as sound waves into tiny microphones.",
+            "image_prompt": "Sound waves moving from a child to a smart speaker Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Inside, the sounds change into data. Data helps computers understand words and meaning.",
+            "image_prompt": "Sound waves turning into data icons inside a device Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Ava can answer questions, play music, or set reminders when asked politely.",
+            "image_prompt": "Smart helper icons: music note, question mark, clock Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sometimes Ava talks back. Speakers turn information into clear sounds people can hear.",
+            "image_prompt": "Smart speaker sending out sound waves with speech bubbles Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "The internet helps Ava find answers quickly. Without a connection, she knows less.",
+            "image_prompt": "Smart helper linked to cloud and Wi‑Fi icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Smart helpers can control lights or timers. They help when hands are busy.",
+            "image_prompt": "Smart helper controlling lights and timer icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "People stay in charge. Grown-ups choose settings and decide what Ava can do.",
+            "image_prompt": "Adult adjusting settings with a shield icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Electric power keeps Ava ready. When turned off, listening stops completely.",
+            "image_prompt": "Smart helper powering down with plug icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "As the house grows quiet, Ava rests. Tomorrow, she will listen and help again.",
+            "image_prompt": "Smart speaker at night with moon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A smart helper can listen to…",
+            "options": [
+              "Voices",
+              "Footsteps only",
+              "Colors"
+            ],
+            "correct_answer": "Voices",
+            "fact_feedback_correct": "Correct! Smart helpers listen to voices using microphones.",
+            "fact_feedback_incorrect": "You missed the fact: Smart helpers listen to voices."
+          },
+          {
+            "question_id": 2,
+            "question": "What do computers use to understand speech?",
+            "options": [
+              "Data",
+              "Dreams",
+              "Water"
+            ],
+            "correct_answer": "Data",
+            "fact_feedback_correct": "Yes! Speech turns into data that computers can understand.",
+            "fact_feedback_incorrect": "You missed the fact: Computers use data to understand speech."
+          },
+          {
+            "question_id": 3,
+            "question": "Smart helpers can help by…",
+            "options": [
+              "Answering questions",
+              "Flying",
+              "Growing food"
+            ],
+            "correct_answer": "Answering questions",
+            "fact_feedback_correct": "Correct! Smart helpers can answer questions and give information.",
+            "fact_feedback_incorrect": "You missed the fact: Smart helpers can answer questions."
+          },
+          {
+            "question_id": 4,
+            "question": "What helps a smart helper find answers?",
+            "options": [
+              "Internet",
+              "Shoes",
+              "Paper"
+            ],
+            "correct_answer": "Internet",
+            "fact_feedback_correct": "Right! The internet helps smart helpers find information.",
+            "fact_feedback_incorrect": "You missed the fact: Smart helpers use the internet."
+          },
+          {
+            "question_id": 5,
+            "question": "Who decides what a smart helper can do?",
+            "options": [
+              "People",
+              "The helper itself",
+              "Pets"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Correct! People choose settings and control smart helpers.",
+            "fact_feedback_incorrect": "You missed the fact: People decide what smart helpers can do."
+          },
+          {
+            "question_id": 6,
+            "question": "Smart helpers need electricity to…",
+            "options": [
+              "Work",
+              "Sleep",
+              "Grow"
+            ],
+            "correct_answer": "Work",
+            "fact_feedback_correct": "Yes! Electricity powers smart helpers.",
+            "fact_feedback_incorrect": "You missed the fact: Smart helpers need electricity to work."
+          },
+          {
+            "question_id": 7,
+            "question": "When power is off, a smart helper…",
+            "options": [
+              "Stops listening",
+              "Keeps talking",
+              "Moves around"
+            ],
+            "correct_answer": "Stops listening",
+            "fact_feedback_correct": "Correct! Without power, smart helpers stop listening.",
+            "fact_feedback_incorrect": "You missed the fact: Smart helpers stop listening when off."
+          },
+          {
+            "question_id": 8,
+            "question": "Microphones help a smart helper…",
+            "options": [
+              "Hear sounds",
+              "See pictures",
+              "Smell food"
+            ],
+            "correct_answer": "Hear sounds",
+            "fact_feedback_correct": "Right! Microphones help smart helpers hear sounds.",
+            "fact_feedback_incorrect": "You missed the fact: Microphones help hear sounds."
+          },
+          {
+            "question_id": 9,
+            "question": "Speakers help a smart helper…",
+            "options": [
+              "Talk back",
+              "Think",
+              "Move"
+            ],
+            "correct_answer": "Talk back",
+            "fact_feedback_correct": "Correct! Speakers let smart helpers play sounds and talk.",
+            "fact_feedback_incorrect": "You missed the fact: Speakers help smart helpers talk."
+          },
+          {
+            "question_id": 10,
+            "question": "Smart helpers work best when questions are…",
+            "options": [
+              "Clear",
+              "Confusing",
+              "Silent"
+            ],
+            "correct_answer": "Clear",
+            "fact_feedback_correct": "Yes! Clear questions help smart helpers respond better.",
+            "fact_feedback_incorrect": "You missed the fact: Clear questions help smart helpers respond."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_08",
+        "title": "Milo the Map Knows the Way",
+        "learning_objectives": [
+          "Maps show places and directions",
+          "GPS helps devices know where they are",
+          "Satellites send signals to Earth",
+          "Directions include left, right, near, and far",
+          "People use maps and GPS to travel safely"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "A colorful screen lights up as Milo the Map appears. Roads, parks, and houses pop into place.",
+            "image_prompt": "Friendly map character on a screen with roads and icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Maps show where places are. They help people see where they want to go before moving.",
+            "image_prompt": "Simple map with labeled park, school, and home icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Milo can give directions. Words like left, right, near, and far help guide the way.",
+            "image_prompt": "Arrows pointing left and right with friendly direction labels Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "GPS helps Milo know where you are. GPS stands for Global Positioning System.",
+            "image_prompt": "Map pin popping onto a map with gentle glow Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "High above Earth, satellites send signals. Devices listen to these signals to find location.",
+            "image_prompt": "Satellites orbiting Earth sending signal waves down Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Phones and cars use GPS. They match signals to maps to show where they are.",
+            "image_prompt": "Phone and car icons connected to map pins Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Milo updates routes when roads change. New paths help people avoid traffic and delays.",
+            "image_prompt": "Route changing on a map with dashed lines Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Maps do not drive cars. People stay in charge and make safe choices.",
+            "image_prompt": "Person driving with a map nearby, responsibility theme Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Learning directions builds confidence. Knowing where you are helps you feel calm.",
+            "image_prompt": "Smiling child following a simple map Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the trip ends, Milo rests. Tomorrow, new paths and places will appear again.",
+            "image_prompt": "Map screen dimming with stars and a rest icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What do maps show?",
+            "options": [
+              "Places and directions",
+              "Only colors",
+              "Weather sounds"
+            ],
+            "correct_answer": "Places and directions",
+            "fact_feedback_correct": "Correct! Maps show places and help give directions.",
+            "fact_feedback_incorrect": "You missed the fact: Maps show places and directions."
+          },
+          {
+            "question_id": 2,
+            "question": "GPS helps devices know…",
+            "options": [
+              "Where they are",
+              "What to eat",
+              "When to sleep"
+            ],
+            "correct_answer": "Where they are",
+            "fact_feedback_correct": "Yes! GPS helps devices know their location.",
+            "fact_feedback_incorrect": "You missed the fact: GPS tells devices where they are."
+          },
+          {
+            "question_id": 3,
+            "question": "What does GPS stand for?",
+            "options": [
+              "Global Positioning System",
+              "Great Picture Screen",
+              "Green Planet Signal"
+            ],
+            "correct_answer": "Global Positioning System",
+            "fact_feedback_correct": "Correct! GPS means Global Positioning System.",
+            "fact_feedback_incorrect": "You missed the fact: GPS stands for Global Positioning System."
+          },
+          {
+            "question_id": 4,
+            "question": "Satellites are found…",
+            "options": [
+              "High above Earth",
+              "Under the ground",
+              "Inside houses"
+            ],
+            "correct_answer": "High above Earth",
+            "fact_feedback_correct": "Right! Satellites orbit high above Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Satellites are high above Earth."
+          },
+          {
+            "question_id": 5,
+            "question": "GPS works using…",
+            "options": [
+              "Signals",
+              "Paint",
+              "Shoes"
+            ],
+            "correct_answer": "Signals",
+            "fact_feedback_correct": "Correct! GPS uses signals from satellites.",
+            "fact_feedback_incorrect": "You missed the fact: GPS uses signals."
+          },
+          {
+            "question_id": 6,
+            "question": "Directions include words like…",
+            "options": [
+              "Left and right",
+              "Loud and quiet",
+              "Hot and cold"
+            ],
+            "correct_answer": "Left and right",
+            "fact_feedback_correct": "Yes! Left and right are direction words.",
+            "fact_feedback_incorrect": "You missed the fact: Directions include left and right."
+          },
+          {
+            "question_id": 7,
+            "question": "Phones use GPS to…",
+            "options": [
+              "Show location",
+              "Grow plants",
+              "Cook food"
+            ],
+            "correct_answer": "Show location",
+            "fact_feedback_correct": "Correct! Phones use GPS to show where they are.",
+            "fact_feedback_incorrect": "You missed the fact: Phones use GPS to show location."
+          },
+          {
+            "question_id": 8,
+            "question": "Who stays in charge when using maps?",
+            "options": [
+              "People",
+              "The map",
+              "Satellites"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Right! People stay in charge and make choices.",
+            "fact_feedback_incorrect": "You missed the fact: People stay in charge."
+          },
+          {
+            "question_id": 9,
+            "question": "Maps can help people…",
+            "options": [
+              "Travel safely",
+              "Fly without planes",
+              "Change time"
+            ],
+            "correct_answer": "Travel safely",
+            "fact_feedback_correct": "Correct! Maps help people travel safely.",
+            "fact_feedback_incorrect": "You missed the fact: Maps help people travel safely."
+          },
+          {
+            "question_id": 10,
+            "question": "Learning directions can help you feel…",
+            "options": [
+              "Calm and confident",
+              "Lost",
+              "Sleepy"
+            ],
+            "correct_answer": "Calm and confident",
+            "fact_feedback_correct": "Yes! Knowing directions helps people feel calm and confident.",
+            "fact_feedback_incorrect": "You missed the fact: Knowing directions helps you feel calm and confident."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_09",
+        "title": "Pia the Camera Catches Moments",
+        "learning_objectives": [
+          "Cameras capture light to make pictures",
+          "Photos freeze moments in time",
+          "Cameras can be in phones and other devices",
+          "Light helps pictures look clear",
+          "People choose what to photograph"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "A tiny click sounds as Pia the camera opens her eye. Light begins painting a picture.",
+            "image_prompt": "Friendly camera with a blinking lens-eye Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Light enters the lens. Inside, the camera turns light into a picture we can see later.",
+            "image_prompt": "Light rays entering a camera lens and forming an image Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Pictures stop a moment in time. Smiles, jumps, and waves can stay forever in a photo.",
+            "image_prompt": "Frozen action moments in photo frames, joyful Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Cameras live in many places. Phones, tablets, and special cameras all use lenses.",
+            "image_prompt": "Phone, tablet, and camera each with a lens icon Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Bright light helps pictures look sharp. Very dark places can make photos blurry.",
+            "image_prompt": "Split scene: bright clear photo vs dark blurry photo Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "A button press tells Pia to capture. The camera listens and saves the picture quickly.",
+            "image_prompt": "Finger pressing camera button with capture sparkles Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Photos can be saved and shared. They help people remember special days.",
+            "image_prompt": "Photos being saved into an album with hearts Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Cameras do not choose moments. People decide what is important to capture.",
+            "image_prompt": "Child choosing what to photograph, gentle Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Some cameras can record moving pictures too. Videos show motion and sound together.",
+            "image_prompt": "Camera switching between photo and video icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the day ends, Pia rests her lens. Tomorrow brings new moments to catch.",
+            "image_prompt": "Camera resting with moon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Cameras make pictures using…",
+            "options": [
+              "Light",
+              "Sound",
+              "Wind"
+            ],
+            "correct_answer": "Light",
+            "fact_feedback_correct": "Correct! Cameras use light to make pictures.",
+            "fact_feedback_incorrect": "You missed the fact: Cameras use light to make pictures."
+          },
+          {
+            "question_id": 2,
+            "question": "Photos help us…",
+            "options": [
+              "Remember moments",
+              "Change weather",
+              "Grow plants"
+            ],
+            "correct_answer": "Remember moments",
+            "fact_feedback_correct": "Yes! Photos freeze moments in time.",
+            "fact_feedback_incorrect": "You missed the fact: Photos help remember moments."
+          },
+          {
+            "question_id": 3,
+            "question": "Where can cameras be found?",
+            "options": [
+              "Phones and devices",
+              "Only in museums",
+              "Only underwater"
+            ],
+            "correct_answer": "Phones and devices",
+            "fact_feedback_correct": "Correct! Cameras are in phones and other devices.",
+            "fact_feedback_incorrect": "You missed the fact: Cameras are found in many devices."
+          },
+          {
+            "question_id": 4,
+            "question": "Good light helps photos look…",
+            "options": [
+              "Clear",
+              "Heavy",
+              "Loud"
+            ],
+            "correct_answer": "Clear",
+            "fact_feedback_correct": "Right! Good light helps photos look clear.",
+            "fact_feedback_incorrect": "You missed the fact: Good light makes photos clear."
+          },
+          {
+            "question_id": 5,
+            "question": "Pressing the button tells the camera to…",
+            "options": [
+              "Capture a picture",
+              "Go to sleep",
+              "Turn invisible"
+            ],
+            "correct_answer": "Capture a picture",
+            "fact_feedback_correct": "Correct! Pressing the button captures a picture.",
+            "fact_feedback_incorrect": "You missed the fact: Pressing the button captures a picture."
+          },
+          {
+            "question_id": 6,
+            "question": "Who chooses what to photograph?",
+            "options": [
+              "People",
+              "The camera",
+              "The light"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Yes! People decide what moments to capture.",
+            "fact_feedback_incorrect": "You missed the fact: People choose what to photograph."
+          },
+          {
+            "question_id": 7,
+            "question": "Photos can be…",
+            "options": [
+              "Saved and shared",
+              "Eaten",
+              "Grown"
+            ],
+            "correct_answer": "Saved and shared",
+            "fact_feedback_correct": "Correct! Photos can be saved and shared.",
+            "fact_feedback_incorrect": "You missed the fact: Photos can be saved and shared."
+          },
+          {
+            "question_id": 8,
+            "question": "Dark places can make photos…",
+            "options": [
+              "Blurry",
+              "Brighter",
+              "Bigger"
+            ],
+            "correct_answer": "Blurry",
+            "fact_feedback_correct": "Right! Low light can make photos blurry.",
+            "fact_feedback_incorrect": "You missed the fact: Dark places can make photos blurry."
+          },
+          {
+            "question_id": 9,
+            "question": "Videos are different from photos because they show…",
+            "options": [
+              "Motion and sound",
+              "Only color",
+              "Only shapes"
+            ],
+            "correct_answer": "Motion and sound",
+            "fact_feedback_correct": "Correct! Videos show moving pictures and sound.",
+            "fact_feedback_incorrect": "You missed the fact: Videos show motion and sound."
+          },
+          {
+            "question_id": 10,
+            "question": "Cameras help people…",
+            "options": [
+              "Keep memories",
+              "Fly",
+              "Change time"
+            ],
+            "correct_answer": "Keep memories",
+            "fact_feedback_correct": "Yes! Cameras help people keep memories.",
+            "fact_feedback_incorrect": "You missed the fact: Cameras help people keep memories."
+          }
+        ]
+      },
+      {
+        "story_id": "technology_10",
+        "title": "Vivi the Video Call Brings Faces Together",
+        "learning_objectives": [
+          "Video calls share pictures and sound together",
+          "Cameras and microphones work at the same time",
+          "The internet carries video and audio data",
+          "Video calls help people talk from far away",
+          "People choose when and how to use video calls"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "A smiling face appears as Vivi the video call begins. Even far away, friends feel close.",
+            "image_prompt": "Tablet showing smiling faces in video call windows Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Pictures and voices travel together. Video calls send moving images and sound at the same time.",
+            "image_prompt": "Sound waves and video frames traveling between devices Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "A camera shows faces while a microphone hears voices. Both work together to share the moment.",
+            "image_prompt": "Camera and microphone icons working together Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The internet carries tiny pieces of data very fast. That speed keeps video calls smooth.",
+            "image_prompt": "Data packets moving quickly through glowing lines Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Families use video calls to talk, wave, and laugh when they cannot meet in person.",
+            "image_prompt": "Family members waving through screens, warm scene Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Seeing faces helps people understand feelings. Smiles and nods share meaning without words.",
+            "image_prompt": "Facial expressions on a video call, gentle Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Buttons help start and end calls. People decide when to join and when to say goodbye.",
+            "image_prompt": "Call buttons with green and red icons Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Video calls need electricity and internet. Without power or connection, screens go quiet.",
+            "image_prompt": "Device losing signal and power icons fading Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Being polite matters online. Waiting turns and listening helps everyone feel heard.",
+            "image_prompt": "Kids taking turns speaking on a video call Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the call ends, Vivi rests. Faces may disappear, but feelings of togetherness remain.",
+            "image_prompt": "Video call fading to a heart icon and stars Flat pastel illustration, kid-friendly, simple shapes, soft shading, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Video calls share…",
+            "options": [
+              "Pictures and sound",
+              "Only text",
+              "Only music"
+            ],
+            "correct_answer": "Pictures and sound",
+            "fact_feedback_correct": "Correct! Video calls share pictures and sound together.",
+            "fact_feedback_incorrect": "You missed the fact: Video calls share pictures and sound."
+          },
+          {
+            "question_id": 2,
+            "question": "What shows faces during a video call?",
+            "options": [
+              "Camera",
+              "Speaker",
+              "Battery"
+            ],
+            "correct_answer": "Camera",
+            "fact_feedback_correct": "Yes! A camera shows faces on a video call.",
+            "fact_feedback_incorrect": "You missed the fact: Cameras show faces during video calls."
+          },
+          {
+            "question_id": 3,
+            "question": "What hears voices during a video call?",
+            "options": [
+              "Microphone",
+              "Screen",
+              "Light"
+            ],
+            "correct_answer": "Microphone",
+            "fact_feedback_correct": "Correct! A microphone hears voices.",
+            "fact_feedback_incorrect": "You missed the fact: Microphones hear voices."
+          },
+          {
+            "question_id": 4,
+            "question": "Video calls need the internet to…",
+            "options": [
+              "Carry data",
+              "Change colors",
+              "Make screens heavier"
+            ],
+            "correct_answer": "Carry data",
+            "fact_feedback_correct": "Right! The internet carries video and sound data.",
+            "fact_feedback_incorrect": "You missed the fact: The internet carries video call data."
+          },
+          {
+            "question_id": 5,
+            "question": "Why do people use video calls?",
+            "options": [
+              "To talk from far away",
+              "To fly",
+              "To change time"
+            ],
+            "correct_answer": "To talk from far away",
+            "fact_feedback_correct": "Correct! Video calls help people talk when they are far apart.",
+            "fact_feedback_incorrect": "You missed the fact: Video calls help people talk from far away."
+          },
+          {
+            "question_id": 6,
+            "question": "Seeing faces helps people understand…",
+            "options": [
+              "Feelings",
+              "Weather",
+              "Math problems"
+            ],
+            "correct_answer": "Feelings",
+            "fact_feedback_correct": "Yes! Faces show feelings like happiness or surprise.",
+            "fact_feedback_incorrect": "You missed the fact: Seeing faces helps understand feelings."
+          },
+          {
+            "question_id": 7,
+            "question": "Who decides when to start or end a call?",
+            "options": [
+              "People",
+              "The internet",
+              "The camera"
+            ],
+            "correct_answer": "People",
+            "fact_feedback_correct": "Correct! People choose when to start or end calls.",
+            "fact_feedback_incorrect": "You missed the fact: People decide when to start or end calls."
+          },
+          {
+            "question_id": 8,
+            "question": "Video calls need electricity to…",
+            "options": [
+              "Work",
+              "Talk louder",
+              "Draw pictures"
+            ],
+            "correct_answer": "Work",
+            "fact_feedback_correct": "Right! Electricity powers devices for video calls.",
+            "fact_feedback_incorrect": "You missed the fact: Video calls need electricity to work."
+          },
+          {
+            "question_id": 9,
+            "question": "Being polite on video calls means…",
+            "options": [
+              "Listening and taking turns",
+              "Talking over everyone",
+              "Turning away"
+            ],
+            "correct_answer": "Listening and taking turns",
+            "fact_feedback_correct": "Correct! Politeness helps everyone feel heard.",
+            "fact_feedback_incorrect": "You missed the fact: Listening and taking turns is polite."
+          },
+          {
+            "question_id": 10,
+            "question": "When a video call ends, people may still feel…",
+            "options": [
+              "Connected",
+              "Lost",
+              "Invisible"
+            ],
+            "correct_answer": "Connected",
+            "fact_feedback_correct": "Yes! Video calls help people feel connected, even after they end.",
+            "fact_feedback_incorrect": "You missed the fact: Video calls help people feel connected."
+          }
+        ]
+      }
+    ]
+  }
+}

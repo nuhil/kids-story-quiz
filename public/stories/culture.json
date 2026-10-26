@@ -1,0 +1,1258 @@
+{
+  "category": {
+    "category_name": "Culture & Traditions",
+    "category_id": "culture",
+    "stories": [
+      {
+        "story_id": "culture_01",
+        "title": "Hello Around the World",
+        "learning_objectives": [
+          "People greet each other in many languages.",
+          "Hola means hello in Spanish.",
+          "Bonjour means hello in French.",
+          "Konnichiwa is a Japanese greeting used in daytime.",
+          "Greetings help people feel welcome and respected."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila opens a big world map at school. She wonders how children in many places say hello.",
+            "image_prompt": "a cheerful classroom with a giant world map and a curious child pointing at different countries. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Her friend Ana waves and says, Hola! Mila learns that Hola means hello in Spanish.",
+            "image_prompt": "two preschool friends waving and saying hello in a sunny school hallway. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Next, their teacher smiles and says, Bonjour! Mila learns that Bonjour is hello in French.",
+            "image_prompt": "a kind teacher greeting children in a bright classroom circle time. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "On a class video call, a child in Japan says Konnichiwa. Mila hears another friendly hello.",
+            "image_prompt": "kids on a classroom video call with a child greeting from Japan on a tablet screen. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Mila notices people also greet with a wave, a bow, or a handshake depending on place and custom.",
+            "image_prompt": "children showing a wave, bow, and handshake in a friendly school yard. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "No matter the word, a warm face and gentle voice can make others feel safe and included.",
+            "image_prompt": "smiling children greeting each other kindly with soft warm expressions. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "At recess, children try hello words from home. The playground sounds bright and joyful.",
+            "image_prompt": "a lively playground where kids say hello in different home languages. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Mila practices: Hola, Bonjour, and Konnichiwa. She speaks slowly and listens carefully.",
+            "image_prompt": "a child practicing hello words from flash cards with speech bubbles as simple icons. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "She learns a big idea: greetings can sound different, but kindness feels the same.",
+            "image_prompt": "diverse children standing together happily to show shared kindness. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Before bed, Mila remembers three hello words and one rule: greet people with respect.",
+            "image_prompt": "a cozy bedtime scene with a child and a small world map book about greetings. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "People can say hello in...",
+            "options": [
+              "many languages",
+              "only one language",
+              "no language"
+            ],
+            "correct_answer": "many languages",
+            "fact_feedback_correct": "Correct! Greetings are different across languages and cultures.",
+            "fact_feedback_incorrect": "Not quite. People around the world say hello in many languages."
+          },
+          {
+            "question_id": 2,
+            "question": "What does Hola mean?",
+            "options": [
+              "hello",
+              "good night",
+              "thank you"
+            ],
+            "correct_answer": "hello",
+            "fact_feedback_correct": "Yes. Hola means hello in Spanish.",
+            "fact_feedback_incorrect": "Try again. Hola is a Spanish word for hello."
+          },
+          {
+            "question_id": 3,
+            "question": "Bonjour is a greeting in...",
+            "options": [
+              "French",
+              "English",
+              "Arabic"
+            ],
+            "correct_answer": "French",
+            "fact_feedback_correct": "Right. Bonjour is a French greeting.",
+            "fact_feedback_incorrect": "Good try. Bonjour is used in French."
+          },
+          {
+            "question_id": 4,
+            "question": "Konnichiwa is used as a greeting in...",
+            "options": [
+              "Japanese",
+              "Spanish",
+              "Hindi"
+            ],
+            "correct_answer": "Japanese",
+            "fact_feedback_correct": "Correct. Konnichiwa is a Japanese daytime greeting.",
+            "fact_feedback_incorrect": "Not this one. Konnichiwa is used in Japanese."
+          },
+          {
+            "question_id": 5,
+            "question": "Why do greetings matter?",
+            "options": [
+              "They show respect",
+              "They make toys bigger",
+              "They stop the rain"
+            ],
+            "correct_answer": "They show respect",
+            "fact_feedback_correct": "Exactly. Greetings help people feel welcome and respected.",
+            "fact_feedback_incorrect": "Almost. Greetings are a kind way to show respect."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_02",
+        "title": "Lights of Celebration",
+        "learning_objectives": [
+          "Many cultures use lights in celebrations.",
+          "Lamps, lanterns, and candles can mean hope.",
+          "Families celebrate with music, food, and time together.",
+          "Different places celebrate in different ways and names.",
+          "Adults help children stay safe around fire and bright lights."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "One evening, Mila walks with her family and sees streets glowing with tiny lights.",
+            "image_prompt": "a neighborhood evening festival with glowing lights and families walking together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Some families place small lamps by doors to share hope and welcome.",
+            "image_prompt": "families placing small lamps by colorful front doors in a friendly street. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Others hang paper lanterns that sway softly in the night air.",
+            "image_prompt": "paper lanterns hanging above a joyful crowd in a night festival. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "In another town, candles shine on windows during a winter celebration.",
+            "image_prompt": "cozy winter windows with candles and families gathered indoors. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Mila hears drums and songs as neighbors gather to celebrate together.",
+            "image_prompt": "community music with simple drums and singing during a light festival. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "At one table, people share sweets and fruit. At another, they share warm soup.",
+            "image_prompt": "a long table with sweets, fruit, and soup shared by neighbors. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Mila learns that light can mean joy, peace, or a fresh start for many people.",
+            "image_prompt": "children watching glowing lights that symbolize joy and peace. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "An adult reminds children: look with your eyes, and stay close when candles are lit.",
+            "image_prompt": "an adult guiding children safely near candles at a celebration. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Every celebration has its own name and story, but many share love and community.",
+            "image_prompt": "different cultural celebrations shown as small scenes with unique decorations. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Mila goes home smiling. She learned that lights can bring people together.",
+            "image_prompt": "a calm walk home under lantern lights and stars. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Many celebrations use...",
+            "options": [
+              "lights",
+              "snowballs",
+              "telephones"
+            ],
+            "correct_answer": "lights",
+            "fact_feedback_correct": "Correct. Many cultures use lights in celebrations.",
+            "fact_feedback_incorrect": "Not quite. Lights are common in many celebrations."
+          },
+          {
+            "question_id": 2,
+            "question": "Lamps and lanterns can mean...",
+            "options": [
+              "hope",
+              "noise",
+              "sleep"
+            ],
+            "correct_answer": "hope",
+            "fact_feedback_correct": "Yes. Lights can mean hope and welcome.",
+            "fact_feedback_incorrect": "Try again. Lamps and lanterns often mean hope."
+          },
+          {
+            "question_id": 3,
+            "question": "Families often celebrate by...",
+            "options": [
+              "sharing food and music",
+              "hiding all day",
+              "never talking"
+            ],
+            "correct_answer": "sharing food and music",
+            "fact_feedback_correct": "Right. Music, food, and togetherness are common in celebrations.",
+            "fact_feedback_incorrect": "Good try. Many families celebrate with food, music, and time together."
+          },
+          {
+            "question_id": 4,
+            "question": "Are all celebrations exactly the same everywhere?",
+            "options": [
+              "No, they are different",
+              "Yes, always same",
+              "Only in winter"
+            ],
+            "correct_answer": "No, they are different",
+            "fact_feedback_correct": "Correct. Celebrations can have different names, styles, and stories.",
+            "fact_feedback_incorrect": "Not this time. Celebrations are different across places and cultures."
+          },
+          {
+            "question_id": 5,
+            "question": "Who helps keep children safe near candles?",
+            "options": [
+              "adults",
+              "toy robots",
+              "nobody"
+            ],
+            "correct_answer": "adults",
+            "fact_feedback_correct": "Exactly. Adults guide children safely around fire and bright lights.",
+            "fact_feedback_incorrect": "Almost. Adults help children stay safe near candles."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_03",
+        "title": "Music from Many Places",
+        "learning_objectives": [
+          "Cultures use many different musical instruments.",
+          "Rhythm is a repeated beat in music.",
+          "Music can be fast, slow, loud, or soft.",
+          "People use music for celebration, dance, and stories.",
+          "Music helps people connect even without the same language."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila hears a drum in the park: boom, boom, boom. She feels the beat in her feet.",
+            "image_prompt": "children in a park hearing a friendly drum performance. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "At the music tent, she sees a violin, a flute, and a drum from different places.",
+            "image_prompt": "a colorful music tent displaying violin flute and drum instruments. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "A musician taps a hand drum with steady rhythm. Everyone claps together.",
+            "image_prompt": "a musician playing hand drum while children clap in rhythm. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Another player blows a flute with a soft, floating sound.",
+            "image_prompt": "a flute player creating soft music for listening children. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Soon a bigger drum group plays a fast pattern that makes kids want to dance.",
+            "image_prompt": "a lively drum group with kids dancing joyfully. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Mila learns rhythm means a beat that repeats again and again.",
+            "image_prompt": "simple rhythm icons showing repeating beats with clapping children. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Some songs are slow and calm. Others are quick and exciting.",
+            "image_prompt": "contrast of slow calm music and fast energetic music with movement. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Families form a circle dance, stepping left and right with smiles.",
+            "image_prompt": "families doing a circle dance in an open plaza. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Mila notices friends who speak different languages can still move to the same beat.",
+            "image_prompt": "diverse children dancing together to one beat. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime she taps a gentle rhythm and remembers: music can connect everyone.",
+            "image_prompt": "a cozy bedtime scene with a child tapping rhythm on a small drum. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is rhythm?",
+            "options": [
+              "a repeated beat",
+              "a type of shoe",
+              "a weather cloud"
+            ],
+            "correct_answer": "a repeated beat",
+            "fact_feedback_correct": "Correct. Rhythm is a beat pattern that repeats.",
+            "fact_feedback_incorrect": "Not yet. Rhythm means a repeated beat in music."
+          },
+          {
+            "question_id": 2,
+            "question": "Music can be...",
+            "options": [
+              "fast or slow",
+              "only fast",
+              "only silent"
+            ],
+            "correct_answer": "fast or slow",
+            "fact_feedback_correct": "Yes. Music can change speed and mood.",
+            "fact_feedback_incorrect": "Try again. Music can be fast, slow, loud, or soft."
+          },
+          {
+            "question_id": 3,
+            "question": "People use music for...",
+            "options": [
+              "celebration and dance",
+              "washing cars only",
+              "counting rocks only"
+            ],
+            "correct_answer": "celebration and dance",
+            "fact_feedback_correct": "Right. Music is part of many celebrations and dances.",
+            "fact_feedback_incorrect": "Good try. Music is often used in celebration, dance, and stories."
+          },
+          {
+            "question_id": 4,
+            "question": "Can children enjoy music together without the same language?",
+            "options": [
+              "Yes",
+              "No",
+              "Only on rainy days"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Shared rhythm helps people connect.",
+            "fact_feedback_incorrect": "Not this one. Music can connect people across languages."
+          },
+          {
+            "question_id": 5,
+            "question": "Which is a musical instrument?",
+            "options": [
+              "violin",
+              "toothbrush",
+              "blanket"
+            ],
+            "correct_answer": "violin",
+            "fact_feedback_correct": "Exactly. A violin is an instrument used in many cultures.",
+            "fact_feedback_incorrect": "Almost. Violin is a musical instrument."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_04",
+        "title": "Clothes for Weather and Special Days",
+        "learning_objectives": [
+          "People choose clothes for weather and comfort.",
+          "Cold weather needs warm layers.",
+          "Rainy weather needs waterproof clothes.",
+          "Many cultures wear special clothes for celebrations.",
+          "We should respect cultural clothing and ask before touching."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila opens her closet and sees many choices: shirts, pants, jackets, and boots.",
+            "image_prompt": "a child looking at a wardrobe with many practical clothing choices. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "On a hot day, she chooses light cotton clothes that feel cool.",
+            "image_prompt": "a sunny day outfit with light cotton clothes and a hat. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "When it is cold, she adds layers: sweater, coat, hat, and scarf.",
+            "image_prompt": "a cold weather outfit with sweater coat hat and scarf. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "When rain comes, she wears a raincoat and boots to stay dry.",
+            "image_prompt": "a rainy street with a child wearing raincoat and boots. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "At a community festival, families wear special outfits for the celebration.",
+            "image_prompt": "a friendly cultural festival with families in special outfits. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Mila sees bright patterns, careful stitching, and fabrics from family traditions.",
+            "image_prompt": "close view of colorful fabric patterns and embroidery. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "She learns some special clothes are worn on holidays, weddings, or dances.",
+            "image_prompt": "children at holiday and wedding style celebrations wearing special clothes. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "A friend explains the story behind their outfit, and Mila listens politely.",
+            "image_prompt": "two children talking about the meaning of a traditional outfit. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Mila remembers to ask before touching anyone's clothes.",
+            "image_prompt": "a child politely asking before touching a friend's sleeve. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "At night she says: clothes can keep us safe and also share culture.",
+            "image_prompt": "a calm bedtime room with folded clothes and festival photo. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Why do people choose different clothes?",
+            "options": [
+              "for weather and comfort",
+              "to make clouds",
+              "to move mountains"
+            ],
+            "correct_answer": "for weather and comfort",
+            "fact_feedback_correct": "Correct. Clothes help us stay comfortable in different weather.",
+            "fact_feedback_incorrect": "Try again. Clothing choice often depends on weather and comfort."
+          },
+          {
+            "question_id": 2,
+            "question": "What helps in cold weather?",
+            "options": [
+              "warm layers",
+              "flip-flops only",
+              "wet socks"
+            ],
+            "correct_answer": "warm layers",
+            "fact_feedback_correct": "Yes. Layers keep body warmth in cold weather.",
+            "fact_feedback_incorrect": "Not this one. Warm layers are best for cold days."
+          },
+          {
+            "question_id": 3,
+            "question": "What is useful on rainy days?",
+            "options": [
+              "raincoat and boots",
+              "swimsuit only",
+              "paper hat"
+            ],
+            "correct_answer": "raincoat and boots",
+            "fact_feedback_correct": "Right. Raincoats and boots help keep us dry.",
+            "fact_feedback_incorrect": "Almost. Rainy weather calls for waterproof clothes like raincoats and boots."
+          },
+          {
+            "question_id": 4,
+            "question": "Some cultures wear special clothes for...",
+            "options": [
+              "celebrations",
+              "sleeping in pools",
+              "driving buses"
+            ],
+            "correct_answer": "celebrations",
+            "fact_feedback_correct": "Correct. Special outfits are often worn for celebrations.",
+            "fact_feedback_incorrect": "Good try. Many special clothes are for holidays, weddings, or dances."
+          },
+          {
+            "question_id": 5,
+            "question": "Before touching someone's special outfit, we should...",
+            "options": [
+              "ask politely",
+              "pull it quickly",
+              "ignore them"
+            ],
+            "correct_answer": "ask politely",
+            "fact_feedback_correct": "Exactly. Asking first shows respect.",
+            "fact_feedback_incorrect": "Not quite. We should ask politely before touching cultural clothing."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_05",
+        "title": "Homes Around the World",
+        "learning_objectives": [
+          "People live in many types of homes.",
+          "Homes are built to fit climate and place.",
+          "Local materials are used to build homes.",
+          "A home can be big or small.",
+          "Home is where people feel safe, cared for, and connected."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila points at pictures of homes: apartment towers, small houses, and homes by water.",
+            "image_prompt": "a classroom board showing many home types from around the world. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "In a city, families may live in tall apartment buildings close to schools and shops.",
+            "image_prompt": "a cheerful city block with tall apartment buildings and families. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "In the countryside, some families live in houses with gardens and open space.",
+            "image_prompt": "a countryside home with garden trees and open sky. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Near rivers, some homes are built on stilts to stay above high water.",
+            "image_prompt": "stilt houses near a calm river with boats. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "In windy grasslands, round homes can help block strong wind.",
+            "image_prompt": "round wind-resistant homes on open grassland. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Builders use local materials like wood, brick, stone, or packed earth.",
+            "image_prompt": "builders using wood brick stone and earth materials. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Roofs, windows, and walls are designed for sun, rain, wind, or cold.",
+            "image_prompt": "simple diagram style scene of roofs and windows for different weather. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Inside every home, people make routines for meals, sleep, play, and care.",
+            "image_prompt": "cozy home interiors showing family routines like meals and bedtime. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Mila learns that a home can look different, but love and safety matter most.",
+            "image_prompt": "children comparing different homes and smiling together. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Before sleeping, she draws many homes and writes: every family belongs somewhere.",
+            "image_prompt": "a child drawing many kinds of homes at bedtime desk. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "People around the world live in...",
+            "options": [
+              "many types of homes",
+              "one exact house",
+              "only tents"
+            ],
+            "correct_answer": "many types of homes",
+            "fact_feedback_correct": "Correct. Homes come in many forms.",
+            "fact_feedback_incorrect": "Not quite. People live in many different kinds of homes."
+          },
+          {
+            "question_id": 2,
+            "question": "Why are some homes built differently?",
+            "options": [
+              "to fit climate and place",
+              "to look like fruit",
+              "to hide from birds"
+            ],
+            "correct_answer": "to fit climate and place",
+            "fact_feedback_correct": "Yes. Home design often matches local weather and land.",
+            "fact_feedback_incorrect": "Try again. Homes are built to fit local climate and place."
+          },
+          {
+            "question_id": 3,
+            "question": "Builders often use...",
+            "options": [
+              "local materials",
+              "clouds",
+              "plastic toys"
+            ],
+            "correct_answer": "local materials",
+            "fact_feedback_correct": "Right. Wood, brick, stone, and earth are common local materials.",
+            "fact_feedback_incorrect": "Almost. Homes are often made with local materials."
+          },
+          {
+            "question_id": 4,
+            "question": "Can a home be small or big?",
+            "options": [
+              "Yes",
+              "No",
+              "Only medium"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Home size can vary.",
+            "fact_feedback_incorrect": "Not this one. Homes can be small or big."
+          },
+          {
+            "question_id": 5,
+            "question": "What makes a place feel like home?",
+            "options": [
+              "safety and care",
+              "loud alarms",
+              "empty rooms only"
+            ],
+            "correct_answer": "safety and care",
+            "fact_feedback_correct": "Exactly. Home is where people feel safe and cared for.",
+            "fact_feedback_incorrect": "Good try. Home is about safety, care, and connection."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_06",
+        "title": "Foods from Many Kitchens",
+        "learning_objectives": [
+          "Different cultures cook different meals.",
+          "Staple foods include rice, wheat, and corn.",
+          "Herbs and spices add flavor.",
+          "People may eat with chopsticks, spoons, forks, or clean hands.",
+          "Trying new foods and thanking cooks shows respect."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila visits a food fair where each table shares a family meal.",
+            "image_prompt": "a cheerful cultural food fair with many family tables. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "She learns that rice is a common food in many countries.",
+            "image_prompt": "a rice dish display from different regions. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Another table shows breads made from wheat or corn.",
+            "image_prompt": "fresh breads made from wheat and corn on a warm table. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Colorful fruits and vegetables fill bowls with bright shapes.",
+            "image_prompt": "bowls of colorful fruits and vegetables in a market style setup. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Cooks add herbs and spices to make each dish smell and taste special.",
+            "image_prompt": "cooks adding herbs and spices in a friendly kitchen scene. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "At one meal, people use chopsticks. At another, they use spoons and forks.",
+            "image_prompt": "children using chopsticks and others using spoons and forks. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Some families eat with clean hands in careful, respectful ways.",
+            "image_prompt": "a family eating respectfully with clean hands at a meal. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Mila takes one small bite of a new food and discovers she likes it.",
+            "image_prompt": "a child trying one small bite of a new dish. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "She thanks the cooks and remembers farmers help grow the ingredients.",
+            "image_prompt": "a child thanking cooks and farmers shown in simple inset. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "At home, she tells her family: food is learning, sharing, and care.",
+            "image_prompt": "a cozy home dinner recap with smiling family. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Do different cultures cook different meals?",
+            "options": [
+              "Yes",
+              "No",
+              "Only on Tuesdays"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Food traditions vary across cultures.",
+            "fact_feedback_incorrect": "Not this time. Different cultures have different meals and recipes."
+          },
+          {
+            "question_id": 2,
+            "question": "Which is a common staple food?",
+            "options": [
+              "rice",
+              "candy wrapper",
+              "soap"
+            ],
+            "correct_answer": "rice",
+            "fact_feedback_correct": "Yes. Rice is a staple in many places.",
+            "fact_feedback_incorrect": "Try again. Rice is a common staple food."
+          },
+          {
+            "question_id": 3,
+            "question": "What adds flavor to dishes?",
+            "options": [
+              "herbs and spices",
+              "sand",
+              "paper"
+            ],
+            "correct_answer": "herbs and spices",
+            "fact_feedback_correct": "Right. Herbs and spices add flavor and aroma.",
+            "fact_feedback_incorrect": "Good try. Cooks often use herbs and spices for flavor."
+          },
+          {
+            "question_id": 4,
+            "question": "People may eat with...",
+            "options": [
+              "different tools or clean hands",
+              "only one spoon",
+              "nothing at all"
+            ],
+            "correct_answer": "different tools or clean hands",
+            "fact_feedback_correct": "Correct. Eating styles can differ by family and culture.",
+            "fact_feedback_incorrect": "Not quite. People use chopsticks, spoons, forks, or clean hands."
+          },
+          {
+            "question_id": 5,
+            "question": "Trying new foods and saying thank you is...",
+            "options": [
+              "respectful",
+              "rude",
+              "impossible"
+            ],
+            "correct_answer": "respectful",
+            "fact_feedback_correct": "Exactly. Kind food habits include saying thanks and trying new tastes.",
+            "fact_feedback_incorrect": "Almost. Thanking cooks and trying new foods politely shows respect."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_07",
+        "title": "Family Traditions Big and Small",
+        "learning_objectives": [
+          "A tradition is something families repeat over time.",
+          "Traditions can happen daily, weekly, or yearly.",
+          "Traditions can include songs, meals, stories, or helping others.",
+          "Different families have different traditions.",
+          "Children can join or create kind traditions."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "On Sunday morning, Mila's family makes pancakes together. That is one family tradition.",
+            "image_prompt": "a family cooking pancakes together on a weekend morning. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "At night, Grandma sings the same gentle song before bed.",
+            "image_prompt": "grandparent singing a bedtime song to a child. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Every Friday, the family calls cousins who live far away.",
+            "image_prompt": "family video calling cousins far away on a cozy evening. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "On special holidays, they decorate the table with colors and flowers.",
+            "image_prompt": "holiday table decoration with flowers and colorful cloth. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Mila's friend has a different tradition: soup night every Wednesday.",
+            "image_prompt": "a different family enjoying weekly soup night. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Another friend plants a tree on each birthday.",
+            "image_prompt": "a birthday tradition of planting a young tree. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Mila learns traditions can be big events or tiny daily habits.",
+            "image_prompt": "small daily habits shown as simple tradition icons. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Her class starts a kindness jar and adds notes when someone helps others.",
+            "image_prompt": "classroom kindness jar with children adding helpful notes. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Soon the jar is full of little kind moments and proud smiles.",
+            "image_prompt": "children reading kind notes from a full jar. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Mila writes: traditions help families remember, connect, and care.",
+            "image_prompt": "a child journaling about family traditions before bed. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is a tradition?",
+            "options": [
+              "something repeated over time",
+              "a random noise",
+              "a broken toy"
+            ],
+            "correct_answer": "something repeated over time",
+            "fact_feedback_correct": "Correct. Traditions are repeated actions or customs.",
+            "fact_feedback_incorrect": "Try again. A tradition is something families repeat over time."
+          },
+          {
+            "question_id": 2,
+            "question": "How often can traditions happen?",
+            "options": [
+              "daily, weekly, or yearly",
+              "only once",
+              "never"
+            ],
+            "correct_answer": "daily, weekly, or yearly",
+            "fact_feedback_correct": "Yes. Traditions can happen on many schedules.",
+            "fact_feedback_incorrect": "Not quite. Traditions can be daily, weekly, or yearly."
+          },
+          {
+            "question_id": 3,
+            "question": "Which can be a family tradition?",
+            "options": [
+              "songs or meals",
+              "ignoring everyone",
+              "throwing books"
+            ],
+            "correct_answer": "songs or meals",
+            "fact_feedback_correct": "Right. Songs, meals, stories, and helping can be traditions.",
+            "fact_feedback_incorrect": "Good try. Traditions can include songs, meals, stories, or helping others."
+          },
+          {
+            "question_id": 4,
+            "question": "Do all families have the same traditions?",
+            "options": [
+              "No",
+              "Yes",
+              "Only in summer"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Correct. Families can have very different traditions.",
+            "fact_feedback_incorrect": "Not this one. Different families have different traditions."
+          },
+          {
+            "question_id": 5,
+            "question": "Can children help create kind traditions?",
+            "options": [
+              "Yes",
+              "No",
+              "Only adults can"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Exactly. Children can join or start kind family and class traditions.",
+            "fact_feedback_incorrect": "Almost. Children can help create positive traditions too."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_08",
+        "title": "Market Day Around the World",
+        "learning_objectives": [
+          "Markets are places where people buy and sell goods.",
+          "Many markets offer local foods and handmade items.",
+          "Shoppers use money to pay for goods.",
+          "Scales can be used to weigh fruits and vegetables.",
+          "Polite words make market visits friendly and respectful."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila enters a busy open market with colorful stands and cheerful voices.",
+            "image_prompt": "a lively outdoor market with colorful stalls and families. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "Farmers display tomatoes, bananas, greens, and beans from nearby fields.",
+            "image_prompt": "farmers displaying fresh local vegetables and fruits. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "At another stand, crafters sell baskets, cloth, and painted toys.",
+            "image_prompt": "craft stall with handmade baskets cloth and toys. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "Mila watches a shopper compare prices before choosing apples.",
+            "image_prompt": "a shopper comparing prices at a fruit stand. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "A seller places fruit on a scale to measure the weight.",
+            "image_prompt": "a market seller using a simple scale to weigh produce. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Bakers offer warm bread while fishers bring the morning catch.",
+            "image_prompt": "baker stand and fisher stand side by side in morning market. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "People carry reusable bags and plan what they need.",
+            "image_prompt": "families carrying reusable bags through market aisles. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Mila says Please and Thank you at each stop.",
+            "image_prompt": "a child politely saying please and thank you to sellers. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "She learns markets are not only for shopping but also for meeting neighbors.",
+            "image_prompt": "neighbors chatting warmly at the market. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Back home she says: markets show teamwork between growers, makers, and families.",
+            "image_prompt": "home kitchen scene with market food and family discussion. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is a market?",
+            "options": [
+              "a place to buy and sell goods",
+              "a playground slide",
+              "a weather cloud"
+            ],
+            "correct_answer": "a place to buy and sell goods",
+            "fact_feedback_correct": "Correct. Markets are for buying and selling.",
+            "fact_feedback_incorrect": "Try again. A market is a place where goods are bought and sold."
+          },
+          {
+            "question_id": 2,
+            "question": "What can people find at many markets?",
+            "options": [
+              "local foods and handmade items",
+              "only empty boxes",
+              "only books"
+            ],
+            "correct_answer": "local foods and handmade items",
+            "fact_feedback_correct": "Yes. Many markets have local foods and crafts.",
+            "fact_feedback_incorrect": "Not quite. Markets often sell local food and handmade goods."
+          },
+          {
+            "question_id": 3,
+            "question": "How do shoppers usually pay?",
+            "options": [
+              "with money",
+              "with pebbles",
+              "with shadows"
+            ],
+            "correct_answer": "with money",
+            "fact_feedback_correct": "Right. Money is used to pay for goods.",
+            "fact_feedback_incorrect": "Good try. Shoppers usually pay with money."
+          },
+          {
+            "question_id": 4,
+            "question": "What can a scale do in a market?",
+            "options": [
+              "weigh fruits and vegetables",
+              "play music",
+              "paint walls"
+            ],
+            "correct_answer": "weigh fruits and vegetables",
+            "fact_feedback_correct": "Correct. Scales measure weight.",
+            "fact_feedback_incorrect": "Not this one. Scales are used to weigh produce."
+          },
+          {
+            "question_id": 5,
+            "question": "Which words make market visits polite?",
+            "options": [
+              "Please and Thank you",
+              "Move away",
+              "No talking"
+            ],
+            "correct_answer": "Please and Thank you",
+            "fact_feedback_correct": "Exactly. Polite words help everyone feel respected.",
+            "fact_feedback_incorrect": "Almost. Please and Thank you are important polite words."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_09",
+        "title": "Stories That Travel",
+        "learning_objectives": [
+          "Folktales are stories shared across generations.",
+          "Folktales often teach values like kindness and courage.",
+          "Before books, many stories were told aloud.",
+          "The same story can have different details in different places.",
+          "Listening and retelling stories helps language and memory."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "At sunset, Mila sits with Grandpa to hear a folktale from his childhood.",
+            "image_prompt": "grandparent telling a folktale to a child at sunset porch. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "The story has a clever rabbit and a patient turtle on a long journey.",
+            "image_prompt": "storybook style rabbit and turtle characters on a journey path. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "Grandpa explains that folktales often teach lessons about choices.",
+            "image_prompt": "family storytelling circle with gentle teaching moment. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "In one version, the rabbit shares food. In another place, he shares water.",
+            "image_prompt": "split scene showing two versions of a folktale in different places. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "Mila learns stories can travel and change small details over time.",
+            "image_prompt": "a map with story paths showing tales traveling across regions. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Long ago, many families told stories aloud before books were common.",
+            "image_prompt": "historical oral storytelling around a warm home setting. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "Now stories can live in books, audio, theater, and cartoons too.",
+            "image_prompt": "modern storytelling formats books audio theater and cartoons. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "Mila retells the tale in her own words to her little brother.",
+            "image_prompt": "a child retelling a story to a younger sibling. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Her teacher says listening closely helps memory and language grow.",
+            "image_prompt": "teacher and students practicing listening during story time. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Mila smiles: every family story is a bridge from past to present.",
+            "image_prompt": "cozy evening reflection with family storybook. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is a folktale?",
+            "options": [
+              "a story shared across generations",
+              "a math tool",
+              "a type of shoe"
+            ],
+            "correct_answer": "a story shared across generations",
+            "fact_feedback_correct": "Correct. Folktales are passed from older generations to younger ones.",
+            "fact_feedback_incorrect": "Try again. Folktales are stories shared across generations."
+          },
+          {
+            "question_id": 2,
+            "question": "Folktales often teach...",
+            "options": [
+              "kindness and courage",
+              "how to fly",
+              "how to stay awake forever"
+            ],
+            "correct_answer": "kindness and courage",
+            "fact_feedback_correct": "Yes. Folktales often teach values and life lessons.",
+            "fact_feedback_incorrect": "Not this one. Many folktales teach values like kindness and courage."
+          },
+          {
+            "question_id": 3,
+            "question": "Before books were common, many stories were...",
+            "options": [
+              "told aloud",
+              "only on phones",
+              "hidden underground"
+            ],
+            "correct_answer": "told aloud",
+            "fact_feedback_correct": "Right. Oral storytelling came before most books.",
+            "fact_feedback_incorrect": "Good try. Many stories were told aloud before books became common."
+          },
+          {
+            "question_id": 4,
+            "question": "Can one story have different details in different places?",
+            "options": [
+              "Yes",
+              "No",
+              "Only in winter"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct. Stories can change small details as they travel.",
+            "fact_feedback_incorrect": "Not quite. The same folktale can have different versions."
+          },
+          {
+            "question_id": 5,
+            "question": "Listening and retelling stories helps...",
+            "options": [
+              "memory and language",
+              "plants grow faster",
+              "cars float"
+            ],
+            "correct_answer": "memory and language",
+            "fact_feedback_correct": "Exactly. Story listening and retelling support language and memory.",
+            "fact_feedback_incorrect": "Almost. Retelling stories helps memory and language skills."
+          }
+        ]
+      },
+      {
+        "story_id": "culture_10",
+        "title": "Manners That Show Respect",
+        "learning_objectives": [
+          "Manners are actions that show care and respect.",
+          "Please and Thank you are important polite words.",
+          "Some manners are different across homes and cultures.",
+          "Asking before touching or hugging respects personal space.",
+          "Good manners help people feel safe and included."
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Mila stands in line at school and waits her turn for the slide.",
+            "image_prompt": "school playground line where children patiently wait turns. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 2,
+            "text": "She says Please when asking to borrow crayons.",
+            "image_prompt": "a child politely asking to borrow crayons in classroom. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 3,
+            "text": "After snack time, she says Thank you to the helper.",
+            "image_prompt": "snack table with child saying thank you to helper. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 4,
+            "text": "In the library, she uses a soft voice because it is a quiet place.",
+            "image_prompt": "quiet library with children reading and using soft voices. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 5,
+            "text": "At a friend's home, shoes are left by the door. Mila follows the house rule.",
+            "image_prompt": "home entryway with shoes by the door and respectful guest child. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 6,
+            "text": "Before hugging a classmate, Mila asks, May I give you a hug?",
+            "image_prompt": "a child asking consent before giving a hug to a friend. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 7,
+            "text": "When she coughs, she covers her mouth and washes her hands.",
+            "image_prompt": "healthy manners scene covering cough and handwashing. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 8,
+            "text": "After art class, she helps clean brushes and put papers away.",
+            "image_prompt": "children cleaning up art supplies together after class. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 9,
+            "text": "Her teacher explains that manners can look different, but kindness is the goal.",
+            "image_prompt": "teacher explaining kindness-focused manners to class. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          },
+          {
+            "page_number": 10,
+            "text": "Mila ends the day proud: small respectful actions make a big difference.",
+            "image_prompt": "end-of-day school scene with a proud child reflecting on respectful actions. Flat vector kids illustration, modern 2D educational style, rounded clean shapes, bright playful colors, full-bleed background filling the entire 1080x720 canvas, horizontal 3:2 composition, single clear focal point, no empty white or solid-color margins, no text, no watermark."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What are manners?",
+            "options": [
+              "actions that show care and respect",
+              "types of weather",
+              "kinds of rocks"
+            ],
+            "correct_answer": "actions that show care and respect",
+            "fact_feedback_correct": "Correct. Manners are respectful actions.",
+            "fact_feedback_incorrect": "Try again. Manners are actions that show care and respect."
+          },
+          {
+            "question_id": 2,
+            "question": "Which are polite words?",
+            "options": [
+              "Please and Thank you",
+              "Go away and hush",
+              "Mine and now"
+            ],
+            "correct_answer": "Please and Thank you",
+            "fact_feedback_correct": "Yes. Please and Thank you are key polite words.",
+            "fact_feedback_incorrect": "Not this one. Please and Thank you are polite and respectful."
+          },
+          {
+            "question_id": 3,
+            "question": "Are manners exactly the same in every home?",
+            "options": [
+              "No",
+              "Yes",
+              "Only on weekends"
+            ],
+            "correct_answer": "No",
+            "fact_feedback_correct": "Right. Some manners vary by family and culture.",
+            "fact_feedback_incorrect": "Good try. Manners can differ across homes and cultures."
+          },
+          {
+            "question_id": 4,
+            "question": "Before touching or hugging someone, we should...",
+            "options": [
+              "ask first",
+              "run fast",
+              "shout loudly"
+            ],
+            "correct_answer": "ask first",
+            "fact_feedback_correct": "Correct. Asking first respects personal space.",
+            "fact_feedback_incorrect": "Almost. We should ask first before touching or hugging."
+          },
+          {
+            "question_id": 5,
+            "question": "Good manners help people feel...",
+            "options": [
+              "safe and included",
+              "confused and scared",
+              "cold and sleepy"
+            ],
+            "correct_answer": "safe and included",
+            "fact_feedback_correct": "Exactly. Respectful behavior helps everyone feel included.",
+            "fact_feedback_incorrect": "Not quite. Good manners help people feel safe and included."
+          }
+        ]
+      }
+    ]
+  }
+}

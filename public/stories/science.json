@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "Science",
+    "category_id": "science",
+    "stories": [
+      {
+        "story_id": "science_01",
+        "title": "What Is Gravity?",
+        "learning_objectives": [
+          "Gravity is a force that pulls things down",
+          "Gravity keeps us on the ground",
+          "Gravity makes objects fall",
+          "Earth’s gravity pulls everything toward its center",
+          "The Moon also has gravity"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Have you ever dropped a ball and watched it fall to the ground?",
+            "image_prompt": "Flat pastel illustration of child dropping a ball and watching it fall, soft outdoor setting, simple shapes, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The reason the ball falls down is because of a force called gravity.",
+            "image_prompt": "Flat pastel illustration of ball falling with gentle downward arrow labeled 'gravity', simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Gravity is an invisible pull that brings things toward the Earth.",
+            "image_prompt": "Flat pastel illustration of Earth with soft arrows pointing inward, friendly and non-scary design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Gravity keeps your feet on the ground so you don’t float away.",
+            "image_prompt": "Flat pastel illustration of smiling child standing firmly on grass, soft downward arrows showing gravity, gentle style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When you jump up high, gravity pulls you back down.",
+            "image_prompt": "Flat pastel illustration of child jumping with curved path showing up and down motion, simple arrows, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Gravity pulls rain from the clouds down to the ground.",
+            "image_prompt": "Flat pastel illustration of raindrops falling from cloud to ground, soft blue tones, educational and calm, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "It even keeps the oceans and air around the Earth.",
+            "image_prompt": "Flat pastel Earth with ocean and air gently held close by soft inward arrows, friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "The Moon has gravity too, but it is weaker than Earth’s gravity.",
+            "image_prompt": "Flat pastel Earth and Moon side by side with simple arrows showing gravity strength difference, clear and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Without gravity, everything would float around!",
+            "image_prompt": "Flat pastel playful scene of toys floating gently in air, non-scary, fun imagination style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Gravity is the invisible force that keeps our world together.",
+            "image_prompt": "Flat pastel Earth glowing softly with gentle inward arrows, warm hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Gravity makes things…",
+            "options": [
+              "Fall down",
+              "Fly like birds",
+              "Disappear"
+            ],
+            "correct_answer": "Fall down",
+            "fact_feedback_correct": "Correct! Gravity pulls objects down.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity makes objects fall down."
+          },
+          {
+            "question_id": 2,
+            "question": "Gravity is a…",
+            "options": [
+              "Force",
+              "Color",
+              "Sound"
+            ],
+            "correct_answer": "Force",
+            "fact_feedback_correct": "Right! Gravity is a force.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity is a force."
+          },
+          {
+            "question_id": 3,
+            "question": "Gravity pulls things toward the…",
+            "options": [
+              "Earth",
+              "Sky",
+              "Clouds only"
+            ],
+            "correct_answer": "Earth",
+            "fact_feedback_correct": "Correct! Gravity pulls things toward Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity pulls toward Earth."
+          },
+          {
+            "question_id": 4,
+            "question": "When you jump, gravity pulls you…",
+            "options": [
+              "Back down",
+              "Into space",
+              "Sideways"
+            ],
+            "correct_answer": "Back down",
+            "fact_feedback_correct": "Yes! Gravity pulls you back down.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity brings you back down."
+          },
+          {
+            "question_id": 5,
+            "question": "Rain falls because of…",
+            "options": [
+              "Gravity",
+              "Magic",
+              "Wind only"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Correct! Gravity pulls rain down.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity pulls rain downward."
+          },
+          {
+            "question_id": 6,
+            "question": "Gravity keeps us from…",
+            "options": [
+              "Floating away",
+              "Sleeping",
+              "Eating"
+            ],
+            "correct_answer": "Floating away",
+            "fact_feedback_correct": "Right! Gravity keeps us on the ground.",
+            "fact_feedback_incorrect": "You missed the fact: Without gravity, we would float."
+          },
+          {
+            "question_id": 7,
+            "question": "The Moon has gravity that is…",
+            "options": [
+              "Weaker than Earth’s",
+              "Stronger than Earth’s",
+              "Not real"
+            ],
+            "correct_answer": "Weaker than Earth’s",
+            "fact_feedback_correct": "Correct! The Moon’s gravity is weaker.",
+            "fact_feedback_incorrect": "You missed the fact: The Moon’s gravity is weaker than Earth’s."
+          },
+          {
+            "question_id": 8,
+            "question": "Gravity is something we can…",
+            "options": [
+              "Feel but not see",
+              "See clearly",
+              "Taste"
+            ],
+            "correct_answer": "Feel but not see",
+            "fact_feedback_correct": "Yes! Gravity is invisible but real.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity cannot be seen."
+          },
+          {
+            "question_id": 9,
+            "question": "A ball falls when dropped because of…",
+            "options": [
+              "Gravity",
+              "Music",
+              "Heat"
+            ],
+            "correct_answer": "Gravity",
+            "fact_feedback_correct": "Correct! Gravity makes the ball fall.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity causes falling."
+          },
+          {
+            "question_id": 10,
+            "question": "Gravity helps keep the world…",
+            "options": [
+              "Together",
+              "Upside down",
+              "Broken"
+            ],
+            "correct_answer": "Together",
+            "fact_feedback_correct": "Right! Gravity keeps everything together.",
+            "fact_feedback_incorrect": "You missed the fact: Gravity holds our world together."
+          }
+        ]
+      },
+      {
+        "story_id": "science_02",
+        "title": "How Plants Grow",
+        "learning_objectives": [
+          "Plants begin as seeds",
+          "Seeds need water and warmth to start growing",
+          "Roots grow downward into the soil",
+          "Plants need sunlight to make food",
+          "Plants grow stems, leaves, and sometimes flowers"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Every big plant begins as something very small — a tiny seed.",
+            "image_prompt": "Flat pastel illustration of small seed in child's hand, soft natural background, gentle educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Seeds wait quietly in the soil until they get water and warmth.",
+            "image_prompt": "Flat pastel cross-section of soil showing seed underground with water droplets and sunshine above, simple arrows, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "When a seed gets water, it begins to open and wake up.",
+            "image_prompt": "Flat pastel illustration of seed cracking open underground with small sprout beginning, soft earthy tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The first part to grow is a tiny root that pushes down into the soil.",
+            "image_prompt": "Flat pastel cross-section showing root growing downward into soil, labeled gently, educational toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Roots help the plant drink water and stay steady in the ground.",
+            "image_prompt": "Flat pastel illustration of plant roots spreading in soil with water droplets, simple infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Next, a small green sprout pushes up toward the sunlight.",
+            "image_prompt": "Flat pastel illustration of green sprout emerging from soil toward sun, bright cheerful colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Plants use sunlight to make their own food. This helps them grow bigger.",
+            "image_prompt": "Flat pastel illustration of sun shining on small plant with simple arrows showing energy, friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "As the plant grows, it makes stems and leaves.",
+            "image_prompt": "Flat pastel illustration of growing plant with labeled stem and leaves, clean simple design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Some plants grow flowers, fruits, or vegetables.",
+            "image_prompt": "Flat pastel illustration of plant with flower and simple fruits like tomato or apple, bright gentle tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From a tiny seed to a tall plant, growing takes time, water, and sunshine.",
+            "image_prompt": "Flat pastel timeline collage: seed, sprout, small plant, full plant under sun, warm hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Plants begin as…",
+            "options": [
+              "Seeds",
+              "Rocks",
+              "Clouds"
+            ],
+            "correct_answer": "Seeds",
+            "fact_feedback_correct": "Correct! Plants begin as seeds.",
+            "fact_feedback_incorrect": "You missed the fact: Plants start as seeds."
+          },
+          {
+            "question_id": 2,
+            "question": "Seeds need water and…",
+            "options": [
+              "Warmth",
+              "Snow",
+              "Wind only"
+            ],
+            "correct_answer": "Warmth",
+            "fact_feedback_correct": "Right! Seeds need water and warmth.",
+            "fact_feedback_incorrect": "You missed the fact: Seeds need warmth and water."
+          },
+          {
+            "question_id": 3,
+            "question": "Roots grow…",
+            "options": [
+              "Down into soil",
+              "Up into sky",
+              "Sideways only"
+            ],
+            "correct_answer": "Down into soil",
+            "fact_feedback_correct": "Correct! Roots grow downward.",
+            "fact_feedback_incorrect": "You missed the fact: Roots grow down into soil."
+          },
+          {
+            "question_id": 4,
+            "question": "Roots help plants…",
+            "options": [
+              "Drink water",
+              "Fly",
+              "Glow in the dark"
+            ],
+            "correct_answer": "Drink water",
+            "fact_feedback_correct": "Yes! Roots help plants drink water.",
+            "fact_feedback_incorrect": "You missed the fact: Roots absorb water."
+          },
+          {
+            "question_id": 5,
+            "question": "Plants use sunlight to make…",
+            "options": [
+              "Food",
+              "Noise",
+              "Rain"
+            ],
+            "correct_answer": "Food",
+            "fact_feedback_correct": "Correct! Plants use sunlight to make food.",
+            "fact_feedback_incorrect": "You missed the fact: Sunlight helps plants make food."
+          },
+          {
+            "question_id": 6,
+            "question": "The green part that grows upward is called a…",
+            "options": [
+              "Sprout",
+              "Rock",
+              "Shadow"
+            ],
+            "correct_answer": "Sprout",
+            "fact_feedback_correct": "Right! A sprout grows upward.",
+            "fact_feedback_incorrect": "You missed the fact: The sprout grows upward."
+          },
+          {
+            "question_id": 7,
+            "question": "Leaves grow on the…",
+            "options": [
+              "Stem",
+              "Root tip only",
+              "Cloud"
+            ],
+            "correct_answer": "Stem",
+            "fact_feedback_correct": "Correct! Leaves grow on the stem.",
+            "fact_feedback_incorrect": "You missed the fact: Leaves grow on stems."
+          },
+          {
+            "question_id": 8,
+            "question": "Plants need…",
+            "options": [
+              "Water and sunlight",
+              "Only darkness",
+              "Only wind"
+            ],
+            "correct_answer": "Water and sunlight",
+            "fact_feedback_correct": "Yes! Plants need water and sunlight.",
+            "fact_feedback_incorrect": "You missed the fact: Plants need water and sun."
+          },
+          {
+            "question_id": 9,
+            "question": "Some plants grow…",
+            "options": [
+              "Fruits and flowers",
+              "Metal",
+              "Glass"
+            ],
+            "correct_answer": "Fruits and flowers",
+            "fact_feedback_correct": "Correct! Some plants grow fruits and flowers.",
+            "fact_feedback_incorrect": "You missed the fact: Plants can grow flowers and fruits."
+          },
+          {
+            "question_id": 10,
+            "question": "Growing from seed to plant takes…",
+            "options": [
+              "Time",
+              "One second",
+              "Magic only"
+            ],
+            "correct_answer": "Time",
+            "fact_feedback_correct": "Right! Plants grow over time.",
+            "fact_feedback_incorrect": "You missed the fact: Growing takes time."
+          }
+        ]
+      },
+      {
+        "story_id": "science_03",
+        "title": "Human Body Basics",
+        "learning_objectives": [
+          "The brain helps us think and learn",
+          "The heart pumps blood through the body",
+          "Lungs help us breathe air",
+          "Muscles help us move",
+          "The body works together like a team"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Your body is made of many amazing parts that work together every day.",
+            "image_prompt": "Flat pastel illustration of smiling child with simple labeled body outline, friendly and educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Inside your head is your brain. The brain helps you think, learn, and remember.",
+            "image_prompt": "Flat pastel illustration of simple brain inside head outline with soft glow, toddler-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Your heart is always working. It pumps blood all around your body.",
+            "image_prompt": "Flat pastel illustration of heart with gentle arrows showing blood moving through body, simple and calm design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "You can feel your heart beating when you run or jump.",
+            "image_prompt": "Flat pastel illustration of child running with small heart icon showing faster beat, bright and friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Your lungs help you breathe in air and breathe out air.",
+            "image_prompt": "Flat pastel illustration of lungs with arrows showing breathing in and out, soft pastel colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "When you breathe in, your body gets oxygen to help you stay strong.",
+            "image_prompt": "Flat pastel illustration of child breathing in fresh air outdoors with gentle oxygen bubbles, calm and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Your muscles help you move your arms, legs, and even your smile.",
+            "image_prompt": "Flat pastel illustration of child flexing arm gently with simple muscle highlight, toddler-safe infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Bones inside your body help hold you up and protect important organs.",
+            "image_prompt": "Flat pastel simple skeleton outline inside child silhouette, non-scary and soft educational design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "All your body parts work together like a team to keep you healthy.",
+            "image_prompt": "Flat pastel illustration of brain, heart, lungs, muscles as smiling icons working together, friendly teamwork theme, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Your body is strong and amazing — and it works all day and night!",
+            "image_prompt": "Flat pastel illustration of child sleeping peacefully with small heart and lung icons gently glowing, calm nighttime tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The brain helps you…",
+            "options": [
+              "Think",
+              "Jump higher only",
+              "Glow in the dark"
+            ],
+            "correct_answer": "Think",
+            "fact_feedback_correct": "Correct! The brain helps you think.",
+            "fact_feedback_incorrect": "You missed the fact: The brain helps you think and learn."
+          },
+          {
+            "question_id": 2,
+            "question": "The heart pumps…",
+            "options": [
+              "Blood",
+              "Water",
+              "Air only"
+            ],
+            "correct_answer": "Blood",
+            "fact_feedback_correct": "Right! The heart pumps blood.",
+            "fact_feedback_incorrect": "You missed the fact: The heart pumps blood."
+          },
+          {
+            "question_id": 3,
+            "question": "Lungs help you…",
+            "options": [
+              "Breathe",
+              "Sleep only",
+              "See"
+            ],
+            "correct_answer": "Breathe",
+            "fact_feedback_correct": "Correct! Lungs help you breathe.",
+            "fact_feedback_incorrect": "You missed the fact: Lungs help with breathing."
+          },
+          {
+            "question_id": 4,
+            "question": "When you run, your heart beats…",
+            "options": [
+              "Faster",
+              "Slower",
+              "Stops"
+            ],
+            "correct_answer": "Faster",
+            "fact_feedback_correct": "Yes! Your heart beats faster when you run.",
+            "fact_feedback_incorrect": "You missed the fact: The heart beats faster during activity."
+          },
+          {
+            "question_id": 5,
+            "question": "Muscles help you…",
+            "options": [
+              "Move",
+              "Float",
+              "Disappear"
+            ],
+            "correct_answer": "Move",
+            "fact_feedback_correct": "Correct! Muscles help you move.",
+            "fact_feedback_incorrect": "You missed the fact: Muscles allow movement."
+          },
+          {
+            "question_id": 6,
+            "question": "Bones help your body…",
+            "options": [
+              "Stay upright",
+              "Melt",
+              "Glow"
+            ],
+            "correct_answer": "Stay upright",
+            "fact_feedback_correct": "Right! Bones help hold you up.",
+            "fact_feedback_incorrect": "You missed the fact: Bones support the body."
+          },
+          {
+            "question_id": 7,
+            "question": "Breathing in gives your body…",
+            "options": [
+              "Oxygen",
+              "Sand",
+              "Juice"
+            ],
+            "correct_answer": "Oxygen",
+            "fact_feedback_correct": "Correct! Oxygen helps your body work.",
+            "fact_feedback_incorrect": "You missed the fact: Oxygen comes from breathing in."
+          },
+          {
+            "question_id": 8,
+            "question": "The body parts work like a…",
+            "options": [
+              "Team",
+              "Rock",
+              "Cloud"
+            ],
+            "correct_answer": "Team",
+            "fact_feedback_correct": "Yes! Body parts work together like a team.",
+            "fact_feedback_incorrect": "You missed the fact: The body works together."
+          },
+          {
+            "question_id": 9,
+            "question": "The heart works…",
+            "options": [
+              "All the time",
+              "Only at night",
+              "Only on weekends"
+            ],
+            "correct_answer": "All the time",
+            "fact_feedback_correct": "Correct! Your heart works all the time.",
+            "fact_feedback_incorrect": "You missed the fact: The heart works day and night."
+          },
+          {
+            "question_id": 10,
+            "question": "Your body is…",
+            "options": [
+              "Amazing",
+              "Broken",
+              "Empty"
+            ],
+            "correct_answer": "Amazing",
+            "fact_feedback_correct": "Right! Your body is amazing.",
+            "fact_feedback_incorrect": "You missed the fact: The body is amazing and strong."
+          }
+        ]
+      },
+      {
+        "story_id": "science_04",
+        "title": "What Are Magnets?",
+        "learning_objectives": [
+          "Magnets can pull certain metals",
+          "Magnets have two ends called poles",
+          "Opposite poles attract each other",
+          "Same poles push away from each other",
+          "Magnetic force is invisible"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Have you ever seen a magnet stick to a refrigerator?",
+            "image_prompt": "Flat pastel illustration of child placing colorful magnet on refrigerator, soft kitchen setting, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Magnets can pull certain metals like iron and steel.",
+            "image_prompt": "Flat pastel illustration of magnet pulling small metal paper clips with simple arrows, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The pulling power of a magnet is called magnetic force.",
+            "image_prompt": "Flat pastel illustration of magnet with glowing invisible field lines, friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Magnetic force is invisible, but we can see what it does.",
+            "image_prompt": "Flat pastel illustration showing magnet attracting paper clips while force lines are gently drawn, simple and clear, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Every magnet has two ends called poles.",
+            "image_prompt": "Flat pastel illustration of bar magnet labeled 'North' and 'South', toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "The two poles are called the North pole and the South pole.",
+            "image_prompt": "Flat pastel close-up of bar magnet with soft red and blue ends labeled North and South, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "When the North pole meets the South pole, they pull toward each other.",
+            "image_prompt": "Flat pastel illustration of two magnets snapping together with arrows pointing inward, friendly and simple, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "But when two North poles meet, they push away from each other.",
+            "image_prompt": "Flat pastel illustration of two magnets repelling with arrows pointing outward, clear infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Magnets are used in many things like speakers, doors, and toys.",
+            "image_prompt": "Flat pastel collage of speaker, cabinet door magnet, and toy blocks with magnets, bright cheerful style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Magnets may be small, but their invisible force is very powerful.",
+            "image_prompt": "Flat pastel illustration of glowing magnet with gentle field lines around it, hopeful and educational tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Magnets can pull certain…",
+            "options": [
+              "Metals",
+              "Water",
+              "Wood"
+            ],
+            "correct_answer": "Metals",
+            "fact_feedback_correct": "Correct! Magnets pull certain metals.",
+            "fact_feedback_incorrect": "You missed the fact: Magnets attract certain metals."
+          },
+          {
+            "question_id": 2,
+            "question": "The pulling power of a magnet is called…",
+            "options": [
+              "Magnetic force",
+              "Wind power",
+              "Gravity only"
+            ],
+            "correct_answer": "Magnetic force",
+            "fact_feedback_correct": "Right! It is called magnetic force.",
+            "fact_feedback_incorrect": "You missed the fact: Magnetic force is the pulling power."
+          },
+          {
+            "question_id": 3,
+            "question": "Magnetic force is…",
+            "options": [
+              "Invisible",
+              "Bright pink",
+              "Loud"
+            ],
+            "correct_answer": "Invisible",
+            "fact_feedback_correct": "Correct! Magnetic force cannot be seen.",
+            "fact_feedback_incorrect": "You missed the fact: Magnetic force is invisible."
+          },
+          {
+            "question_id": 4,
+            "question": "Magnets have two ends called…",
+            "options": [
+              "Poles",
+              "Wings",
+              "Roots"
+            ],
+            "correct_answer": "Poles",
+            "fact_feedback_correct": "Yes! Magnets have two poles.",
+            "fact_feedback_incorrect": "You missed the fact: Magnets have poles."
+          },
+          {
+            "question_id": 5,
+            "question": "The two poles are called…",
+            "options": [
+              "North and South",
+              "Up and Down",
+              "Hot and Cold"
+            ],
+            "correct_answer": "North and South",
+            "fact_feedback_correct": "Correct! They are North and South.",
+            "fact_feedback_incorrect": "You missed the fact: The poles are North and South."
+          },
+          {
+            "question_id": 6,
+            "question": "Opposite poles…",
+            "options": [
+              "Pull together",
+              "Push away",
+              "Disappear"
+            ],
+            "correct_answer": "Pull together",
+            "fact_feedback_correct": "Right! Opposite poles attract.",
+            "fact_feedback_incorrect": "You missed the fact: Opposite poles attract."
+          },
+          {
+            "question_id": 7,
+            "question": "Same poles…",
+            "options": [
+              "Push away",
+              "Stick together",
+              "Glow"
+            ],
+            "correct_answer": "Push away",
+            "fact_feedback_correct": "Correct! Same poles repel.",
+            "fact_feedback_incorrect": "You missed the fact: Same poles push away."
+          },
+          {
+            "question_id": 8,
+            "question": "Magnets can stick to a…",
+            "options": [
+              "Refrigerator",
+              "Cloud",
+              "Tree leaf"
+            ],
+            "correct_answer": "Refrigerator",
+            "fact_feedback_correct": "Yes! Magnets stick to metal surfaces.",
+            "fact_feedback_incorrect": "You missed the fact: Magnets stick to metal like refrigerators."
+          },
+          {
+            "question_id": 9,
+            "question": "Magnets are used in…",
+            "options": [
+              "Speakers and toys",
+              "Mountains",
+              "Rainbows"
+            ],
+            "correct_answer": "Speakers and toys",
+            "fact_feedback_correct": "Correct! Magnets are used in many devices.",
+            "fact_feedback_incorrect": "You missed the fact: Magnets are used in speakers and toys."
+          },
+          {
+            "question_id": 10,
+            "question": "Magnetic force can be…",
+            "options": [
+              "Strong",
+              "Tasty",
+              "Wet"
+            ],
+            "correct_answer": "Strong",
+            "fact_feedback_correct": "Right! Magnetic force can be strong.",
+            "fact_feedback_incorrect": "You missed the fact: Magnets can have strong force."
+          }
+        ]
+      },
+      {
+        "story_id": "science_05",
+        "title": "States of Matter",
+        "learning_objectives": [
+          "Everything around us is made of matter",
+          "Matter can be solid, liquid, or gas",
+          "Solids keep their shape",
+          "Liquids can flow and change shape",
+          "Gases spread out and fill space"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Everything around you is made of something called matter.",
+            "image_prompt": "Flat pastel illustration of everyday objects like chair, water glass, balloon, and toy blocks, clean simple toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Matter can be solid, liquid, or gas.",
+            "image_prompt": "Flat pastel infographic showing ice cube, water glass, and steam cloud labeled solid, liquid, gas, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "A solid keeps its shape. A block or a rock is a solid.",
+            "image_prompt": "Flat pastel illustration of toy block and rock with firm outline, simple and clear design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "You cannot easily change the shape of a solid.",
+            "image_prompt": "Flat pastel child holding wooden block showing it keeps same shape, educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "A liquid can flow and change shape.",
+            "image_prompt": "Flat pastel illustration of water being poured into different shaped cups, simple arrows showing flow, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Water is a liquid because it takes the shape of its container.",
+            "image_prompt": "Flat pastel illustration of water in round glass and square container, friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "A gas spreads out and fills the space around it.",
+            "image_prompt": "Flat pastel illustration of balloon filled with air expanding gently, simple toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Air is a gas. We cannot see it, but it is all around us.",
+            "image_prompt": "Flat pastel illustration of child blowing air and leaves moving gently, soft educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Sometimes matter can change from one state to another.",
+            "image_prompt": "Flat pastel illustration of ice melting into water and water turning into steam, clear step-by-step infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Solids, liquids, and gases are the three main states of matter.",
+            "image_prompt": "Flat pastel collage of solid block, water glass, and balloon labeled clearly, bright cheerful colors, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Everything around us is made of…",
+            "options": [
+              "Matter",
+              "Magic",
+              "Clouds only"
+            ],
+            "correct_answer": "Matter",
+            "fact_feedback_correct": "Correct! Everything is made of matter.",
+            "fact_feedback_incorrect": "You missed the fact: Everything is made of matter."
+          },
+          {
+            "question_id": 2,
+            "question": "The three states of matter are…",
+            "options": [
+              "Solid, liquid, gas",
+              "Hot, cold, warm",
+              "Big, small, tiny"
+            ],
+            "correct_answer": "Solid, liquid, gas",
+            "fact_feedback_correct": "Right! Matter can be solid, liquid, or gas.",
+            "fact_feedback_incorrect": "You missed the fact: The three states are solid, liquid, and gas."
+          },
+          {
+            "question_id": 3,
+            "question": "A solid keeps its…",
+            "options": [
+              "Shape",
+              "Color only",
+              "Sound"
+            ],
+            "correct_answer": "Shape",
+            "fact_feedback_correct": "Correct! Solids keep their shape.",
+            "fact_feedback_incorrect": "You missed the fact: Solids keep their shape."
+          },
+          {
+            "question_id": 4,
+            "question": "Water is a…",
+            "options": [
+              "Liquid",
+              "Solid rock",
+              "Gas cloud"
+            ],
+            "correct_answer": "Liquid",
+            "fact_feedback_correct": "Yes! Water is a liquid.",
+            "fact_feedback_incorrect": "You missed the fact: Water is a liquid."
+          },
+          {
+            "question_id": 5,
+            "question": "Liquids can…",
+            "options": [
+              "Flow",
+              "Stay stiff",
+              "Fly"
+            ],
+            "correct_answer": "Flow",
+            "fact_feedback_correct": "Correct! Liquids can flow.",
+            "fact_feedback_incorrect": "You missed the fact: Liquids can flow."
+          },
+          {
+            "question_id": 6,
+            "question": "Air is a…",
+            "options": [
+              "Gas",
+              "Solid",
+              "Liquid rock"
+            ],
+            "correct_answer": "Gas",
+            "fact_feedback_correct": "Right! Air is a gas.",
+            "fact_feedback_incorrect": "You missed the fact: Air is a gas."
+          },
+          {
+            "question_id": 7,
+            "question": "A gas can…",
+            "options": [
+              "Fill space",
+              "Keep a fixed shape",
+              "Be held like a block"
+            ],
+            "correct_answer": "Fill space",
+            "fact_feedback_correct": "Correct! Gases fill the space around them.",
+            "fact_feedback_incorrect": "You missed the fact: Gases spread out."
+          },
+          {
+            "question_id": 8,
+            "question": "Ice melting into water is a change of…",
+            "options": [
+              "State",
+              "Color",
+              "Sound"
+            ],
+            "correct_answer": "State",
+            "fact_feedback_correct": "Yes! Ice melting is a change of state.",
+            "fact_feedback_incorrect": "You missed the fact: Melting changes the state."
+          },
+          {
+            "question_id": 9,
+            "question": "A rock is a…",
+            "options": [
+              "Solid",
+              "Liquid",
+              "Gas"
+            ],
+            "correct_answer": "Solid",
+            "fact_feedback_correct": "Correct! A rock is a solid.",
+            "fact_feedback_incorrect": "You missed the fact: Rocks are solids."
+          },
+          {
+            "question_id": 10,
+            "question": "Matter can change from one state to…",
+            "options": [
+              "Another",
+              "Nothing",
+              "Only solid"
+            ],
+            "correct_answer": "Another",
+            "fact_feedback_correct": "Right! Matter can change states.",
+            "fact_feedback_incorrect": "You missed the fact: Matter can change from solid to liquid to gas."
+          }
+        ]
+      },
+      {
+        "story_id": "science_06",
+        "title": "The Water Cycle",
+        "learning_objectives": [
+          "Water moves in a cycle on Earth",
+          "The Sun heats water and causes evaporation",
+          "Water vapor forms clouds",
+          "Rain falls back to Earth as precipitation",
+          "The water cycle repeats again and again"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Water is always moving around our planet in a special pattern called the water cycle.",
+            "image_prompt": "Flat pastel illustration of Earth with arrows forming a gentle circular water cycle, simple and toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The Sun warms oceans, lakes, and rivers.",
+            "image_prompt": "Flat pastel illustration of sun shining on ocean and lake, warm cheerful tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "When water gets warm, it turns into water vapor and rises into the air.",
+            "image_prompt": "Flat pastel illustration of water turning into soft mist rising upward with arrows labeled evaporation, clean infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "This step is called evaporation.",
+            "image_prompt": "Flat pastel simple label diagram showing evaporation from water surface to sky, toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "High in the sky, the water vapor cools and forms tiny droplets.",
+            "image_prompt": "Flat pastel illustration of small water droplets forming in sky, soft blue and white tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "These tiny droplets gather together to make clouds.",
+            "image_prompt": "Flat pastel fluffy clouds forming from small droplets, simple arrows showing gathering, friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "When clouds get heavy, water falls back down as rain or snow.",
+            "image_prompt": "Flat pastel illustration of gentle rain falling from cloud onto trees and ground, calm and non-scary, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "This falling water is called precipitation.",
+            "image_prompt": "Flat pastel labeled diagram of rain from cloud with word precipitation, clean infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Rain fills rivers and oceans again.",
+            "image_prompt": "Flat pastel illustration of rain flowing into river and ocean, simple directional arrows, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Then the Sun warms the water again, and the cycle starts all over.",
+            "image_prompt": "Flat pastel circular water cycle diagram with sun, cloud, rain, and ocean connected, bright hopeful colors, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Water moves in a…",
+            "options": [
+              "Cycle",
+              "Straight line",
+              "Box"
+            ],
+            "correct_answer": "Cycle",
+            "fact_feedback_correct": "Correct! Water moves in a cycle.",
+            "fact_feedback_incorrect": "You missed the fact: Water moves in a cycle."
+          },
+          {
+            "question_id": 2,
+            "question": "The Sun helps water…",
+            "options": [
+              "Warm up",
+              "Freeze always",
+              "Disappear forever"
+            ],
+            "correct_answer": "Warm up",
+            "fact_feedback_correct": "Right! The Sun warms water.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun warms water."
+          },
+          {
+            "question_id": 3,
+            "question": "When water turns into vapor, it is called…",
+            "options": [
+              "Evaporation",
+              "Melting only",
+              "Freezing"
+            ],
+            "correct_answer": "Evaporation",
+            "fact_feedback_correct": "Correct! That step is evaporation.",
+            "fact_feedback_incorrect": "You missed the fact: Water vapor rising is evaporation."
+          },
+          {
+            "question_id": 4,
+            "question": "Water vapor forms…",
+            "options": [
+              "Clouds",
+              "Rocks",
+              "Metal"
+            ],
+            "correct_answer": "Clouds",
+            "fact_feedback_correct": "Yes! Clouds form from water vapor.",
+            "fact_feedback_incorrect": "You missed the fact: Water vapor forms clouds."
+          },
+          {
+            "question_id": 5,
+            "question": "Rain falling from clouds is called…",
+            "options": [
+              "Precipitation",
+              "Decoration",
+              "Rotation"
+            ],
+            "correct_answer": "Precipitation",
+            "fact_feedback_correct": "Correct! Rainfall is precipitation.",
+            "fact_feedback_incorrect": "You missed the fact: Falling water is precipitation."
+          },
+          {
+            "question_id": 6,
+            "question": "The water cycle repeats…",
+            "options": [
+              "Again and again",
+              "Once only",
+              "Never"
+            ],
+            "correct_answer": "Again and again",
+            "fact_feedback_correct": "Right! The water cycle keeps repeating.",
+            "fact_feedback_incorrect": "You missed the fact: The cycle continues."
+          },
+          {
+            "question_id": 7,
+            "question": "Water vapor rises into the…",
+            "options": [
+              "Air",
+              "Ground",
+              "Ocean floor"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Correct! Water vapor rises into the air.",
+            "fact_feedback_incorrect": "You missed the fact: Water vapor rises upward."
+          },
+          {
+            "question_id": 8,
+            "question": "Clouds are made of tiny…",
+            "options": [
+              "Water droplets",
+              "Stones",
+              "Leaves"
+            ],
+            "correct_answer": "Water droplets",
+            "fact_feedback_correct": "Yes! Clouds are tiny water droplets.",
+            "fact_feedback_incorrect": "You missed the fact: Clouds are made of droplets."
+          },
+          {
+            "question_id": 9,
+            "question": "Rain helps fill…",
+            "options": [
+              "Rivers and oceans",
+              "Desks",
+              "Shoes"
+            ],
+            "correct_answer": "Rivers and oceans",
+            "fact_feedback_correct": "Correct! Rain fills rivers and oceans.",
+            "fact_feedback_incorrect": "You missed the fact: Rain returns water to Earth."
+          },
+          {
+            "question_id": 10,
+            "question": "The water cycle needs the…",
+            "options": [
+              "Sun",
+              "Television",
+              "Snowman"
+            ],
+            "correct_answer": "Sun",
+            "fact_feedback_correct": "Right! The Sun powers the water cycle.",
+            "fact_feedback_incorrect": "You missed the fact: The Sun helps the cycle work."
+          }
+        ]
+      },
+      {
+        "story_id": "science_07",
+        "title": "How a Fuel Engine Works",
+        "learning_objectives": [
+          "Engines help machines move",
+          "Fuel gives energy to engines",
+          "Engines change fuel into motion",
+          "Cars use engines to turn wheels",
+          "Energy makes movement possible"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Have you ever seen a car move down the road?",
+            "image_prompt": "Flat pastel illustration of friendly car driving on simple road with trees, bright toddler-friendly colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Inside the car is a machine called an engine.",
+            "image_prompt": "Flat pastel cutaway illustration of simple car with engine highlighted inside, clean educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The engine helps the car move forward.",
+            "image_prompt": "Flat pastel illustration of engine connected to wheels with arrows showing movement, simple infographic design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Engines need fuel to work. Fuel gives the engine energy.",
+            "image_prompt": "Flat pastel illustration of fuel pump and small fuel tank icon with energy lightning symbol, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When fuel burns inside the engine, it creates power.",
+            "image_prompt": "Flat pastel simplified engine diagram with tiny safe flame icon inside cylinder, gentle non-scary style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "This power pushes small parts inside the engine up and down.",
+            "image_prompt": "Flat pastel simple piston moving up and down with arrows, clean and educational toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "These moving parts turn the car’s wheels.",
+            "image_prompt": "Flat pastel illustration of engine parts connected to wheels with arrows showing rotation, simple diagram style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "When the wheels turn, the car moves forward.",
+            "image_prompt": "Flat pastel car with spinning wheel motion lines, cheerful outdoor scene, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Engines are also used in trucks, buses, and airplanes.",
+            "image_prompt": "Flat pastel collage of truck, bus, and airplane with small engine icons, friendly educational design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Fuel gives energy, and engines turn that energy into motion.",
+            "image_prompt": "Flat pastel simple infographic showing fuel → engine → moving car arrows, clean toddler-friendly style, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "An engine helps a car…",
+            "options": [
+              "Move",
+              "Sleep",
+              "Disappear"
+            ],
+            "correct_answer": "Move",
+            "fact_feedback_correct": "Correct! The engine helps the car move.",
+            "fact_feedback_incorrect": "You missed the fact: Engines help cars move."
+          },
+          {
+            "question_id": 2,
+            "question": "Engines need…",
+            "options": [
+              "Fuel",
+              "Ice cream",
+              "Clouds"
+            ],
+            "correct_answer": "Fuel",
+            "fact_feedback_correct": "Right! Engines need fuel.",
+            "fact_feedback_incorrect": "You missed the fact: Fuel gives engines energy."
+          },
+          {
+            "question_id": 3,
+            "question": "Fuel gives the engine…",
+            "options": [
+              "Energy",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Energy",
+            "fact_feedback_correct": "Correct! Fuel provides energy.",
+            "fact_feedback_incorrect": "You missed the fact: Fuel gives energy."
+          },
+          {
+            "question_id": 4,
+            "question": "Engines turn fuel into…",
+            "options": [
+              "Motion",
+              "Rain",
+              "Snow"
+            ],
+            "correct_answer": "Motion",
+            "fact_feedback_correct": "Yes! Engines turn energy into motion.",
+            "fact_feedback_incorrect": "You missed the fact: Engines create motion."
+          },
+          {
+            "question_id": 5,
+            "question": "Engines can be found in…",
+            "options": [
+              "Cars",
+              "Airplanes",
+              "Both cars and airplanes"
+            ],
+            "correct_answer": "Both cars and airplanes",
+            "fact_feedback_correct": "Correct! Engines are in many vehicles.",
+            "fact_feedback_incorrect": "You missed the fact: Engines are used in many vehicles."
+          },
+          {
+            "question_id": 6,
+            "question": "When wheels turn, the car…",
+            "options": [
+              "Moves forward",
+              "Melts",
+              "Stops forever"
+            ],
+            "correct_answer": "Moves forward",
+            "fact_feedback_correct": "Right! Turning wheels move the car.",
+            "fact_feedback_incorrect": "You missed the fact: Wheels turning make motion."
+          },
+          {
+            "question_id": 7,
+            "question": "Fuel burns inside the…",
+            "options": [
+              "Engine",
+              "Cloud",
+              "Tree"
+            ],
+            "correct_answer": "Engine",
+            "fact_feedback_correct": "Correct! Fuel burns inside the engine.",
+            "fact_feedback_incorrect": "You missed the fact: Fuel burns in the engine."
+          },
+          {
+            "question_id": 8,
+            "question": "Energy makes things…",
+            "options": [
+              "Move",
+              "Freeze",
+              "Sleep"
+            ],
+            "correct_answer": "Move",
+            "fact_feedback_correct": "Yes! Energy allows movement.",
+            "fact_feedback_incorrect": "You missed the fact: Energy makes motion possible."
+          },
+          {
+            "question_id": 9,
+            "question": "An engine is a type of…",
+            "options": [
+              "Machine",
+              "Animal",
+              "Plant"
+            ],
+            "correct_answer": "Machine",
+            "fact_feedback_correct": "Correct! An engine is a machine.",
+            "fact_feedback_incorrect": "You missed the fact: Engines are machines."
+          },
+          {
+            "question_id": 10,
+            "question": "Without fuel, an engine cannot…",
+            "options": [
+              "Work",
+              "Glow",
+              "Grow"
+            ],
+            "correct_answer": "Work",
+            "fact_feedback_correct": "Right! Engines need fuel to work.",
+            "fact_feedback_incorrect": "You missed the fact: Fuel powers engines."
+          }
+        ]
+      },
+      {
+        "story_id": "science_08",
+        "title": "What Is Electricity?",
+        "learning_objectives": [
+          "Electricity is a form of energy",
+          "Electricity makes lights turn on",
+          "Electricity can travel through wires",
+          "Batteries can store electricity",
+          "Electricity powers many everyday devices"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Have you ever flipped a switch and watched a light turn on?",
+            "image_prompt": "Flat pastel illustration of child flipping light switch and lamp turning on, cozy room setting, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "That light turns on because of something called electricity.",
+            "image_prompt": "Flat pastel illustration of glowing light bulb with soft lightning bolt icon, gentle educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Electricity is a kind of energy that can power many things.",
+            "image_prompt": "Flat pastel collage of light bulb, fan, and television powered by small lightning symbols, simple design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Electricity travels through wires inside walls.",
+            "image_prompt": "Flat pastel cutaway wall illustration showing simple wires connecting switch to lamp, clean infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "When you press a switch, electricity flows through the wire.",
+            "image_prompt": "Flat pastel diagram showing switch closing circuit with glowing line traveling to light bulb, toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Batteries can store electricity to use later.",
+            "image_prompt": "Flat pastel illustration of simple battery with energy glow icon, clean and friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Toys, flashlights, and remote controls often use batteries.",
+            "image_prompt": "Flat pastel collage of toy car, flashlight, and remote control with small battery icons, bright and cheerful, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Electricity can also power big things like refrigerators and computers.",
+            "image_prompt": "Flat pastel illustration of refrigerator and computer plugged into outlet with gentle lightning symbol, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Electricity is powerful, so we must use it safely.",
+            "image_prompt": "Flat pastel safety scene of child staying away from wall outlet with parent guidance, calm and safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Electricity is energy that helps make our world bright and useful.",
+            "image_prompt": "Flat pastel glowing city at night with lights on, soft warm tones, hopeful and educational style, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Electricity is a form of…",
+            "options": [
+              "Energy",
+              "Water",
+              "Rock"
+            ],
+            "correct_answer": "Energy",
+            "fact_feedback_correct": "Correct! Electricity is energy.",
+            "fact_feedback_incorrect": "You missed the fact: Electricity is a type of energy."
+          },
+          {
+            "question_id": 2,
+            "question": "Electricity helps lights…",
+            "options": [
+              "Turn on",
+              "Freeze",
+              "Disappear"
+            ],
+            "correct_answer": "Turn on",
+            "fact_feedback_correct": "Right! Electricity turns on lights.",
+            "fact_feedback_incorrect": "You missed the fact: Electricity powers lights."
+          },
+          {
+            "question_id": 3,
+            "question": "Electricity travels through…",
+            "options": [
+              "Wires",
+              "Clouds",
+              "Trees"
+            ],
+            "correct_answer": "Wires",
+            "fact_feedback_correct": "Correct! Electricity travels through wires.",
+            "fact_feedback_incorrect": "You missed the fact: Wires carry electricity."
+          },
+          {
+            "question_id": 4,
+            "question": "Batteries store…",
+            "options": [
+              "Electricity",
+              "Sand",
+              "Leaves"
+            ],
+            "correct_answer": "Electricity",
+            "fact_feedback_correct": "Yes! Batteries store electricity.",
+            "fact_feedback_incorrect": "You missed the fact: Batteries store energy."
+          },
+          {
+            "question_id": 5,
+            "question": "Flashlights use…",
+            "options": [
+              "Batteries",
+              "Water",
+              "Wind only"
+            ],
+            "correct_answer": "Batteries",
+            "fact_feedback_correct": "Correct! Flashlights use batteries.",
+            "fact_feedback_incorrect": "You missed the fact: Flashlights use stored electricity."
+          },
+          {
+            "question_id": 6,
+            "question": "A switch helps electricity…",
+            "options": [
+              "Flow",
+              "Sleep",
+              "Stop forever"
+            ],
+            "correct_answer": "Flow",
+            "fact_feedback_correct": "Right! A switch allows electricity to flow.",
+            "fact_feedback_incorrect": "You missed the fact: Switches control flow."
+          },
+          {
+            "question_id": 7,
+            "question": "Electricity powers…",
+            "options": [
+              "Refrigerators",
+              "Clouds",
+              "Mountains"
+            ],
+            "correct_answer": "Refrigerators",
+            "fact_feedback_correct": "Correct! Electricity powers appliances.",
+            "fact_feedback_incorrect": "You missed the fact: Appliances use electricity."
+          },
+          {
+            "question_id": 8,
+            "question": "Electricity should be used…",
+            "options": [
+              "Safely",
+              "Carelessly",
+              "Without rules"
+            ],
+            "correct_answer": "Safely",
+            "fact_feedback_correct": "Yes! Electricity must be used safely.",
+            "fact_feedback_incorrect": "You missed the fact: Electricity can be dangerous."
+          },
+          {
+            "question_id": 9,
+            "question": "Electricity can make things…",
+            "options": [
+              "Bright",
+              "Wet",
+              "Cold only"
+            ],
+            "correct_answer": "Bright",
+            "fact_feedback_correct": "Correct! Electricity makes lights bright.",
+            "fact_feedback_incorrect": "You missed the fact: Electricity provides light."
+          },
+          {
+            "question_id": 10,
+            "question": "Without electricity, many devices would…",
+            "options": [
+              "Not work",
+              "Grow",
+              "Fly"
+            ],
+            "correct_answer": "Not work",
+            "fact_feedback_correct": "Right! Many devices need electricity.",
+            "fact_feedback_incorrect": "You missed the fact: Electricity powers devices."
+          }
+        ]
+      },
+      {
+        "story_id": "science_09",
+        "title": "What Is Medicine?",
+        "learning_objectives": [
+          "Medicine helps people feel better when they are sick",
+          "Doctors and nurses help care for patients",
+          "Some medicines fight germs",
+          "Vaccines help protect the body",
+          "The body can heal with rest and care"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sometimes our bodies do not feel well. We might have a cough or a fever.",
+            "image_prompt": "Flat pastel illustration of child resting in bed with warm blanket and thermometer nearby, gentle and non-scary, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "When we are sick, doctors and nurses help us get better.",
+            "image_prompt": "Flat pastel illustration of friendly doctor and nurse smiling and checking child gently, calm hospital setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Doctors learn about the body and how to treat illnesses.",
+            "image_prompt": "Flat pastel illustration of doctor studying simple body chart, educational and friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Medicine is something that can help the body heal.",
+            "image_prompt": "Flat pastel illustration of simple medicine bottle and spoon with soft glow, toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Some medicines fight tiny germs that make us sick.",
+            "image_prompt": "Flat pastel illustration of shield protecting body from small cartoon germ icons, non-scary and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Our bodies are strong and can heal with rest, water, and care.",
+            "image_prompt": "Flat pastel illustration of child resting, drinking water, and sleeping peacefully, warm gentle tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Vaccines help teach our bodies how to fight certain germs.",
+            "image_prompt": "Flat pastel illustration of friendly nurse giving small vaccine sticker reward to smiling child, calm and reassuring style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Eating healthy food helps keep our bodies strong.",
+            "image_prompt": "Flat pastel illustration of colorful fruits and vegetables with smiling child eating, bright cheerful design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Washing hands helps stop germs from spreading.",
+            "image_prompt": "Flat pastel illustration of child washing hands with soap bubbles, clean and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Medicine, care, and healthy habits help us feel better and stay strong.",
+            "image_prompt": "Flat pastel illustration of happy healthy child outdoors with sun shining, hopeful and positive tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Medicine helps people…",
+            "options": [
+              "Feel better",
+              "Grow wings",
+              "Turn blue"
+            ],
+            "correct_answer": "Feel better",
+            "fact_feedback_correct": "Correct! Medicine helps people feel better.",
+            "fact_feedback_incorrect": "You missed the fact: Medicine helps treat sickness."
+          },
+          {
+            "question_id": 2,
+            "question": "Doctors help us when we are…",
+            "options": [
+              "Sick",
+              "Flying",
+              "Swimming only"
+            ],
+            "correct_answer": "Sick",
+            "fact_feedback_correct": "Right! Doctors help when we are sick.",
+            "fact_feedback_incorrect": "You missed the fact: Doctors care for sick people."
+          },
+          {
+            "question_id": 3,
+            "question": "Some medicines fight…",
+            "options": [
+              "Germs",
+              "Clouds",
+              "Shoes"
+            ],
+            "correct_answer": "Germs",
+            "fact_feedback_correct": "Correct! Some medicines fight germs.",
+            "fact_feedback_incorrect": "You missed the fact: Germs can make us sick."
+          },
+          {
+            "question_id": 4,
+            "question": "Rest helps the body…",
+            "options": [
+              "Heal",
+              "Freeze",
+              "Disappear"
+            ],
+            "correct_answer": "Heal",
+            "fact_feedback_correct": "Yes! Rest helps the body heal.",
+            "fact_feedback_incorrect": "You missed the fact: The body heals with care."
+          },
+          {
+            "question_id": 5,
+            "question": "Vaccines help protect the…",
+            "options": [
+              "Body",
+              "Shoes",
+              "Backpack"
+            ],
+            "correct_answer": "Body",
+            "fact_feedback_correct": "Correct! Vaccines help protect the body.",
+            "fact_feedback_incorrect": "You missed the fact: Vaccines help the body fight germs."
+          },
+          {
+            "question_id": 6,
+            "question": "Washing hands helps stop…",
+            "options": [
+              "Germs",
+              "Rain",
+              "Wind"
+            ],
+            "correct_answer": "Germs",
+            "fact_feedback_correct": "Right! Washing hands stops germs.",
+            "fact_feedback_incorrect": "You missed the fact: Germs spread by touch."
+          },
+          {
+            "question_id": 7,
+            "question": "Healthy food helps the body stay…",
+            "options": [
+              "Strong",
+              "Invisible",
+              "Noisy"
+            ],
+            "correct_answer": "Strong",
+            "fact_feedback_correct": "Correct! Healthy food keeps us strong.",
+            "fact_feedback_incorrect": "You missed the fact: Good food helps health."
+          },
+          {
+            "question_id": 8,
+            "question": "Nurses help people…",
+            "options": [
+              "Get better",
+              "Fly planes",
+              "Build houses"
+            ],
+            "correct_answer": "Get better",
+            "fact_feedback_correct": "Yes! Nurses care for people.",
+            "fact_feedback_incorrect": "You missed the fact: Nurses help patients heal."
+          },
+          {
+            "question_id": 9,
+            "question": "Medicine should be taken…",
+            "options": [
+              "With adult help",
+              "By guessing",
+              "Whenever we want"
+            ],
+            "correct_answer": "With adult help",
+            "fact_feedback_correct": "Correct! Medicine should be taken safely.",
+            "fact_feedback_incorrect": "You missed the fact: Adults guide medicine use."
+          },
+          {
+            "question_id": 10,
+            "question": "Healthy habits help us…",
+            "options": [
+              "Stay well",
+              "Grow smaller",
+              "Sleep forever"
+            ],
+            "correct_answer": "Stay well",
+            "fact_feedback_correct": "Right! Healthy habits keep us well.",
+            "fact_feedback_incorrect": "You missed the fact: Healthy habits protect us."
+          }
+        ]
+      },
+      {
+        "story_id": "science_10",
+        "title": "Viruses and Bacteria",
+        "learning_objectives": [
+          "Viruses and bacteria are tiny germs",
+          "Some germs can make people sick",
+          "Not all bacteria are harmful",
+          "The immune system helps fight germs",
+          "Healthy habits help protect us"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "There are tiny living things around us that we cannot see without a microscope.",
+            "image_prompt": "Flat pastel illustration of child looking through microscope with friendly tiny germ icons nearby, non-scary and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Some of these tiny things are called bacteria and viruses.",
+            "image_prompt": "Flat pastel simple cartoon bacteria and virus icons, soft rounded shapes, friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Bacteria are very small living cells.",
+            "image_prompt": "Flat pastel illustration of simple bacteria shapes with smiling friendly faces, clean toddler-safe design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Some bacteria are helpful and help our bodies digest food.",
+            "image_prompt": "Flat pastel illustration of happy tummy with friendly bacteria icons helping, gentle and educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Viruses are even smaller than bacteria.",
+            "image_prompt": "Flat pastel comparison illustration showing bacteria larger and virus smaller, simple infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Some viruses can make people feel sick.",
+            "image_prompt": "Flat pastel illustration of child resting with small neutral germ icons nearby, non-scary and calm, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Our immune system is like a body guard that fights germs.",
+            "image_prompt": "Flat pastel illustration of shield protecting body from tiny germ icons, friendly and empowering design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Washing hands with soap helps remove germs.",
+            "image_prompt": "Flat pastel illustration of child washing hands with soap bubbles, bright and clean style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Covering coughs and sneezes helps stop germs from spreading.",
+            "image_prompt": "Flat pastel illustration of child covering sneeze with elbow, gentle educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Healthy food, rest, and clean habits help keep our bodies strong.",
+            "image_prompt": "Flat pastel illustration of happy healthy child outdoors with shield icon glowing softly, hopeful and positive, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Viruses and bacteria are very…",
+            "options": [
+              "Tiny",
+              "Huge",
+              "Blue only"
+            ],
+            "correct_answer": "Tiny",
+            "fact_feedback_correct": "Correct! They are very tiny.",
+            "fact_feedback_incorrect": "You missed the fact: Germs are tiny."
+          },
+          {
+            "question_id": 2,
+            "question": "Some bacteria are…",
+            "options": [
+              "Helpful",
+              "Always harmful",
+              "Invisible rocks"
+            ],
+            "correct_answer": "Helpful",
+            "fact_feedback_correct": "Right! Some bacteria help us.",
+            "fact_feedback_incorrect": "You missed the fact: Not all bacteria are bad."
+          },
+          {
+            "question_id": 3,
+            "question": "Viruses are…",
+            "options": [
+              "Smaller than bacteria",
+              "Bigger than trees",
+              "Made of stone"
+            ],
+            "correct_answer": "Smaller than bacteria",
+            "fact_feedback_correct": "Correct! Viruses are smaller.",
+            "fact_feedback_incorrect": "You missed the fact: Viruses are very tiny."
+          },
+          {
+            "question_id": 4,
+            "question": "The immune system helps…",
+            "options": [
+              "Fight germs",
+              "Grow shoes",
+              "Make rain"
+            ],
+            "correct_answer": "Fight germs",
+            "fact_feedback_correct": "Yes! The immune system fights germs.",
+            "fact_feedback_incorrect": "You missed the fact: The immune system protects us."
+          },
+          {
+            "question_id": 5,
+            "question": "Washing hands helps remove…",
+            "options": [
+              "Germs",
+              "Stars",
+              "Clouds"
+            ],
+            "correct_answer": "Germs",
+            "fact_feedback_correct": "Correct! Washing removes germs.",
+            "fact_feedback_incorrect": "You missed the fact: Soap helps clean germs."
+          },
+          {
+            "question_id": 6,
+            "question": "Some germs can make people feel…",
+            "options": [
+              "Sick",
+              "Stronger instantly",
+              "Invisible"
+            ],
+            "correct_answer": "Sick",
+            "fact_feedback_correct": "Right! Some germs cause sickness.",
+            "fact_feedback_incorrect": "You missed the fact: Germs can make us sick."
+          },
+          {
+            "question_id": 7,
+            "question": "Covering a sneeze helps…",
+            "options": [
+              "Stop spread",
+              "Make noise louder",
+              "Grow taller"
+            ],
+            "correct_answer": "Stop spread",
+            "fact_feedback_correct": "Correct! Covering sneezes stops spread.",
+            "fact_feedback_incorrect": "You missed the fact: Sneezes can spread germs."
+          },
+          {
+            "question_id": 8,
+            "question": "Healthy habits keep us…",
+            "options": [
+              "Strong",
+              "Tiny",
+              "Cold always"
+            ],
+            "correct_answer": "Strong",
+            "fact_feedback_correct": "Yes! Healthy habits keep us strong.",
+            "fact_feedback_incorrect": "You missed the fact: Good habits protect us."
+          },
+          {
+            "question_id": 9,
+            "question": "Bacteria are…",
+            "options": [
+              "Living cells",
+              "Rocks",
+              "Shoes"
+            ],
+            "correct_answer": "Living cells",
+            "fact_feedback_correct": "Correct! Bacteria are living cells.",
+            "fact_feedback_incorrect": "You missed the fact: Bacteria are tiny living cells."
+          },
+          {
+            "question_id": 10,
+            "question": "Germs are so small we need a…",
+            "options": [
+              "Microscope",
+              "Television",
+              "Car"
+            ],
+            "correct_answer": "Microscope",
+            "fact_feedback_correct": "Right! Microscopes help us see tiny germs.",
+            "fact_feedback_incorrect": "You missed the fact: Germs are seen with microscopes."
+          }
+        ]
+      }
+    ]
+  }
+}

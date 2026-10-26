@@ -25,10 +25,10 @@ The production site is the `dist/` folder. No backend, runtime dependencies, ext
 - Explorer onboarding with name and age.
 - Journey dashboard, 10 illustrated topics, and all 100 original stories.
 - Search, topic filters, story details, page-by-page reading, and reading resume.
-- Original quizzes, randomized answer ordering, delayed fact popups, points, badges, and game passes.
+- Original story quizzes, mixed topic quizzes, randomized answer ordering, delayed fact popups, points, badges, and game passes.
 - Bubble Pop, Snake Trail, Block Stack, two-player Tic-Tac-Toe, and Memory Match.
 - Browser-local progress via localStorage. Data stays on the current browser/device; clearing browser data removes it. Changing from localhost to a hosted domain starts a separate progress collection.
-- Each correct answer earns 10 points. An 80% quiz score earns a badge and game pass. A pass or 120 points unlocks one game for 30 minutes. Replaying quizzes earns rewards, matching the iOS behavior.
+- Each correct answer earns 10 points. An 80% quiz score earns a badge and game pass. A pass or 120 points unlocks one game for 24 hours. Replaying quizzes earns rewards, matching the iOS behavior.
 
 ## GitHub Pages — prepared, not published
 
@@ -52,4 +52,4 @@ Relative asset URLs and hash routes support both `https://nuhil.github.io/kids-s
 - `reference/ios/`: original Swift implementation retained for migration reference.
 - `tests/`: content integrity and interaction tests.
 
-The original iOS repository remains separate and unchanged. This repository implements web-native equivalents; native haptics and system controls are replaced by accessible browser controls. Story quizzes are included; the additional multi-category quiz mode from the iOS source is a future enhancement.
+The original iOS repository remains separate and unchanged. This repository implements web-native equivalents; native haptics and system controls are replaced by accessible browser controls. Story quizzes and mixed category quizzes are included.

@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "History",
+    "category_id": "history",
+    "stories": [
+      {
+        "story_id": "history_01",
+        "title": "The First People Long Ago",
+        "learning_objectives": [
+          "Early humans lived thousands of years ago",
+          "Early humans used simple stone tools",
+          "Fire helped humans stay warm and cook food",
+          "Early humans hunted and gathered food",
+          "People once lived in caves or simple shelters"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long before cities and roads, the first people lived close to nature under wide open skies.",
+            "image_prompt": "Flat pastel illustration of early humans in natural landscape with hills and trees, simple shapes, soft colors, non-scary, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "They did not have houses like ours. Some families stayed in caves or built simple shelters from branches.",
+            "image_prompt": "Flat pastel illustration of early humans near cave and simple branch shelter, gentle and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "To find food, they gathered fruits, nuts, and roots from the land.",
+            "image_prompt": "Flat pastel illustration of early humans collecting berries and plants, calm and friendly style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Sometimes they worked together to hunt animals for meat and clothing.",
+            "image_prompt": "Flat pastel non-scary illustration of early humans cooperating in simple hunt scene, educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "They shaped sharp stones into tools. Stone tools helped them cut, dig, and build.",
+            "image_prompt": "Flat pastel illustration of stone tools with simple arrows showing use, educational toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "One of the biggest discoveries was fire. Fire gave warmth and light at night.",
+            "image_prompt": "Flat pastel illustration of early humans sitting safely around small campfire, warm soft colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Fire also helped cook food, making it easier to chew and digest.",
+            "image_prompt": "Flat pastel illustration of simple cooking over fire, friendly and calm, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Over time, people learned new skills and passed knowledge to children.",
+            "image_prompt": "Flat pastel illustration of adult teaching child to shape stone tool, gentle educational scene, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "These early humans slowly traveled across continents, spreading to many parts of the world.",
+            "image_prompt": "Flat pastel world map with simple dotted path showing early migration, soft colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From simple shelters and stone tools, human history began its long journey.",
+            "image_prompt": "Flat pastel sunrise over ancient landscape with early humans walking forward, hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Early humans lived…",
+            "options": [
+              "Thousands of years ago",
+              "Last week",
+              "On the moon"
+            ],
+            "correct_answer": "Thousands of years ago",
+            "fact_feedback_correct": "Correct! Early humans lived thousands of years ago.",
+            "fact_feedback_incorrect": "You missed the fact: Early humans lived thousands of years ago."
+          },
+          {
+            "question_id": 2,
+            "question": "Some early humans lived in…",
+            "options": [
+              "Caves",
+              "Skyscrapers",
+              "Airplanes"
+            ],
+            "correct_answer": "Caves",
+            "fact_feedback_correct": "Right! Some early humans stayed in caves.",
+            "fact_feedback_incorrect": "You missed the fact: Early humans sometimes lived in caves."
+          },
+          {
+            "question_id": 3,
+            "question": "Stone tools were used to…",
+            "options": [
+              "Cut and dig",
+              "Fly",
+              "Sing songs"
+            ],
+            "correct_answer": "Cut and dig",
+            "fact_feedback_correct": "Correct! Stone tools helped cut and dig.",
+            "fact_feedback_incorrect": "You missed the fact: Stone tools helped with cutting and digging."
+          },
+          {
+            "question_id": 4,
+            "question": "Fire gave people…",
+            "options": [
+              "Warmth and light",
+              "Snow and rain",
+              "Electricity"
+            ],
+            "correct_answer": "Warmth and light",
+            "fact_feedback_correct": "Yes! Fire gave warmth and light.",
+            "fact_feedback_incorrect": "You missed the fact: Fire provided warmth and light."
+          },
+          {
+            "question_id": 5,
+            "question": "Early humans found food by…",
+            "options": [
+              "Hunting and gathering",
+              "Shopping in stores",
+              "Ordering online"
+            ],
+            "correct_answer": "Hunting and gathering",
+            "fact_feedback_correct": "Correct! They hunted animals and gathered plants.",
+            "fact_feedback_incorrect": "You missed the fact: Early humans hunted and gathered food."
+          },
+          {
+            "question_id": 6,
+            "question": "Fire helped cook food, making it easier to…",
+            "options": [
+              "Chew",
+              "Freeze",
+              "Hide"
+            ],
+            "correct_answer": "Chew",
+            "fact_feedback_correct": "Right! Cooking makes food easier to chew and digest.",
+            "fact_feedback_incorrect": "You missed the fact: Cooking makes food easier to chew."
+          },
+          {
+            "question_id": 7,
+            "question": "Early shelters were made from…",
+            "options": [
+              "Branches",
+              "Steel",
+              "Glass"
+            ],
+            "correct_answer": "Branches",
+            "fact_feedback_correct": "Correct! Simple shelters were built from branches.",
+            "fact_feedback_incorrect": "You missed the fact: Early shelters used branches."
+          },
+          {
+            "question_id": 8,
+            "question": "People passed skills to…",
+            "options": [
+              "Children",
+              "Robots",
+              "Cars"
+            ],
+            "correct_answer": "Children",
+            "fact_feedback_correct": "Yes! Adults taught children new skills.",
+            "fact_feedback_incorrect": "You missed the fact: Knowledge was passed to children."
+          },
+          {
+            "question_id": 9,
+            "question": "Early humans traveled across…",
+            "options": [
+              "Continents",
+              "Planets",
+              "Clouds"
+            ],
+            "correct_answer": "Continents",
+            "fact_feedback_correct": "Correct! Humans slowly spread across continents.",
+            "fact_feedback_incorrect": "You missed the fact: Early humans migrated across continents."
+          },
+          {
+            "question_id": 10,
+            "question": "Stone tools were made from…",
+            "options": [
+              "Stone",
+              "Plastic",
+              "Rubber"
+            ],
+            "correct_answer": "Stone",
+            "fact_feedback_correct": "Right! Early tools were shaped from stone.",
+            "fact_feedback_incorrect": "You missed the fact: Early tools were made from stone."
+          }
+        ]
+      },
+      {
+        "story_id": "history_02",
+        "title": "When Humans Learned to Farm",
+        "learning_objectives": [
+          "Farming began thousands of years ago",
+          "People learned to grow crops",
+          "Animals were domesticated",
+          "Villages formed when people stayed in one place",
+          "Farming changed how humans lived"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "For many years, people moved from place to place to find food.",
+            "image_prompt": "Flat pastel illustration of early humans walking across landscape carrying simple baskets, soft natural colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Then something important happened. People noticed seeds dropped on the ground began to grow.",
+            "image_prompt": "Flat pastel illustration of seeds sprouting into small plants, simple arrows showing growth, educational toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Instead of searching for food, they began planting seeds on purpose.",
+            "image_prompt": "Flat pastel illustration of early humans planting seeds in soil, gentle and hopeful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "They learned to grow crops like wheat and rice in different parts of the world.",
+            "image_prompt": "Flat pastel split scene showing wheat field and rice field in different regions, soft colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Soon, people began caring for animals such as goats, sheep, and cows.",
+            "image_prompt": "Flat pastel illustration of early humans tending goats and sheep, calm friendly farm setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Animals provided milk, wool, and help with work. This is called domestication.",
+            "image_prompt": "Flat pastel simple infographic style showing goat milk, sheep wool, ox pulling plow, labeled gently, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Because crops grew in one place, families began building homes nearby.",
+            "image_prompt": "Flat pastel early village with small clay houses near fields, peaceful tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Villages formed as neighbors worked together to plant, harvest, and store food.",
+            "image_prompt": "Flat pastel village teamwork scene harvesting crops together, inclusive and cooperative, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "With steady food supplies, people could learn new skills like pottery and weaving.",
+            "image_prompt": "Flat pastel early humans shaping clay pots and weaving simple cloth, educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Farming changed human history forever, allowing communities to grow and cities to begin.",
+            "image_prompt": "Flat pastel transition scene from small village to slightly larger settlement, sunrise tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Before farming, people often…",
+            "options": [
+              "Moved from place to place",
+              "Lived in skyscrapers",
+              "Used computers"
+            ],
+            "correct_answer": "Moved from place to place",
+            "fact_feedback_correct": "Correct! Early people traveled to find food.",
+            "fact_feedback_incorrect": "You missed the fact: Before farming, people moved often to find food."
+          },
+          {
+            "question_id": 2,
+            "question": "Farming began when people planted…",
+            "options": [
+              "Seeds",
+              "Stones",
+              "Clouds"
+            ],
+            "correct_answer": "Seeds",
+            "fact_feedback_correct": "Right! Farming began by planting seeds.",
+            "fact_feedback_incorrect": "You missed the fact: Farming started when people planted seeds."
+          },
+          {
+            "question_id": 3,
+            "question": "Growing crops means…",
+            "options": [
+              "Planting and harvesting food",
+              "Building rockets",
+              "Swimming in rivers"
+            ],
+            "correct_answer": "Planting and harvesting food",
+            "fact_feedback_correct": "Correct! Crops are planted and harvested for food.",
+            "fact_feedback_incorrect": "You missed the fact: Crops are grown for food."
+          },
+          {
+            "question_id": 4,
+            "question": "Domestication means…",
+            "options": [
+              "Caring for animals",
+              "Painting walls",
+              "Flying birds"
+            ],
+            "correct_answer": "Caring for animals",
+            "fact_feedback_correct": "Yes! Domestication is caring for and raising animals.",
+            "fact_feedback_incorrect": "You missed the fact: Domestication means raising animals."
+          },
+          {
+            "question_id": 5,
+            "question": "Villages formed because people…",
+            "options": [
+              "Stayed near farms",
+              "Lived in space",
+              "Swam all day"
+            ],
+            "correct_answer": "Stayed near farms",
+            "fact_feedback_correct": "Correct! Farming encouraged people to stay in one place.",
+            "fact_feedback_incorrect": "You missed the fact: Farming led to settled villages."
+          },
+          {
+            "question_id": 6,
+            "question": "Goats and sheep provided…",
+            "options": [
+              "Milk and wool",
+              "Electricity",
+              "Cars"
+            ],
+            "correct_answer": "Milk and wool",
+            "fact_feedback_correct": "Right! Animals provided milk and wool.",
+            "fact_feedback_incorrect": "You missed the fact: Farm animals provided useful resources."
+          },
+          {
+            "question_id": 7,
+            "question": "Farming helped people have…",
+            "options": [
+              "Steady food supplies",
+              "Snow indoors",
+              "No food"
+            ],
+            "correct_answer": "Steady food supplies",
+            "fact_feedback_correct": "Correct! Farming provided steady food.",
+            "fact_feedback_incorrect": "You missed the fact: Farming helped provide steady food."
+          },
+          {
+            "question_id": 8,
+            "question": "People began building…",
+            "options": [
+              "Homes near fields",
+              "Castles in clouds",
+              "Underwater cities"
+            ],
+            "correct_answer": "Homes near fields",
+            "fact_feedback_correct": "Yes! Homes were built near farms.",
+            "fact_feedback_incorrect": "You missed the fact: Farming led to permanent homes."
+          },
+          {
+            "question_id": 9,
+            "question": "Pottery and weaving developed after…",
+            "options": [
+              "Stable villages formed",
+              "People stopped eating",
+              "Dinosaurs returned"
+            ],
+            "correct_answer": "Stable villages formed",
+            "fact_feedback_correct": "Correct! Stable living allowed new skills to grow.",
+            "fact_feedback_incorrect": "You missed the fact: Villages allowed new crafts to develop."
+          },
+          {
+            "question_id": 10,
+            "question": "Farming changed human history by allowing…",
+            "options": [
+              "Communities to grow",
+              "Everything to freeze",
+              "Mountains to move"
+            ],
+            "correct_answer": "Communities to grow",
+            "fact_feedback_correct": "Right! Farming allowed communities and cities to grow.",
+            "fact_feedback_incorrect": "You missed the fact: Farming allowed communities to expand."
+          }
+        ]
+      },
+      {
+        "story_id": "history_03",
+        "title": "Great Builders of the Ancient World",
+        "learning_objectives": [
+          "Ancient civilizations built large structures",
+          "The pyramids were built in Egypt",
+          "The Great Wall was built in China",
+          "Romans built long roads",
+          "Large projects required teamwork and planning"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, people began building structures much bigger than simple homes.",
+            "image_prompt": "Flat pastel illustration of ancient workers building large stone structure, soft desert background, simple shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "In Egypt, workers carefully stacked giant stone blocks to build pyramids.",
+            "image_prompt": "Flat pastel illustration of pyramids under construction in Egypt, non-religious focus on building process, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The pyramids were built thousands of years ago and still stand today.",
+            "image_prompt": "Flat pastel illustration of completed pyramids with warm sunlight, educational and calm, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Far away in China, workers built a very long wall across mountains and hills.",
+            "image_prompt": "Flat pastel illustration of the Great Wall stretching across hills, simple and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "The Great Wall helped protect cities and required many years of work.",
+            "image_prompt": "Flat pastel illustration of workers building wall sections, teamwork focus, gentle educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "In ancient Rome, builders created strong roads that connected cities across long distances.",
+            "image_prompt": "Flat pastel illustration of Roman road with simple stone pattern, people traveling by cart, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "These roads made travel and trade faster and easier.",
+            "image_prompt": "Flat pastel illustration of merchants traveling on Roman road with goods, peaceful and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Building large projects required planning, tools, and many skilled workers.",
+            "image_prompt": "Flat pastel infographic style showing tools, plans, and workers cooperating, toddler-friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Ancient engineers learned how to measure, lift, and move heavy materials.",
+            "image_prompt": "Flat pastel illustration of simple pulley and ramp system lifting stone block, clear and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "These great structures remind us that teamwork and careful design can create amazing things.",
+            "image_prompt": "Flat pastel collage of pyramid, Great Wall, and Roman road with sunrise tone, hopeful and inspiring, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The pyramids were built in…",
+            "options": [
+              "Egypt",
+              "Canada",
+              "Brazil"
+            ],
+            "correct_answer": "Egypt",
+            "fact_feedback_correct": "Correct! The pyramids were built in Egypt.",
+            "fact_feedback_incorrect": "You missed the fact: The pyramids are in Egypt."
+          },
+          {
+            "question_id": 2,
+            "question": "The Great Wall was built in…",
+            "options": [
+              "China",
+              "Italy",
+              "Australia"
+            ],
+            "correct_answer": "China",
+            "fact_feedback_correct": "Right! The Great Wall was built in China.",
+            "fact_feedback_incorrect": "You missed the fact: The Great Wall is in China."
+          },
+          {
+            "question_id": 3,
+            "question": "Roman roads helped people…",
+            "options": [
+              "Travel and trade",
+              "Fly",
+              "Dig tunnels in space"
+            ],
+            "correct_answer": "Travel and trade",
+            "fact_feedback_correct": "Correct! Roman roads connected cities and helped trade.",
+            "fact_feedback_incorrect": "You missed the fact: Roman roads helped travel and trade."
+          },
+          {
+            "question_id": 4,
+            "question": "Large ancient buildings required…",
+            "options": [
+              "Teamwork",
+              "Magic",
+              "Computers"
+            ],
+            "correct_answer": "Teamwork",
+            "fact_feedback_correct": "Yes! Large projects needed many workers.",
+            "fact_feedback_incorrect": "You missed the fact: Teamwork was essential."
+          },
+          {
+            "question_id": 5,
+            "question": "The pyramids are made from…",
+            "options": [
+              "Stone blocks",
+              "Plastic bricks",
+              "Glass panels"
+            ],
+            "correct_answer": "Stone blocks",
+            "fact_feedback_correct": "Correct! They were built with large stone blocks.",
+            "fact_feedback_incorrect": "You missed the fact: Pyramids are made of stone."
+          },
+          {
+            "question_id": 6,
+            "question": "The Great Wall stretches across…",
+            "options": [
+              "Mountains and hills",
+              "Oceans",
+              "Deserts only"
+            ],
+            "correct_answer": "Mountains and hills",
+            "fact_feedback_correct": "Right! The wall stretches across hills and mountains.",
+            "fact_feedback_incorrect": "You missed the fact: The Great Wall crosses hills and mountains."
+          },
+          {
+            "question_id": 7,
+            "question": "Ancient engineers used tools to…",
+            "options": [
+              "Lift heavy stones",
+              "Drive cars",
+              "Send emails"
+            ],
+            "correct_answer": "Lift heavy stones",
+            "fact_feedback_correct": "Correct! Tools like ramps helped move stones.",
+            "fact_feedback_incorrect": "You missed the fact: Engineers used tools to lift materials."
+          },
+          {
+            "question_id": 8,
+            "question": "Roman roads connected…",
+            "options": [
+              "Cities",
+              "Clouds",
+              "Stars"
+            ],
+            "correct_answer": "Cities",
+            "fact_feedback_correct": "Yes! Roads connected cities.",
+            "fact_feedback_incorrect": "You missed the fact: Roman roads connected cities."
+          },
+          {
+            "question_id": 9,
+            "question": "These structures still stand because they were…",
+            "options": [
+              "Carefully built",
+              "Made of paper",
+              "Floating"
+            ],
+            "correct_answer": "Carefully built",
+            "fact_feedback_correct": "Correct! Careful building made them strong.",
+            "fact_feedback_incorrect": "You missed the fact: They were carefully designed and built."
+          },
+          {
+            "question_id": 10,
+            "question": "Ancient builders show us that planning and teamwork can create…",
+            "options": [
+              "Amazing structures",
+              "Nothing",
+              "Only small huts"
+            ],
+            "correct_answer": "Amazing structures",
+            "fact_feedback_correct": "Right! Planning and teamwork create great things.",
+            "fact_feedback_incorrect": "You missed the fact: Great structures require planning and teamwork."
+          }
+        ]
+      },
+      {
+        "story_id": "history_04",
+        "title": "How Writing Began",
+        "learning_objectives": [
+          "Early humans made cave drawings",
+          "Writing began with symbols and pictures",
+          "Clay tablets were used in Mesopotamia",
+          "Paper was invented in China",
+          "Alphabets use letters to represent sounds"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Before books and notebooks, people told stories with pictures on cave walls.",
+            "image_prompt": "Flat pastel illustration of early humans painting simple animal drawings on cave wall, soft warm colors, non-scary, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "These drawings showed animals, hunts, and daily life. Pictures helped share ideas.",
+            "image_prompt": "Flat pastel cave wall with simple drawings of animals and people, educational and gentle, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Over time, pictures became symbols. Symbols could stand for objects or actions.",
+            "image_prompt": "Flat pastel transition panel from picture drawing to simple symbol icons, clear visual comparison, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "In ancient Mesopotamia, people pressed symbols into soft clay tablets.",
+            "image_prompt": "Flat pastel illustration of person pressing marks into clay tablet, labeled gently, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "After drying in the sun, the clay hardened, keeping the message safe.",
+            "image_prompt": "Flat pastel clay tablets drying in sunlight, calm earthy tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "In ancient China, people invented paper, making writing lighter and easier to carry.",
+            "image_prompt": "Flat pastel illustration of early papermaking process in China, soft and educational, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Instead of drawing whole pictures, alphabets used letters to represent sounds.",
+            "image_prompt": "Flat pastel simple alphabet letters with sound wave icons, toddler-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "With letters, people could write many different words and ideas.",
+            "image_prompt": "Flat pastel child writing simple letters forming words, warm classroom tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Writing allowed people to record laws, trade, stories, and history.",
+            "image_prompt": "Flat pastel scroll showing simple icons for law, trade, and story, educational and gentle, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From cave pictures to books, writing changed how humans shared knowledge forever.",
+            "image_prompt": "Flat pastel timeline collage from cave wall to clay tablet to paper book, bright hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Early cave drawings helped people…",
+            "options": [
+              "Share ideas",
+              "Send emails",
+              "Watch TV"
+            ],
+            "correct_answer": "Share ideas",
+            "fact_feedback_correct": "Correct! Cave drawings helped share ideas and stories.",
+            "fact_feedback_incorrect": "You missed the fact: Cave drawings helped people share ideas."
+          },
+          {
+            "question_id": 2,
+            "question": "Symbols were used to represent…",
+            "options": [
+              "Objects or actions",
+              "Clouds only",
+              "Nothing"
+            ],
+            "correct_answer": "Objects or actions",
+            "fact_feedback_correct": "Right! Symbols stood for objects or actions.",
+            "fact_feedback_incorrect": "You missed the fact: Symbols represented ideas or objects."
+          },
+          {
+            "question_id": 3,
+            "question": "Clay tablets were used in…",
+            "options": [
+              "Mesopotamia",
+              "Antarctica",
+              "Canada"
+            ],
+            "correct_answer": "Mesopotamia",
+            "fact_feedback_correct": "Correct! Clay tablets were used in Mesopotamia.",
+            "fact_feedback_incorrect": "You missed the fact: Mesopotamia used clay tablets."
+          },
+          {
+            "question_id": 4,
+            "question": "Paper was invented in…",
+            "options": [
+              "China",
+              "France",
+              "Brazil"
+            ],
+            "correct_answer": "China",
+            "fact_feedback_correct": "Yes! Paper was invented in ancient China.",
+            "fact_feedback_incorrect": "You missed the fact: Paper was invented in China."
+          },
+          {
+            "question_id": 5,
+            "question": "Alphabets use…",
+            "options": [
+              "Letters for sounds",
+              "Pictures only",
+              "Numbers only"
+            ],
+            "correct_answer": "Letters for sounds",
+            "fact_feedback_correct": "Correct! Alphabets use letters to represent sounds.",
+            "fact_feedback_incorrect": "You missed the fact: Alphabets represent sounds with letters."
+          },
+          {
+            "question_id": 6,
+            "question": "Clay tablets hardened by…",
+            "options": [
+              "Drying in the sun",
+              "Freezing",
+              "Floating in water"
+            ],
+            "correct_answer": "Drying in the sun",
+            "fact_feedback_correct": "Right! Clay hardened after drying.",
+            "fact_feedback_incorrect": "You missed the fact: Clay tablets dried in the sun."
+          },
+          {
+            "question_id": 7,
+            "question": "Writing helped record…",
+            "options": [
+              "Laws and trade",
+              "Only weather",
+              "Nothing important"
+            ],
+            "correct_answer": "Laws and trade",
+            "fact_feedback_correct": "Correct! Writing recorded laws and trade.",
+            "fact_feedback_incorrect": "You missed the fact: Writing helped record laws and trade."
+          },
+          {
+            "question_id": 8,
+            "question": "Cave drawings were made on…",
+            "options": [
+              "Walls",
+              "Computers",
+              "Glass windows"
+            ],
+            "correct_answer": "Walls",
+            "fact_feedback_correct": "Yes! Cave drawings were made on walls.",
+            "fact_feedback_incorrect": "You missed the fact: Cave drawings were painted on cave walls."
+          },
+          {
+            "question_id": 9,
+            "question": "Paper made writing…",
+            "options": [
+              "Lighter and easier",
+              "Heavier",
+              "Impossible"
+            ],
+            "correct_answer": "Lighter and easier",
+            "fact_feedback_correct": "Correct! Paper made writing easier to carry.",
+            "fact_feedback_incorrect": "You missed the fact: Paper made writing easier."
+          },
+          {
+            "question_id": 10,
+            "question": "Writing changed history by allowing people to…",
+            "options": [
+              "Share knowledge",
+              "Stop speaking",
+              "Move mountains"
+            ],
+            "correct_answer": "Share knowledge",
+            "fact_feedback_correct": "Right! Writing allowed knowledge to be shared.",
+            "fact_feedback_incorrect": "You missed the fact: Writing helped preserve and share knowledge."
+          }
+        ]
+      },
+      {
+        "story_id": "history_05",
+        "title": "Ships That Crossed the Seas",
+        "learning_objectives": [
+          "People have traveled by sea for thousands of years",
+          "Early sailors used stars to navigate",
+          "Trade routes connected different regions",
+          "Ships carried goods and ideas",
+          "Exploration helped cultures meet and exchange knowledge"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long before airplanes, brave sailors traveled across wide oceans in wooden ships.",
+            "image_prompt": "Flat pastel illustration of wooden sailing ship on calm ocean, soft sunset colors, simple shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Early ships were built from wood and powered by wind in large cloth sails.",
+            "image_prompt": "Flat pastel illustration of simple wooden ship with sails catching wind, educational and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sailors learned to watch the stars at night to guide their direction.",
+            "image_prompt": "Flat pastel illustration of sailors pointing to star patterns in night sky above ship, calm and gentle, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "The North Star helped many travelers know which way was north.",
+            "image_prompt": "Flat pastel star map with North Star highlighted above small ship silhouette, simple and clear, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Ships carried spices, silk, gold, and other goods between distant lands.",
+            "image_prompt": "Flat pastel illustration of ship deck with labeled goods like spice sacks, silk rolls, gold coins, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "These sea paths became trade routes that connected different continents.",
+            "image_prompt": "Flat pastel world map with dotted lines showing ocean trade routes, soft colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "When ships arrived in new places, people shared foods, tools, and ideas.",
+            "image_prompt": "Flat pastel harbor scene with sailors and local people exchanging goods peacefully, inclusive tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Explorers sometimes faced storms and strong waves during long journeys.",
+            "image_prompt": "Flat pastel illustration of ship in gentle storm with waves, non-scary style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Careful navigation and teamwork helped ships reach faraway lands safely.",
+            "image_prompt": "Flat pastel illustration of crew working together adjusting sails and steering, educational teamwork theme, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Ocean travel changed history by connecting cultures across the world.",
+            "image_prompt": "Flat pastel collage of ships sailing between continents with sunrise glow, hopeful and educational, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Early ships were powered by…",
+            "options": [
+              "Wind",
+              "Electricity",
+              "Gas engines"
+            ],
+            "correct_answer": "Wind",
+            "fact_feedback_correct": "Correct! Early ships used wind in their sails.",
+            "fact_feedback_incorrect": "You missed the fact: Sailing ships were powered by wind."
+          },
+          {
+            "question_id": 2,
+            "question": "Sailors used stars to…",
+            "options": [
+              "Find direction",
+              "Cook food",
+              "Paint ships"
+            ],
+            "correct_answer": "Find direction",
+            "fact_feedback_correct": "Right! Stars helped sailors navigate.",
+            "fact_feedback_incorrect": "You missed the fact: Stars guided sailors."
+          },
+          {
+            "question_id": 3,
+            "question": "The North Star helped sailors find…",
+            "options": [
+              "North",
+              "South",
+              "Treasure"
+            ],
+            "correct_answer": "North",
+            "fact_feedback_correct": "Correct! The North Star points north.",
+            "fact_feedback_incorrect": "You missed the fact: The North Star helps find north."
+          },
+          {
+            "question_id": 4,
+            "question": "Trade routes connected different…",
+            "options": [
+              "Continents",
+              "Clouds",
+              "Mountains only"
+            ],
+            "correct_answer": "Continents",
+            "fact_feedback_correct": "Yes! Trade routes linked continents.",
+            "fact_feedback_incorrect": "You missed the fact: Trade routes connected continents."
+          },
+          {
+            "question_id": 5,
+            "question": "Ships carried goods like…",
+            "options": [
+              "Spices and silk",
+              "Cars",
+              "Computers"
+            ],
+            "correct_answer": "Spices and silk",
+            "fact_feedback_correct": "Correct! Ships transported goods like spices and silk.",
+            "fact_feedback_incorrect": "You missed the fact: Ships carried valuable goods."
+          },
+          {
+            "question_id": 6,
+            "question": "Explorers sometimes faced…",
+            "options": [
+              "Storms",
+              "Snow indoors",
+              "Space travel"
+            ],
+            "correct_answer": "Storms",
+            "fact_feedback_correct": "Right! Storms were a challenge at sea.",
+            "fact_feedback_incorrect": "You missed the fact: Storms made sea travel difficult."
+          },
+          {
+            "question_id": 7,
+            "question": "Trade helped cultures share…",
+            "options": [
+              "Ideas and goods",
+              "Nothing",
+              "Only silence"
+            ],
+            "correct_answer": "Ideas and goods",
+            "fact_feedback_correct": "Correct! Trade allowed sharing of ideas and goods.",
+            "fact_feedback_incorrect": "You missed the fact: Trade spread goods and ideas."
+          },
+          {
+            "question_id": 8,
+            "question": "Sails were made of…",
+            "options": [
+              "Cloth",
+              "Stone",
+              "Glass"
+            ],
+            "correct_answer": "Cloth",
+            "fact_feedback_correct": "Yes! Sails were made from cloth.",
+            "fact_feedback_incorrect": "You missed the fact: Sails were made of cloth."
+          },
+          {
+            "question_id": 9,
+            "question": "Sea travel connected…",
+            "options": [
+              "Different regions",
+              "Only islands",
+              "Only deserts"
+            ],
+            "correct_answer": "Different regions",
+            "fact_feedback_correct": "Correct! Sea travel connected distant regions.",
+            "fact_feedback_incorrect": "You missed the fact: Ships connected different parts of the world."
+          },
+          {
+            "question_id": 10,
+            "question": "Navigation means…",
+            "options": [
+              "Finding direction",
+              "Building houses",
+              "Growing plants"
+            ],
+            "correct_answer": "Finding direction",
+            "fact_feedback_correct": "Right! Navigation means finding direction during travel.",
+            "fact_feedback_incorrect": "You missed the fact: Navigation is about direction."
+          }
+        ]
+      },
+      {
+        "story_id": "history_06",
+        "title": "The Age of Big Inventions",
+        "learning_objectives": [
+          "Inventions change how people live",
+          "The printing press helped spread books",
+          "The steam engine powered machines and trains",
+          "The light bulb provided electric light",
+          "The telephone allowed people to speak across distances"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "As cities grew larger, people began inventing new tools to make life easier.",
+            "image_prompt": "Flat pastel illustration of early city with inventors working on simple machines, soft tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "One important invention was the printing press. It made copying books much faster.",
+            "image_prompt": "Flat pastel illustration of printing press printing pages, educational and gentle, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Before the printing press, books were copied by hand, which took a very long time.",
+            "image_prompt": "Flat pastel comparison scene: person hand-copying book vs printing press machine, simple infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Soon, more people could read books because they became easier to make.",
+            "image_prompt": "Flat pastel children and adults reading books together, warm inclusive tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "The steam engine used heated water to create power that moved machines and trains.",
+            "image_prompt": "Flat pastel simple diagram of steam engine with steam arrows, educational and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Steam-powered trains carried goods and people across long distances.",
+            "image_prompt": "Flat pastel illustration of early steam train traveling across countryside, soft colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Later, the light bulb brought safe electric light into homes.",
+            "image_prompt": "Flat pastel illustration of glowing light bulb lighting small room, cozy and warm, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Instead of candles, families could turn on a switch for light.",
+            "image_prompt": "Flat pastel comparison of candle and light bulb, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "The telephone allowed voices to travel across wires, connecting people far away.",
+            "image_prompt": "Flat pastel illustration of early telephone with sound waves traveling along wire, clear and friendly, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Each invention changed daily life and helped the world become more connected.",
+            "image_prompt": "Flat pastel collage of printing press, train, light bulb, and telephone, hopeful tone, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The printing press helped make…",
+            "options": [
+              "Books faster",
+              "Rain",
+              "Mountains"
+            ],
+            "correct_answer": "Books faster",
+            "fact_feedback_correct": "Correct! The printing press made copying books faster.",
+            "fact_feedback_incorrect": "You missed the fact: The printing press sped up book production."
+          },
+          {
+            "question_id": 2,
+            "question": "Before the printing press, books were copied…",
+            "options": [
+              "By hand",
+              "By robots",
+              "By cars"
+            ],
+            "correct_answer": "By hand",
+            "fact_feedback_correct": "Right! Books were copied by hand.",
+            "fact_feedback_incorrect": "You missed the fact: Books were written by hand before printing."
+          },
+          {
+            "question_id": 3,
+            "question": "The steam engine used…",
+            "options": [
+              "Steam power",
+              "Sunlight only",
+              "Wind only"
+            ],
+            "correct_answer": "Steam power",
+            "fact_feedback_correct": "Correct! Steam engines used heated water steam.",
+            "fact_feedback_incorrect": "You missed the fact: Steam engines used steam to create power."
+          },
+          {
+            "question_id": 4,
+            "question": "Steam trains helped move…",
+            "options": [
+              "People and goods",
+              "Clouds",
+              "Fish"
+            ],
+            "correct_answer": "People and goods",
+            "fact_feedback_correct": "Yes! Steam trains transported people and goods.",
+            "fact_feedback_incorrect": "You missed the fact: Trains carried people and goods."
+          },
+          {
+            "question_id": 5,
+            "question": "The light bulb provides…",
+            "options": [
+              "Electric light",
+              "Rainwater",
+              "Snow"
+            ],
+            "correct_answer": "Electric light",
+            "fact_feedback_correct": "Correct! Light bulbs provide electric light.",
+            "fact_feedback_incorrect": "You missed the fact: Light bulbs create electric light."
+          },
+          {
+            "question_id": 6,
+            "question": "Before electric lights, people used…",
+            "options": [
+              "Candles",
+              "Televisions",
+              "Phones"
+            ],
+            "correct_answer": "Candles",
+            "fact_feedback_correct": "Right! Candles were used for light.",
+            "fact_feedback_incorrect": "You missed the fact: Candles were used before electric light."
+          },
+          {
+            "question_id": 7,
+            "question": "The telephone allows people to…",
+            "options": [
+              "Speak across distance",
+              "Fly",
+              "Cook food"
+            ],
+            "correct_answer": "Speak across distance",
+            "fact_feedback_correct": "Correct! Telephones carry voices far away.",
+            "fact_feedback_incorrect": "You missed the fact: Telephones let voices travel across distance."
+          },
+          {
+            "question_id": 8,
+            "question": "Inventions help make life…",
+            "options": [
+              "Easier",
+              "Harder always",
+              "Colder"
+            ],
+            "correct_answer": "Easier",
+            "fact_feedback_correct": "Yes! Inventions often make life easier.",
+            "fact_feedback_incorrect": "You missed the fact: Inventions improve daily life."
+          },
+          {
+            "question_id": 9,
+            "question": "Steam engines helped power…",
+            "options": [
+              "Machines and trains",
+              "Trees",
+              "Stars"
+            ],
+            "correct_answer": "Machines and trains",
+            "fact_feedback_correct": "Correct! Steam engines powered machines and trains.",
+            "fact_feedback_incorrect": "You missed the fact: Steam engines powered machines."
+          },
+          {
+            "question_id": 10,
+            "question": "The printing press helped more people…",
+            "options": [
+              "Read books",
+              "Build rockets",
+              "Swim underwater"
+            ],
+            "correct_answer": "Read books",
+            "fact_feedback_correct": "Right! Books became more available.",
+            "fact_feedback_incorrect": "You missed the fact: Printing made books widely available."
+          }
+        ]
+      },
+      {
+        "story_id": "history_07",
+        "title": "How Transportation Changed",
+        "learning_objectives": [
+          "People once traveled mostly by foot or animals",
+          "Carts and wagons were pulled by horses",
+          "Trains allowed faster long-distance travel",
+          "Cars changed daily transportation",
+          "Airplanes made global travel possible"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, most people traveled by walking from place to place.",
+            "image_prompt": "Flat pastel illustration of early travelers walking along dirt path, soft earth tones, simple shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Soon, animals like horses helped carry people and goods.",
+            "image_prompt": "Flat pastel illustration of person riding horse with simple cart, friendly educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Carts and wagons pulled by animals made moving heavy loads easier.",
+            "image_prompt": "Flat pastel illustration of horse pulling wooden wagon with goods, calm countryside setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "In the 1800s, steam trains began traveling on long metal tracks.",
+            "image_prompt": "Flat pastel steam train traveling on railway tracks, soft smoke, non-scary style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Trains could carry many passengers and goods much faster than wagons.",
+            "image_prompt": "Flat pastel train with passengers inside, simple infographic arrows showing speed, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Later, cars powered by engines allowed families to travel on roads.",
+            "image_prompt": "Flat pastel early car driving on simple road with family inside, bright friendly colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Roads expanded, connecting towns and cities across countries.",
+            "image_prompt": "Flat pastel map view of roads connecting towns with small car icons, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "In the 1900s, airplanes began flying high above the clouds.",
+            "image_prompt": "Flat pastel airplane flying above soft clouds, calm sky tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Air travel made it possible to cross oceans in hours instead of months.",
+            "image_prompt": "Flat pastel world map with airplane crossing ocean quickly, gentle arrows showing speed, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From walking to flying, transportation changed how the world connects.",
+            "image_prompt": "Flat pastel timeline collage: walking, horse cart, train, car, airplane, sunrise theme, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Long ago, people mostly traveled by…",
+            "options": [
+              "Walking",
+              "Airplane",
+              "Rocket"
+            ],
+            "correct_answer": "Walking",
+            "fact_feedback_correct": "Correct! Walking was the earliest way to travel.",
+            "fact_feedback_incorrect": "You missed the fact: People first traveled by walking."
+          },
+          {
+            "question_id": 2,
+            "question": "Horses helped people by…",
+            "options": [
+              "Carrying loads",
+              "Flying",
+              "Building computers"
+            ],
+            "correct_answer": "Carrying loads",
+            "fact_feedback_correct": "Right! Horses helped carry goods and people.",
+            "fact_feedback_incorrect": "You missed the fact: Horses pulled carts and carried loads."
+          },
+          {
+            "question_id": 3,
+            "question": "Steam trains traveled on…",
+            "options": [
+              "Tracks",
+              "Water only",
+              "Clouds"
+            ],
+            "correct_answer": "Tracks",
+            "fact_feedback_correct": "Correct! Trains move on railway tracks.",
+            "fact_feedback_incorrect": "You missed the fact: Steam trains traveled on tracks."
+          },
+          {
+            "question_id": 4,
+            "question": "Cars travel on…",
+            "options": [
+              "Roads",
+              "Ocean waves",
+              "Stars"
+            ],
+            "correct_answer": "Roads",
+            "fact_feedback_correct": "Yes! Cars travel on roads.",
+            "fact_feedback_incorrect": "You missed the fact: Cars use roads."
+          },
+          {
+            "question_id": 5,
+            "question": "Airplanes travel through…",
+            "options": [
+              "Air",
+              "Soil",
+              "Caves"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Correct! Airplanes fly through the air.",
+            "fact_feedback_incorrect": "You missed the fact: Airplanes travel in the sky."
+          },
+          {
+            "question_id": 6,
+            "question": "Trains could carry…",
+            "options": [
+              "Many passengers",
+              "Only one person",
+              "Only animals"
+            ],
+            "correct_answer": "Many passengers",
+            "fact_feedback_correct": "Right! Trains carry many passengers and goods.",
+            "fact_feedback_incorrect": "You missed the fact: Trains carry many people."
+          },
+          {
+            "question_id": 7,
+            "question": "Air travel reduced travel time across oceans from…",
+            "options": [
+              "Months to hours",
+              "Hours to years",
+              "Days to seconds"
+            ],
+            "correct_answer": "Months to hours",
+            "fact_feedback_correct": "Correct! Airplanes greatly reduced travel time.",
+            "fact_feedback_incorrect": "You missed the fact: Airplanes shortened ocean travel."
+          },
+          {
+            "question_id": 8,
+            "question": "Transportation connects…",
+            "options": [
+              "Cities and countries",
+              "Only houses",
+              "Only trees"
+            ],
+            "correct_answer": "Cities and countries",
+            "fact_feedback_correct": "Yes! Transportation connects regions.",
+            "fact_feedback_incorrect": "You missed the fact: Transportation connects cities."
+          },
+          {
+            "question_id": 9,
+            "question": "Before trains, heavy goods were moved by…",
+            "options": [
+              "Wagons",
+              "Airplanes",
+              "Submarines"
+            ],
+            "correct_answer": "Wagons",
+            "fact_feedback_correct": "Correct! Wagons carried goods before trains.",
+            "fact_feedback_incorrect": "You missed the fact: Wagons were used before trains."
+          },
+          {
+            "question_id": 10,
+            "question": "Transportation changed history by making travel…",
+            "options": [
+              "Faster",
+              "Impossible",
+              "Colder"
+            ],
+            "correct_answer": "Faster",
+            "fact_feedback_correct": "Right! Transportation made travel faster.",
+            "fact_feedback_incorrect": "You missed the fact: Transportation increased speed."
+          }
+        ]
+      },
+      {
+        "story_id": "history_08",
+        "title": "How Communication Changed",
+        "learning_objectives": [
+          "People once sent messages by hand-delivered letters",
+          "The telegraph sent messages using electrical signals",
+          "The telephone allowed people to hear each other far away",
+          "Radio and television spread messages to many people",
+          "The internet allows instant global communication"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, sending a message meant writing a letter by hand.",
+            "image_prompt": "Flat pastel illustration of child writing letter with feather pen and paper, soft warm colors, simple shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Letters traveled by foot, horse, or ship across long distances.",
+            "image_prompt": "Flat pastel scene of mail carried by horse rider and small sailing ship, calm historical style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sometimes letters took weeks or months to arrive.",
+            "image_prompt": "Flat pastel calendar pages flipping with small envelope traveling slowly, gentle infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "In the 1800s, the telegraph sent messages using electric signals.",
+            "image_prompt": "Flat pastel illustration of simple telegraph machine with dotted signal lines, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Messages traveled as dots and dashes across long wires.",
+            "image_prompt": "Flat pastel telegraph wires stretching across countryside with dot-dash symbols floating, simple clean design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Soon, the telephone let people hear voices from far away.",
+            "image_prompt": "Flat pastel early telephone device with two people smiling and talking, gentle vintage tones, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Radio and television shared news and stories with many families at once.",
+            "image_prompt": "Flat pastel family listening to radio and watching early TV, cozy living room, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Later, computers connected through the internet.",
+            "image_prompt": "Flat pastel simple computers connected with glowing lines across globe, kid-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Today, messages can travel around the world in seconds.",
+            "image_prompt": "Flat pastel globe with message icons flying instantly across continents, bright cheerful colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From letters to internet, communication became faster and easier.",
+            "image_prompt": "Flat pastel timeline collage: letter, telegraph, phone, TV, computer, clean simple design, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Long ago, messages were sent by…",
+            "options": [
+              "Letters",
+              "Emails",
+              "Video calls"
+            ],
+            "correct_answer": "Letters",
+            "fact_feedback_correct": "Correct! People wrote letters to send messages.",
+            "fact_feedback_incorrect": "You missed the fact: Letters were the main way to send messages."
+          },
+          {
+            "question_id": 2,
+            "question": "The telegraph used…",
+            "options": [
+              "Electric signals",
+              "Bird wings",
+              "Clouds"
+            ],
+            "correct_answer": "Electric signals",
+            "fact_feedback_correct": "Right! Telegraph messages traveled as electric signals.",
+            "fact_feedback_incorrect": "You missed the fact: The telegraph used electric signals."
+          },
+          {
+            "question_id": 3,
+            "question": "Telegraph messages were made of…",
+            "options": [
+              "Dots and dashes",
+              "Colors only",
+              "Music notes"
+            ],
+            "correct_answer": "Dots and dashes",
+            "fact_feedback_correct": "Correct! Morse code used dots and dashes.",
+            "fact_feedback_incorrect": "You missed the fact: Telegraph messages used dots and dashes."
+          },
+          {
+            "question_id": 4,
+            "question": "The telephone lets people hear…",
+            "options": [
+              "Voices",
+              "Rain only",
+              "Mountains"
+            ],
+            "correct_answer": "Voices",
+            "fact_feedback_correct": "Yes! The telephone carries voices.",
+            "fact_feedback_incorrect": "You missed the fact: The telephone lets people hear voices."
+          },
+          {
+            "question_id": 5,
+            "question": "Radio and TV share messages with…",
+            "options": [
+              "Many people at once",
+              "Only one person",
+              "No one"
+            ],
+            "correct_answer": "Many people at once",
+            "fact_feedback_correct": "Correct! Radio and TV reach many families.",
+            "fact_feedback_incorrect": "You missed the fact: Radio and TV broadcast to many people."
+          },
+          {
+            "question_id": 6,
+            "question": "The internet connects…",
+            "options": [
+              "Computers worldwide",
+              "Only one house",
+              "Only farms"
+            ],
+            "correct_answer": "Computers worldwide",
+            "fact_feedback_correct": "Right! The internet connects computers around the world.",
+            "fact_feedback_incorrect": "You missed the fact: The internet connects computers globally."
+          },
+          {
+            "question_id": 7,
+            "question": "Modern messages can travel in…",
+            "options": [
+              "Seconds",
+              "Years",
+              "Centuries"
+            ],
+            "correct_answer": "Seconds",
+            "fact_feedback_correct": "Correct! Internet messages travel almost instantly.",
+            "fact_feedback_incorrect": "You missed the fact: Today messages can travel in seconds."
+          },
+          {
+            "question_id": 8,
+            "question": "Before telephones, people could not…",
+            "options": [
+              "Hear voices far away",
+              "Write letters",
+              "Draw pictures"
+            ],
+            "correct_answer": "Hear voices far away",
+            "fact_feedback_correct": "Yes! Hearing voices far away came later with telephones.",
+            "fact_feedback_incorrect": "You missed the fact: Telephones allowed hearing voices from far away."
+          },
+          {
+            "question_id": 9,
+            "question": "The telegraph came before the…",
+            "options": [
+              "Telephone",
+              "Letter",
+              "Cave painting"
+            ],
+            "correct_answer": "Telephone",
+            "fact_feedback_correct": "Correct! The telegraph came before the telephone.",
+            "fact_feedback_incorrect": "You missed the fact: Telegraph technology came earlier than telephones."
+          },
+          {
+            "question_id": 10,
+            "question": "Communication changed by becoming…",
+            "options": [
+              "Faster",
+              "Slower",
+              "Invisible"
+            ],
+            "correct_answer": "Faster",
+            "fact_feedback_correct": "Right! Communication became faster over time.",
+            "fact_feedback_incorrect": "You missed the fact: Communication speed increased over history."
+          }
+        ]
+      },
+      {
+        "story_id": "history_09",
+        "title": "Ancient Games and Sports",
+        "learning_objectives": [
+          "Ancient civilizations played organized games",
+          "The Olympic Games began in ancient Greece",
+          "Early Olympic sports included running and wrestling",
+          "Sports encourage fairness and teamwork",
+          "Modern Olympics continue ancient traditions"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, people loved to play games and test their strength.",
+            "image_prompt": "Flat pastel illustration of ancient people playing simple outdoor games, warm earth tones, soft shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "In ancient Greece, athletes gathered for the Olympic Games.",
+            "image_prompt": "Flat pastel ancient Greek stadium with simple columns and runners preparing, educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The first Olympics began over two thousand years ago.",
+            "image_prompt": "Flat pastel timeline marker showing ancient Greece with simple calendar icon, kid-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Running races were among the earliest Olympic events.",
+            "image_prompt": "Flat pastel runners racing in ancient stadium, soft neutral tones, friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Wrestling and discus throwing tested skill and strength.",
+            "image_prompt": "Flat pastel ancient athletes practicing wrestling and discus, simple safe illustration, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Winners were crowned with olive wreaths instead of medals.",
+            "image_prompt": "Flat pastel athlete receiving olive wreath crown, calm historical setting, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Sports were not only about winning. They taught fairness and respect.",
+            "image_prompt": "Flat pastel two athletes shaking hands after race, friendly teamwork theme, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Over time, games spread across many cultures and countries.",
+            "image_prompt": "Flat pastel world map with small sport icons across continents, simple educational style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Today, the modern Olympics bring athletes together from around the world.",
+            "image_prompt": "Flat pastel modern stadium with diverse athletes and flags, bright cheerful palette, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Ancient games remind us that teamwork and fair play matter most.",
+            "image_prompt": "Flat pastel timeline collage from ancient Greece to modern Olympics, soft pastel colors, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The Olympic Games began in…",
+            "options": [
+              "Ancient Greece",
+              "Ancient Egypt",
+              "The Moon"
+            ],
+            "correct_answer": "Ancient Greece",
+            "fact_feedback_correct": "Correct! The Olympic Games began in ancient Greece.",
+            "fact_feedback_incorrect": "You missed the fact: The Olympics began in ancient Greece."
+          },
+          {
+            "question_id": 2,
+            "question": "The first Olympics were held over…",
+            "options": [
+              "Two thousand years ago",
+              "Ten years ago",
+              "One week ago"
+            ],
+            "correct_answer": "Two thousand years ago",
+            "fact_feedback_correct": "Right! The first Olympics were over 2,000 years ago.",
+            "fact_feedback_incorrect": "You missed the fact: The first Olympics were over 2,000 years ago."
+          },
+          {
+            "question_id": 3,
+            "question": "An early Olympic sport was…",
+            "options": [
+              "Running",
+              "Snowboarding",
+              "Skateboarding"
+            ],
+            "correct_answer": "Running",
+            "fact_feedback_correct": "Correct! Running was one of the earliest Olympic sports.",
+            "fact_feedback_incorrect": "You missed the fact: Running was an early Olympic sport."
+          },
+          {
+            "question_id": 4,
+            "question": "Winners wore…",
+            "options": [
+              "Olive wreaths",
+              "Gold medals",
+              "Crowns of diamonds"
+            ],
+            "correct_answer": "Olive wreaths",
+            "fact_feedback_correct": "Yes! Ancient winners were crowned with olive wreaths.",
+            "fact_feedback_incorrect": "You missed the fact: Ancient Olympic winners wore olive wreaths."
+          },
+          {
+            "question_id": 5,
+            "question": "Sports teach…",
+            "options": [
+              "Fairness and respect",
+              "Only speed",
+              "Only strength"
+            ],
+            "correct_answer": "Fairness and respect",
+            "fact_feedback_correct": "Correct! Sports help teach fairness and respect.",
+            "fact_feedback_incorrect": "You missed the fact: Sports teach fairness and respect."
+          },
+          {
+            "question_id": 6,
+            "question": "Modern Olympics include athletes from…",
+            "options": [
+              "Many countries",
+              "One town only",
+              "Only Greece"
+            ],
+            "correct_answer": "Many countries",
+            "fact_feedback_correct": "Right! Athletes from many countries compete today.",
+            "fact_feedback_incorrect": "You missed the fact: Modern Olympics include athletes from many countries."
+          },
+          {
+            "question_id": 7,
+            "question": "Wrestling was an…",
+            "options": [
+              "Ancient Olympic sport",
+              "New video game",
+              "Ocean sport"
+            ],
+            "correct_answer": "Ancient Olympic sport",
+            "fact_feedback_correct": "Correct! Wrestling was part of the early Olympics.",
+            "fact_feedback_incorrect": "You missed the fact: Wrestling was an early Olympic sport."
+          },
+          {
+            "question_id": 8,
+            "question": "The Olympics happen every…",
+            "options": [
+              "Four years",
+              "Every week",
+              "Every day"
+            ],
+            "correct_answer": "Four years",
+            "fact_feedback_correct": "Yes! The modern Olympics happen every four years.",
+            "fact_feedback_incorrect": "You missed the fact: The Olympics happen every four years."
+          },
+          {
+            "question_id": 9,
+            "question": "Discus throwing tests…",
+            "options": [
+              "Strength and skill",
+              "Cooking",
+              "Sleeping"
+            ],
+            "correct_answer": "Strength and skill",
+            "fact_feedback_correct": "Correct! Discus throwing tests strength and skill.",
+            "fact_feedback_incorrect": "You missed the fact: Discus throwing tests strength and skill."
+          },
+          {
+            "question_id": 10,
+            "question": "Ancient games remind us to…",
+            "options": [
+              "Play fair",
+              "Break rules",
+              "Ignore others"
+            ],
+            "correct_answer": "Play fair",
+            "fact_feedback_correct": "Right! Fair play is an important lesson from ancient games.",
+            "fact_feedback_incorrect": "You missed the fact: Ancient games teach fair play."
+          }
+        ]
+      },
+      {
+        "story_id": "history_10",
+        "title": "The Story of Money and Trade",
+        "learning_objectives": [
+          "Early people traded goods without money (barter)",
+          "Coins were created to make trade easier",
+          "Paper money replaced heavy coins",
+          "Banks help keep money safe",
+          "Today digital payments are common"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Long ago, people traded goods without using money.",
+            "image_prompt": "Flat pastel illustration of two ancient people exchanging vegetables and tools, soft earth tones, simple shapes, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "This kind of trading was called barter.",
+            "image_prompt": "Flat pastel infographic style showing apples exchanged for pottery with label 'barter', child-friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Barter worked, but it was sometimes difficult to agree on value.",
+            "image_prompt": "Flat pastel scene of two people thinking while comparing items, gentle educational tone, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Later, metal coins were created to make trade easier.",
+            "image_prompt": "Flat pastel simple ancient metal coins with stamped symbols, clean educational illustration, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Coins had shapes and marks to show their value.",
+            "image_prompt": "Flat pastel close-up of coins with simple symbols and numbers, toddler-friendly infographic style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Carrying many heavy coins could be hard.",
+            "image_prompt": "Flat pastel person carrying heavy coin bag with gentle humor, soft pastel colors, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "So paper money was invented to replace heavy metal coins.",
+            "image_prompt": "Flat pastel early paper bills replacing coin pile, clear simple illustration, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Banks were created to store money safely.",
+            "image_prompt": "Flat pastel simple bank building with shield icon for safety, educational toddler style, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Today, people can use cards and phones to pay digitally.",
+            "image_prompt": "Flat pastel modern payment scene with card and smartphone tapping, clean friendly design, 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "From barter to digital money, trade has changed over time.",
+            "image_prompt": "Flat pastel timeline collage: barter exchange, coins, paper bills, bank, smartphone payment, simple and bright, 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Trading goods without money is called…",
+            "options": [
+              "Barter",
+              "Shopping",
+              "Banking"
+            ],
+            "correct_answer": "Barter",
+            "fact_feedback_correct": "Correct! Barter means trading goods without money.",
+            "fact_feedback_incorrect": "You missed the fact: Trading goods without money is called barter."
+          },
+          {
+            "question_id": 2,
+            "question": "Coins were made to make trade…",
+            "options": [
+              "Easier",
+              "Slower",
+              "Impossible"
+            ],
+            "correct_answer": "Easier",
+            "fact_feedback_correct": "Right! Coins helped make trade easier.",
+            "fact_feedback_incorrect": "You missed the fact: Coins made trade easier."
+          },
+          {
+            "question_id": 3,
+            "question": "Coins are often made of…",
+            "options": [
+              "Metal",
+              "Paper",
+              "Leaves"
+            ],
+            "correct_answer": "Metal",
+            "fact_feedback_correct": "Correct! Early coins were made of metal.",
+            "fact_feedback_incorrect": "You missed the fact: Coins were made of metal."
+          },
+          {
+            "question_id": 4,
+            "question": "Paper money replaced…",
+            "options": [
+              "Heavy coins",
+              "Letters",
+              "Boats"
+            ],
+            "correct_answer": "Heavy coins",
+            "fact_feedback_correct": "Yes! Paper money replaced heavy metal coins.",
+            "fact_feedback_incorrect": "You missed the fact: Paper money replaced heavy coins."
+          },
+          {
+            "question_id": 5,
+            "question": "Banks help keep money…",
+            "options": [
+              "Safe",
+              "Lost",
+              "Hidden in caves"
+            ],
+            "correct_answer": "Safe",
+            "fact_feedback_correct": "Correct! Banks help store money safely.",
+            "fact_feedback_incorrect": "You missed the fact: Banks keep money safe."
+          },
+          {
+            "question_id": 6,
+            "question": "Barter can be hard because people may not agree on…",
+            "options": [
+              "Value",
+              "Weather",
+              "Colors"
+            ],
+            "correct_answer": "Value",
+            "fact_feedback_correct": "Right! Barter can be hard when people disagree about value.",
+            "fact_feedback_incorrect": "You missed the fact: Barter depends on agreeing about value."
+          },
+          {
+            "question_id": 7,
+            "question": "Modern payments can use a…",
+            "options": [
+              "Phone",
+              "Horse",
+              "Candle"
+            ],
+            "correct_answer": "Phone",
+            "fact_feedback_correct": "Correct! Today people can pay using phones.",
+            "fact_feedback_incorrect": "You missed the fact: Phones can be used for digital payments."
+          },
+          {
+            "question_id": 8,
+            "question": "Coins have marks to show their…",
+            "options": [
+              "Value",
+              "Age",
+              "Favorite color"
+            ],
+            "correct_answer": "Value",
+            "fact_feedback_correct": "Yes! Marks on coins show their value.",
+            "fact_feedback_incorrect": "You missed the fact: Coin marks show value."
+          },
+          {
+            "question_id": 9,
+            "question": "Before money, people traded things like…",
+            "options": [
+              "Food and tools",
+              "Stars",
+              "Clouds"
+            ],
+            "correct_answer": "Food and tools",
+            "fact_feedback_correct": "Correct! Early trade included food and tools.",
+            "fact_feedback_incorrect": "You missed the fact: People traded real goods like food and tools."
+          },
+          {
+            "question_id": 10,
+            "question": "Trade has changed by becoming…",
+            "options": [
+              "More convenient",
+              "Slower",
+              "Disappeared"
+            ],
+            "correct_answer": "More convenient",
+            "fact_feedback_correct": "Right! Trade became more convenient over time.",
+            "fact_feedback_incorrect": "You missed the fact: Trade became easier and more convenient."
+          }
+        ]
+      }
+    ]
+  }
+}

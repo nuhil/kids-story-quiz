@@ -1,0 +1,1863 @@
+{
+  "category": {
+    "category_name": "Ocean Life",
+    "category_id": "ocean_life",
+    "stories": [
+      {
+        "story_id": "ocean_01",
+        "title": "Whaley the Giant of the Sea",
+        "learning_objectives": [
+          "A blue whale is the largest animal on Earth",
+          "Ocean water is salty",
+          "Deep ocean can be dark and cold",
+          "Whales breathe air using a blowhole",
+          "Whales use tails to swim"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Whaley is a blue whale, the biggest animal on Earth. He lives in the wide ocean and swims slowly, calmly, and gently.",
+            "image_prompt": "Flat pastel illustration of a friendly giant blue whale smiling in a bright blue ocean, simple shapes, kid-friendly, soft shading, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The ocean is huge. Some places are shallow and sunny, and some places are very deep, cold, and dark.",
+            "image_prompt": "Flat pastel cross-section of ocean from sunny surface to dark deep water, simple gradient, cute fish silhouettes, educational toddler style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Ocean water is salty. It tastes salty, not sweet. Salt is mixed into the water everywhere in the sea.",
+            "image_prompt": "Flat pastel scene of a small cup labeled 'salty ocean' with a smiling wave icon, simple educational symbols, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Whaley swishes his strong tail up and down. That tail push helps him move forward through heavy water.",
+            "image_prompt": "Flat pastel whale tail swishing with gentle motion lines and bubbles, simple diagram-like style, cheerful, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Even though Whaley lives in water, he must breathe air. He cannot breathe underwater like fish can.",
+            "image_prompt": "Flat pastel whale near surface with a thought bubble showing air clouds, plus a fish with gills icon, simple and clear, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Whaley swims up to the surface. He blows air out through his blowhole, making a tall spray called a spout.",
+            "image_prompt": "Flat pastel whale surfacing with a cute water spout, soft sky, gentle waves, minimal details, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Whaley eats tiny food called krill. He opens his mouth wide, then filters the water and keeps the krill.",
+            "image_prompt": "Flat pastel whale with open mouth and tiny pink krill dots, simple filtering idea with arrows, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Some ocean parts are so deep that sunlight cannot reach. Down there, it can feel very dark and quiet.",
+            "image_prompt": "Flat pastel deep-sea scene with dim light fading, small glowing dots, calm mood, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Whaley listens to sounds in the water. Whales can make calls, and sound can travel far in the ocean.",
+            "image_prompt": "Flat pastel whale with musical note icons traveling as waves, simple sound-wave lines, friendly style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Whaley keeps swimming, breathing air, and eating krill. The ocean is his home, and he helps it stay healthy.",
+            "image_prompt": "Flat pastel ocean scene with whale, krill, and happy sea plants, gentle pastel palette, warm kid-friendly feel, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 11,
+            "text": "At bedtime, we remember: the biggest whale lives in salty water, and deep ocean can be cold, dark, and calm.",
+            "image_prompt": "Flat pastel bedtime-style ocean with moon and calm waves, whale smiling softly, cozy and soothing, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Whaley?",
+            "options": [
+              "A blue whale",
+              "A shark",
+              "A crab"
+            ],
+            "correct_answer": "A blue whale",
+            "fact_feedback_correct": "You are right! Whaley is a blue whale, and blue whales are the biggest animals on Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Whaley is a blue whale, and blue whales are the biggest animals on Earth."
+          },
+          {
+            "question_id": 2,
+            "question": "Ocean water tastes mostly…",
+            "options": [
+              "Salty",
+              "Sweet",
+              "Spicy"
+            ],
+            "correct_answer": "Salty",
+            "fact_feedback_correct": "Correct! Ocean water is salty because salt is mixed into the sea water.",
+            "fact_feedback_incorrect": "You missed the fact: Ocean water is salty, not sweet or spicy."
+          },
+          {
+            "question_id": 3,
+            "question": "Where can it be dark and cold?",
+            "options": [
+              "Deep ocean",
+              "Sunny beach sand",
+              "Clouds in the sky"
+            ],
+            "correct_answer": "Deep ocean",
+            "fact_feedback_correct": "Yes! Deep ocean can be cold and dark because sunlight cannot reach very far down.",
+            "fact_feedback_incorrect": "You missed the fact: Deep ocean can be dark and cold because sunlight cannot reach very far down."
+          },
+          {
+            "question_id": 4,
+            "question": "Whales breathe…",
+            "options": [
+              "Air",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Correct! Whales must breathe air, even though they live in water.",
+            "fact_feedback_incorrect": "You missed the fact: Whales breathe air, not water or sand."
+          },
+          {
+            "question_id": 5,
+            "question": "Whaley breathes using a…",
+            "options": [
+              "Blowhole",
+              "Gills",
+              "Nose underwater"
+            ],
+            "correct_answer": "Blowhole",
+            "fact_feedback_correct": "You are right! Whales breathe through a blowhole on top of their head.",
+            "fact_feedback_incorrect": "You missed the fact: Whales breathe through a blowhole, not gills."
+          },
+          {
+            "question_id": 6,
+            "question": "Whales swim forward using their…",
+            "options": [
+              "Tail",
+              "Horns",
+              "Wings"
+            ],
+            "correct_answer": "Tail",
+            "fact_feedback_correct": "Correct! A whale’s tail pushes water to help it swim forward.",
+            "fact_feedback_incorrect": "You missed the fact: Whales use their tail to push water and swim."
+          },
+          {
+            "question_id": 7,
+            "question": "What tiny food does Whaley eat?",
+            "options": [
+              "Krill",
+              "Pizza",
+              "Leaves"
+            ],
+            "correct_answer": "Krill",
+            "fact_feedback_correct": "Yes! Many big whales eat tiny animals called krill.",
+            "fact_feedback_incorrect": "You missed the fact: Whales like Whaley eat tiny animals called krill."
+          },
+          {
+            "question_id": 8,
+            "question": "To breathe, Whaley swims to the…",
+            "options": [
+              "Surface",
+              "Bottom",
+              "Coral wall"
+            ],
+            "correct_answer": "Surface",
+            "fact_feedback_correct": "Correct! Whales must go to the surface to breathe air.",
+            "fact_feedback_incorrect": "You missed the fact: Whales must go to the surface to breathe air."
+          },
+          {
+            "question_id": 9,
+            "question": "Sunlight reaches best near the…",
+            "options": [
+              "Surface",
+              "Deepest bottom",
+              "Inside a rock"
+            ],
+            "correct_answer": "Surface",
+            "fact_feedback_correct": "Yes! Sunlight is strongest near the ocean surface and fades deeper down.",
+            "fact_feedback_incorrect": "You missed the fact: Sunlight is strongest near the ocean surface."
+          },
+          {
+            "question_id": 10,
+            "question": "Sound in the ocean can travel…",
+            "options": [
+              "Far",
+              "Only one inch",
+              "Not at all"
+            ],
+            "correct_answer": "Far",
+            "fact_feedback_correct": "Correct! Sound can travel far in water, so whales can hear calls from far away.",
+            "fact_feedback_incorrect": "You missed the fact: Sound can travel far in water, so whales can hear calls from far away."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_02",
+        "title": "Ollie the Octopus with Eight Arms",
+        "learning_objectives": [
+          "An octopus has eight arms",
+          "Octopuses can change color to hide",
+          "Octopuses have suction cups",
+          "Octopuses live in the ocean",
+          "Octopuses can squirt ink to escape"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Ollie is an octopus living in the ocean. He has eight arms, and each arm can bend, reach, and explore.",
+            "image_prompt": "Flat pastel octopus with eight clearly visible arms, smiling, underwater rocks, simple shapes, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "On Ollie’s arms are suction cups. They help him hold onto rocks and pick up shells without dropping them.",
+            "image_prompt": "Flat pastel close-up of octopus arm with suction cups, simple dotted circles, educational toddler style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Ollie hides in a rocky home called a den. It keeps him safe from strong waves and hungry animals.",
+            "image_prompt": "Flat pastel octopus peeking from a cozy rock den, gentle bubbles, warm calm colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Sometimes Ollie changes color. He can look more like sand or rocks to help him stay hidden.",
+            "image_prompt": "Flat pastel octopus changing from light to darker color next to sand and rocks, simple before/after panels, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Ollie sees a fish swim by. He stays still, blending in, because hiding is a smart ocean skill.",
+            "image_prompt": "Flat pastel scene with octopus blending with rock, fish swimming, simple contrast, child-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "If danger comes close, Ollie can squirt a dark cloud of ink. The ink helps him sneak away quickly.",
+            "image_prompt": "Flat pastel octopus releasing a soft dark ink cloud, motion lines, gentle not-scary style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Ollie moves by jetting water from his body. It pushes him forward like a quick underwater zoom.",
+            "image_prompt": "Flat pastel octopus with arrow showing water jet pushing him forward, simple diagram feel, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "At night, Ollie hunts for food like crabs and small fish. He uses his arms to grab gently.",
+            "image_prompt": "Flat pastel nighttime underwater with octopus and tiny crab, soft moonlight, calm mood, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Ollie tastes with his arms and explores with touch. Ocean animals use many senses to learn.",
+            "image_prompt": "Flat pastel octopus touching shells with curiosity icons, simple sensory symbols, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Ollie returns to his den to rest. Eight arms curl up softly, and the ocean stays calm around him.",
+            "image_prompt": "Flat pastel octopus sleeping in den, cozy rocks, gentle bubbles, soothing bedtime style, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "How many arms does an octopus have?",
+            "options": [
+              "Eight",
+              "Two",
+              "Ten"
+            ],
+            "correct_answer": "Eight",
+            "fact_feedback_correct": "You are right! An octopus has eight arms.",
+            "fact_feedback_incorrect": "You missed the fact: An octopus has eight arms."
+          },
+          {
+            "question_id": 2,
+            "question": "What are the little grippy circles on octopus arms called?",
+            "options": [
+              "Suction cups",
+              "Feathers",
+              "Horns"
+            ],
+            "correct_answer": "Suction cups",
+            "fact_feedback_correct": "Correct! Suction cups help an octopus hold rocks and grab things.",
+            "fact_feedback_incorrect": "You missed the fact: Octopus arms have suction cups to grip."
+          },
+          {
+            "question_id": 3,
+            "question": "Where might an octopus hide?",
+            "options": [
+              "A rocky den",
+              "A tree nest",
+              "A snowy cave on land"
+            ],
+            "correct_answer": "A rocky den",
+            "fact_feedback_correct": "Yes! Octopuses often hide in rocky dens in the ocean.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses hide in rocky dens underwater."
+          },
+          {
+            "question_id": 4,
+            "question": "Why does an octopus change color?",
+            "options": [
+              "To hide",
+              "To fly",
+              "To grow fur"
+            ],
+            "correct_answer": "To hide",
+            "fact_feedback_correct": "Correct! Changing color can help an octopus blend in and hide.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses can change color to hide."
+          },
+          {
+            "question_id": 5,
+            "question": "What can an octopus squirt to escape?",
+            "options": [
+              "Ink",
+              "Sand",
+              "Milk"
+            ],
+            "correct_answer": "Ink",
+            "fact_feedback_correct": "Yes! An octopus can squirt ink to help it escape danger.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses can squirt ink to escape."
+          },
+          {
+            "question_id": 6,
+            "question": "Where does an octopus live?",
+            "options": [
+              "Ocean",
+              "Desert",
+              "Sky"
+            ],
+            "correct_answer": "Ocean",
+            "fact_feedback_correct": "Correct! Octopuses live in the ocean.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses live in the ocean."
+          },
+          {
+            "question_id": 7,
+            "question": "How can an octopus move quickly?",
+            "options": [
+              "By jetting water",
+              "By hopping on grass",
+              "By flapping wings"
+            ],
+            "correct_answer": "By jetting water",
+            "fact_feedback_correct": "Right! Jetting water can push an octopus forward quickly.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses can move by jetting water."
+          },
+          {
+            "question_id": 8,
+            "question": "An octopus uses its arms to…",
+            "options": [
+              "Touch and grab",
+              "Make fire",
+              "Grow leaves"
+            ],
+            "correct_answer": "Touch and grab",
+            "fact_feedback_correct": "Correct! Octopus arms help it touch, explore, and grab food.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses use arms to touch and grab."
+          },
+          {
+            "question_id": 9,
+            "question": "Octopus ink helps it…",
+            "options": [
+              "Hide and escape",
+              "Turn into a bird",
+              "Freeze the water"
+            ],
+            "correct_answer": "Hide and escape",
+            "fact_feedback_correct": "Yes! Ink can make a cloud so the octopus can escape.",
+            "fact_feedback_incorrect": "You missed the fact: Ink helps an octopus hide and escape."
+          },
+          {
+            "question_id": 10,
+            "question": "An octopus has arms, not…",
+            "options": [
+              "Wings",
+              "Arms",
+              "Suction cups"
+            ],
+            "correct_answer": "Wings",
+            "fact_feedback_correct": "Correct! Octopuses do not have wings; they have arms with suction cups.",
+            "fact_feedback_incorrect": "You missed the fact: Octopuses do not have wings; they have arms with suction cups."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_03",
+        "title": "Daisy the Dolphin Who Uses Echoes",
+        "learning_objectives": [
+          "Dolphins are mammals",
+          "Dolphins breathe air at the surface",
+          "Dolphins use echolocation (echoes) to find things",
+          "Dolphins swim in groups called pods",
+          "Dolphins communicate with clicks and whistles"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Daisy is a dolphin in the ocean. She is a mammal, like people, so she breathes air and feeds her baby milk.",
+            "image_prompt": "Flat pastel dolphin smiling with a small baby dolphin nearby, gentle ocean, simple shapes, warm kid-friendly style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Daisy swims with her family group called a pod. Pods help dolphins stay safe and find food together.",
+            "image_prompt": "Flat pastel group of dolphins swimming together in a pod, simple motion lines, calm blue palette, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Daisy must breathe air. She swims up to the surface and takes a quick breath through her blowhole.",
+            "image_prompt": "Flat pastel dolphin surfacing with a tiny puff of air, soft waves, clear and friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Underwater, Daisy makes clicking sounds. The clicks bounce back as echoes and tell her what is nearby.",
+            "image_prompt": "Flat pastel dolphin sending sound-wave lines toward a fish and rock, echoes returning, simple educational diagram, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "This echo-finding is called echolocation. Daisy can find fish even when the water looks dark or cloudy.",
+            "image_prompt": "Flat pastel cloudy underwater scene with dolphin using echo lines to locate fish, gentle not-scary style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Daisy also whistles to talk. Dolphins use clicks and whistles to communicate with friends and family.",
+            "image_prompt": "Flat pastel dolphin with musical note icons and friendly faces of other dolphins, soft colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Daisy’s tail flukes move up and down to swim. Her fins help her steer left, right, and around rocks.",
+            "image_prompt": "Flat pastel dolphin swimming with arrows showing tail up-down and fin steering, simple toddler-friendly diagram, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Daisy plays by jumping and splashing. Playing helps dolphins learn, practice skills, and stay strong.",
+            "image_prompt": "Flat pastel dolphin jumping with splash, happy ocean, simple shapes, bright cheerful mood, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Daisy remembers: breathe at the surface, swim with the pod, and use echoes to find food safely.",
+            "image_prompt": "Flat pastel summary-style scene: dolphin surfacing, pod nearby, echo lines toward fish, simple icons, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At the end of the day, Daisy rests and floats quietly. Her pod stays close in the calm ocean.",
+            "image_prompt": "Flat pastel calm ocean sunset with dolphins resting together, soothing palette, bedtime-friendly, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A dolphin is a…",
+            "options": [
+              "Mammal",
+              "Fish",
+              "Bird"
+            ],
+            "correct_answer": "Mammal",
+            "fact_feedback_correct": "Correct! Dolphins are mammals, like people.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins are mammals, not fish or birds."
+          },
+          {
+            "question_id": 2,
+            "question": "Dolphins breathe…",
+            "options": [
+              "Air",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Yes! Dolphins must breathe air at the surface.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins breathe air, not water or sand."
+          },
+          {
+            "question_id": 3,
+            "question": "A dolphin family group is called a…",
+            "options": [
+              "Pod",
+              "Pack",
+              "Hive"
+            ],
+            "correct_answer": "Pod",
+            "fact_feedback_correct": "Correct! A group of dolphins is called a pod.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins swim in groups called pods."
+          },
+          {
+            "question_id": 4,
+            "question": "Daisy finds things using echoes called…",
+            "options": [
+              "Echolocation",
+              "Photosynthesis",
+              "Hibernation"
+            ],
+            "correct_answer": "Echolocation",
+            "fact_feedback_correct": "Right! Echolocation uses sound and echoes to find things underwater.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins use echolocation to find things underwater."
+          },
+          {
+            "question_id": 5,
+            "question": "What sounds do dolphins use to talk?",
+            "options": [
+              "Clicks and whistles",
+              "Barks and meows",
+              "Drums and bells"
+            ],
+            "correct_answer": "Clicks and whistles",
+            "fact_feedback_correct": "Correct! Dolphins communicate with clicks and whistles.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins use clicks and whistles to communicate."
+          },
+          {
+            "question_id": 6,
+            "question": "To breathe, Daisy goes to the…",
+            "options": [
+              "Surface",
+              "Bottom",
+              "Coral cave"
+            ],
+            "correct_answer": "Surface",
+            "fact_feedback_correct": "Yes! Dolphins go to the surface to breathe air.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins must go to the surface to breathe."
+          },
+          {
+            "question_id": 7,
+            "question": "Dolphin tails move…",
+            "options": [
+              "Up and down",
+              "Side to side",
+              "In circles only"
+            ],
+            "correct_answer": "Up and down",
+            "fact_feedback_correct": "Correct! Dolphin tails move up and down to swim.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphin tails move up and down."
+          },
+          {
+            "question_id": 8,
+            "question": "Echolocation helps Daisy find fish when water is…",
+            "options": [
+              "Dark or cloudy",
+              "Made of ice",
+              "Full of sand castles"
+            ],
+            "correct_answer": "Dark or cloudy",
+            "fact_feedback_correct": "Yes! Echoes can help dolphins find things even when visibility is poor.",
+            "fact_feedback_incorrect": "You missed the fact: Echolocation helps dolphins find things in dark or cloudy water."
+          },
+          {
+            "question_id": 9,
+            "question": "Pods help dolphins stay…",
+            "options": [
+              "Safe",
+              "Invisible",
+              "Frozen"
+            ],
+            "correct_answer": "Safe",
+            "fact_feedback_correct": "Correct! Pods help dolphins stay safe and find food together.",
+            "fact_feedback_incorrect": "You missed the fact: Pods help dolphins stay safe and work together."
+          },
+          {
+            "question_id": 10,
+            "question": "Dolphins are ocean animals that must…",
+            "options": [
+              "Breathe air",
+              "Breathe water",
+              "Breathe rocks"
+            ],
+            "correct_answer": "Breathe air",
+            "fact_feedback_correct": "Right! Dolphins must breathe air, so they surface often.",
+            "fact_feedback_incorrect": "You missed the fact: Dolphins breathe air, so they must surface often."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_04",
+        "title": "Tina the Sea Turtle and the Long Swim",
+        "learning_objectives": [
+          "Sea turtles breathe air",
+          "Sea turtles have shells",
+          "Sea turtles lay eggs on beaches",
+          "Plastic can be dangerous to ocean animals",
+          "Turtles swim using flippers"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Tina is a sea turtle. She has a hard shell on her back that helps protect her in the ocean.",
+            "image_prompt": "Flat pastel sea turtle with a cute patterned shell, bright shallow ocean, simple shapes, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Tina swims with strong flippers. Flippers flap like paddles and help her glide through water smoothly.",
+            "image_prompt": "Flat pastel turtle swimming with flippers and gentle motion lines, bubbles, soft colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Even though Tina lives in water, she must breathe air. She swims up and takes a breath at the surface.",
+            "image_prompt": "Flat pastel turtle surfacing to breathe under a sunny sky, simple waves, calm scene, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Tina loves seagrass and jellyfish. She eats slowly and carefully, using her mouth to bite and chew.",
+            "image_prompt": "Flat pastel turtle nibbling seagrass with a small jellyfish nearby, gentle and friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sometimes Tina sees floating plastic. Plastic can look like food, but it can hurt ocean animals badly.",
+            "image_prompt": "Flat pastel turtle looking at a floating plastic bag with a warning icon, non-scary, educational, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Tina swims away from trash. A clean ocean is safer for turtles, fish, and every sea creature.",
+            "image_prompt": "Flat pastel turtle swimming toward clean water, small cleanup icons, positive tone, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "When it is time, Tina visits a sandy beach. Sea turtles lay eggs on beaches, not underwater.",
+            "image_prompt": "Flat pastel turtle on sandy beach at night with stars, gentle and cozy, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Tina digs a nest with her flippers. She lays eggs and covers them with sand to keep them warm.",
+            "image_prompt": "Flat pastel turtle making a nest and covering eggs, simple and respectful, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Weeks later, baby turtles hatch. They crawl toward the ocean and begin their first swim.",
+            "image_prompt": "Flat pastel baby turtles crawling toward ocean under moonlight, soft pastel, cute tiny shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Tina returns to the sea, breathing air, swimming strong, and reminding us: keep oceans clean and safe.",
+            "image_prompt": "Flat pastel turtle swimming with a small heart icon and clean-ocean symbols, uplifting tone, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A sea turtle has a hard…",
+            "options": [
+              "Shell",
+              "Fur coat",
+              "Feather hat"
+            ],
+            "correct_answer": "Shell",
+            "fact_feedback_correct": "Correct! A sea turtle has a hard shell for protection.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles have a hard shell for protection."
+          },
+          {
+            "question_id": 2,
+            "question": "Sea turtles breathe…",
+            "options": [
+              "Air",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Yes! Sea turtles must breathe air at the surface.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles breathe air, so they surface."
+          },
+          {
+            "question_id": 3,
+            "question": "Sea turtles swim using…",
+            "options": [
+              "Flippers",
+              "Wheels",
+              "Wings"
+            ],
+            "correct_answer": "Flippers",
+            "fact_feedback_correct": "Correct! Sea turtles use flippers like paddles to swim.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles swim with flippers."
+          },
+          {
+            "question_id": 4,
+            "question": "Sea turtles lay eggs on…",
+            "options": [
+              "Beaches",
+              "Clouds",
+              "Mountain tops"
+            ],
+            "correct_answer": "Beaches",
+            "fact_feedback_correct": "Right! Sea turtles lay eggs on sandy beaches.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles lay eggs on beaches, not underwater."
+          },
+          {
+            "question_id": 5,
+            "question": "Plastic in the ocean can be…",
+            "options": [
+              "Harmful",
+              "Delicious",
+              "A new fish"
+            ],
+            "correct_answer": "Harmful",
+            "fact_feedback_correct": "Correct! Plastic can hurt ocean animals if they eat it or get tangled.",
+            "fact_feedback_incorrect": "You missed the fact: Plastic can harm ocean animals."
+          },
+          {
+            "question_id": 6,
+            "question": "To breathe, Tina swims to the…",
+            "options": [
+              "Surface",
+              "Deepest bottom",
+              "Inside a rock"
+            ],
+            "correct_answer": "Surface",
+            "fact_feedback_correct": "Yes! Sea turtles go to the surface to breathe air.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles must surface to breathe air."
+          },
+          {
+            "question_id": 7,
+            "question": "A clean ocean is…",
+            "options": [
+              "Safer",
+              "Louder",
+              "Smaller"
+            ],
+            "correct_answer": "Safer",
+            "fact_feedback_correct": "Correct! A clean ocean is safer for sea animals.",
+            "fact_feedback_incorrect": "You missed the fact: A clean ocean is safer for sea animals."
+          },
+          {
+            "question_id": 8,
+            "question": "Baby turtles hatch from…",
+            "options": [
+              "Eggs",
+              "Seeds",
+              "Rocks"
+            ],
+            "correct_answer": "Eggs",
+            "fact_feedback_correct": "Right! Baby turtles hatch from eggs laid on beaches.",
+            "fact_feedback_incorrect": "You missed the fact: Baby turtles hatch from eggs."
+          },
+          {
+            "question_id": 9,
+            "question": "A turtle shell helps it…",
+            "options": [
+              "Stay protected",
+              "Fly",
+              "Glow like a lamp"
+            ],
+            "correct_answer": "Stay protected",
+            "fact_feedback_correct": "Correct! The shell helps protect the turtle.",
+            "fact_feedback_incorrect": "You missed the fact: The shell protects the turtle."
+          },
+          {
+            "question_id": 10,
+            "question": "Sea turtles are animals that live in…",
+            "options": [
+              "Ocean",
+              "Desert",
+              "Sky"
+            ],
+            "correct_answer": "Ocean",
+            "fact_feedback_correct": "Yes! Sea turtles live in the ocean and visit beaches to lay eggs.",
+            "fact_feedback_incorrect": "You missed the fact: Sea turtles live in the ocean."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_05",
+        "title": "Rafi the Reef Builder",
+        "learning_objectives": [
+          "Coral reefs are made by tiny animals called coral polyps",
+          "Reefs are homes for many ocean animals",
+          "Reefs need clean water and sunlight in shallow areas",
+          "Coral is not a plant or rock; it is made by animals",
+          "Reefs can be colorful"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Rafi swims to a coral reef. The reef is colorful and busy, like an underwater neighborhood full of life.",
+            "image_prompt": "Flat pastel coral reef scene with bright soft corals and cute fish, simple shapes, kid-friendly, cheerful, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Coral reefs are built by tiny animals called coral polyps. Many polyps together make hard coral shapes.",
+            "image_prompt": "Flat pastel educational panel showing tiny coral polyps as cute dots building coral, simple diagram style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The reef lives in shallow water where sunlight can reach. Sunlight helps the reef stay strong and colorful.",
+            "image_prompt": "Flat pastel shallow ocean with sun rays reaching coral, simple arrows, soft warm colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Small fish hide in coral branches. The reef gives them shelter from bigger animals that might chase them.",
+            "image_prompt": "Flat pastel fish hiding in coral branches, friendly big fish in distance, non-scary, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Crabs, sea stars, and snails crawl along the reef. Many animals share the reef as a home.",
+            "image_prompt": "Flat pastel lineup of reef animals: crab, sea star, snail, on coral, cute and simple, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Rafi learns: coral is not a plant and not a rock. Coral is made by tiny animals working together.",
+            "image_prompt": "Flat pastel comparison icons: plant leaf, rock, coral polyp animal, with check and X marks, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Dirty water can hurt reefs. Clean water helps coral and fish stay healthy and safe.",
+            "image_prompt": "Flat pastel split scene: clean water happy reef vs dirty water sad reef, gentle educational tone, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Rafi watches bright colors: pink coral, yellow fish, blue water. The reef looks like a soft rainbow.",
+            "image_prompt": "Flat pastel rainbow-like reef palette, simple fish and coral shapes, playful and colorful, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Rafi swims slowly and carefully so he does not bump the coral. Reefs can break if we are rough.",
+            "image_prompt": "Flat pastel child-friendly reminder: fish swimming carefully near coral with 'gentle' heart icon, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Rafi says goodbye to the reef neighborhood. He remembers: tiny coral animals build big homes for many.",
+            "image_prompt": "Flat pastel reef farewell scene with waving fish and coral, warm friendly vibe, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Coral reefs are built by tiny…",
+            "options": [
+              "Animals called polyps",
+              "Birds",
+              "Trees"
+            ],
+            "correct_answer": "Animals called polyps",
+            "fact_feedback_correct": "Correct! Tiny animals called coral polyps build coral reefs together.",
+            "fact_feedback_incorrect": "You missed the fact: Coral reefs are built by tiny animals called coral polyps."
+          },
+          {
+            "question_id": 2,
+            "question": "Coral is made by…",
+            "options": [
+              "Animals",
+              "Cars",
+              "Clouds"
+            ],
+            "correct_answer": "Animals",
+            "fact_feedback_correct": "Yes! Coral is made by animals, not cars or clouds.",
+            "fact_feedback_incorrect": "You missed the fact: Coral is made by tiny animals working together."
+          },
+          {
+            "question_id": 3,
+            "question": "Reefs are often in…",
+            "options": [
+              "Shallow sunny water",
+              "Deep dark bottom",
+              "Dry desert sand"
+            ],
+            "correct_answer": "Shallow sunny water",
+            "fact_feedback_correct": "Correct! Many reefs live in shallow water where sunlight can reach.",
+            "fact_feedback_incorrect": "You missed the fact: Reefs are often in shallow water with sunlight."
+          },
+          {
+            "question_id": 4,
+            "question": "A reef can be a…",
+            "options": [
+              "Home for many animals",
+              "Toy store",
+              "Mountain cave on land"
+            ],
+            "correct_answer": "Home for many animals",
+            "fact_feedback_correct": "Right! Reefs are homes and shelters for many ocean animals.",
+            "fact_feedback_incorrect": "You missed the fact: Reefs are homes for many ocean animals."
+          },
+          {
+            "question_id": 5,
+            "question": "Dirty water can be…",
+            "options": [
+              "Harmful to reefs",
+              "Helpful to reefs",
+              "A rainbow maker"
+            ],
+            "correct_answer": "Harmful to reefs",
+            "fact_feedback_correct": "Correct! Dirty water can hurt coral reefs and the animals living there.",
+            "fact_feedback_incorrect": "You missed the fact: Dirty water can harm coral reefs."
+          },
+          {
+            "question_id": 6,
+            "question": "Sunlight helps reefs stay…",
+            "options": [
+              "Healthy and colorful",
+              "Made of snow",
+              "Invisible"
+            ],
+            "correct_answer": "Healthy and colorful",
+            "fact_feedback_correct": "Yes! Sunlight helps reefs stay healthy and colorful in shallow water.",
+            "fact_feedback_incorrect": "You missed the fact: Sunlight helps reefs stay healthy and colorful."
+          },
+          {
+            "question_id": 7,
+            "question": "Coral is NOT a…",
+            "options": [
+              "Plant",
+              "Living animal-made home",
+              "Reef builder"
+            ],
+            "correct_answer": "Plant",
+            "fact_feedback_correct": "Correct! Coral is not a plant; it is made by tiny animals.",
+            "fact_feedback_incorrect": "You missed the fact: Coral is not a plant; it is made by tiny animals."
+          },
+          {
+            "question_id": 8,
+            "question": "Fish may hide in coral to stay…",
+            "options": [
+              "Safe",
+              "Sleepy",
+              "Dry"
+            ],
+            "correct_answer": "Safe",
+            "fact_feedback_correct": "Right! Coral branches can shelter small fish and keep them safer.",
+            "fact_feedback_incorrect": "You missed the fact: Fish hide in coral to stay safer."
+          },
+          {
+            "question_id": 9,
+            "question": "We should swim near reefs…",
+            "options": [
+              "Gently",
+              "By kicking hard",
+              "By stomping"
+            ],
+            "correct_answer": "Gently",
+            "fact_feedback_correct": "Correct! Reefs can break, so we should be gentle near them.",
+            "fact_feedback_incorrect": "You missed the fact: We should swim gently because reefs can break."
+          },
+          {
+            "question_id": 10,
+            "question": "A coral reef is like an underwater…",
+            "options": [
+              "Neighborhood",
+              "Volcano",
+              "Parking lot"
+            ],
+            "correct_answer": "Neighborhood",
+            "fact_feedback_correct": "Yes! Reefs are like underwater neighborhoods full of homes for sea animals.",
+            "fact_feedback_incorrect": "You missed the fact: Reefs are like underwater neighborhoods for many animals."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_06",
+        "title": "Sammy the Seahorse Holds On",
+        "learning_objectives": [
+          "Seahorses are fish",
+          "Seahorses use tails to hold onto seagrass",
+          "Seahorses swim slowly with small fins",
+          "Seahorses have bony plates instead of typical fish scales",
+          "Camouflage helps seahorses hide"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sammy is a seahorse in a seagrass garden. He is a fish, but he looks different from many other fish.",
+            "image_prompt": "Flat pastel seahorse standing upright among seagrass, friendly face, simple shapes, soft palette, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Sammy swims slowly. His tiny fin wiggles fast, and that helps him move gently through the water.",
+            "image_prompt": "Flat pastel seahorse with small fin flutter lines, bubbles, calm ocean background, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sammy has a curly tail. He wraps his tail around seagrass to hold on when waves push the water.",
+            "image_prompt": "Flat pastel seahorse tail wrapping around seagrass like a coil, clear and cute, educational, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Seahorses can hide by blending in. Sammy tries to match the color of the plants around him.",
+            "image_prompt": "Flat pastel seahorse blending with green seagrass, simple before/after colors, gentle style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sammy’s body has hard bony plates. Many fish have soft scales, but seahorses have stronger armor-like plates.",
+            "image_prompt": "Flat pastel close-up of seahorse body with simple plate pattern, compare icon for fish scales vs plates, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Sammy uses his long snout to sip tiny food. He slurps small shrimp-like snacks floating nearby.",
+            "image_prompt": "Flat pastel seahorse sipping tiny dots of food with a straw-like snout, cute and simple, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "A big fish swims past. Sammy stays still, holding tight, and hiding among the seagrass.",
+            "image_prompt": "Flat pastel big fish in distance, seahorse tucked in seagrass, safe and non-scary, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Seagrass meadows help many ocean animals. They are like underwater fields where creatures find food and shelter.",
+            "image_prompt": "Flat pastel underwater meadow with seagrass, small fish and seahorse, bright but soft colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Sammy remembers: hold on with your tail, swim slowly, and hide by blending in when you need safety.",
+            "image_prompt": "Flat pastel summary icons: tail holding, slow fin flutter, camouflage, simple toddler infographic style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When the water calms, Sammy relaxes and drifts a little. The seagrass garden waves like a soft green dance.",
+            "image_prompt": "Flat pastel calm seagrass swaying with gentle motion lines, seahorse peaceful, soothing tone, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A seahorse is a…",
+            "options": [
+              "Fish",
+              "Bird",
+              "Cat"
+            ],
+            "correct_answer": "Fish",
+            "fact_feedback_correct": "Correct! Seahorses are fish, even though they look different.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses are fish."
+          },
+          {
+            "question_id": 2,
+            "question": "Sammy holds onto seagrass with his…",
+            "options": [
+              "Curly tail",
+              "Wings",
+              "Hands"
+            ],
+            "correct_answer": "Curly tail",
+            "fact_feedback_correct": "Yes! Seahorses use their curly tail to hold onto seagrass.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses hold on with their curly tail."
+          },
+          {
+            "question_id": 3,
+            "question": "Seahorses usually swim…",
+            "options": [
+              "Slowly",
+              "Faster than rockets",
+              "Only on land"
+            ],
+            "correct_answer": "Slowly",
+            "fact_feedback_correct": "Correct! Seahorses are slow swimmers and move gently.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses usually swim slowly."
+          },
+          {
+            "question_id": 4,
+            "question": "Sammy hides by…",
+            "options": [
+              "Blending in",
+              "Turning into a stone",
+              "Flying away"
+            ],
+            "correct_answer": "Blending in",
+            "fact_feedback_correct": "Right! Camouflage helps seahorses blend in and hide.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses hide by blending in (camouflage)."
+          },
+          {
+            "question_id": 5,
+            "question": "Seahorses have hard…",
+            "options": [
+              "Bony plates",
+              "Fur",
+              "Leaves"
+            ],
+            "correct_answer": "Bony plates",
+            "fact_feedback_correct": "Correct! Seahorses have bony plates that act like armor.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses have bony plates, not fur or leaves."
+          },
+          {
+            "question_id": 6,
+            "question": "Seagrass meadows are like underwater…",
+            "options": [
+              "Fields",
+              "Mountains",
+              "Skies"
+            ],
+            "correct_answer": "Fields",
+            "fact_feedback_correct": "Yes! Seagrass meadows are like underwater fields where animals find shelter.",
+            "fact_feedback_incorrect": "You missed the fact: Seagrass meadows are like underwater fields."
+          },
+          {
+            "question_id": 7,
+            "question": "Sammy eats tiny food using his…",
+            "options": [
+              "Long snout",
+              "Big teeth",
+              "Claws"
+            ],
+            "correct_answer": "Long snout",
+            "fact_feedback_correct": "Correct! Seahorses use a long snout to sip tiny food.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses sip food using their long snout."
+          },
+          {
+            "question_id": 8,
+            "question": "The curly tail helps Sammy when…",
+            "options": [
+              "Waves push water",
+              "Snow falls",
+              "Cars honk"
+            ],
+            "correct_answer": "Waves push water",
+            "fact_feedback_correct": "Right! The tail helps Sammy hold on when water moves.",
+            "fact_feedback_incorrect": "You missed the fact: The tail helps Sammy hold on when waves push water."
+          },
+          {
+            "question_id": 9,
+            "question": "A seahorse stands mostly…",
+            "options": [
+              "Upright",
+              "Upside down always",
+              "Flat like a pancake"
+            ],
+            "correct_answer": "Upright",
+            "fact_feedback_correct": "Correct! Seahorses often swim upright.",
+            "fact_feedback_incorrect": "You missed the fact: Seahorses often swim upright."
+          },
+          {
+            "question_id": 10,
+            "question": "Camouflage means…",
+            "options": [
+              "Blending in",
+              "Getting louder",
+              "Growing bigger"
+            ],
+            "correct_answer": "Blending in",
+            "fact_feedback_correct": "Yes! Camouflage means blending in to stay hidden.",
+            "fact_feedback_incorrect": "You missed the fact: Camouflage means blending in to stay hidden."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_07",
+        "title": "Sia the Shark and the Many Teeth",
+        "learning_objectives": [
+          "Sharks are fish",
+          "Sharks have cartilage skeletons (not hard bone like humans)",
+          "Sharks can have many teeth and replace them",
+          "Sharks need to keep moving to push water over gills (simplified)",
+          "Sharks have strong senses"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sia is a shark in the ocean. Sharks are fish, and they breathe using gills on the sides of their body.",
+            "image_prompt": "Flat pastel friendly shark smiling, visible gill marks, calm ocean background, non-scary toddler style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Sia’s skeleton is not hard bone like ours. Sharks have cartilage, which is lighter and bendier than bone.",
+            "image_prompt": "Flat pastel comparison: child bone icon vs shark cartilage icon, simple labels, gentle educational style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sia has many teeth. When a tooth falls out, a new tooth can grow and move forward to replace it.",
+            "image_prompt": "Flat pastel shark mouth with rows of simple tooth shapes, one tooth replaced, friendly and not scary, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Sia swims forward smoothly. Moving helps water flow past her gills, so she can breathe underwater.",
+            "image_prompt": "Flat pastel shark swimming with arrows showing water flowing over gills, simple diagram style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sia uses strong senses to find food. She can notice movement and smell in the water very well.",
+            "image_prompt": "Flat pastel shark with scent-wave icons and motion icons, simple and kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Not all sharks are the same size. Some sharks are small, and some are big, but all are ocean fish.",
+            "image_prompt": "Flat pastel lineup of small and large sharks with size arrows, cute faces, educational, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Sia swims calmly and gives space to others. Ocean animals share the water and follow safe distances.",
+            "image_prompt": "Flat pastel shark swimming politely past fish with a 'space' heart icon, friendly tone, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Sia remembers: gills help her breathe, cartilage keeps her light, and teeth can be replaced again and again.",
+            "image_prompt": "Flat pastel summary icons: gills, cartilage, teeth replacement arrows, toddler infographic style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "As sunset comes, Sia glides quietly. The ocean is her home, and she moves through it like a smooth shadow.",
+            "image_prompt": "Flat pastel sunset underwater with shark silhouette, soft colors, calm and peaceful, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Bedtime fact: sharks are fish that breathe with gills, and their teeth can replace themselves many times.",
+            "image_prompt": "Flat pastel bedtime ocean with gentle stars, shark smiling softly, cozy and safe mood, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A shark is a…",
+            "options": [
+              "Fish",
+              "Mammal",
+              "Insect"
+            ],
+            "correct_answer": "Fish",
+            "fact_feedback_correct": "Correct! Sharks are fish.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks are fish."
+          },
+          {
+            "question_id": 2,
+            "question": "Sharks breathe using…",
+            "options": [
+              "Gills",
+              "Lungs like humans",
+              "Leaves"
+            ],
+            "correct_answer": "Gills",
+            "fact_feedback_correct": "Yes! Sharks breathe underwater using gills.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks breathe underwater using gills."
+          },
+          {
+            "question_id": 3,
+            "question": "A shark skeleton is mostly…",
+            "options": [
+              "Cartilage",
+              "Wood",
+              "Glass"
+            ],
+            "correct_answer": "Cartilage",
+            "fact_feedback_correct": "Correct! Sharks have cartilage skeletons, which are lighter than bone.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks have cartilage skeletons."
+          },
+          {
+            "question_id": 4,
+            "question": "When a shark tooth falls out…",
+            "options": [
+              "A new one can replace it",
+              "It never returns",
+              "It turns into a shell"
+            ],
+            "correct_answer": "A new one can replace it",
+            "fact_feedback_correct": "Right! Sharks can replace teeth many times.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks can replace teeth many times."
+          },
+          {
+            "question_id": 5,
+            "question": "Moving helps water flow past shark…",
+            "options": [
+              "Gills",
+              "Ears",
+              "Fingers"
+            ],
+            "correct_answer": "Gills",
+            "fact_feedback_correct": "Correct! Water flowing past gills helps sharks breathe underwater.",
+            "fact_feedback_incorrect": "You missed the fact: Water must pass the gills for breathing."
+          },
+          {
+            "question_id": 6,
+            "question": "Cartilage is…",
+            "options": [
+              "Bendy and light",
+              "Hot like fire",
+              "Sticky like glue"
+            ],
+            "correct_answer": "Bendy and light",
+            "fact_feedback_correct": "Yes! Cartilage is lighter and bendier than bone.",
+            "fact_feedback_incorrect": "You missed the fact: Cartilage is lighter and bendier than bone."
+          },
+          {
+            "question_id": 7,
+            "question": "Sharks can be…",
+            "options": [
+              "Different sizes",
+              "Only tiny",
+              "Only as big as ants"
+            ],
+            "correct_answer": "Different sizes",
+            "fact_feedback_correct": "Correct! Some sharks are small and some are big.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks come in many sizes."
+          },
+          {
+            "question_id": 8,
+            "question": "Sharks live in the…",
+            "options": [
+              "Ocean",
+              "Desert",
+              "Clouds"
+            ],
+            "correct_answer": "Ocean",
+            "fact_feedback_correct": "Yes! Sharks are ocean fish.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks live in the ocean."
+          },
+          {
+            "question_id": 9,
+            "question": "Sharks have strong…",
+            "options": [
+              "Senses",
+              "Roots",
+              "Petals"
+            ],
+            "correct_answer": "Senses",
+            "fact_feedback_correct": "Correct! Sharks have strong senses like smell and noticing movement.",
+            "fact_feedback_incorrect": "You missed the fact: Sharks have strong senses."
+          },
+          {
+            "question_id": 10,
+            "question": "Gills help sharks…",
+            "options": [
+              "Breathe underwater",
+              "Read books",
+              "Climb trees"
+            ],
+            "correct_answer": "Breathe underwater",
+            "fact_feedback_correct": "Right! Gills help sharks breathe underwater.",
+            "fact_feedback_incorrect": "You missed the fact: Gills help sharks breathe underwater."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_08",
+        "title": "Jelly the Jellyfish Drifts",
+        "learning_objectives": [
+          "Jellyfish drift with ocean currents",
+          "Jellyfish are soft-bodied (no bones)",
+          "Some jellyfish can sting (simple safety)",
+          "Jellyfish live in the ocean",
+          "Currents move water like slow rivers in the sea"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Jelly is a jellyfish drifting in the ocean. Jellyfish are soft and squishy, and they do not have bones.",
+            "image_prompt": "Flat pastel jellyfish with a friendly face, soft tentacles, gentle ocean, simple shapes, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Jelly moves with the water. Ocean currents push water like slow rivers, and Jelly drifts along.",
+            "image_prompt": "Flat pastel arrows showing current flow with jellyfish drifting, calm educational diagram style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Sometimes Jelly pulses his body to move a little. But mostly, currents help Jelly travel far.",
+            "image_prompt": "Flat pastel jellyfish pulsing with small motion lines, arrows for current, simple and cute, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Jelly’s tentacles trail behind him. Some jellyfish can sting, so people should look and give space.",
+            "image_prompt": "Flat pastel jellyfish with gentle 'look, give space' icon, non-scary, kid-friendly beach safety tone, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Jelly meets tiny fish. Fish dart fast, but Jelly floats slowly, like a soft balloon underwater.",
+            "image_prompt": "Flat pastel jellyfish floating near small fish, slow vs fast motion lines, gentle style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "In the deep ocean, it can be darker. Jelly can still drift, even when sunlight is weak.",
+            "image_prompt": "Flat pastel deeper water gradient with jellyfish silhouette and small glowing dots, calm mood, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Jelly’s body is mostly water. That helps him float easily without sinking quickly.",
+            "image_prompt": "Flat pastel simple cutaway icon showing jellyfish as mostly water with a droplet symbol, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Currents change direction sometimes. Jelly goes wherever the moving water carries him today.",
+            "image_prompt": "Flat pastel current arrows curving, jellyfish following, simple and educational, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Jelly reminds us: jellyfish drift with currents, are soft with no bones, and we should watch gently from afar.",
+            "image_prompt": "Flat pastel summary icons: current arrows, soft body, gentle distance heart icon, infographic style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "When night comes, Jelly glows softly in our imagination. The ocean keeps moving, and Jelly keeps drifting.",
+            "image_prompt": "Flat pastel nighttime ocean with subtle glow around jellyfish, stars above water, soothing palette, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "Jellyfish are mostly…",
+            "options": [
+              "Soft and squishy",
+              "Hard metal",
+              "Wooden blocks"
+            ],
+            "correct_answer": "Soft and squishy",
+            "fact_feedback_correct": "Correct! Jellyfish are soft-bodied and squishy.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish are soft and squishy."
+          },
+          {
+            "question_id": 2,
+            "question": "Jellyfish have…",
+            "options": [
+              "No bones",
+              "Big bones",
+              "Robot parts"
+            ],
+            "correct_answer": "No bones",
+            "fact_feedback_correct": "Yes! Jellyfish do not have bones.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish do not have bones."
+          },
+          {
+            "question_id": 3,
+            "question": "Jellyfish move a lot by…",
+            "options": [
+              "Drifting with currents",
+              "Walking on sand",
+              "Flying in the sky"
+            ],
+            "correct_answer": "Drifting with currents",
+            "fact_feedback_correct": "Correct! Jellyfish often drift with ocean currents.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish often drift with ocean currents."
+          },
+          {
+            "question_id": 4,
+            "question": "Ocean currents are like…",
+            "options": [
+              "Slow rivers in the sea",
+              "Snowstorms",
+              "Mountains"
+            ],
+            "correct_answer": "Slow rivers in the sea",
+            "fact_feedback_correct": "Right! Currents move ocean water like slow rivers.",
+            "fact_feedback_incorrect": "You missed the fact: Ocean currents move water like slow rivers."
+          },
+          {
+            "question_id": 5,
+            "question": "Some jellyfish can…",
+            "options": [
+              "Sting",
+              "Build houses",
+              "Drive cars"
+            ],
+            "correct_answer": "Sting",
+            "fact_feedback_correct": "Correct! Some jellyfish can sting, so we should give them space.",
+            "fact_feedback_incorrect": "You missed the fact: Some jellyfish can sting, so we should give space."
+          },
+          {
+            "question_id": 6,
+            "question": "Jellyfish live in the…",
+            "options": [
+              "Ocean",
+              "Desert",
+              "Forest trees"
+            ],
+            "correct_answer": "Ocean",
+            "fact_feedback_correct": "Yes! Jellyfish live in the ocean.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish live in the ocean."
+          },
+          {
+            "question_id": 7,
+            "question": "A jellyfish body is mostly…",
+            "options": [
+              "Water",
+              "Sand",
+              "Ice cream"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Correct! A jellyfish body is mostly water, which helps it float.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish bodies are mostly water."
+          },
+          {
+            "question_id": 8,
+            "question": "When currents change, Jellyfish…",
+            "options": [
+              "Drift to new places",
+              "Turn into rocks",
+              "Grow wings"
+            ],
+            "correct_answer": "Drift to new places",
+            "fact_feedback_correct": "Right! Jellyfish drift wherever the moving water carries them.",
+            "fact_feedback_incorrect": "You missed the fact: Currents can carry jellyfish to new places."
+          },
+          {
+            "question_id": 9,
+            "question": "A safe choice near jellyfish is to…",
+            "options": [
+              "Watch from afar",
+              "Grab it",
+              "Step on it"
+            ],
+            "correct_answer": "Watch from afar",
+            "fact_feedback_correct": "Correct! We should watch jellyfish gently from a safe distance.",
+            "fact_feedback_incorrect": "You missed the fact: It's best to watch jellyfish from a safe distance."
+          },
+          {
+            "question_id": 10,
+            "question": "Jellyfish tentacles trail…",
+            "options": [
+              "Behind them",
+              "Above them like hats",
+              "Inside rocks"
+            ],
+            "correct_answer": "Behind them",
+            "fact_feedback_correct": "Yes! Jellyfish tentacles trail behind them in the water.",
+            "fact_feedback_incorrect": "You missed the fact: Jellyfish tentacles trail behind them."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_09",
+        "title": "Angie the Anglerfish and the Tiny Light",
+        "learning_objectives": [
+          "Deep sea is very dark",
+          "Some deep-sea animals use light (bioluminescence) to help find food",
+          "Sunlight does not reach the deepest ocean",
+          "Deep sea can be cold",
+          "Animals adapt to where they live"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Angie is an anglerfish living deep in the ocean. Down there, it is very dark because sunlight cannot reach.",
+            "image_prompt": "Flat pastel deep-sea scene with a friendly anglerfish and very soft dark-blue background, gentle and non-scary, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The deep ocean is cold and quiet. Angie moves slowly, and tiny creatures float past like little dots.",
+            "image_prompt": "Flat pastel deep ocean with small dot-like creatures, calm cold colors, soothing educational style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Angie has a tiny light in front of her head. Some deep-sea animals make their own light called bioluminescence.",
+            "image_prompt": "Flat pastel anglerfish with a small glowing lure, labeled 'tiny light', gentle glow, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Angie wiggles her light like a small lantern. Curious little fish may come closer to see what it is.",
+            "image_prompt": "Flat pastel anglerfish lure wiggling with soft glow and curious fish nearby, non-scary friendly style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Because it is so dark, light can help animals find food. Angie’s light is one smart deep-sea tool.",
+            "image_prompt": "Flat pastel educational icon set: dark water + small light helping find food, simple arrows, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Not all ocean animals need a light. Animals change and adapt to the places where they live.",
+            "image_prompt": "Flat pastel comparison: shallow fish with sun rays vs deep fish with tiny light, simple panels, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Angie waits patiently. In the deep sea, food can be harder to find, so waiting can help.",
+            "image_prompt": "Flat pastel anglerfish calmly waiting, small bubbles, calm mood, gentle colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Far above, the surface ocean is bright. Down here, Angie lives in darkness, using her special light.",
+            "image_prompt": "Flat pastel vertical ocean layer diagram: bright surface on top, dark deep below, anglerfish with glow, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Angie reminds us: deep ocean is dark and cold, sunlight fades away, and some animals make light to help survive.",
+            "image_prompt": "Flat pastel summary icons: dark, cold snowflake icon, sun fading, glowing lure icon, toddler infographic style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we whisper: the ocean has layers. Some are sunny, and some are deep, dark, and full of surprises.",
+            "image_prompt": "Flat pastel bedtime ocean layers with gentle stars and soft glow, calm and cozy, kid-friendly, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "The deep ocean is usually…",
+            "options": [
+              "Dark",
+              "Bright like noon",
+              "Full of sand castles"
+            ],
+            "correct_answer": "Dark",
+            "fact_feedback_correct": "Correct! The deep ocean is dark because sunlight cannot reach very far down.",
+            "fact_feedback_incorrect": "You missed the fact: The deep ocean is dark because sunlight cannot reach very far down."
+          },
+          {
+            "question_id": 2,
+            "question": "Sunlight reaches best near the…",
+            "options": [
+              "Surface",
+              "Deepest bottom",
+              "Inside fish"
+            ],
+            "correct_answer": "Surface",
+            "fact_feedback_correct": "Yes! Sunlight is strongest near the ocean surface.",
+            "fact_feedback_incorrect": "You missed the fact: Sunlight is strongest near the surface, not the deepest bottom."
+          },
+          {
+            "question_id": 3,
+            "question": "Angie is an…",
+            "options": [
+              "Anglerfish",
+              "Eagle",
+              "Horse"
+            ],
+            "correct_answer": "Anglerfish",
+            "fact_feedback_correct": "Correct! Angie is an anglerfish that lives deep in the ocean.",
+            "fact_feedback_incorrect": "You missed the fact: Angie is an anglerfish that lives deep in the ocean."
+          },
+          {
+            "question_id": 4,
+            "question": "Angie has a tiny…",
+            "options": [
+              "Light",
+              "Umbrella",
+              "Bicycle"
+            ],
+            "correct_answer": "Light",
+            "fact_feedback_correct": "Right! Angie has a tiny light (a lure) in front of her head.",
+            "fact_feedback_incorrect": "You missed the fact: Angie has a tiny light in front of her head."
+          },
+          {
+            "question_id": 5,
+            "question": "Making your own light is called…",
+            "options": [
+              "Bioluminescence",
+              "Hibernation",
+              "Evaporation"
+            ],
+            "correct_answer": "Bioluminescence",
+            "fact_feedback_correct": "Correct! Bioluminescence means making your own light.",
+            "fact_feedback_incorrect": "You missed the fact: Bioluminescence means making your own light."
+          },
+          {
+            "question_id": 6,
+            "question": "Deep ocean water can feel…",
+            "options": [
+              "Cold",
+              "Hot like a stove",
+              "Dry like a desert"
+            ],
+            "correct_answer": "Cold",
+            "fact_feedback_correct": "Yes! Deep ocean water is often cold.",
+            "fact_feedback_incorrect": "You missed the fact: Deep ocean water is often cold."
+          },
+          {
+            "question_id": 7,
+            "question": "Angie uses her light to help…",
+            "options": [
+              "Find food",
+              "Grow trees",
+              "Make rainbows"
+            ],
+            "correct_answer": "Find food",
+            "fact_feedback_correct": "Correct! A small light can help deep-sea animals find food in darkness.",
+            "fact_feedback_incorrect": "You missed the fact: Angie’s light helps her find food in the dark."
+          },
+          {
+            "question_id": 8,
+            "question": "Animals change to fit where they live. That is called…",
+            "options": [
+              "Adapting",
+              "Melting",
+              "Painting"
+            ],
+            "correct_answer": "Adapting",
+            "fact_feedback_correct": "Right! Adapting means changing to fit your home and survive.",
+            "fact_feedback_incorrect": "You missed the fact: Adapting means changing to fit where you live."
+          },
+          {
+            "question_id": 9,
+            "question": "The ocean has…",
+            "options": [
+              "Layers",
+              "Only one flat level",
+              "Only mountains"
+            ],
+            "correct_answer": "Layers",
+            "fact_feedback_correct": "Correct! The ocean has layers from sunny surface to dark deep sea.",
+            "fact_feedback_incorrect": "You missed the fact: The ocean has layers, from surface to deep water."
+          },
+          {
+            "question_id": 10,
+            "question": "The deep sea is often…",
+            "options": [
+              "Quiet",
+              "Full of loud cars",
+              "Covered in grass"
+            ],
+            "correct_answer": "Quiet",
+            "fact_feedback_correct": "Yes! The deep sea can feel quiet, dark, and calm.",
+            "fact_feedback_incorrect": "You missed the fact: The deep sea can feel quiet, dark, and calm."
+          }
+        ]
+      },
+      {
+        "story_id": "ocean_10",
+        "title": "Otto the Sea Otter Floats and Eats",
+        "learning_objectives": [
+          "Sea otters are mammals",
+          "Sea otters have thick fur to stay warm",
+          "Sea otters can float on their backs",
+          "Sea otters use rocks as tools (simple)",
+          "Cold ocean water needs warm protection"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Otto is a sea otter in the ocean. Sea otters are mammals, and they breathe air and care for their babies.",
+            "image_prompt": "Flat pastel sea otter smiling, floating near kelp, soft ocean colors, cute and friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "The water can be cold. Otto stays warm with thick fur that traps air and keeps his body cozy.",
+            "image_prompt": "Flat pastel otter with fluffy fur texture cues and small air-bubble icons, simple educational style, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Otto floats on his back like a little boat. Floating helps him rest and eat without sinking.",
+            "image_prompt": "Flat pastel otter floating on back with gentle waves, cozy expression, toddler-friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Otto loves crunchy snacks like clams and sea urchins. He holds food on his tummy like a tiny table.",
+            "image_prompt": "Flat pastel otter holding a clam on belly, cute simple shapes, safe and playful, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Sometimes Otto uses a rock as a tool. He taps the shell on the rock to open it.",
+            "image_prompt": "Flat pastel otter holding a small rock and tapping a shell, gentle, kid-friendly tool-use scene, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Using tools is smart. Otto’s rock helps him get food that would be hard to open with paws alone.",
+            "image_prompt": "Flat pastel simple icon: rock + shell opening with arrows, smiling otter, educational, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Otto sometimes wraps in kelp. Kelp is a sea plant, and it can help Otto stay in one spot while resting.",
+            "image_prompt": "Flat pastel otter gently wrapped in kelp ribbon, calm ocean, soothing colors, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Otto must breathe air, so he lifts his nose above water. Then he relaxes and floats again.",
+            "image_prompt": "Flat pastel otter lifting nose above water with a small air puff, simple waves, friendly, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Otto’s fur stays clean because he grooms it. Clean fur traps air better and keeps him warmer in cold water.",
+            "image_prompt": "Flat pastel otter grooming fur with sparkle icons and air-bubble symbols, gentle and cute, consistent character design across pages. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "Otto smiles at the sunset. He remembers: thick fur keeps him warm, and a rock tool helps him eat.",
+            "image_prompt": "Flat pastel sunset ocean with otter floating, warm pastel sky, calm bedtime mood, consistent character design across pages. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "A sea otter is a…",
+            "options": [
+              "Mammal",
+              "Fish",
+              "Reptile"
+            ],
+            "correct_answer": "Mammal",
+            "fact_feedback_correct": "Correct! Sea otters are mammals and breathe air.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters are mammals and breathe air."
+          },
+          {
+            "question_id": 2,
+            "question": "Otto stays warm with thick…",
+            "options": [
+              "Fur",
+              "Feathers",
+              "Leaves"
+            ],
+            "correct_answer": "Fur",
+            "fact_feedback_correct": "Yes! Thick fur traps air and helps sea otters stay warm.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters stay warm with thick fur that traps air."
+          },
+          {
+            "question_id": 3,
+            "question": "Otto often floats on his…",
+            "options": [
+              "Back",
+              "Head",
+              "Tail only"
+            ],
+            "correct_answer": "Back",
+            "fact_feedback_correct": "Correct! Sea otters can float on their backs to rest and eat.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters often float on their backs."
+          },
+          {
+            "question_id": 4,
+            "question": "Otto uses a rock to…",
+            "options": [
+              "Open shells",
+              "Plant trees",
+              "Make clouds"
+            ],
+            "correct_answer": "Open shells",
+            "fact_feedback_correct": "Right! Sea otters can use rocks as tools to open shells.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters can use rocks as tools to open shells."
+          },
+          {
+            "question_id": 5,
+            "question": "Cold ocean water means Otto needs…",
+            "options": [
+              "Warm protection",
+              "Snow boots",
+              "A bicycle"
+            ],
+            "correct_answer": "Warm protection",
+            "fact_feedback_correct": "Correct! Thick fur helps Otto stay warm in cold water.",
+            "fact_feedback_incorrect": "You missed the fact: Thick fur helps Otto stay warm in cold water."
+          },
+          {
+            "question_id": 6,
+            "question": "Sea otters breathe…",
+            "options": [
+              "Air",
+              "Water",
+              "Sand"
+            ],
+            "correct_answer": "Air",
+            "fact_feedback_correct": "Yes! Sea otters breathe air, so they lift their nose above water.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters breathe air, not water."
+          },
+          {
+            "question_id": 7,
+            "question": "Kelp is a…",
+            "options": [
+              "Sea plant",
+              "Bird",
+              "Rock candy"
+            ],
+            "correct_answer": "Sea plant",
+            "fact_feedback_correct": "Correct! Kelp is a sea plant that grows in the ocean.",
+            "fact_feedback_incorrect": "You missed the fact: Kelp is a sea plant."
+          },
+          {
+            "question_id": 8,
+            "question": "Otto holds food on his…",
+            "options": [
+              "Tummy",
+              "Back fin",
+              "Horn"
+            ],
+            "correct_answer": "Tummy",
+            "fact_feedback_correct": "Right! Sea otters often hold food on their belly while floating.",
+            "fact_feedback_incorrect": "You missed the fact: Sea otters hold food on their belly while floating."
+          },
+          {
+            "question_id": 9,
+            "question": "Otto grooms his fur to…",
+            "options": [
+              "Trap air better",
+              "Turn green",
+              "Grow wings"
+            ],
+            "correct_answer": "Trap air better",
+            "fact_feedback_correct": "Correct! Clean fur traps air better and keeps Otto warmer.",
+            "fact_feedback_incorrect": "You missed the fact: Grooming helps fur trap air and keep Otto warm."
+          },
+          {
+            "question_id": 10,
+            "question": "Using a rock to open shells is using a…",
+            "options": [
+              "Tool",
+              "Cloud",
+              "Song"
+            ],
+            "correct_answer": "Tool",
+            "fact_feedback_correct": "Yes! A tool is something used to help do a job, like opening shells.",
+            "fact_feedback_incorrect": "You missed the fact: A tool helps do a job, like a rock opening shells."
+          }
+        ]
+      }
+    ]
+  }
+}

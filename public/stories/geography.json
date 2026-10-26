@@ -1,0 +1,1858 @@
+{
+  "category": {
+    "category_name": "Geography",
+    "category_id": "geography",
+    "stories": [
+      {
+        "story_id": "geography_01",
+        "title": "Milo the Mountain and the Tall View",
+        "learning_objectives": [
+          "Mountains are very tall landforms",
+          "Mountains can be rocky or snowy",
+          "The air gets colder higher up",
+          "Rivers can start in mountains",
+          "People and animals live near mountains"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Up, up, up! Milo the mountain stretches high into the sky, taller than hills and trees below.",
+            "image_prompt": "Flat pastel illustration of a tall friendly mountain with a smiling face, clouds around the peak, kid-friendly style, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "At the bottom, grass grows and animals walk. Higher up, the land becomes rocky and steep.",
+            "image_prompt": "Flat pastel illustration showing mountain base with grass and animals, rocky middle section, educational cross-view. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Near the top, the air feels colder. Some mountains wear snowy caps even in warm seasons.",
+            "image_prompt": "Flat pastel illustration of snowy mountain peak with cool blue tones, gentle snowflakes, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Tiny streams begin to trickle down Milo’s sides. These streams can grow into rivers.",
+            "image_prompt": "Flat pastel illustration of small stream starting on a mountain and flowing downward, simple arrows. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "The water flows downhill, joining other streams, moving toward valleys and land below.",
+            "image_prompt": "Flat pastel illustration of streams joining into a river in a valley, peaceful geography concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Some animals live on mountains. Goats climb rocky paths using strong legs and balance.",
+            "image_prompt": "Flat pastel illustration of mountain goats on rocky slopes, friendly and non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "People also live near mountains. They hike, farm, and use mountain water to help grow food.",
+            "image_prompt": "Flat pastel illustration of small mountain village with farms and river, warm community feel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "From the top, Milo can see far and wide. Mountains give us big views of the land.",
+            "image_prompt": "Flat pastel illustration of mountain viewpoint overlooking valleys, rivers, and forests, wide gentle view. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Mountains change the weather too. Clouds can gather and bring rain or snow.",
+            "image_prompt": "Flat pastel illustration of clouds forming around mountain peak with light rain and snow icons. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: mountains are tall, cold at the top, and help give us rivers.",
+            "image_prompt": "Flat pastel bedtime mountain scene with moon and stars, calm and cozy tone. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Milo?",
+            "options": [
+              "A mountain",
+              "A river",
+              "A forest"
+            ],
+            "correct_answer": "A mountain",
+            "fact_feedback_correct": "Correct! Milo is a mountain.",
+            "fact_feedback_incorrect": "You missed the fact: Milo is a mountain."
+          },
+          {
+            "question_id": 2,
+            "question": "Mountains are usually…",
+            "options": [
+              "Very tall",
+              "Very flat",
+              "Underwater"
+            ],
+            "correct_answer": "Very tall",
+            "fact_feedback_correct": "Yes! Mountains are very tall landforms.",
+            "fact_feedback_incorrect": "You missed the fact: Mountains are very tall."
+          },
+          {
+            "question_id": 3,
+            "question": "What happens to air higher up a mountain?",
+            "options": [
+              "It gets colder",
+              "It gets hotter",
+              "It disappears"
+            ],
+            "correct_answer": "It gets colder",
+            "fact_feedback_correct": "Correct! Air usually gets colder higher up mountains.",
+            "fact_feedback_incorrect": "You missed the fact: The air gets colder higher up."
+          },
+          {
+            "question_id": 4,
+            "question": "Snow is often found near the…",
+            "options": [
+              "Top of mountains",
+              "Bottom of rivers",
+              "Desert floor"
+            ],
+            "correct_answer": "Top of mountains",
+            "fact_feedback_correct": "Yes! Snow is often found near mountain tops.",
+            "fact_feedback_incorrect": "You missed the fact: Snow is often near mountain tops."
+          },
+          {
+            "question_id": 5,
+            "question": "Small streams on mountains can become…",
+            "options": [
+              "Rivers",
+              "Clouds",
+              "Sand"
+            ],
+            "correct_answer": "Rivers",
+            "fact_feedback_correct": "Correct! Rivers often start from small mountain streams.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers can start in mountains."
+          },
+          {
+            "question_id": 6,
+            "question": "Water flows downhill toward…",
+            "options": [
+              "Valleys",
+              "The sky",
+              "The sun"
+            ],
+            "correct_answer": "Valleys",
+            "fact_feedback_correct": "Yes! Water flows downhill into valleys.",
+            "fact_feedback_incorrect": "You missed the fact: Water flows downhill toward valleys."
+          },
+          {
+            "question_id": 7,
+            "question": "Which animal can climb rocky mountains?",
+            "options": [
+              "Goat",
+              "Fish",
+              "Snake"
+            ],
+            "correct_answer": "Goat",
+            "fact_feedback_correct": "Correct! Goats are good climbers on mountains.",
+            "fact_feedback_incorrect": "You missed the fact: Goats can climb rocky mountains."
+          },
+          {
+            "question_id": 8,
+            "question": "People live near mountains to use…",
+            "options": [
+              "Water",
+              "Lava",
+              "Ice cream"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Yes! Mountain water helps people grow food.",
+            "fact_feedback_incorrect": "You missed the fact: Mountain water helps people."
+          },
+          {
+            "question_id": 9,
+            "question": "Mountains can affect…",
+            "options": [
+              "Weather",
+              "Time",
+              "Gravity"
+            ],
+            "correct_answer": "Weather",
+            "fact_feedback_correct": "Correct! Mountains can change weather and cause rain or snow.",
+            "fact_feedback_incorrect": "You missed the fact: Mountains can affect weather."
+          },
+          {
+            "question_id": 10,
+            "question": "Mountains give us big…",
+            "options": [
+              "Views",
+              "Engines",
+              "Wheels"
+            ],
+            "correct_answer": "Views",
+            "fact_feedback_correct": "Yes! Mountains give wide views of the land.",
+            "fact_feedback_incorrect": "You missed the fact: Mountains give big views."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_02",
+        "title": "Ria the River and the Long Journey",
+        "learning_objectives": [
+          "Rivers are moving water",
+          "Rivers usually start in mountains or hills",
+          "Rivers flow downhill",
+          "Rivers can pass through towns and farms",
+          "Many rivers end in oceans, seas, or lakes"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Drip, drip, splash! Ria the river begins as a tiny trickle high up in the hills.",
+            "image_prompt": "Flat pastel illustration of a small mountain stream beginning on hills, friendly style, simple shapes, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Gravity pulls the water downhill. Ria starts to move, winding and wiggling across the land.",
+            "image_prompt": "Flat pastel illustration of a river winding downhill with gentle curves and arrows showing movement. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "More streams join in. With each splash and merge, Ria grows wider and stronger.",
+            "image_prompt": "Flat pastel illustration of small streams joining a river, calm and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Ria passes through green valleys where plants grow tall and animals come to drink.",
+            "image_prompt": "Flat pastel illustration of river flowing through valley with plants and animals drinking safely. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "People build towns near Ria. River water helps farms grow food and people travel by boat.",
+            "image_prompt": "Flat pastel illustration of small town and farms beside a river, warm community tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Sometimes the river moves fast. Other times, Ria slows down and spreads wide across the land.",
+            "image_prompt": "Flat pastel illustration showing fast narrow river and slow wide river side by side. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Ria carries soil and tiny rocks. Over time, rivers can change the shape of the land.",
+            "image_prompt": "Flat pastel illustration of river carrying sediment with simple dots and arrows, educational and gentle. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "After a long journey, Ria reaches a big body of water. Many rivers end in seas or oceans.",
+            "image_prompt": "Flat pastel illustration of river meeting the ocean at a river mouth, peaceful horizon. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Fresh river water mixes with salty ocean water. The journey is complete, but the water keeps moving.",
+            "image_prompt": "Flat pastel illustration of fresh and salty water mixing gently, simple symbols, calm style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: rivers flow downhill, grow along the way, and help life across the land.",
+            "image_prompt": "Flat pastel bedtime scene of a calm river under moonlight, cozy and soothing. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Ria?",
+            "options": [
+              "A river",
+              "A mountain",
+              "A cloud"
+            ],
+            "correct_answer": "A river",
+            "fact_feedback_correct": "Correct! Ria is a river.",
+            "fact_feedback_incorrect": "You missed the fact: Ria is a river."
+          },
+          {
+            "question_id": 2,
+            "question": "Rivers usually start in…",
+            "options": [
+              "Mountains or hills",
+              "Deserts",
+              "The ocean"
+            ],
+            "correct_answer": "Mountains or hills",
+            "fact_feedback_correct": "Yes! Many rivers start in mountains or hills.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers often begin in mountains or hills."
+          },
+          {
+            "question_id": 3,
+            "question": "Which way do rivers flow?",
+            "options": [
+              "Downhill",
+              "Uphill",
+              "Into the sky"
+            ],
+            "correct_answer": "Downhill",
+            "fact_feedback_correct": "Correct! Rivers flow downhill because of gravity.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers flow downhill."
+          },
+          {
+            "question_id": 4,
+            "question": "What can join together to make rivers bigger?",
+            "options": [
+              "Streams",
+              "Clouds",
+              "Trees"
+            ],
+            "correct_answer": "Streams",
+            "fact_feedback_correct": "Yes! Small streams join to make rivers bigger.",
+            "fact_feedback_incorrect": "You missed the fact: Streams can join to form rivers."
+          },
+          {
+            "question_id": 5,
+            "question": "Why do people build towns near rivers?",
+            "options": [
+              "For water and farming",
+              "For snow",
+              "For volcanoes"
+            ],
+            "correct_answer": "For water and farming",
+            "fact_feedback_correct": "Correct! Rivers provide water for people and farms.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers help people grow food and live."
+          },
+          {
+            "question_id": 6,
+            "question": "Rivers can move…",
+            "options": [
+              "Soil and rocks",
+              "Stars",
+              "Clouds"
+            ],
+            "correct_answer": "Soil and rocks",
+            "fact_feedback_correct": "Yes! Rivers carry soil and small rocks.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers can move soil and rocks."
+          },
+          {
+            "question_id": 7,
+            "question": "A river can be fast or…",
+            "options": [
+              "Slow",
+              "Frozen always",
+              "Invisible"
+            ],
+            "correct_answer": "Slow",
+            "fact_feedback_correct": "Correct! Rivers can flow fast or slow.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers can move at different speeds."
+          },
+          {
+            "question_id": 8,
+            "question": "Many rivers end in the…",
+            "options": [
+              "Ocean or sea",
+              "Sky",
+              "Mountains"
+            ],
+            "correct_answer": "Ocean or sea",
+            "fact_feedback_correct": "Yes! Many rivers end in oceans or seas.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers often end in oceans or seas."
+          },
+          {
+            "question_id": 9,
+            "question": "River water is usually…",
+            "options": [
+              "Fresh",
+              "Salty",
+              "Sticky"
+            ],
+            "correct_answer": "Fresh",
+            "fact_feedback_correct": "Correct! River water is usually fresh water.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers carry fresh water."
+          },
+          {
+            "question_id": 10,
+            "question": "Rivers help life by giving…",
+            "options": [
+              "Water",
+              "Fire",
+              "Sandstorms"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Yes! Rivers give water to plants, animals, and people.",
+            "fact_feedback_incorrect": "You missed the fact: Rivers help life by providing water."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_03",
+        "title": "Sunny the Desert and the Dry Land",
+        "learning_objectives": [
+          "Deserts are very dry places",
+          "Deserts can be hot or cold",
+          "Deserts get very little rain",
+          "Some plants and animals are adapted to deserts",
+          "Sand and rocks are common in deserts"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Warm light spreads everywhere. Sunny the desert wakes up under a big open sky.",
+            "image_prompt": "Flat pastel illustration of a wide desert with gentle sun, soft sand dunes, kid-friendly and calm. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Rain rarely visits Sunny. Deserts are very dry places with little water.",
+            "image_prompt": "Flat pastel illustration showing desert with small cloud passing by, minimal rain symbols. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "During the day, the sand feels hot. When night comes, the desert can turn cold.",
+            "image_prompt": "Flat pastel split scene showing hot daytime desert and cool nighttime desert with moon. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Wind shapes the land. Sand moves slowly, forming hills called dunes.",
+            "image_prompt": "Flat pastel illustration of wind lines shaping sand dunes, simple geography concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Not much grows here, but some plants store water to survive the dry days.",
+            "image_prompt": "Flat pastel illustration of cactus and desert plants storing water, friendly and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Animals rest during the hottest hours. Many come out when the sun is low.",
+            "image_prompt": "Flat pastel illustration of desert animals resting in shade, soft colors, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Camels walk across Sunny’s land. Wide feet help them move on soft sand.",
+            "image_prompt": "Flat pastel illustration of camel walking on sand with wide feet highlighted, gentle style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Sometimes water appears in small spots called oases. Life gathers there.",
+            "image_prompt": "Flat pastel illustration of oasis with palm trees and water, calm and welcoming. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Sunny reminds us: deserts look empty, but many living things call them home.",
+            "image_prompt": "Flat pastel illustration showing hidden desert life—plants and animals—subtle and gentle. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: deserts are dry, shaped by wind, and full of quiet life.",
+            "image_prompt": "Flat pastel bedtime desert with stars and soft moonlight, cozy and peaceful. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What kind of place is Sunny?",
+            "options": [
+              "A desert",
+              "A forest",
+              "An ocean"
+            ],
+            "correct_answer": "A desert",
+            "fact_feedback_correct": "Correct! Sunny is a desert.",
+            "fact_feedback_incorrect": "You missed the fact: Sunny is a desert."
+          },
+          {
+            "question_id": 2,
+            "question": "Deserts get very little…",
+            "options": [
+              "Rain",
+              "Snow every day",
+              "River water"
+            ],
+            "correct_answer": "Rain",
+            "fact_feedback_correct": "Yes! Deserts get very little rain.",
+            "fact_feedback_incorrect": "You missed the fact: Deserts receive very little rain."
+          },
+          {
+            "question_id": 3,
+            "question": "Deserts can be hot during the day and…",
+            "options": [
+              "Cold at night",
+              "Hot all night",
+              "Frozen forever"
+            ],
+            "correct_answer": "Cold at night",
+            "fact_feedback_correct": "Correct! Deserts can become cold at night.",
+            "fact_feedback_incorrect": "You missed the fact: Deserts can be cold at night."
+          },
+          {
+            "question_id": 4,
+            "question": "What shapes sand into dunes?",
+            "options": [
+              "Wind",
+              "Rainstorms",
+              "Volcanoes"
+            ],
+            "correct_answer": "Wind",
+            "fact_feedback_correct": "Yes! Wind shapes sand into dunes.",
+            "fact_feedback_incorrect": "You missed the fact: Wind forms sand dunes."
+          },
+          {
+            "question_id": 5,
+            "question": "Some desert plants survive by…",
+            "options": [
+              "Storing water",
+              "Flying",
+              "Eating rocks"
+            ],
+            "correct_answer": "Storing water",
+            "fact_feedback_correct": "Correct! Some plants store water to survive in deserts.",
+            "fact_feedback_incorrect": "You missed the fact: Desert plants store water."
+          },
+          {
+            "question_id": 6,
+            "question": "Many desert animals are active when…",
+            "options": [
+              "It is cooler",
+              "The sun is highest",
+              "It is raining"
+            ],
+            "correct_answer": "It is cooler",
+            "fact_feedback_correct": "Yes! Many desert animals are active during cooler times.",
+            "fact_feedback_incorrect": "You missed the fact: Desert animals avoid the hottest hours."
+          },
+          {
+            "question_id": 7,
+            "question": "Camels have wide feet to…",
+            "options": [
+              "Walk on sand",
+              "Climb trees",
+              "Swim in oceans"
+            ],
+            "correct_answer": "Walk on sand",
+            "fact_feedback_correct": "Correct! Wide feet help camels walk on soft sand.",
+            "fact_feedback_incorrect": "You missed the fact: Camel feet help them walk on sand."
+          },
+          {
+            "question_id": 8,
+            "question": "A small water place in a desert is called an…",
+            "options": [
+              "Oasis",
+              "Island",
+              "Glacier"
+            ],
+            "correct_answer": "Oasis",
+            "fact_feedback_correct": "Yes! An oasis is a small water spot in a desert.",
+            "fact_feedback_incorrect": "You missed the fact: Water spots in deserts are called oases."
+          },
+          {
+            "question_id": 9,
+            "question": "Deserts often have sand and…",
+            "options": [
+              "Rocks",
+              "Icebergs",
+              "Tall trees everywhere"
+            ],
+            "correct_answer": "Rocks",
+            "fact_feedback_correct": "Correct! Sand and rocks are common in deserts.",
+            "fact_feedback_incorrect": "You missed the fact: Deserts have sand and rocks."
+          },
+          {
+            "question_id": 10,
+            "question": "Deserts may look empty, but they have…",
+            "options": [
+              "Life",
+              "Nothing living",
+              "Only machines"
+            ],
+            "correct_answer": "Life",
+            "fact_feedback_correct": "Yes! Many plants and animals live in deserts.",
+            "fact_feedback_incorrect": "You missed the fact: Deserts are full of life adapted to dry land."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_04",
+        "title": "Fiona the Forest and the Green World",
+        "learning_objectives": [
+          "Forests are areas with many trees",
+          "Forests have different layers",
+          "Forests are homes for many plants and animals",
+          "Trees help clean the air",
+          "Forests exist in many parts of the world"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Sunlight filters through leaves as Fiona the forest hums with quiet life.",
+            "image_prompt": "Flat pastel illustration of a bright green forest with sunlight streaming through trees, kid-friendly, soft shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Tall trees stretch upward, their branches forming a leafy roof called the canopy.",
+            "image_prompt": "Flat pastel illustration showing tall trees with a connected canopy, simple educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Below the canopy, smaller plants grow. This layer stays cooler and shaded.",
+            "image_prompt": "Flat pastel illustration of forest understory with shrubs and ferns, calm and gentle colors. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "On the forest floor, leaves fall and break down. Soil becomes rich and dark.",
+            "image_prompt": "Flat pastel illustration of forest floor with fallen leaves and soil, simple life-cycle idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Birds, insects, and animals move through each layer. Every level has its own helpers.",
+            "image_prompt": "Flat pastel illustration showing birds in trees, insects near plants, animals on forest floor. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Trees breathe in a gas called carbon dioxide and release oxygen into the air.",
+            "image_prompt": "Flat pastel illustration of trees with arrows showing gas exchange, toddler-friendly science. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Oxygen helps people and animals breathe. Forests help keep the air clean.",
+            "image_prompt": "Flat pastel illustration of children and animals breathing clean air near forest, warm tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Forests grow in many places. Some are warm and wet, others are cool and quiet.",
+            "image_prompt": "Flat pastel illustration comparing tropical forest and cool forest side by side. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Fiona whispers: many living things depend on forests to survive.",
+            "image_prompt": "Flat pastel illustration of forest animals gathered peacefully, gentle storytelling style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: forests have layers, clean the air, and shelter life.",
+            "image_prompt": "Flat pastel bedtime forest with moonlight through trees, calm and cozy. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Fiona?",
+            "options": [
+              "A forest",
+              "A desert",
+              "A river"
+            ],
+            "correct_answer": "A forest",
+            "fact_feedback_correct": "Correct! Fiona is a forest.",
+            "fact_feedback_incorrect": "You missed the fact: Fiona is a forest."
+          },
+          {
+            "question_id": 2,
+            "question": "Forests have many…",
+            "options": [
+              "Trees",
+              "Sand dunes",
+              "Waves"
+            ],
+            "correct_answer": "Trees",
+            "fact_feedback_correct": "Yes! Forests are areas with many trees.",
+            "fact_feedback_incorrect": "You missed the fact: Forests have many trees."
+          },
+          {
+            "question_id": 3,
+            "question": "The leafy roof of a forest is called the…",
+            "options": [
+              "Canopy",
+              "River",
+              "Tunnel"
+            ],
+            "correct_answer": "Canopy",
+            "fact_feedback_correct": "Correct! The canopy is the leafy roof made by tree branches.",
+            "fact_feedback_incorrect": "You missed the fact: The canopy is the forest’s leafy roof."
+          },
+          {
+            "question_id": 4,
+            "question": "What is found below the canopy?",
+            "options": [
+              "Smaller plants",
+              "Snow",
+              "Ocean water"
+            ],
+            "correct_answer": "Smaller plants",
+            "fact_feedback_correct": "Yes! Smaller plants grow below the canopy.",
+            "fact_feedback_incorrect": "You missed the fact: Smaller plants grow below the canopy."
+          },
+          {
+            "question_id": 5,
+            "question": "Fallen leaves help make soil…",
+            "options": [
+              "Rich",
+              "Hard as stone",
+              "Dry like sand"
+            ],
+            "correct_answer": "Rich",
+            "fact_feedback_correct": "Correct! Fallen leaves break down and make rich soil.",
+            "fact_feedback_incorrect": "You missed the fact: Fallen leaves help make soil rich."
+          },
+          {
+            "question_id": 6,
+            "question": "Trees help clean the air by giving off…",
+            "options": [
+              "Oxygen",
+              "Smoke",
+              "Dust"
+            ],
+            "correct_answer": "Oxygen",
+            "fact_feedback_correct": "Yes! Trees release oxygen into the air.",
+            "fact_feedback_incorrect": "You missed the fact: Trees give off oxygen."
+          },
+          {
+            "question_id": 7,
+            "question": "Who uses oxygen to breathe?",
+            "options": [
+              "People and animals",
+              "Rocks",
+              "Clouds"
+            ],
+            "correct_answer": "People and animals",
+            "fact_feedback_correct": "Correct! People and animals use oxygen to breathe.",
+            "fact_feedback_incorrect": "You missed the fact: Oxygen helps people and animals breathe."
+          },
+          {
+            "question_id": 8,
+            "question": "Forests are homes for…",
+            "options": [
+              "Many living things",
+              "Only trees",
+              "Only people"
+            ],
+            "correct_answer": "Many living things",
+            "fact_feedback_correct": "Yes! Many plants and animals live in forests.",
+            "fact_feedback_incorrect": "You missed the fact: Forests shelter many living things."
+          },
+          {
+            "question_id": 9,
+            "question": "Forests can be found in…",
+            "options": [
+              "Many places",
+              "Only one country",
+              "Only cold areas"
+            ],
+            "correct_answer": "Many places",
+            "fact_feedback_correct": "Correct! Forests exist in many parts of the world.",
+            "fact_feedback_incorrect": "You missed the fact: Forests grow in many regions."
+          },
+          {
+            "question_id": 10,
+            "question": "Forests are important because they…",
+            "options": [
+              "Clean air and shelter life",
+              "Make deserts",
+              "Stop rivers"
+            ],
+            "correct_answer": "Clean air and shelter life",
+            "fact_feedback_correct": "Yes! Forests clean the air and shelter life.",
+            "fact_feedback_incorrect": "You missed the fact: Forests help clean air and support life."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_05",
+        "title": "Ivy the Island Surrounded by Water",
+        "learning_objectives": [
+          "An island is land surrounded by water",
+          "Islands can be small or large",
+          "Oceans and seas surround many islands",
+          "Some islands have beaches, forests, or mountains",
+          "People and animals live on islands"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "All around, waves sparkle and move. In the middle sits Ivy, a piece of land wrapped in water.",
+            "image_prompt": "Flat pastel illustration of a small island surrounded by blue water, gentle waves, kid-friendly style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Water touches Ivy on every side. That is what makes Ivy an island.",
+            "image_prompt": "Flat pastel illustration showing water completely circling an island, simple educational clarity. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Some islands are tiny dots. Others are big enough to have cities, roads, and farms.",
+            "image_prompt": "Flat pastel illustration comparing a tiny island and a large island with small buildings, gentle comparison. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Soft beaches stretch along Ivy’s edges. Sand meets water again and again.",
+            "image_prompt": "Flat pastel illustration of sandy beach with gentle waves touching shore, calm mood. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Inside the island, trees and plants grow. Some islands even have hills or mountains.",
+            "image_prompt": "Flat pastel illustration of island interior with trees and small hills, warm and inviting. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Boats arrive carrying people and supplies. Water connects islands to the rest of the world.",
+            "image_prompt": "Flat pastel illustration of boats approaching island dock, friendly and simple. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Animals live here too. Birds fly over the water, and fish swim nearby.",
+            "image_prompt": "Flat pastel illustration of birds above island and fish in surrounding water, cheerful and balanced. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Some islands were made by volcanoes. Others broke away from bigger land long ago.",
+            "image_prompt": "Flat pastel illustration split showing volcanic island forming and land breaking apart, simple concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Ivy reminds us: water shapes island life, travel, and weather every day.",
+            "image_prompt": "Flat pastel illustration of island with sun, clouds, and waves, gentle summary feel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: islands are land surrounded by water, full of life and stories.",
+            "image_prompt": "Flat pastel bedtime island scene with moon reflecting on water, cozy and peaceful. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Ivy?",
+            "options": [
+              "An island",
+              "A mountain",
+              "A river"
+            ],
+            "correct_answer": "An island",
+            "fact_feedback_correct": "Correct! Ivy is an island.",
+            "fact_feedback_incorrect": "You missed the fact: Ivy is an island."
+          },
+          {
+            "question_id": 2,
+            "question": "What surrounds an island?",
+            "options": [
+              "Water",
+              "Sand",
+              "Trees"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Yes! Water surrounds an island on all sides.",
+            "fact_feedback_incorrect": "You missed the fact: Islands are surrounded by water."
+          },
+          {
+            "question_id": 3,
+            "question": "Islands can be…",
+            "options": [
+              "Small or large",
+              "Only tiny",
+              "Only huge"
+            ],
+            "correct_answer": "Small or large",
+            "fact_feedback_correct": "Correct! Islands come in many sizes.",
+            "fact_feedback_incorrect": "You missed the fact: Islands can be small or large."
+          },
+          {
+            "question_id": 4,
+            "question": "Which land feature can islands have?",
+            "options": [
+              "Beaches",
+              "Ice roads",
+              "Sandstorms"
+            ],
+            "correct_answer": "Beaches",
+            "fact_feedback_correct": "Yes! Many islands have beaches.",
+            "fact_feedback_incorrect": "You missed the fact: Islands often have beaches."
+          },
+          {
+            "question_id": 5,
+            "question": "What helps connect islands to other places?",
+            "options": [
+              "Boats",
+              "Tunnels in the sky",
+              "Flying rocks"
+            ],
+            "correct_answer": "Boats",
+            "fact_feedback_correct": "Correct! Boats help people and supplies travel to islands.",
+            "fact_feedback_incorrect": "You missed the fact: Boats connect islands to other places."
+          },
+          {
+            "question_id": 6,
+            "question": "Some islands were made by…",
+            "options": [
+              "Volcanoes",
+              "Snowstorms",
+              "Earthquakes alone"
+            ],
+            "correct_answer": "Volcanoes",
+            "fact_feedback_correct": "Yes! Some islands are formed by volcanoes.",
+            "fact_feedback_incorrect": "You missed the fact: Volcanoes can form islands."
+          },
+          {
+            "question_id": 7,
+            "question": "Who lives on islands?",
+            "options": [
+              "People and animals",
+              "Only fish",
+              "Only birds"
+            ],
+            "correct_answer": "People and animals",
+            "fact_feedback_correct": "Correct! People and animals live on islands.",
+            "fact_feedback_incorrect": "You missed the fact: Islands are homes to people and animals."
+          },
+          {
+            "question_id": 8,
+            "question": "Water affects island…",
+            "options": [
+              "Weather and travel",
+              "Gravity",
+              "Time"
+            ],
+            "correct_answer": "Weather and travel",
+            "fact_feedback_correct": "Yes! Water shapes island weather and travel.",
+            "fact_feedback_incorrect": "You missed the fact: Water affects island life and travel."
+          },
+          {
+            "question_id": 9,
+            "question": "Fish live…",
+            "options": [
+              "In water around islands",
+              "On trees",
+              "In deserts"
+            ],
+            "correct_answer": "In water around islands",
+            "fact_feedback_correct": "Correct! Fish live in water around islands.",
+            "fact_feedback_incorrect": "You missed the fact: Fish swim in water around islands."
+          },
+          {
+            "question_id": 10,
+            "question": "An island is land surrounded by…",
+            "options": [
+              "Water",
+              "Mountains",
+              "Roads"
+            ],
+            "correct_answer": "Water",
+            "fact_feedback_correct": "Yes! Islands are land surrounded by water.",
+            "fact_feedback_incorrect": "You missed the fact: Islands are surrounded by water."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_06",
+        "title": "Cody the Continent and the Big Lands",
+        "learning_objectives": [
+          "Continents are very large land areas",
+          "There are seven continents on Earth",
+          "Continents hold many countries and landscapes",
+          "People and animals live on all continents",
+          "Oceans separate continents"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Spread out and wide, Cody the continent stretches farther than the eye can see.",
+            "image_prompt": "Flat pastel illustration of a large friendly landmass character seen from above, simple shapes, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Cody is not a single place. Many lands join together to make one huge area.",
+            "image_prompt": "Flat pastel illustration showing connected land pieces forming one continent, puzzle-like clarity. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Earth has seven continents. Each one is big and different from the others.",
+            "image_prompt": "Flat pastel illustration of globe with seven colorful continents highlighted, simple and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "On continents, mountains rise, rivers flow, forests grow, and deserts spread.",
+            "image_prompt": "Flat pastel illustration showing mixed landscapes on one landmass—mountains, rivers, forest, desert. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Countries fit inside continents. Each country has its own people, homes, and stories.",
+            "image_prompt": "Flat pastel illustration of continent with small country sections and tiny homes, warm tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "People live all over Cody. So do animals, from tiny insects to huge mammals.",
+            "image_prompt": "Flat pastel illustration of diverse people and animals across land, inclusive and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Wide oceans sit between continents. Water helps keep the big lands apart.",
+            "image_prompt": "Flat pastel illustration of continents separated by blue oceans, clear geography concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Travel across continents takes time. Planes and ships help connect the big lands.",
+            "image_prompt": "Flat pastel illustration of airplane and ship traveling between continents, simple motion lines. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Every continent feels special. Weather, plants, and animals can be very different.",
+            "image_prompt": "Flat pastel illustration comparing snowy, sunny, and green areas across continents. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: continents are giant lands holding many places and people.",
+            "image_prompt": "Flat pastel bedtime globe scene with continents glowing softly, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Cody?",
+            "options": [
+              "A continent",
+              "A country",
+              "An island"
+            ],
+            "correct_answer": "A continent",
+            "fact_feedback_correct": "Correct! Cody is a continent.",
+            "fact_feedback_incorrect": "You missed the fact: Cody is a continent."
+          },
+          {
+            "question_id": 2,
+            "question": "Continents are very…",
+            "options": [
+              "Large",
+              "Tiny",
+              "Underwater"
+            ],
+            "correct_answer": "Large",
+            "fact_feedback_correct": "Yes! Continents are very large land areas.",
+            "fact_feedback_incorrect": "You missed the fact: Continents are very large."
+          },
+          {
+            "question_id": 3,
+            "question": "How many continents are on Earth?",
+            "options": [
+              "Seven",
+              "Three",
+              "Ten"
+            ],
+            "correct_answer": "Seven",
+            "fact_feedback_correct": "Correct! Earth has seven continents.",
+            "fact_feedback_incorrect": "You missed the fact: There are seven continents."
+          },
+          {
+            "question_id": 4,
+            "question": "What can be found on continents?",
+            "options": [
+              "Mountains and rivers",
+              "Only sand",
+              "Only ice"
+            ],
+            "correct_answer": "Mountains and rivers",
+            "fact_feedback_correct": "Yes! Continents have mountains, rivers, forests, and deserts.",
+            "fact_feedback_incorrect": "You missed the fact: Continents contain many land features."
+          },
+          {
+            "question_id": 5,
+            "question": "Countries are found…",
+            "options": [
+              "Inside continents",
+              "Inside oceans",
+              "Inside clouds"
+            ],
+            "correct_answer": "Inside continents",
+            "fact_feedback_correct": "Correct! Countries are parts of continents.",
+            "fact_feedback_incorrect": "You missed the fact: Countries fit inside continents."
+          },
+          {
+            "question_id": 6,
+            "question": "Who lives on continents?",
+            "options": [
+              "People and animals",
+              "Only birds",
+              "Only fish"
+            ],
+            "correct_answer": "People and animals",
+            "fact_feedback_correct": "Yes! People and animals live on continents.",
+            "fact_feedback_incorrect": "You missed the fact: Continents are homes to people and animals."
+          },
+          {
+            "question_id": 7,
+            "question": "What separates continents?",
+            "options": [
+              "Oceans",
+              "Roads",
+              "Forests"
+            ],
+            "correct_answer": "Oceans",
+            "fact_feedback_correct": "Correct! Oceans separate continents.",
+            "fact_feedback_incorrect": "You missed the fact: Continents are separated by oceans."
+          },
+          {
+            "question_id": 8,
+            "question": "How do people travel between continents?",
+            "options": [
+              "Planes and ships",
+              "Walking only",
+              "Swimming"
+            ],
+            "correct_answer": "Planes and ships",
+            "fact_feedback_correct": "Yes! Planes and ships help people travel between continents.",
+            "fact_feedback_incorrect": "You missed the fact: Travel between continents uses planes and ships."
+          },
+          {
+            "question_id": 9,
+            "question": "Continents can have different…",
+            "options": [
+              "Weather and life",
+              "Clock times only",
+              "Colors of rocks only"
+            ],
+            "correct_answer": "Weather and life",
+            "fact_feedback_correct": "Correct! Continents differ in weather, plants, and animals.",
+            "fact_feedback_incorrect": "You missed the fact: Continents can be very different."
+          },
+          {
+            "question_id": 10,
+            "question": "A continent is best described as…",
+            "options": [
+              "A giant land area",
+              "A small hill",
+              "A lake"
+            ],
+            "correct_answer": "A giant land area",
+            "fact_feedback_correct": "Yes! Continents are giant areas of land on Earth.",
+            "fact_feedback_incorrect": "You missed the fact: Continents are giant land areas."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_07",
+        "title": "Polly the Polar Lands and the Cold Ends",
+        "learning_objectives": [
+          "The Earth has North and South Poles",
+          "Polar regions are very cold",
+          "Ice and snow cover much of the polar land",
+          "Some animals are adapted to cold climates",
+          "Day and night can last a long time at the poles"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Far, far away from warm beaches, Polly the polar land rests at the cold ends of Earth.",
+            "image_prompt": "Flat pastel illustration of icy polar landscape with gentle snow and soft blue tones, kid-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Earth has two polar regions. One is in the north, and one is in the south.",
+            "image_prompt": "Flat pastel illustration of globe showing North Pole and South Pole highlighted, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "The sun feels weak here. Polar lands stay very cold most of the year.",
+            "image_prompt": "Flat pastel illustration showing low sun over icy land, calm and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Snow and ice cover the ground. Some places stay frozen for many years.",
+            "image_prompt": "Flat pastel illustration of thick ice and snow layers, simple geography concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Animals wear warm coats of fur or feathers. Blubber and thick skin help too.",
+            "image_prompt": "Flat pastel illustration of polar animals with fur and blubber icons, gentle and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Polar bears roam the north. Penguins live in the south, not together.",
+            "image_prompt": "Flat pastel illustration showing polar bear in Arctic and penguin in Antarctic, separated clearly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "In summer, the sun can stay up for a long time. In winter, darkness lasts for weeks.",
+            "image_prompt": "Flat pastel illustration split showing long daylight and long night at poles, simple concept. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Few people live here, but scientists visit to study ice, animals, and weather.",
+            "image_prompt": "Flat pastel illustration of scientists in parkas with research tools, friendly and non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Polly reminds us: life can survive even in very cold places.",
+            "image_prompt": "Flat pastel illustration of animals living peacefully in icy land, hopeful tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: the poles are icy, cold, and full of amazing adaptations.",
+            "image_prompt": "Flat pastel bedtime polar scene with moonlight reflecting on ice, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What are Polly’s lands?",
+            "options": [
+              "Polar lands",
+              "Rainforests",
+              "Deserts"
+            ],
+            "correct_answer": "Polar lands",
+            "fact_feedback_correct": "Correct! Polly represents the polar lands.",
+            "fact_feedback_incorrect": "You missed the fact: Polly is the polar lands."
+          },
+          {
+            "question_id": 2,
+            "question": "How many poles does Earth have?",
+            "options": [
+              "Two",
+              "One",
+              "Five"
+            ],
+            "correct_answer": "Two",
+            "fact_feedback_correct": "Yes! Earth has a North Pole and a South Pole.",
+            "fact_feedback_incorrect": "You missed the fact: Earth has two poles."
+          },
+          {
+            "question_id": 3,
+            "question": "Polar regions are usually very…",
+            "options": [
+              "Cold",
+              "Hot",
+              "Dry"
+            ],
+            "correct_answer": "Cold",
+            "fact_feedback_correct": "Correct! Polar regions are very cold.",
+            "fact_feedback_incorrect": "You missed the fact: Polar lands are cold."
+          },
+          {
+            "question_id": 4,
+            "question": "What covers much of the polar land?",
+            "options": [
+              "Ice and snow",
+              "Sand",
+              "Grass"
+            ],
+            "correct_answer": "Ice and snow",
+            "fact_feedback_correct": "Yes! Ice and snow cover much of the polar regions.",
+            "fact_feedback_incorrect": "You missed the fact: Polar lands are covered in ice and snow."
+          },
+          {
+            "question_id": 5,
+            "question": "Which animal lives in the North Pole?",
+            "options": [
+              "Polar bear",
+              "Penguin",
+              "Camel"
+            ],
+            "correct_answer": "Polar bear",
+            "fact_feedback_correct": "Correct! Polar bears live in the Arctic (North Pole).",
+            "fact_feedback_incorrect": "You missed the fact: Polar bears live in the north."
+          },
+          {
+            "question_id": 6,
+            "question": "Penguins live in the…",
+            "options": [
+              "South Pole",
+              "North Pole",
+              "Desert"
+            ],
+            "correct_answer": "South Pole",
+            "fact_feedback_correct": "Yes! Penguins live near the South Pole.",
+            "fact_feedback_incorrect": "You missed the fact: Penguins live in the south."
+          },
+          {
+            "question_id": 7,
+            "question": "Animals stay warm using…",
+            "options": [
+              "Fur and blubber",
+              "Leaves",
+              "Thin skin"
+            ],
+            "correct_answer": "Fur and blubber",
+            "fact_feedback_correct": "Correct! Fur and blubber help animals stay warm.",
+            "fact_feedback_incorrect": "You missed the fact: Polar animals use fur and blubber."
+          },
+          {
+            "question_id": 8,
+            "question": "In polar summer, the sun can…",
+            "options": [
+              "Stay up a long time",
+              "Disappear forever",
+              "Explode"
+            ],
+            "correct_answer": "Stay up a long time",
+            "fact_feedback_correct": "Yes! Polar summer can have very long days.",
+            "fact_feedback_incorrect": "You missed the fact: The sun can stay up for a long time."
+          },
+          {
+            "question_id": 9,
+            "question": "Who visits polar lands to study them?",
+            "options": [
+              "Scientists",
+              "Farmers",
+              "Bus drivers"
+            ],
+            "correct_answer": "Scientists",
+            "fact_feedback_correct": "Correct! Scientists study polar ice, animals, and weather.",
+            "fact_feedback_incorrect": "You missed the fact: Scientists study polar regions."
+          },
+          {
+            "question_id": 10,
+            "question": "Polar lands show that life can…",
+            "options": [
+              "Adapt",
+              "Disappear",
+              "Melt instantly"
+            ],
+            "correct_answer": "Adapt",
+            "fact_feedback_correct": "Yes! Animals adapt to live in very cold places.",
+            "fact_feedback_incorrect": "You missed the fact: Life can adapt to cold polar regions."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_08",
+        "title": "Vicky the Volcano and the Hot Earth",
+        "learning_objectives": [
+          "Volcanoes are openings in Earth’s surface",
+          "Hot melted rock is called magma or lava",
+          "Some volcanoes are active, others are quiet",
+          "Volcanoes can build new land",
+          "People study volcanoes to stay safe"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Deep inside the ground, the Earth feels warm. Vicky the volcano rests quietly above it.",
+            "image_prompt": "Flat pastel illustration of a calm volcano with gentle warm glow beneath the ground, kid-friendly and safe tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "A volcano is an opening in the Earth. It connects the hot inside to the land above.",
+            "image_prompt": "Flat pastel cutaway illustration showing volcano opening from underground to surface, simple educational style. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Far below, rock melts from heat. Melted rock under the ground is called magma.",
+            "image_prompt": "Flat pastel illustration of glowing magma underground, soft colors, non-scary. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "When magma reaches the surface, it is called lava. Lava flows slowly and cools over time.",
+            "image_prompt": "Flat pastel illustration of gentle lava flow cooling into rock, calm and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Some volcanoes erupt often. Others stay quiet for a very long time.",
+            "image_prompt": "Flat pastel illustration comparing active and quiet volcanoes side by side, simple contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "As lava cools, it hardens into new rock. Volcanoes can slowly build new land.",
+            "image_prompt": "Flat pastel illustration showing lava cooling into land, positive creation theme. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "People do not live very close when volcanoes are active. Safety is important.",
+            "image_prompt": "Flat pastel illustration of volcano with safe distance markers and small homes far away, reassuring tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Scientists watch volcanoes carefully. They study heat, movement, and gas.",
+            "image_prompt": "Flat pastel illustration of scientists observing volcano with instruments, friendly and calm. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Vicky reminds us: the Earth is alive inside, slowly changing the land we see.",
+            "image_prompt": "Flat pastel illustration of volcano connected to glowing Earth core, gentle wonder tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: volcanoes show Earth’s heat and help shape new land.",
+            "image_prompt": "Flat pastel bedtime volcano scene under stars, calm and cozy mood. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What is Vicky?",
+            "options": [
+              "A volcano",
+              "A mountain",
+              "A river"
+            ],
+            "correct_answer": "A volcano",
+            "fact_feedback_correct": "Correct! Vicky is a volcano.",
+            "fact_feedback_incorrect": "You missed the fact: Vicky is a volcano."
+          },
+          {
+            "question_id": 2,
+            "question": "A volcano is an opening in the…",
+            "options": [
+              "Earth",
+              "Ocean",
+              "Sky"
+            ],
+            "correct_answer": "Earth",
+            "fact_feedback_correct": "Yes! Volcanoes are openings in Earth’s surface.",
+            "fact_feedback_incorrect": "You missed the fact: Volcanoes are openings in Earth."
+          },
+          {
+            "question_id": 3,
+            "question": "What is melted rock under the ground called?",
+            "options": [
+              "Magma",
+              "Ice",
+              "Sand"
+            ],
+            "correct_answer": "Magma",
+            "fact_feedback_correct": "Correct! Melted rock underground is called magma.",
+            "fact_feedback_incorrect": "You missed the fact: Melted rock underground is magma."
+          },
+          {
+            "question_id": 4,
+            "question": "What is magma called when it reaches the surface?",
+            "options": [
+              "Lava",
+              "Water",
+              "Steam"
+            ],
+            "correct_answer": "Lava",
+            "fact_feedback_correct": "Yes! Magma becomes lava at the surface.",
+            "fact_feedback_incorrect": "You missed the fact: Magma is called lava at the surface."
+          },
+          {
+            "question_id": 5,
+            "question": "What happens to lava as it cools?",
+            "options": [
+              "It hardens into rock",
+              "It turns into water",
+              "It disappears"
+            ],
+            "correct_answer": "It hardens into rock",
+            "fact_feedback_correct": "Correct! Lava cools and becomes rock.",
+            "fact_feedback_incorrect": "You missed the fact: Lava hardens into rock."
+          },
+          {
+            "question_id": 6,
+            "question": "Some volcanoes are active, others are…",
+            "options": [
+              "Quiet",
+              "Underwater only",
+              "Gone forever"
+            ],
+            "correct_answer": "Quiet",
+            "fact_feedback_correct": "Yes! Some volcanoes stay quiet for a long time.",
+            "fact_feedback_incorrect": "You missed the fact: Some volcanoes are quiet."
+          },
+          {
+            "question_id": 7,
+            "question": "Volcanoes can help build…",
+            "options": [
+              "New land",
+              "Clouds",
+              "Icebergs"
+            ],
+            "correct_answer": "New land",
+            "fact_feedback_correct": "Correct! Volcanoes can create new land as lava cools.",
+            "fact_feedback_incorrect": "You missed the fact: Volcanoes can build new land."
+          },
+          {
+            "question_id": 8,
+            "question": "Who studies volcanoes?",
+            "options": [
+              "Scientists",
+              "Bakers",
+              "Drivers"
+            ],
+            "correct_answer": "Scientists",
+            "fact_feedback_correct": "Yes! Scientists study volcanoes to understand them.",
+            "fact_feedback_incorrect": "You missed the fact: Scientists study volcanoes."
+          },
+          {
+            "question_id": 9,
+            "question": "Why do people stay far from active volcanoes?",
+            "options": [
+              "To stay safe",
+              "To hear music",
+              "To see animals"
+            ],
+            "correct_answer": "To stay safe",
+            "fact_feedback_correct": "Correct! Staying far helps people stay safe.",
+            "fact_feedback_incorrect": "You missed the fact: Safety is important near volcanoes."
+          },
+          {
+            "question_id": 10,
+            "question": "Volcanoes remind us that Earth is…",
+            "options": [
+              "Hot inside",
+              "Hollow",
+              "Made of clouds"
+            ],
+            "correct_answer": "Hot inside",
+            "fact_feedback_correct": "Yes! Volcanoes show that Earth is hot inside.",
+            "fact_feedback_incorrect": "You missed the fact: Earth is hot inside."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_09",
+        "title": "Wally the Weather Map and the Moving Sky",
+        "learning_objectives": [
+          "Weather describes what the sky and air are like",
+          "Weather can change from day to day",
+          "Rain, wind, sun, and snow are types of weather",
+          "Weather maps help show weather in different places",
+          "Weather affects how people dress and plan"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "Look up! The sky is busy today. Wally the weather map watches clouds move across the land.",
+            "image_prompt": "Flat pastel illustration of friendly weather map with clouds moving over land, kid-friendly, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Weather tells us what the air feels like right now. It can be sunny, rainy, windy, or snowy.",
+            "image_prompt": "Flat pastel illustration showing sun, rain, wind, and snow icons together, gentle and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Yesterday was warm and bright. Today feels cooler. Weather can change quickly.",
+            "image_prompt": "Flat pastel illustration comparing sunny day and cloudy day side by side, simple contrast. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "Wind pushes air from place to place. It can be a soft breeze or a strong gust.",
+            "image_prompt": "Flat pastel illustration of wind lines moving leaves and clouds, playful and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Clouds gather water high in the sky. When drops grow heavy, rain falls down.",
+            "image_prompt": "Flat pastel illustration of cloud releasing rain, simple water cycle idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Cold weather can turn rain into snow. Tiny ice pieces fall softly to the ground.",
+            "image_prompt": "Flat pastel illustration of snowflakes falling gently, calm winter feel. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Wally shows weather on a map. Symbols help us see what the weather is like in many places.",
+            "image_prompt": "Flat pastel illustration of weather map with simple symbols for sun, rain, snow across regions. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "People check the weather to choose clothes and plan their day.",
+            "image_prompt": "Flat pastel illustration of children choosing raincoat, jacket, or hat based on weather, friendly tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "Farmers, pilots, and sailors all use weather maps to stay safe.",
+            "image_prompt": "Flat pastel illustration of farmer, pilot, and sailor with weather symbols, simple and inclusive. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: weather changes often, and maps help us understand the sky.",
+            "image_prompt": "Flat pastel bedtime scene with calm sky and weather map fading softly, cozy and reassuring. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What does weather describe?",
+            "options": [
+              "What the air and sky are like",
+              "How big mountains are",
+              "Where rivers go"
+            ],
+            "correct_answer": "What the air and sky are like",
+            "fact_feedback_correct": "Correct! Weather tells us what the air and sky are like.",
+            "fact_feedback_incorrect": "You missed the fact: Weather describes the air and sky."
+          },
+          {
+            "question_id": 2,
+            "question": "Which is a type of weather?",
+            "options": [
+              "Rain",
+              "Rock",
+              "Soil"
+            ],
+            "correct_answer": "Rain",
+            "fact_feedback_correct": "Yes! Rain is a kind of weather.",
+            "fact_feedback_incorrect": "You missed the fact: Rain is a type of weather."
+          },
+          {
+            "question_id": 3,
+            "question": "Can weather change?",
+            "options": [
+              "Yes",
+              "No",
+              "Only once a year"
+            ],
+            "correct_answer": "Yes",
+            "fact_feedback_correct": "Correct! Weather can change from day to day.",
+            "fact_feedback_incorrect": "You missed the fact: Weather can change."
+          },
+          {
+            "question_id": 4,
+            "question": "What moves air around?",
+            "options": [
+              "Wind",
+              "Sand",
+              "Ice"
+            ],
+            "correct_answer": "Wind",
+            "fact_feedback_correct": "Yes! Wind moves air from place to place.",
+            "fact_feedback_incorrect": "You missed the fact: Wind moves air."
+          },
+          {
+            "question_id": 5,
+            "question": "What falls from clouds when drops get heavy?",
+            "options": [
+              "Rain",
+              "Leaves",
+              "Stones"
+            ],
+            "correct_answer": "Rain",
+            "fact_feedback_correct": "Correct! Rain falls when cloud drops get heavy.",
+            "fact_feedback_incorrect": "You missed the fact: Rain falls from clouds."
+          },
+          {
+            "question_id": 6,
+            "question": "Cold weather can turn rain into…",
+            "options": [
+              "Snow",
+              "Steam",
+              "Wind"
+            ],
+            "correct_answer": "Snow",
+            "fact_feedback_correct": "Yes! Cold weather can turn rain into snow.",
+            "fact_feedback_incorrect": "You missed the fact: Snow forms in cold weather."
+          },
+          {
+            "question_id": 7,
+            "question": "What helps show weather in many places?",
+            "options": [
+              "Weather maps",
+              "Storybooks",
+              "Road signs"
+            ],
+            "correct_answer": "Weather maps",
+            "fact_feedback_correct": "Correct! Weather maps show weather in different places.",
+            "fact_feedback_incorrect": "You missed the fact: Weather maps show weather."
+          },
+          {
+            "question_id": 8,
+            "question": "Why do people check the weather?",
+            "options": [
+              "To plan their day",
+              "To grow wings",
+              "To move mountains"
+            ],
+            "correct_answer": "To plan their day",
+            "fact_feedback_correct": "Yes! People use weather to plan clothes and activities.",
+            "fact_feedback_incorrect": "You missed the fact: Weather helps people plan."
+          },
+          {
+            "question_id": 9,
+            "question": "Who uses weather maps to stay safe?",
+            "options": [
+              "Farmers and pilots",
+              "Only bakers",
+              "Only painters"
+            ],
+            "correct_answer": "Farmers and pilots",
+            "fact_feedback_correct": "Correct! Many workers use weather maps for safety.",
+            "fact_feedback_incorrect": "You missed the fact: Weather maps help keep people safe."
+          },
+          {
+            "question_id": 10,
+            "question": "Weather is about what happens in the…",
+            "options": [
+              "Sky and air",
+              "Ground only",
+              "Deep ocean"
+            ],
+            "correct_answer": "Sky and air",
+            "fact_feedback_correct": "Yes! Weather happens in the sky and air.",
+            "fact_feedback_incorrect": "You missed the fact: Weather is about the sky and air."
+          }
+        ]
+      },
+      {
+        "story_id": "geography_10",
+        "title": "Mia the Map and Finding Places",
+        "learning_objectives": [
+          "Maps show places from above",
+          "Maps help us find where things are",
+          "Maps use symbols to show roads, water, and buildings",
+          "Directions help us move from one place to another",
+          "Maps can show real places like towns and parks"
+        ],
+        "pages": [
+          {
+            "page_number": 1,
+            "text": "On the table lies Mia the map. She shows a town from above, like a bird looking down.",
+            "image_prompt": "Flat pastel illustration of a friendly map character showing a small town from a top-down view, kid-friendly, simple shapes. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 2,
+            "text": "Tiny pictures fill the map. Roads, houses, and parks are drawn in clear shapes.",
+            "image_prompt": "Flat pastel illustration of simple map symbols: roads, houses, trees, park, clean and educational. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 3,
+            "text": "Mia does not show every detail. Maps keep things simple so places are easy to find.",
+            "image_prompt": "Flat pastel illustration comparing real town vs simple map version, gentle comparison. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 4,
+            "text": "A blue line means water. A green patch means a park. Symbols help us understand quickly.",
+            "image_prompt": "Flat pastel illustration highlighting map symbols with colors and icons, toddler-friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 5,
+            "text": "Mia helps people plan trips. She shows where places are and how to get there.",
+            "image_prompt": "Flat pastel illustration of family pointing at map planning a trip, warm and friendly. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 6,
+            "text": "Directions guide the way. Left, right, forward, and back help us move safely.",
+            "image_prompt": "Flat pastel illustration of arrows on a map showing directions, simple and clear. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 7,
+            "text": "Maps can be small or big. Some show one park, others show whole cities.",
+            "image_prompt": "Flat pastel illustration comparing small map and large map side by side, simple scale idea. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 8,
+            "text": "Emergency helpers use maps too. Maps help them reach people faster.",
+            "image_prompt": "Flat pastel illustration of ambulance and fire truck following a map route, calm and reassuring. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 9,
+            "text": "With Mia, places make sense. We learn where we are and where we want to go.",
+            "image_prompt": "Flat pastel illustration of child happily tracing route on map, confidence-building tone. 1:1 aspect ratio."
+          },
+          {
+            "page_number": 10,
+            "text": "At bedtime, we remember: maps show places, symbols, and paths that guide us.",
+            "image_prompt": "Flat pastel bedtime scene with map gently folded beside a child, cozy and calm. 1:1 aspect ratio."
+          }
+        ],
+        "quiz": [
+          {
+            "question_id": 1,
+            "question": "What does Mia show?",
+            "options": [
+              "A map",
+              "A mountain",
+              "The sky"
+            ],
+            "correct_answer": "A map",
+            "fact_feedback_correct": "Correct! Mia is a map.",
+            "fact_feedback_incorrect": "You missed the fact: Mia is a map."
+          },
+          {
+            "question_id": 2,
+            "question": "Maps show places from…",
+            "options": [
+              "Above",
+              "Inside the ground",
+              "Under water"
+            ],
+            "correct_answer": "Above",
+            "fact_feedback_correct": "Yes! Maps show places from above.",
+            "fact_feedback_incorrect": "You missed the fact: Maps show places from above."
+          },
+          {
+            "question_id": 3,
+            "question": "What helps maps stay easy to read?",
+            "options": [
+              "Simple shapes",
+              "Lots of tiny details",
+              "Hidden pictures"
+            ],
+            "correct_answer": "Simple shapes",
+            "fact_feedback_correct": "Correct! Maps use simple shapes to be clear.",
+            "fact_feedback_incorrect": "You missed the fact: Maps keep things simple."
+          },
+          {
+            "question_id": 4,
+            "question": "What do maps use to explain things?",
+            "options": [
+              "Symbols",
+              "Songs",
+              "Smells"
+            ],
+            "correct_answer": "Symbols",
+            "fact_feedback_correct": "Yes! Maps use symbols to show places.",
+            "fact_feedback_incorrect": "You missed the fact: Maps use symbols."
+          },
+          {
+            "question_id": 5,
+            "question": "What color often shows water on a map?",
+            "options": [
+              "Blue",
+              "Red",
+              "Brown"
+            ],
+            "correct_answer": "Blue",
+            "fact_feedback_correct": "Correct! Blue often shows water on maps.",
+            "fact_feedback_incorrect": "You missed the fact: Water is usually blue on maps."
+          },
+          {
+            "question_id": 6,
+            "question": "Maps help people…",
+            "options": [
+              "Find places",
+              "Grow wings",
+              "Change weather"
+            ],
+            "correct_answer": "Find places",
+            "fact_feedback_correct": "Yes! Maps help people find places.",
+            "fact_feedback_incorrect": "You missed the fact: Maps help find places."
+          },
+          {
+            "question_id": 7,
+            "question": "Directions tell us where to…",
+            "options": [
+              "Go",
+              "Sleep",
+              "Disappear"
+            ],
+            "correct_answer": "Go",
+            "fact_feedback_correct": "Correct! Directions help us know where to go.",
+            "fact_feedback_incorrect": "You missed the fact: Directions guide movement."
+          },
+          {
+            "question_id": 8,
+            "question": "Maps can show…",
+            "options": [
+              "Real places",
+              "Dreams",
+              "Stars only"
+            ],
+            "correct_answer": "Real places",
+            "fact_feedback_correct": "Yes! Maps show real places like towns and parks.",
+            "fact_feedback_incorrect": "You missed the fact: Maps show real places."
+          },
+          {
+            "question_id": 9,
+            "question": "Who uses maps to help others?",
+            "options": [
+              "Emergency helpers",
+              "Only artists",
+              "Only singers"
+            ],
+            "correct_answer": "Emergency helpers",
+            "fact_feedback_correct": "Correct! Helpers use maps to reach people faster.",
+            "fact_feedback_incorrect": "You missed the fact: Emergency helpers use maps."
+          },
+          {
+            "question_id": 10,
+            "question": "Maps help us understand…",
+            "options": [
+              "Where we are and where to go",
+              "How to fly",
+              "How to change time"
+            ],
+            "correct_answer": "Where we are and where to go",
+            "fact_feedback_correct": "Yes! Maps help us know where we are and where to go.",
+            "fact_feedback_incorrect": "You missed the fact: Maps guide us between places."
+          }
+        ]
+      }
+    ]
+  }
+}
