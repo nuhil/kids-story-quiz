@@ -1,0 +1,329 @@
+{
+  "color": {
+    "appBackground": "#FDF8F3",
+    "surface": "#FFFFFF",
+    "textPrimary": "#1C1A2E",
+    "textSecondary": "#6F6A87",
+    "coral": "#FF5E73",
+    "yellow": "#FFD75E",
+    "mint": "#76E3C1",
+    "oceanBlue": "#46B6FF",
+    "lavender": "#A8A3FF",
+    "splashDeepTeal": "#145868"
+  },
+  "gradients": {
+    "ocean": ["#28C6FF", "#1E77EA"],
+    "animals": ["#96D26D", "#3FAE52"],
+    "space": ["#6672FF", "#2A2D78"],
+    "science": ["#6DE5D1", "#22A59A"],
+    "math": ["#FFC96B", "#FF8A4C"],
+    "culture": ["#FFAF87", "#FF6B6B"],
+    "emotionsSocial": ["#FF9DBB", "#FF6F91"],
+    "history": ["#C9A67A", "#8D6E63"],
+    "geography": ["#7ED957", "#2F9E44"],
+    "technologyMachines": ["#7AA8FF", "#4A64D8"]
+  },
+  "typography": {
+    "hero": { "size": 30, "weight": "black", "design": "rounded" },
+    "title": { "size": 26, "weight": "bold", "design": "rounded" },
+    "subtitle": { "size": 18, "weight": "semibold", "design": "rounded" },
+    "body": { "size": 16, "weight": "medium", "design": "rounded" },
+    "bodyBold": { "size": 16, "weight": "bold", "design": "rounded" },
+    "storyReadingBody": { "size": 18, "weight": "medium", "design": "rounded" },
+    "statLabel": { "size": 16, "weight": "bold", "design": "rounded" },
+    "caption": { "size": 14, "weight": "medium", "design": "rounded" },
+    "captionBold": { "size": 14, "weight": "bold", "design": "rounded" },
+    "tiny": { "size": 12, "weight": "semibold", "design": "rounded" }
+  },
+  "spacing": {
+    "xxs": 4,
+    "xs": 8,
+    "sm": 12,
+    "md": 16,
+    "lg": 20,
+    "xl": 24,
+    "xxl": 32
+  },
+  "radius": {
+    "sm": 12,
+    "md": 16,
+    "lg": 22,
+    "pill": 999
+  },
+  "layout": {
+    "screenPadding": 16,
+    "horizontalMargin": 16,
+    "onboardingHeaderTopInset": 20,
+    "onboardingNamePreviewMinHeight": 64,
+    "onboardingNameTileSize": 34,
+    "onboardingLetterButtonHeight": 42,
+    "onboardingActionButtonHeight": 40,
+    "onboardingAgeWheelHeight": 116,
+    "controlHeight": 54,
+    "primaryButtonHeight": 56,
+    "artworkHeight": 220,
+    "avatarSize": 64,
+    "avatarInnerSize": 52,
+    "smallAvatarSize": 46,
+    "playButtonOuter": 58,
+    "playButtonInner": 44,
+    "playHudStatMinHeight": 90,
+    "playHudStatIconBadgeSize": 28,
+    "playHudStatIconSize": 12,
+    "statPillMinHeight": 92,
+    "statPillIconBadgeSize": 32,
+    "statPillIconSize": 15,
+    "homeJourneyStatMinHeight": 114,
+    "homeJourneyStatIconBadgeSize": 40,
+    "homeJourneyStatIconSize": 18,
+    "homeCategoryIconSize": 50,
+    "miniProgressRingSize": 40,
+    "homePointsBubbleSize": 40,
+    "homeCategoryBackdropTintOpacity": 1.0,
+    "homeCategoryBackdropHeight": 98,
+    "homeCategoryBackdropSymbolOpacity": 0.3,
+    "homeRightClusterSpacing": 8,
+    "homeRightClusterMinWidth": 88,
+    "progressRingSize": 88,
+    "progressRingLineWidth": 10,
+    "categoryCardMinHeight": 182,
+    "metricChipMinHeight": 30,
+    "storyInfoChipMinHeight": 40,
+    "storyInfoChipIconBadgeSize": 22,
+    "storyInfoChipIconSize": 11,
+    "storyInfoChipRowSpacing": 8,
+    "storyStatTileMinHeight": 82,
+    "storyStatIconBadgeSize": 30,
+    "storyStatIconSize": 14,
+    "storyBadgeRowMinHeight": 78,
+    "storyBadgePreviewSize": 58
+  },
+  "components": {
+    "splashScreen": {
+      "backgroundAsset": "SplashHero",
+      "assetSize": "1024x1536",
+      "imageContainsText": false,
+      "titleText": "StorySpark",
+      "subtitleText": "Read. Learn. Play.",
+      "subtitleColor": "splashDeepTeal",
+      "displayDurationSeconds": 2.55,
+      "textEntranceAnimation": "title-up + subtitle-down to center",
+      "overlayGradient": "black 6% to 20%",
+      "fallbackBackground": "warm gradient"
+    },
+    "screenBackground": {
+      "decorCircleA": { "color": "#FFE6D9", "opacity": 0.65, "size": 340 },
+      "decorCircleB": { "color": "#FFDCC4", "opacity": 0.4, "size": 300 }
+    },
+    "card": {
+      "padding": 16,
+      "cornerRadius": 22,
+      "borderColor": "rgba(0,0,0,0.05)",
+      "borderWidth": 1,
+      "shadowColor": "rgba(0,0,0,0.06)",
+      "shadowRadius": 10,
+      "shadowYOffset": 4
+    },
+    "fieldChrome": {
+      "height": 54,
+      "cornerRadius": 16,
+      "borderWidth": 1.2,
+      "borderOpacity": 0.45,
+      "shadowOpacity": 0.12,
+      "shadowRadius": 6,
+      "shadowYOffset": 3
+    },
+    "primaryCTA": {
+      "height": 56,
+      "background": "coral",
+      "textColor": "#FFFFFF",
+      "textWeight": "bold",
+      "pressedOpacity": 0.88,
+      "pressedScale": 0.98,
+      "hasBorder": true,
+      "hasTopHighlight": true,
+      "hasDepthShadow": true
+    },
+    "tonalCTA": {
+      "height": 56,
+      "defaultTint": "lavender",
+      "textWeight": "bold",
+      "pressedFillOpacity": 0.3,
+      "restFillOpacity": 0.38,
+      "borderWidth": 1.3,
+      "borderOpacity": 0.6,
+      "pressedScale": 0.98,
+      "hasTopHighlight": true,
+      "hasDepthShadow": true
+    },
+    "softTonalCTA": {
+      "height": 56,
+      "defaultTint": "lavender",
+      "textWeight": "bold",
+      "pressedFillOpacity": 0.28,
+      "restFillOpacity": 0.38,
+      "hasBorder": true,
+      "borderWidth": 1.15,
+      "borderOpacity": 0.56,
+      "hasTopHighlight": true,
+      "pressedScale": 0.98,
+      "hasDepthShadow": true
+    },
+    "secondaryPill": {
+      "height": 54,
+      "textWeight": "bold",
+      "selectedFill": "yellow",
+      "unselectedFill": "surface",
+      "unselectedBorderColor": "rgba(0,0,0,0.08)",
+      "unselectedBorderWidth": 1,
+      "pressedScale": 0.97,
+      "hasDepthShadow": true
+    },
+    "buttonContentRules": {
+      "labelCase": "titleCase",
+      "preferRelevantIcon": true
+    },
+    "storyInfoChip": {
+      "style": "fillOnly",
+      "hasBorder": false
+    },
+    "homeJourneyStats": {
+      "layout": "twoCards",
+      "style": "layeredGradient",
+      "hasDecorativeShapes": true,
+      "titlePosition": "topLeft",
+      "valuePosition": "centerLeft",
+      "subtitlePosition": "bottomLeft"
+    },
+    "storyDetailQuickStats": {
+      "requiredItems": ["Pages", "Points", "Badge"],
+      "statTilesHaveBorder": false,
+      "badgePreviewStyle": "geometricAbstract"
+    },
+    "homeCategoryBackdrop": {
+      "enabledTopics": ["ocean", "animals", "space", "science", "math", "culture", "emotionsSocial", "history", "geography", "technologyMachines"],
+      "visualStyle": "softIllustratedGeometric",
+      "applyInsideCard": true,
+      "sourceGenerationSize": "1536x1024",
+      "shippableSize": "1080x360",
+      "framing": "center-weighted-horizontal",
+      "overlayTextOnImage": false,
+      "layoutPattern": "two-zone-image-top-info-bottom"
+    },
+    "storyCoverArtwork": {
+      "useCase": "illustration-story",
+      "visualStyle": "flatVectorKidsCartoon",
+      "styleKeywords": [
+        "flat vector illustration",
+        "kids cartoon style",
+        "clean shapes",
+        "smooth gradients",
+        "bright playful colors",
+        "rounded forms",
+        "simple shading",
+        "modern 2D illustration"
+      ],
+      "negativeKeywords": [
+        "no text",
+        "no logos",
+        "no watermark",
+        "no photorealism",
+        "no texture",
+        "no sketch lines",
+        "no cluttered background"
+      ],
+      "composition": {
+        "orientation": "horizontal",
+        "heroPosition": "centerWeighted",
+        "heroFullyVisible": true,
+        "safeMarginsRequired": true,
+        "singlePrimarySubject": true
+      },
+      "pipeline": {
+        "generationSize": "1536x1024",
+        "quality": "medium",
+        "outputFormat": "jpeg",
+        "outputCompression": 82,
+        "downscaleMaxDim": 1080,
+        "downscaleSuffix": "_opt",
+        "finalShippableSize": "1080x720"
+      },
+      "assetNaming": {
+        "imagesetPattern": "StoryCover<CategoryTitleCase><TwoDigitIndex>.imageset",
+        "filePattern": "story_cover_<category_slug>_<two_digit_index>_opt.jpeg"
+      },
+      "titleMatchNormalization": [
+        "trimWhitespace",
+        "lowercase",
+        "diacriticInsensitive",
+        "normalizeUnicodeHyphenToAsciiHyphen"
+      ]
+    },
+    "storyReader": {
+      "mode": "readOnly",
+      "showFunFactInline": false
+    },
+    "onboarding": {
+      "titleAlignment": "center",
+      "hasTopArtwork": false,
+      "nameInputMode": "alphabetTapBuilder",
+      "namePreviewUsesColorTiles": true,
+      "ageInputMode": "wheelPicker",
+      "startButtonLabel": "Start Exploring",
+      "startButtonIcon": "sparkles"
+    },
+    "playZone": {
+      "gameType": "colorBubblePop",
+      "hudStatStyle": "compactLayeredGradient",
+      "roundDurationSeconds": 60,
+      "bubbleCount": 10,
+      "movementIntervalSeconds": 2.1,
+      "movementMode": "gentleDeltaDrift",
+      "movementDeltaXMax": 0.05,
+      "movementDeltaYMax": 0.045,
+      "bubbleSizeMin": 54,
+      "bubbleSizeMax": 86,
+      "bubbleVisualStyle": "soft3DGlossyNoCenterIcon",
+      "missPenaltyPoints": 2,
+      "targetToneSource": "visibleBubblesOnly",
+      "targetSwitchOnCorrectHit": true,
+      "haptics": {
+        "enabled": true,
+        "onTap": "lightImpact",
+        "onCorrect": "successNotification",
+        "onMiss": "warningNotification",
+        "onPauseResume": "softImpact",
+        "onRoundComplete": "successNotification"
+      },
+      "primaryActions": ["Start", "Pause", "Play Again", "New Round"]
+    },
+    "quiz": {
+      "showQuestionCounterText": false,
+      "feedbackPresentation": "modalPopup",
+      "nextQuestionShowsIcon": true,
+      "feedbackDelayMs": 1000,
+      "checkShowsLoadingState": true,
+      "checkLoadingLabel": "Loading Facts..."
+    },
+    "tabBar": {
+      "items": [
+        { "tab": "home", "label": "Journey", "icon": "map.circle.fill" },
+        { "tab": "explore", "label": "Explore", "icon": "book.pages.fill" },
+        { "tab": "playZone", "label": "Play Zone", "icon": "gamecontroller.fill" },
+        { "tab": "achievements", "label": "Achievements", "icon": "trophy.fill" }
+      ]
+    }
+  },
+  "progressRules": {
+    "masteryThreshold": 0.8,
+    "performanceTiers": [
+      { "minWeightedAccuracy": 0.86, "label": "Master Explorer" },
+      { "minWeightedAccuracy": 0.72, "label": "Super Learner" },
+      { "minWeightedAccuracy": 0.55, "label": "Rising Star" },
+      { "minWeightedAccuracy": 0.0, "label": "Brave Beginner" }
+    ]
+  },
+  "defaults": {
+    "kidAge": 5
+  }
+}

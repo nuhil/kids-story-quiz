@@ -1,0 +1,255 @@
+# Kids Story Quiz Design System
+
+## 1. Brand Intent
+- Audience: kids ages 6-12.
+- Tone: playful, safe, optimistic, educational.
+- Visual language: soft flat geometry, rounded corners, bright friendly accents.
+
+## 2. Color Tokens
+- `appBackground`: `#FDF8F3`
+- `surface`: `#FFFFFF`
+- `textPrimary`: `#1C1A2E`
+- `textSecondary`: `#6F6A87`
+- `coral` (primary CTA): `#FF5E73`
+- `yellow` (reward/highlight): `#FFD75E`
+- `mint` (success/badge): `#76E3C1`
+- `oceanBlue`: `#46B6FF`
+- `lavender`: `#A8A3FF`
+- `splashDeepTeal`: `#145868`
+
+## 3. Topic Gradients
+- Ocean: `#28C6FF` -> `#1E77EA`
+- Animals: `#96D26D` -> `#3FAE52`
+- Space: `#6672FF` -> `#2A2D78`
+- Science: `#6DE5D1` -> `#22A59A`
+- Math: `#FFC96B` -> `#FF8A4C`
+- Culture: `#FFAF87` -> `#FF6B6B`
+- Emotions: `#FF9DBB` -> `#FF6F91`
+- History: `#C9A67A` -> `#8D6E63`
+- Geography: `#7ED957` -> `#2F9E44`
+- Technology: `#7AA8FF` -> `#4A64D8`
+
+## 4. Typography
+- Family: iOS rounded system (`.rounded`).
+- `hero`: 30 / black
+- `title`: 26 / bold
+- `subtitle`: 18 / semibold
+- `body`: 16 / medium
+- `bodyBold`: 16 / bold
+- `storyReadingBody`: 18 / medium
+- `statLabel`: 16 / bold
+- `caption`: 14 / medium
+- `captionBold`: 14 / bold
+- `tiny`: 12 / semibold
+
+## 5. Spacing and Radius
+- Spacing scale: `4, 8, 12, 16, 20, 24, 32`
+- Radius scale: `12, 16, 22`
+- Pill radius: `999`
+
+## 6. Core Layout Tokens
+- `screenPadding`: `16`
+- `horizontalMargin`: `16`
+- `onboardingHeaderTopInset`: `20`
+- `onboardingNamePreviewMinHeight`: `64`
+- `onboardingNameTileSize`: `34`
+- `onboardingLetterButtonHeight`: `42`
+- `onboardingActionButtonHeight`: `40`
+- `onboardingAgeWheelHeight`: `116`
+- `controlHeight`: `54`
+- `primaryButtonHeight`: `56`
+- `artworkHeight`: `220`
+- `avatarSize`: `64`
+- `avatarInnerSize`: `52`
+- `smallAvatarSize`: `46`
+- `playButtonOuter`: `58`
+- `playButtonInner`: `44`
+- `playHudStatMinHeight`: `90`
+- `playHudStatIconBadgeSize`: `28`
+- `playHudStatIconSize`: `12`
+- `statPillMinHeight`: `92`
+- `statPillIconBadgeSize`: `32`
+- `statPillIconSize`: `15`
+- `homeJourneyStatMinHeight`: `114`
+- `homeJourneyStatIconBadgeSize`: `40`
+- `homeJourneyStatIconSize`: `18`
+- `homeCategoryIconSize`: `50`
+- `miniProgressRingSize`: `40`
+- `homePointsBubbleSize`: `40`
+- `homeCategoryBackdropTintOpacity`: `1.0`
+- `homeCategoryBackdropHeight`: `98`
+- `homeCategoryBackdropSymbolOpacity`: `0.3`
+- `homeRightClusterSpacing`: `8`
+- `homeRightClusterMinWidth`: `88`
+- `progressRingSize`: `88`
+- `progressRingLineWidth`: `10`
+- `categoryCardMinHeight`: `182`
+- `metricChipMinHeight`: `30`
+- `storyInfoChipMinHeight`: `40`
+- `storyInfoChipIconBadgeSize`: `22`
+- `storyInfoChipIconSize`: `11`
+- `storyInfoChipRowSpacing`: `8`
+- `storyStatTileMinHeight`: `82`
+- `storyStatIconBadgeSize`: `30`
+- `storyStatIconSize`: `14`
+- `storyBadgeRowMinHeight`: `78`
+- `storyBadgePreviewSize`: `58`
+
+## 7. Surface and Container Rules
+- Screen background uses `appBackground` with two soft decorative circles (`#FFE6D9` at 65% and `#FFDCC4` at 40%).
+- `cardStyle` containers:
+- Full width alignment.
+- Internal padding `16`.
+- Corner radius `22`.
+- Thin neutral border (`black 5%`, width `1`).
+- Soft drop shadow (`black 6%`, radius `10`, y `4`).
+- `playfulFieldChrome` inputs/search:
+- Height `54`.
+- Corner radius `16`.
+- Accent border (`accent 45%`, width `1.2`).
+- Soft accent shadow (`accent 12%`, radius `6`, y `3`).
+
+## 8. Button and Pill Rules
+- Global button content:
+- Button labels should use Title Case.
+- Include a relevant SF Symbol icon for major actions when space allows.
+- Primary CTA (`PrimaryCTAButtonStyle`):
+- Coral gradient fill, white bold text, pill shape.
+- Height `56`.
+- Subtle border + top highlight + soft depth shadow.
+- Press state: opacity `0.88`, scale `0.98`.
+- Tonal CTA (`TonalCTAButtonStyle`):
+- Tinted gradient fill (default lavender), outlined pill, dark bold text.
+- Height `56`.
+- Border width `1.3`.
+- Top highlight + soft depth shadow.
+- Press state: darker tint + scale `0.98`.
+- Soft Tonal CTA (`SoftTonalCTAButtonStyle`):
+- Tinted gradient fill + subtle border, dark bold text.
+- Height `56`.
+- Used for secondary actions like `Previous` and `New Round`.
+- Top highlight + soft dual depth shadows (same subtle 3D family as primary CTA).
+- Press state: darker tint + scale `0.98`.
+- Secondary pill (`SecondaryPillStyle`):
+- Height `54`.
+- Selected: yellow gradient fill with subtle highlight border.
+- Unselected: white fill with neutral border (`black 8%`, width `1`).
+- Bold label text with subtle depth shadow.
+- Press state: scale `0.97`.
+
+## 9. Chips and Stats
+- Explore metadata chips (`Pages`, `Questions` on cards):
+- Two equal chips in one row.
+- Fill-only style with no border stroke.
+- Icon badge + compact label.
+- Home stat pills (`Points`, `Badges`):
+- Journey screen uses richer stat cards:
+- Layered gradient surfaces with subtle decorative shapes.
+- Icon badge + title at top-left, large value in center-left, helper subtitle at bottom-left.
+- Soft border and depth shadows to match the modern playful style.
+- Play Zone stats (`Score`, `Best`, `Time`):
+- Use the same layered stat-card pattern as Journey but in a compact HUD size.
+- Keep icon badge + title on top and strong value below for quick readability mid-game.
+- Keep subtle highlight border and soft dual shadow for depth consistency.
+- Journey category cards:
+- All 10 categories use soft illustrated geometric backdrop art inside the card body.
+- Use two-zone composition:
+- Top zone is image-only (clean, no text/icons overlay on the artwork).
+- Bottom zone is info-only (category icon, title, subtitle, points, progress).
+- Background export spec for Home/Journey cards:
+- Generate source at `1536x1024`, then center-crop and ship at `1080x360` to reduce app size.
+- Keep key characters/elements centered for horizontal card visibility.
+- Story cover artwork generation style:
+- Use one consistent visual direction for all story covers:
+- Flat vector illustration, kids cartoon style, clean shapes, smooth gradients, rounded forms, simple shading.
+- Keep colors bright and playful with clear subject contrast.
+- Keep one primary hero subject centered and fully visible.
+- Keep safe margins so hero is not clipped in card layouts.
+- Avoid noisy scenes and avoid multiple competing focal subjects.
+- Hard avoid list:
+- No text, no logos, no watermark, no photorealism, no texture, no sketch lines.
+- Story cover generation/output pipeline:
+- Generate at `1536x1024` (horizontal).
+- Use medium quality for balance of style and speed.
+- Export as JPEG with compression around `82`.
+- Downscale with max dimension `1080`.
+- Ship final files at `1080x720`.
+- Story cover asset naming:
+- Imageset: `StoryCover<CategoryTitleCase><TwoDigitIndex>.imageset`
+- File: `story_cover_<category_slug>_<two_digit_index>_opt.jpeg`
+- Story title matching normalization (for resolver safety):
+- Trim whitespace.
+- Lowercase.
+- Diacritic-insensitive compare.
+- Normalize unicode hyphen variants to ASCII `-`.
+- Story detail quick stats:
+- Compact top row with `Pages` and `Points` stat tiles.
+- No border stroke on these tiles.
+- Badge row includes title + geometric abstract badge preview placeholder.
+- Story reader:
+- Read-only mode (no read/listen toggle).
+- Main page body uses larger reading text (`storyReadingBody`).
+- Onboarding (`Let's meet our explorer`):
+- Remove top artwork on this screen.
+- Center-align title and subtitle with a gentle top inset.
+- Name entry uses colorful tap-to-build alphabet tiles.
+- Age entry uses wheel picker + compact age badge.
+- Primary CTA label/icon: `Start Exploring` + `sparkles`.
+- Quiz reader:
+- Keep top capsule progress indicators only.
+- Do not show `Question x of y` text.
+- After tapping `Check`, show explanation in a modal popup card (not inline below options).
+- Delay popup by ~1 second after `Check` so kids can briefly see selected/correct option states.
+- During that delay, `Check` should show a small loading spinner + `Loading Facts...` label.
+- `Next Question` action should include a right-arrow icon.
+- Play Zone game tuning:
+- Slower drift cadence for easier tracking (`2.1s` movement interval).
+- Gentle drift uses small delta movement, not full-position jumps.
+- Round duration `60s`.
+- Bubble count `10` with larger bubble sizes (`54`-`86`) for easier tapping.
+- Bubble visual uses soft 3D glossy circles with highlight and shadow (no center icon).
+- Miss penalty is gentle (`-2`) to reduce frustration.
+- Target tone must always be selected from currently visible bubbles.
+- Haptic feedback:
+- Light impact on bubble tap.
+- Success feedback on correct hits.
+- Warning feedback on miss.
+- Soft impact on start/pause/resume.
+- Success feedback on round completion.
+
+## 10. Screen Patterns
+- Tab bar:
+- `Journey` (home progress overview) with `map.circle.fill`.
+- `Explore` with `book.pages.fill`.
+- `Play Zone` (kid game zone) with `gamecontroller.fill`.
+- `Achievements` (profile + badges + switch explorer) with `trophy.fill`, right-most.
+- Splash:
+- Uses generated portrait background image (`SplashHero`, `1024x1536`) with a soft dark overlay for readability.
+- Splash artwork should not include baked-in text; title/subtitle are overlaid in UI.
+- Title/subtitle remain centered with rounded bold typography.
+- Subtitle copy: `Read. Learn. Play.`
+- Subtitle color: `splashDeepTeal` (sampled from lower splash artwork tones).
+- Display timing: splash stays for ~`2.55s` before transitioning.
+- Title and subtitle animate toward center on appear for a soft entrance effect.
+- Explore: header + search + topic pills + story cards.
+- Story detail: hero artwork + quick stats (`Pages`, `Points`, `Badge`) + `Start Story` CTA.
+- Story reader: page progress + read-only story text + previous/next controls.
+- Quiz: capsule progress + options + popup feedback + score/reward.
+- Home: category list with icon, subtitle, points circle, and progress circle.
+- Play Zone: full-screen color bubble game with target color, score/streak/level HUD, timer, and start/pause/new-round controls.
+- Play Zone: bubbles drift, pop animation on tap, and round-end overlay.
+- Achievements: profile card + spark card + stats + badge collection + switch explorer action.
+
+## 11. Consistency Rules
+- Use `screenContentPadding()` for page horizontal spacing.
+- Keep left/right margins consistent using `horizontalMargin` (`16`).
+- Keep primary interactive controls at height `54` or `56`.
+- Reuse DS tokens before adding hardcoded values.
+
+## 12. Progress and Profile Defaults
+- Category completion: `started stories / total stories`.
+- Weighted accuracy: `correct answers / answered questions` across attempts.
+- Mastered story threshold: `>= 80%` best accuracy.
+- Performance tiers: Ready to Explore, Master Explorer, Super Learner, Rising Star, Brave Beginner.
+- First-run flow: splash -> profile form -> app tabs.
+- Profile defaults: name required, age default `5`.
