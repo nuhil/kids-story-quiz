@@ -39,17 +39,14 @@ The production site is the `dist/` folder. No backend, runtime dependencies, ext
 - Offline: `sw.js` caches the app files (network first, so updates appear immediately) and every image once shown. Bump `VERSION` in `sw.js` after replacing an image under the same file name. Data stays on the current browser/device; clearing browser data removes it. Changing from localhost to a hosted domain starts a separate progress collection.
 - Each correct answer earns 10 points. An 80% quiz score earns a badge and game pass. A pass or 120 points unlocks one game for 24 hours. Replaying quizzes earns rewards, matching the iOS behavior.
 
-## GitHub Pages — prepared, not published
+## Deployment (GitHub Pages)
 
-`.github/workflows/pages.yml` is **manual only** so pushes do not publish the app while local testing is underway.
+Live at **https://storyspark.marwaan.net**.
 
-When ready:
-
-1. In repository Settings → Pages, select **GitHub Actions** as the source.
-2. In Actions → **Deploy to GitHub Pages**, choose **Run workflow** on `main`.
-3. The workflow runs tests, builds `dist/`, and deploys it.
-
-Relative asset URLs and hash routes support both `https://nuhil.github.io/kids-story-quiz/` and a future custom domain without a routing server. Add the custom domain in Pages settings later; no domain is configured now. GitHub's workflow reference: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+- `.github/workflows/pages.yml` runs on every push to `main` (and can be started manually from Actions → **Deploy to GitHub Pages**). It runs the tests, builds `dist/`, and deploys it.
+- Pages source is **GitHub Actions**; the custom domain `storyspark.marwaan.net` is set in repository Settings → Pages. DNS: a `CNAME` record for `storyspark` on `marwaan.net` pointing to `nuhil.github.io`.
+- Relative asset URLs and hash routes mean the site also works at a project path without a routing server.
+- Progress is stored per domain in each browser, so visits to the live domain start separate from local testing. Save codes move progress between them.
 
 ## Source organization
 
