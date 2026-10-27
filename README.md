@@ -36,6 +36,7 @@ The production site is the `dist/` folder. No backend, runtime dependencies, ext
 - A quiz in progress resumes after a refresh; leaving the quiz screen after answering asks first. Explore remembers its search text and scroll position.
 - Read To Me: recorded narration (ElevenLabs voice "Leela", calm settings) with word-by-word highlighting. Falls back to the browser's speech voice when a page has no matching recording.
 - Play Zone shows time left on unlocked games and best scores for every game. Tic-Tac-Toe has Easy Robot, Clever Robot and Two Players modes.
+- Game sound effects (generated with the ElevenLabs Sound Effects API by `scripts/sfx.mjs`, stored in `public/sfx/`) with an on/off button in every game. Run `node scripts/sfx.mjs pop` to regenerate one sound; descriptions live at the top of the script.
 - Offline: `sw.js` caches the app files (network first, so updates appear immediately) and every image once shown. Bump `VERSION` in `sw.js` after replacing an image under the same file name. Data stays on the current browser/device; clearing browser data removes it. Changing from localhost to a hosted domain starts a separate progress collection.
 - Each correct answer earns 10 points. An 80% quiz score earns a badge and game pass. A pass or 120 points unlocks one game for 24 hours. Replaying quizzes earns rewards, matching the iOS behavior.
 

@@ -86,8 +86,9 @@ test('finished stories offer Read Again and leave Keep The Story Going',async()=
 const cards=[...doc.querySelectorAll('section .stack .story')];assert.equal(cards.length,1);assert.equal(cards[0].getAttribute('href'),'#/read/ocean_02/3');
 await at(w,'/story/ocean_01');const read=[...doc.querySelectorAll('a.cta')].find(a=>/Read Again/.test(a.textContent));assert.equal(read.getAttribute('href'),'#/read/ocean_01/0');
 }finally{close();}});
-test('snake pause is only available once the game starts',async()=>{const {w,doc,close}=await boot({profile,unlocks:{snake:Date.now()+1e6}});try{
-await at(w,'/game/snake');const pause=()=>doc.querySelector('[data-action="pause"]');assert(pause().disabled);doc.querySelector('[data-dir="-12"]').click();assert(!pause().disabled);pause().click();assert.equal(pause().textContent,'Resume');doc.querySelector('[data-dir="1"]').click();assert.equal(pause().textContent,'Pause','steering resumes');
+test('snake pause is only available once the game starts, and speed is chosen by the kid',async()=>{const {w,doc,close}=await boot({profile,unlocks:{snake:Date.now()+1e6}});try{
+await at(w,'/game/snake');const pause=()=>doc.querySelector('[data-action="pause"]');assert(pause().disabled);assert.equal(doc.querySelector('#speed').value,'1','slowest by default');doc.querySelector('[data-dir="-12"]').click();assert(!pause().disabled);pause().click();assert.equal(pause().getAttribute('aria-label'),'Resume');doc.querySelector('[data-dir="1"]').click();assert.equal(pause().getAttribute('aria-label'),'Pause','steering resumes');
+const speed=doc.querySelector('#speed');speed.value='4';speed.dispatchEvent(new w.Event('input'));assert.equal(w.localStorage.getItem('storyspark.snakeSpeed'),'4');await at(w,'/play');await at(w,'/game/snake');assert.equal(doc.querySelector('#speed').value,'4','remembered');
 }finally{close();}});
 test('explore keeps the search text when coming back',async()=>{const {w,doc,close}=await boot({profile});try{
 await at(w,'/explore');const search=doc.querySelector('#search');search.value='Whaley';search.dispatchEvent(new w.Event('input'));await at(w,'/story/ocean_01');await at(w,'/explore');assert.equal(doc.querySelector('#search').value,'Whaley');assert.equal(doc.querySelectorAll('.story').length,1);
@@ -108,10 +109,10 @@ doc.querySelector('.back').click();clickModal(doc,'Leave Quiz');await tick();ass
 test('play zone shows time left and best scores; games record new bests',async()=>{const {w,doc,close}=await boot({profile,unlocks:{memory:Date.now()+(5*60+12)*60000-30000},best:{bubbles:90}});try{
 await at(w,'/play');assert.match(doc.body.textContent,/Unlocked · 5h 12m left/);assert.match(doc.body.textContent,/Best score: 90/);
 await at(w,'/game/memory');const tiles=[...doc.querySelectorAll('[data-card]')];const faces={};
-for(const t of tiles){t.click();const i=Number(t.dataset.card);faces[i]=doc.querySelector(`[data-card="${i}"]`).getAttribute('aria-label');await new Promise(r=>setTimeout(r,900));}
+for(const t of tiles){t.click();const i=Number(t.dataset.card);faces[i]=doc.querySelector(`[data-card="${i}"]`).getAttribute('aria-label');await new Promise(r=>setTimeout(r,1000));}
 const byFace={};Object.entries(faces).forEach(([i,f])=>(byFace[f]??=[]).push(Number(i)));
 for(const [a,b] of Object.values(byFace)){if(doc.querySelector(`[data-card="${a}"]`).disabled)continue;doc.querySelector(`[data-card="${a}"]`).click();doc.querySelector(`[data-card="${b}"]`).click();}
-assert.match(doc.querySelector('#game-status').textContent,/new best/);const best=active(w).best.memory;assert(best>=6&&best<=12);
+await new Promise(r=>setTimeout(r,450));assert.match(doc.querySelector('.game-card-over').textContent,/All Pairs Found!.*New best/s);const best=active(w).best.memory;assert.equal(doc.querySelector('#pairs').textContent,'6/6');assert(best>=6&&best<=12);
 await at(w,'/play');assert.match(doc.body.textContent,new RegExp(`Fewest turns: ${best}`));
 }finally{close();}});
 test('tic-tac-toe robot answers, blocks when clever, and modes switch',async()=>{const {w,doc,close}=await boot({profile,unlocks:{tictactoe:Date.now()+1e6}});try{
@@ -160,4 +161,31 @@ await at(w,'/read/ocean_01/3');assert(!audio.playing,'stops when the page change
 }finally{close();}});
 test('narration falls back to the browser voice when the recording no longer matches the text',async()=>{const n=narrationSetup({speech:true,text:'Some older wording.'});const {w,doc,close}=await boot({profile},'#/read/ocean_01/2',n.setup);try{
 await tick();doc.querySelector('#read-aloud').click();assert.equal(n.played.length,1);assert.match(n.played[0],/^speech:/);
+}finally{close();}});
+const allUnlocked=()=>Object.fromEntries(['bubbles','snake','blocks','tictactoe','memory'].map(id=>[id,Date.now()+1e6]));
+test('bubble pop waits for start, scores only the target color, and always has a target',async()=>{const {w,doc,close}=await boot({profile,unlocks:allUnlocked()},'#/game/bubbles');try{
+await new Promise(r=>setTimeout(r,1200));assert.equal(doc.querySelector('#time').textContent,'30','clock waits for Start');assert(doc.querySelector('.game-card-over'));
+doc.querySelector('[data-start]').click();const target=doc.querySelector('#target b').textContent;const bubble=()=>[...doc.querySelectorAll('[data-bubble]')];
+const wrong=bubble().find(b=>!b.getAttribute('aria-label').startsWith(target));if(wrong){wrong.click();assert.equal(doc.querySelector('#score').textContent,'0');}
+bubble().find(b=>b.getAttribute('aria-label').startsWith(target)).click();assert.equal(doc.querySelector('#score').textContent,'10');await new Promise(r=>setTimeout(r,300));
+const now=doc.querySelector('#target b').textContent;assert(bubble().some(b=>b.getAttribute('aria-label').startsWith(now)),'a bubble of the target color is always on the board');
+doc.querySelector('[data-action="pause"]').click();assert(doc.querySelector('#board').classList.contains('paused'));
+}finally{close();}});
+test('snake shows a round-over card after bumping the wall',async()=>{const {w,doc,close}=await boot({profile,unlocks:allUnlocked()},'#/game/snake',w=>w.localStorage.setItem('storyspark.snakeSpeed','5'));try{
+doc.querySelector('[data-start]').click();assert(!doc.querySelector('.game-card-over'));await new Promise(r=>setTimeout(r,2200));
+assert.match(doc.querySelector('.game-card-over').textContent,/Bonk! Round Over/);assert(doc.querySelector('[data-action="pause"]').disabled);assert(doc.querySelector('.game-card-over [data-action="restart:snake"]'));
+}finally{close();}});
+test('block stack drops on a tap and trims the block',async()=>{const {w,doc,close}=await boot({profile,unlocks:allUnlocked()},'#/game/blocks');try{
+assert(doc.querySelector('[data-action="drop"]').disabled,'drop waits for Start');doc.querySelector('[data-start]').click();doc.querySelector('#board').click();
+assert.equal(doc.querySelector('#height').textContent,'1');assert.equal(doc.querySelectorAll('#board .block:not(.chop)').length,3,'base, placed block and the next moving block');
+}finally{close();}});
+test('tic-tac-toe highlights the winning line and keeps score per mode',async()=>{const {w,doc,close}=await boot({profile,unlocks:allUnlocked()},'#/game/tictactoe');try{
+doc.querySelector('[data-mode="friends"]').click();for(const i of [0,3,1,4,2])doc.querySelector(`[data-cell="${i}"]`).click();
+assert.match(doc.querySelector('#game-status').textContent,/✕ wins/);assert.deepEqual([...doc.querySelectorAll('.tile.win')].map(b=>b.dataset.cell),['0','1','2']);assert.equal(doc.querySelector('#score-x').textContent,'1');
+doc.querySelector('.game-buttons [data-action="restart:tictactoe"]').click();assert.equal(doc.querySelector('#score-x').textContent,'1','score kept between rounds');
+doc.querySelector('[data-mode="easy"]').click();assert.equal(doc.querySelector('#score-x').textContent,'0','new mode, new score');
+}finally{close();}});
+test('sound effects can be switched off and the choice is remembered',async()=>{const {w,doc,close}=await boot({profile,unlocks:allUnlocked()},'#/game/memory');try{
+const btn=()=>doc.querySelector('[data-action="sound"]');assert.equal(btn().textContent,'🔊');btn().click();assert.equal(btn().textContent,'🔇');assert.equal(w.localStorage.getItem('storyspark.sound'),'off');
+await at(w,'/game/snake');assert.equal(btn().textContent,'🔇');
 }finally{close();}});
