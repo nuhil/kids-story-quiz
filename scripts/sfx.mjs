@@ -24,6 +24,7 @@ export const SOUNDS={
   win:[2.0,'short cheerful victory jingle on xylophone and bells, celebration'],
   draw:[1.0,'friendly neutral two-note chime, it is a tie'],
   lose:[1.5,'gentle descending wah wah on a soft toy trombone, playful not sad'],
+  edge:[0.5,'soft short wooden tock of a sliding toy block bouncing off a wall, very gentle'],
 };
 
 const key=(await readFile(homedir()+'/.config/storyspark/elevenlabs.key','utf8')).trim();
